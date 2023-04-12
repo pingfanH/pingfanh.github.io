@@ -1,0 +1,33 @@
+/***微信鼠标悬停效果***/
+.w {
+    padding:0
+    }
+    .w .x {
+    margin:30px 0 10px
+    }
+    .w .x .fa {
+    position:relative;
+    margin:0 5px;
+    font-size:30px
+    }
+    .w .x .fa .s {
+    position:absolute;
+    display:none;
+    margin-left:-50px;
+    left:50%;
+    bottom:130%;
+    width:100px;
+    height:100px;
+    background-color:#fff;
+    box-shadow:0 2px 4px rgba(0,0,0,.5)
+    }
+    
+    .w .x .fa .s img {
+    width:100%
+    }
+    .w .x .fa:hover .s {
+    display:block
+    }
+    #bottom-bar .wf-td p fa fa-weixin{
+    display: none;
+    }
