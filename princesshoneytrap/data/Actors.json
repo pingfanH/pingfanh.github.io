@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":4,"characterName":"Actor1","classId":1,"equips":[5,0,0,10,11],"faceIndex":0,"faceName":"","traits":[],"initialLevel":50,"maxLevel":50,"name":"ユウ","nickname":"","note":"","profile":"特殊な力を持つ勇者。\n魔力を剣にのせて戦うことができる。"},
+{"id":2,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":5,"equips":[1,0,0,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":15,"maxLevel":99,"name":"悠真","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"sophia","classId":4,"equips":[6,0,12,13,14],"faceIndex":0,"faceName":"","traits":[],"initialLevel":40,"maxLevel":50,"name":"ソフィア","nickname":"","note":"","profile":"白魔法の天才だが、\n内気な性格で少しおどおどしている。"},
+{"id":4,"battlerName":"Actor1_1","characterIndex":4,"characterName":"Actor1","classId":1,"equips":[5,0,0,10,11],"faceIndex":0,"faceName":"","traits":[],"initialLevel":50,"maxLevel":50,"name":"貴方","nickname":"","note":"","profile":"特殊な力を持つ勇者。\n魔力を剣にのせて戦うことができる。"}
+]
