@@ -1,0 +1,4 @@
+{
+	"States":[{"Type":"AnimClip","Name":"Loop","Loop":true,"Animation":{"lastKnownPath":"sc3d/pjt_natureborn_healnote_rig","uuid":"ec79f249-c1d9-4101-819d-2d15bd961e80"},"EndFrame":16}],
+	"DefaultState":"Loop"
+}

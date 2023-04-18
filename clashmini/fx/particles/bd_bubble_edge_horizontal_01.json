@@ -1,0 +1,28 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":500,
+		"lifetime":0.4,
+		"lifetimeJitter":0.3,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","infinite":true,"duration":1,"spawnRate":5},
+			{"__class":"Ground"},
+			{"__class":"SpawnPlanar","spawnMinSize":0.4166667,"spawnMaxSize":-0.4166667,"minAngle":90,"maxAngle":90}
+		]
+	},
+	"render":{
+		"globalScale":0.0033333334,
+		"scale":[0.013020843,1.7083334,0.8385417,1.7057292,0.3,1],
+		"scaleJitter":[0.1015625,0.9427084,0.3932292,0.8619792,0,1],
+		"color":[1,1,1],
+		"alpha":1,
+		"loopMovieClip":true,
+		"alphaFadeout":0.1,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/bd_water_drop_03 | 49e9c85e-72b4-4cc1-b3de-5a224c47b52c"]
+}

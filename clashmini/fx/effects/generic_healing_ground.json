@@ -1,0 +1,11 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/generic_heal_particles_long02 | 21fb952f-aa8b-46ea-aaa6-67c0fe246c66","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"c_p_battlehealer_skill"},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/generic_healing_ground01 | 21fb952f-acc5-464c-8c53-4abae1019e41","Offset":{},"ComponentScale":0.9},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/generic_healingground_glow | 21fb952f-b09b-4470-b05f-b129d9c8643c","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/generic_heal_lights02 | 21fb952f-1967-4ed9-9938-c5118efe0e7a","Offset":{},"ComponentScale":1.1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/generic_heal_arura4 | 21fb952f-d374-4bd3-9388-50654add3d4d","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/generic_heal_circleparti01 | 21fb952f-2d15-43cd-8d26-9c0b0292f2cc","Offset":{},"ComponentScale":1}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":0.99,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.011666667,
+		"scale":[0,0.6380209,0.22135419,1.0651042,0,1.1],
+		"color":[1,1,1],
+		"alpha":1,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/prince_hit_ringglow | 49e9c85e-e2bc-4ded-9575-66b751ebc750"]
+}

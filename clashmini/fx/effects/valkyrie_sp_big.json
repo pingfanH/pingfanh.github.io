@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":3,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/bd_valkyrie_sp01 | 49e9c85e-5f48-4b0c-80ef-489446364982",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Spine1",
+			"Offset":{"z":0.33333334},
+			"ComponentScale":2
+		}
+	]
+}

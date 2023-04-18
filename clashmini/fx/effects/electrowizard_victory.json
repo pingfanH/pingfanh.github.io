@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/electrowizard_def_victory_onhand | 21fb952f-fade-495a-9a2a-681df8e06a2d","FollowPosition":true,"FollowBone":"Hand_L","Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/electrowizard_def_victory_onhand | 21fb952f-fade-495a-9a2a-681df8e06a2d","FollowPosition":true,"FollowBone":"Hand_R","Offset":{},"ComponentScale":1,"Loop":true}
+	]
+}

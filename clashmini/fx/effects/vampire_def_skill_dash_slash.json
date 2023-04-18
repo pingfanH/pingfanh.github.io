@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":6,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/sc_vampire_slash | 49e9c85e-a782-4ad1-92fa-15c30018a89a",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Root",
+			"Offset":{"z":1},
+			"ComponentScale":0.7
+		},
+		{"Type":"screen_shake","ShakeTime":0.1,"ShakeMaxIntensity":0.010000001}
+	]
+}

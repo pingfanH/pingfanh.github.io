@@ -1,0 +1,4 @@
+{
+	"States":[{"Type":"AnimClip","Name":"loop","Loop":true,"Animation":{"lastKnownPath":"sc3d/board_fishtown_rig","uuid":"ec79f249-05f3-4805-8547-ea29a64bec98"}}],
+	"DefaultState":"loop"
+}

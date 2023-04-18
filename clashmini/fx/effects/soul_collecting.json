@@ -1,0 +1,14 @@
+{
+	"Components":[
+		{
+			"Type":"sub_effect",
+			"SubEffect":"fx/effects/skeletonking_soul_spirit | 9047f5ea-d7cf-42b7-b7f5-6f1915454bd4",
+			"Offset":{},
+			"ComponentScale":1,
+			"MoveType":1,
+			"MoveTime":0.6,
+			"MoveBezierX":[0,-1.59375,0.9140625,-2.13125,0,1],
+			"MoveBezierY":[0,-1.496875,0.875,-1.346875,0,1]
+		}
+	]
+}

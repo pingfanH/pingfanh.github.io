@@ -1,0 +1,56 @@
+{
+	"Components":[
+		{
+			"Type":"model",
+			"ModelMesh":"sc3d/fx_dragonmaster_skill_loop | ec79f249-50f2-48d0-90ad-98f40739380c",
+			"ModelAlpha":1,
+			"ModelAlphaFadeInTime":0.05,
+			"ModelAlphaFadeOutTime":0.2,
+			"ModelAlphaFadeDir":true,
+			"ModelFresnelColor":{"a":1},
+			"ModelFresnelFadeOutTime":0.5,
+			"HideShadow":true,
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_wave_splash_01 | 21fb952f-2152-4a81-8196-bb791be19535",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Root",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_wave_splash_04 | 21fb952f-da56-4a9a-9a9b-bb791be49535",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Root",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_wave_splash_shadow_02 | 21fb952f-b184-44b1-b14a-dc44727853d4","FollowPosition":true,"FollowBone":"Root","Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_wave_ripple_03_tension | 21fb952f-7d10-437d-bd56-8501b2fa3841","FollowPosition":true,"FollowBone":"Root","Offset":{},"ComponentScale":1.1,"Loop":true},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_blue_flare_01 | 21fb952f-dbf1-49bb-bb82-aa40e4fcd4ad",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Root",
+			"Offset":{"z":0.6666667},
+			"ComponentScale":2,
+			"Loop":true
+		}
+	]
+}

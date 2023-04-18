@@ -1,0 +1,15 @@
+Name,IsEnabled,StartingChoiceIndex,TID,SupportHero,HeroUnit,FirstMatchChestId,SecondMatchChestId,PresetCollection
+String,boolean,int,string,string,string,string,string,string
+HeroBarbarian,TRUE,1,TID_BHERO_STARTING_DESC_BARBARIANKING,Hero-BarbarianKing,HeroBarbarian,starterchest_BarbarianKing,,StartingCollection_BarbarianKing
+,,,,,,starterchest_BarbarianKing_Deck,,
+,,,,,,crown1_15,,
+,,,,,,starshard_12,,
+,,,,,,skillstone_10,,
+,,,,,,rankReward_RankPoints_3,,
+,,,,,,rankReward_RankPoints_2,,
+HeroArcher,FALSE,2,TID_BHERO_STARTING_DESC_ARCHERQUEEN,Hero-ArcherQueen,HeroArcher,starterchest_ArcherQueen,,StartingCollection_BarbarianKing
+,,,,,,starterchest_ArcherQueen_Deck,,
+,,,,,,crown1_15,,
+HeroShieldMaiden,FALSE,3,TID_BHERO_STARTING_DESC_SHIELDMAIDEN,Hero-ShieldMaiden,HeroShieldMaiden,starterchest_ShieldMaiden,,StartingCollection_BarbarianKing
+,,,,,,starterchest_ShieldMaiden_Deck,,
+,,,,,,crown1_15,,

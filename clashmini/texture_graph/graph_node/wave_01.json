@@ -1,0 +1,81 @@
+{
+	"nodes":[
+		{
+			"__class":"Output|Texture",
+			"id":1284833536,
+			"inputs":{"Texture":{"id":1284833537}},
+			"outputs":{},
+			"uuid":"ba52ef9b-fed3-4e54-be6d-ff92e3bbe069",
+			"name":"texture0",
+			"nodePos":{"x":1426.8846,"y":663.3003}
+		},
+		{
+			"__class":"Asset|Movieclip reference",
+			"id":1009582336,
+			"inputs":{"Time":{"id":1009582340},"size":{"id":1009582338}},
+			"outputs":{"Texture":{"id":1009582337}},
+			"movieclip":{"lastKnownPath":"sc/normalmap/n_wave_01","uuid":"49e9c85e-e8be-4fdf-9d9a-ccff5d3be902"},
+			"size":128,
+			"nodePos":{"x":761.88464,"y":655.3003}
+		},
+		{
+			"__class":"Time|Time",
+			"id":584188160,
+			"inputs":{"Reset":{"id":584188161}},
+			"outputs":{
+				"Time":{"id":584188162},
+				"DTime":{"id":584188168},
+				"DTime 0-1":{"id":584188169},
+				"DTime 0-360":{"id":584188170},
+				"sin(DTime)":{"id":584188171},
+				"cos(DTime)":{"id":584188172}
+			},
+			"nodePos":{"x":243.88467,"y":518.3003}
+		},
+		{
+			"__class":"Math|Simple op",
+			"op":"Multiply",
+			"b":0.3,
+			"id":2646409472,
+			"inputs":{"A":{"id":2646409473},"B":{"id":2646409474}},
+			"outputs":{"Out":{"id":2646409475}},
+			"nodePos":{"x":534.88464,"y":540.3003}
+		},
+		{
+			"__class":"UV|Create UV map",
+			"id":2767323392,
+			"inputs":{
+				"X Tiles":{"id":2767323394},
+				"Y Tiles":{"id":2767323395},
+				"Min U":{"id":2767323396},
+				"Max U":{"id":2767323397},
+				"Min V":{"id":2767323398},
+				"Max V":{"id":2767323399}
+			},
+			"outputs":{"Out":{"id":2767323393}},
+			"x":1,
+			"y":1,
+			"maxu":0.827,
+			"maxv":0.798,
+			"minf":1,
+			"magf":1,
+			"nodePos":{"x":919,"y":29.00003}
+		},
+		{
+			"__class":"Texture|Resize",
+			"id":1744896256,
+			"inputs":{"UV":{"id":1744896257},"Texture":{"id":1744896259},"size":{"id":1744896260}},
+			"outputs":{"Out":{"id":1744896258}},
+			"size":64,
+			"source":{},
+			"nodePos":{"x":1179,"y":345}
+		}
+	],
+	"links":[
+		{"o":1009582337,"i":1744896259},
+		{"o":584188162,"i":2646409473},
+		{"o":2646409475,"i":1009582340},
+		{"o":2767323393,"i":1744896257},
+		{"o":1744896258,"i":1284833537}
+	]
+}

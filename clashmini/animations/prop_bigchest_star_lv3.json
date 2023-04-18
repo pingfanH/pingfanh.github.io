@@ -1,0 +1,5 @@
+{
+	"States":[
+		{"Type":"AnimClip","Name":"ChestOpen","Animation":{"lastKnownPath":"sc3d/prop_star_chest_lv1_open","uuid":"ec79f249-8cbf-4fec-ac57-1b773f499c0c"},"Events":[{"Event":"Marker","Frame":38,"Name":"event_open"}]}
+	]
+}

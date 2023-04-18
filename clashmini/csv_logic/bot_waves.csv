@@ -1,0 +1,2 @@
+Name,WaveName,Content,Modifiers,GridX,GridY,BoardElementName,BoardElementX,BoardElementY,RandomSeed
+string,string,string,string,int,int,string,int,int,int

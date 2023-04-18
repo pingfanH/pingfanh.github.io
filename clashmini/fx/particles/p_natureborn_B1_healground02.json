@@ -1,0 +1,24 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":0.99,
+		"mass":1,
+		"spawnPointOffset":{},
+		"followEmitter":true,
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.009,
+		"scale":[0.13802084,0.5598959,0.5572917,0.7916667,0.5,1.7],
+		"color":[1,1,1],
+		"alpha":1,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/Stargazer_groundhigh001 | 49e9c85e-dd6c-461b-9134-1675b412229e"]
+}

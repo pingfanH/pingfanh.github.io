@@ -1,0 +1,21 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/royalchampion_normal_proj01 | 21fb952f-5c32-4e9c-9cb8-8ce450da846d","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":3,"ParticleEmitter":"fx/particles/royalchampion_normal_proj02 | 21fb952f-1537-4eb5-b5bd-8ce450dd846d","Offset":{},"ComponentScale":1},
+		{"Type":"swf","Layer":3,"SWFClip":"sc/effects/royalchampion_projectile_ball | 49e9c85e-d330-48fc-960c-68284eb2ff08","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":0.01,"Loop":true},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/royalchampion_normal_proj03 | 21fb952f-8235-4e02-82bc-8ce450dc846d","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/royalchampion_normal_proj04 | 21fb952f-a32d-4e83-83b3-8ce450d7846d","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/royalchampion_normal_proj05 | 21fb952f-102c-4ed0-90b1-8ce450d6846d","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{
+			"Type":"particle_emitter",
+			"Layer":3,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/royalchampion_normal_proj06 | 21fb952f-c930-4ee9-a9b6-8ce450d9846d",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		}
+	]
+}

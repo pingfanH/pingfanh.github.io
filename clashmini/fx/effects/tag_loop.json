@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":3,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/buff_speedDown_ground | 21fb952f-e6bc-4986-8627-e95ab98dc62e",
+			"FollowPosition":true,
+			"Offset":{},
+			"ComponentScale":3,
+			"ForcedLength":2,
+			"Loop":true
+		}
+	]
+}

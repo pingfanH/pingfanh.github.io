@@ -1,0 +1,11 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/healingranger_b1_normal_hit01 | 21fb952f-9f32-477f-bff4-49509cc0d998","Offset":{"z":-0.33333334},"ComponentScale":1.1},
+		{"Type":"sound","Sound":"c_p_healingranger_atk_shot"},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/healingranger_b1_normal_impact | 21fb952f-8184-4ae1-a1b2-fbc95042901b","Offset":{"z":-0.33333334},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/healingranger_b1_normal_hit02 | 21fb952f-3234-4732-b2f6-49509cc1d998","Offset":{"z":-0.16666667},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/healingranger_b1_normal_hit04 | 21fb952f-c02a-4700-80ec-49509cbbd998","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/healingranger_b1_normal_hit03 | 21fb952f-c535-47e5-a5f7-49509cc2d998","Offset":{"z":-0.33333334},"ComponentScale":1},
+		{"Type":"sub_effect","SubEffect":"fx/effects/hit_colorfilter | 9047f5ea-5826-4a18-98ac-c87403c73561","Offset":{},"ComponentScale":1,"ForcedLength":0.15}
+	]
+}

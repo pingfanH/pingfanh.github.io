@@ -1,0 +1,20 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_electricity_spark02 | 21fb952f-a913-4589-896a-b3e3ce0cb530","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_electricity_light | 21fb952f-caac-4e6a-aabf-2919a949581f","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"sub_effect","SubEffect":"fx/effects/electrofreeze_state_filter | 9047f5ea-3df3-427d-bdb5-700a43a0a71a","Offset":{},"ComponentScale":1},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_smoke01 | 21fb952f-325d-4012-92c9-86003ed9cd4d",
+			"FollowPosition":true,
+			"FollowBone":"Head1",
+			"Offset":{},
+			"ComponentScale":1,
+			"StartTime":0.5,
+			"Loop":true
+		},
+		{"Type":"swf","BlendMode":1,"Layer":5,"SWFClip":"sc/effects/bd_electricity_hand | 49e9c85e-90f4-4cbf-ae06-a26100374856","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_smoke02 | 21fb952f-5e7c-46be-bec6-ef4af0d5d7fe","FollowPosition":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1}
+	]
+}

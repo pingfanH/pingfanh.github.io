@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_electricity_s1 | 21fb952f-3a83-495a-9a55-275b5e01a37f","FollowPosition":true,"FollowBone":"Hip","Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"bat_hit_electric"},
+		{"Type":"swf","BlendMode":1,"Layer":5,"SWFClip":"sc/effects/bd_electricity_hand | 49e9c85e-90f4-4cbf-ae06-a26100374856","FollowPosition":true,"FollowBone":"Hip","Offset":{},"ComponentScale":1},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"g":0.39215687,"b":1,"a":1},
+			"FresnelStrength":20,
+			"FresnelIOR":1.1999999,
+			"FresnelFadeOutTime":1,
+			"ForcedLength":0.5
+		}
+	]
+}

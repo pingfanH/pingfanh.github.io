@@ -1,0 +1,23 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"emitterDelay":0.01,
+		"lifetime":2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[{"__class":"SpawnRate","duration":0.1,"spawnRate":60},{"__class":"Ground"}]
+	},
+	"render":{
+		"globalScale":0.0058333334,
+		"scale":1.243,
+		"color":[1,1,1],
+		"alpha":[0.32552084,0.036458343,0.5182292,0.2682292,1,0],
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"billboardAlign":2
+	},
+	"movieclip":["sc/effects/lumberjack_lumberdale_buff_tile | 49e9c85e-8431-40d6-9ddc-9ba33489c846"]
+}

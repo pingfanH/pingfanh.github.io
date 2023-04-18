@@ -1,0 +1,76 @@
+{
+	"data" : [
+	
+		{
+			"name" : "QL_MEM_LOW_CPU_LOW",
+			"chest_open_blur" : "OneTimeBlur",
+			"enable_bloom" : false,
+			"battle_high_poly" : false,
+			"lobby_high_poly" : false
+		},
+		
+		{
+			"name" : "QL_MEM_LOW_CPU_MID",
+			"chest_open_blur" : "OneTimeBlur",
+			"enable_bloom" : false,
+			"battle_high_poly" : false,
+			"lobby_high_poly" : false
+		},
+		
+		{
+			"name" : "QL_MEM_LOW_CPU_HIGH",
+			"chest_open_blur" : "OneTimeBlur",
+			"enable_bloom" : false,
+			"battle_high_poly" : false,
+			"lobby_high_poly" : false
+		},
+		
+		{
+			"name" : "QL_MEM_MID_CPU_LOW",
+			"chest_open_blur" : "OneTimeBlur",
+			"enable_bloom" : false,
+			"battle_high_poly" : false,
+			"lobby_high_poly" : false
+		},
+		
+		{
+			"name" : "QL_MEM_MID_CPU_MID",
+			"chest_open_blur" : "RealTimeBlur",
+			"enable_bloom" : false,
+			"battle_high_poly" : false,
+			"lobby_high_poly" : false
+		},
+		
+		{
+			"name" : "QL_MEM_MID_CPU_HIGH",
+			"chest_open_blur" : "RealTimeBlur",
+			"enable_bloom" : false,
+			"battle_high_poly" : false,
+			"lobby_high_poly" : false
+		},
+		
+		{
+			"name" : "QL_MEM_HIGH_CPU_LOW",
+			"chest_open_blur" : "RealTimeBlur",
+			"enable_bloom" : false,
+			"battle_high_poly" : false,
+			"lobby_high_poly" : false
+		},
+		
+		{
+			"name" : "QL_MEM_HIGH_CPU_MID",
+			"chest_open_blur" : "RealTimeBlur",
+			"enable_bloom" : false,
+			"battle_high_poly" : false,
+			"lobby_high_poly" : false
+		},
+		
+		{
+			"name" : "QL_MEM_HIGH_CPU_HIGH",
+			"chest_open_blur" : "RealTimeBlur",
+			"enable_bloom" : false,
+			"battle_high_poly" : false,
+			"lobby_high_poly" : false
+		}
+	]
+}

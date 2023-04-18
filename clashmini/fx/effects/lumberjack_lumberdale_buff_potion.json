@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"sound","Sound":"c_p_lumberjack_skill_boom"},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_lumberjack_lumberdale_buff_potion_01 | 21fb952f-ca40-486a-aa44-0fc59e654bd8","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_lumberjack_lumberdale_buff_flare_02 | 21fb952f-6b97-43eb-ab41-e64029ee37d0","FollowPosition":true,"FollowAngle":true,"FollowBone":"Elixir_Bottle","Offset":{},"ComponentScale":1}
+	]
+}

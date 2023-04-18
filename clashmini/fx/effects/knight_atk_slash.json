@@ -1,0 +1,14 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":5,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/knight_def_atk_slash | 49e9c85e-d9f9-45b5-a95d-d4144cf421bd",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"z":0.6666667},
+			"ComponentScale":1.35
+		}
+	]
+}

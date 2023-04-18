@@ -1,0 +1,48 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/electrovalley_lan02_impact02 | 21fb952f-3371-4933-b3f2-17594bb8377a",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1.5,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/electrovalley_lan02_optical | 21fb952f-e545-4845-8572-2efd261ecfb2",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/electrovalley_lan02_optical01 | 21fb952f-5a70-469a-9a63-d8a01b2e3060",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/electrovalley_lan02_impact01 | 21fb952f-c672-49e6-a6f3-17594bb9377a",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1.5,
+			"Loop":true
+		}
+	]
+}

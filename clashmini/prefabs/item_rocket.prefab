@@ -1,0 +1,13 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/item_rocket_rig","uuid":"ec79f249-7a6c-409a-9ad9-75a682d289ed"},"m_animation":{"lastKnownPath":"animations/items/item_rocket","uuid":"defe63bc-3c41-465c-9c9d-7f06db4f4323"}},{"objectType":5005}]
+		}
+	}
+}

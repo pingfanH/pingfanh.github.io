@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"swf","Layer":5,"SWFClip":"sc/effects/bd_stun | 49e9c85e-edc4-428e-9a2f-5cf6694274b0","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"bat_buff_dizzy","KillSoundOnEnd":true},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"FollowPosition":true,"Offset":{},"ComponentScale":0.19999999,"Loop":true}
+	]
+}

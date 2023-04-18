@@ -1,0 +1,37 @@
+{
+	"Components":[
+		{
+			"Type":"model",
+			"ModelMesh":"sc3d/fx_crack_stone | ec79f249-0626-4be6-a6dc-3657fe8e627f",
+			"EffectOnModel":"fx/effects/crack_filter | 9047f5ea-d49a-4ad4-94c0-7e2db4130a0f",
+			"ModelAlpha":1,
+			"ModelAlphaFadeOutTime":0.5,
+			"ModelAlphaFadeDir":true,
+			"ModelFresnelColor":{"g":1,"a":1},
+			"ModelFresnelStrength":8,
+			"ModelFresnelIOR":1.1999999,
+			"ModelFresnelFadeOutTime":2,
+			"StartFadeOutTime":0.90000004,
+			"HideShadow":true,
+			"Offset":{},
+			"ComponentScale":1
+		},
+		{"Type":"screen_shake","ShakeTime":0.3,"ShakeMaxIntensity":0.060000002},
+		{"Type":"swf","Layer":3,"GroundBasis":true,"SWFClip":"sc/effects/bd_crack_big_01 | 49e9c85e-0e04-4952-bc99-f4b498f1e109","Offset":{"z":0.0033333334},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_skeletonking_underlord_skill_01 | 21fb952f-bebc-417e-be01-f5e9a39f1352","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_skeletonking_underlord_skill_02_big | 21fb952f-ead0-4eaa-aa5c-c042da15730c","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_skeletonking_underlord_skill_02_multi | 21fb952f-89bb-45a9-a9b8-ef4855e81b9e","Offset":{},"ComponentScale":1},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"g":1,"b":0.39215687,"a":1},
+			"FresnelStrength":20,
+			"FresnelIOR":1.1999999,
+			"FresnelFadeOutTime":1.2,
+			"ForcedLength":0.05
+		},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_skeletonking_underlord_skill_03 | 21fb952f-98b9-4118-98fe-f4e9a39d1352","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_skeletonking_underlord_skill_04 | 21fb952f-9dc4-41fd-bd09-f5e9a3a41352","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_skeletonking_underlord_skill_01_big | 21fb952f-bbf2-4c9b-9b62-c890cb4d1fb9","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_skeletonking_underlord_skill_05 | 21fb952f-0ac3-414a-8a08-f5e9a3a31352","Offset":{},"ComponentScale":1}
+	]
+}

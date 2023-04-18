@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_stone_trail_big | 21fb952f-02b1-4202-82c2-a9338d60212d","FollowPosition":true,"Offset":{"z":0.16666667},"ComponentScale":0.59999996},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_bowling_trail_01 | 21fb952f-2b53-462b-ab31-902be4c4415e","FollowPosition":true,"Offset":{},"ComponentScale":1}
+	]
+}

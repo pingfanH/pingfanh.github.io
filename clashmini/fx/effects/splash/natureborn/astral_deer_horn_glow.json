@@ -1,0 +1,27 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":4,
+			"SWFClip":"sc/effects/bd_point_blur_02_blue | 49e9c85e-9c88-4338-b22b-91f4af36d46a",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"Offset":{"y":0.4,"z":0.1},
+			"ComponentScale":6,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/em_natureborn_astral_deer_horn_01 | 21fb952f-3068-4e10-9057-9d7daf1c8cd3",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		}
+	]
+}

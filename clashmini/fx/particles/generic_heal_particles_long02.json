@@ -1,0 +1,30 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":15,
+		"emitterDelay":0.05,
+		"lifetime":1.5,
+		"lifetimeJitter":0.6,
+		"mass":1,
+		"spawnPointOffset":{"z":-0.083333336},
+		"gravity":[[0,0,0.16666667],[0,0,0.16666667]],
+		"components":[
+			{"__class":"SpawnRate","duration":0.2,"spawnRate":10},
+			{"__class":"SpawnLocation","spawnShape":1,"spawnMinSize":0.16666667,"spawnMaxSize":0.45000002},
+			{"__class":"SpawnVelocityComponent","velocity":[0,0,0.9166667],"velocityJitter":[0,0,0.083333336]},
+			{"__class":"Deceleration","deceleration":[0,0,0.5833334]}
+		]
+	},
+	"render":{
+		"globalScale":0.0016666667,
+		"scale":[1,0.7],
+		"scaleJitter":0.2,
+		"color":[1,1,1],
+		"alpha":[0.4140625,0.38020837,0.6953125,0.66666675,1,0],
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/heal_symbol01 | 49e9c85e-ee3a-4881-ad5a-a2bbaa005ff5","sc/effects/heal_symbol02 | 49e9c85e-bf8e-439d-b488-a40e732f07cb"]
+}

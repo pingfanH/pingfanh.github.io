@@ -1,0 +1,31 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[
+				{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/chr_monk_rig","uuid":"ec79f249-39f0-4759-9997-7a852467d779"},"m_animation":{"lastKnownPath":"animations/characters/chr_monk","uuid":"defe63bc-442c-4704-84a5-3b1cb6a55208"}},
+				{
+					"objectType":5003,
+					"m_targettedMaterials":["Material_0.001"],
+					"m_metalness":5,
+					"m_roughness":1.5,
+					"m_specularStrength":5,
+					"m_diffuseColor":{"x":1,"y":1,"z":1},
+					"m_ambientColor":{"x":1,"y":1,"z":1},
+					"m_fresnelColor":{"x":1,"y":1,"z":1},
+					"m_specularColor":{"x":1,"y":1,"z":1},
+					"m_rimColor":{"x":1,"y":1,"z":1},
+					"m_specularBoardColor":{"x":1,"y":1,"z":1},
+					"m_teamColor":{"x":1},
+					"m_emissionColor":{"x":1,"y":1,"z":1},
+					"m_reflectionTexPath":"sc3d/sky_mipmaps0"
+				}
+			]
+		}
+	}
+}

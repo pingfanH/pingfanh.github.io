@@ -1,0 +1,676 @@
+{
+    "data": [
+        {
+            "name": "Empty",
+            "chestLists": [
+                {
+                    "chests": [
+                        "Empty Chest"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "default"
+        },
+        {
+            "name": "Starter Replica",
+            "chestLists": [
+                {
+                    "chests": [
+                        "debug_StarterReplica"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Test"
+        },
+        {
+            "name": "RaidBoss_LavaGolem_Hard_Success",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Success_DropChance_80"
+                    ],
+                    "weight": 80
+                },
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Success_DropChance_15"
+                    ],
+                    "weight": 15
+                },
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Success_DropChance_4"
+                    ],
+                    "weight": 4
+                },
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Success_DropChance_1"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "RaidBoss_LavaGolem_Easy_Success",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Easy_Success_DropChance_100"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "RaidBoss_LavaGolem_Medium_Success",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Medium_Success_DropChance_90"
+                    ],
+                    "weight": 90
+                },
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Medium_Success_DropChance_10"
+                    ],
+                    "weight": 10
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "Knight",
+            "chestLists": [
+                {
+                    "chests": [
+                        "trophyRoad_UnlockMini_Knight"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Wizard",
+            "chestLists": [
+                {
+                    "chests": [
+                        "shop_unit_wizard"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Ice Wizard",
+            "chestLists": [
+                {
+                    "chests": [
+                        "trophyRoad_UnlockMini_IceWizard"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Barbarian",
+            "chestLists": [
+                {
+                    "chests": [
+                        "trophyRoad_UnlockMini_Barbarian"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Archer",
+            "chestLists": [
+                {
+                    "chests": [
+                        "trophyRoad_UnlockMini_Archer"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Swordsman",
+            "chestLists": [
+                {
+                    "chests": [
+                        "trophyRoad_UnlockMini_Swordsman"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Miner",
+            "chestLists": [
+                {
+                    "chests": [
+                        "shop_unit_Miner"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Spear Goblin",
+            "chestLists": [
+                {
+                    "chests": [
+                        "shop_unit_speargoblin"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Skeleton Guard",
+            "chestLists": [
+                {
+                    "chests": [
+                        "trophyRoad_UnlockMini_ShieldSkeleton"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Royal Ghost",
+            "chestLists": [
+                {
+                    "chests": [
+                        "trophyRoad_UnlockMini_RoyalGhost"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Golden Giant",
+            "chestLists": [
+                {
+                    "chests": [
+                        "trophyRoad_UnlockMini_GoldenGiant"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Dart Goblin",
+            "chestLists": [
+                {
+                    "chests": [
+                        "trophyRoad_UnlockMini_DartGoblin"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Giant Skeleton",
+            "chestLists": [
+                {
+                    "chests": [
+                        "trophyRoad_UnlockMini_GiantSkeleton"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Lumberjack",
+            "chestLists": [
+                {
+                    "chests": [
+                        "trophyRoad_UnlockMini_Lumberjack"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Bowler",
+            "chestLists": [
+                {
+                    "chests": [
+                        "trophyRoad_UnlockMini_Bowler"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Valkyrie",
+            "chestLists": [
+                {
+                    "chests": [
+                        "trophyRoad_UnlockMini_Valkyrie"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Mini Pekka",
+            "chestLists": [
+                {
+                    "chests": [
+                        "shop_unit_minipekka"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Healing Ranger",
+            "chestLists": [
+                {
+                    "chests": [
+                        "shop_unit_angel"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Battle Healer",
+            "chestLists": [
+                {
+                    "chests": [
+                        "trophyRoad_UnlockMini_BattleHealer"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Magic Archer",
+            "chestLists": [
+                {
+                    "chests": [
+                        "shop_unit_magicArcher"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Pekka",
+            "chestLists": [
+                {
+                    "chests": [
+                        "trophyRoad_UnlockMini_Pekka"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Prince",
+            "chestLists": [
+                {
+                    "chests": [
+                        "trophyRoad_UnlockMini_Prince"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Fisherman",
+            "chestLists": [
+                {
+                    "chests": [
+                        "trophyRoad_UnlockMini_Fisherman"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Witch",
+            "chestLists": [
+                {
+                    "chests": [
+                        "trophyRoad_UnlockMini_Witch"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Mega Knight",
+            "chestLists": [
+                {
+                    "chests": [
+                        "trophyRoad_UnlockMini_MegaKnight"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "Electro Wizard",
+            "chestLists": [
+                {
+                    "chests": [
+                        "trophyRoad_UnlockMini_ElectroWizard"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        },
+        {
+            "name": "TrophyRoad_pick_and_remove_8",
+            "chestLists": [
+                {
+                    "chests": [
+                        "DEBUG_TrophyRoad_pick_and_remove_8"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Debug Custom"
+        },
+        {
+            "name": "RaidBoss_LavaGolem_Failure_10",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Failure_10%"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "RaidBoss_LavaGolem_Failure_20",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Failure_20%"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "RaidBoss_LavaGolem_Failure_40",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Failure_40%"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "RaidBoss_LavaGolem_Failure_60",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Failure_60%"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "RaidBoss_LavaGolem_Failure_75",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Failure_75%"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "RaidBoss_LavaGolem_Failure_90",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Failure_90%"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "Success_4%",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Success_DropChance_4"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "Success_1%",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Success_DropChance_1"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "RaidBoss_LavaGolem_Medium_Failure_10",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Medium_Failure_10%"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "RaidBoss_LavaGolem_Medium_Failure_20",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Medium_Failure_20%"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "RaidBoss_LavaGolem_Medium_Failure_40",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Medium_Failure_40%"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "RaidBoss_LavaGolem_Medium_Failure_60",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Medium_Failure_60%"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "RaidBoss_LavaGolem_Medium_Failure_75",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Medium_Failure_75%"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "RaidBoss_LavaGolem_Medium_Failure_90",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Medium_Failure_90%"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "RaidBoss_LavaGolem_Easy_Failure_10",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Easy_Failure_10%"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "RaidBoss_LavaGolem_Easy_Failure_20",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Easy_Failure_20%"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "RaidBoss_LavaGolem_Easy_Failure_40",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Easy_Failure_40%"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "RaidBoss_LavaGolem_Easy_Failure_60",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Easy_Failure_60%"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "RaidBoss_LavaGolem_Easy_Failure_75",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Easy_Failure_75%"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "RaidBoss_LavaGolem_Easy_Failure_90",
+            "chestLists": [
+                {
+                    "chests": [
+                        "RaidBoss_LavaGolem_Easy_Failure_90%"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Raid Boss"
+        },
+        {
+            "name": "BarbarianKing",
+            "chestLists": [
+                {
+                    "chests": [
+                        "shop_miniHero_BarbarianKing_10"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Heroes"
+        },
+        {
+            "name": "Bandit",
+            "chestLists": [
+                {
+                    "chests": [
+                        "shop_unit_bandit"
+                    ],
+                    "weight": 1
+                }
+            ],
+            "type": "Minis - Allow Unlock"
+        }
+    ]
+}

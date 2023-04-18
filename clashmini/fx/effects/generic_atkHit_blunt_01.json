@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_generic_atkHit_blunt_01 | 21fb952f-29a7-42a9-a9ad-09598daa7dd4","FollowPosition":true,"FollowBone":"spine1","Offset":{},"ComponentScale":0.45},
+		{"Type":"sub_effect","SubEffect":"fx/effects/filter_hit_common | 9047f5ea-57fd-4357-9761-e72112621cdc","FollowPosition":true,"FollowBone":"spine1","Offset":{},"ComponentScale":1,"ForcedLength":0.2}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[
+				{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/chr_skeletonguard_skin_bootybarry_rig","uuid":"ec79f249-ee94-4cae-aef2-e72dd9ee2fbd"},"m_animation":{"lastKnownPath":"animations/characters/chr_skeletonguard_skin_bootybarry","uuid":"defe63bc-1df5-4f5d-9d5e-103effc1e75a"}},
+				{
+					"objectType":5003,
+					"m_targettedMaterials":["Material_0","Material"],
+					"m_diffuseColor":{"x":1,"y":1,"z":1},
+					"m_ambientColor":{"x":1,"y":1,"z":1},
+					"m_fresnelColor":{"x":1,"y":1,"z":1},
+					"m_specularColor":{"x":1,"y":1,"z":1},
+					"m_rimColor":{"x":1,"y":1,"z":1},
+					"m_specularBoardColor":{"x":1,"y":1,"z":1},
+					"m_teamColor":{"x":1,"y":0.14901961,"z":0.14901961},
+					"m_emissionColor":{"x":1,"y":1,"z":1},
+					"m_matcapTexPath":"sc3d/matcap_golden_07"
+				}
+			],
+			"children":[
+				{
+					"name":"skylight",
+					"pos":{},
+					"rot":{"x":-25.79,"y":68.34,"z":9.73},
+					"scl":{"x":1,"y":1,"z":1}
+				}
+			]
+		}
+	}
+}

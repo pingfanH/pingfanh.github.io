@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_monk_onhand | 21fb952f-fc95-42fc-bcb4-3dd622c263f7","FollowPosition":true,"FollowBone":"Hand_L","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_monk_onhand | 21fb952f-fc95-42fc-bcb4-3dd622c263f7","FollowPosition":true,"FollowBone":"Hand_R","Offset":{},"ComponentScale":1}
+	]
+}

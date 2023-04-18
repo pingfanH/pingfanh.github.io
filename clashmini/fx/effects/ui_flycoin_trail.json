@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_flygold_trail | 21fb952f-78a6-43b8-b8ca-96e2c5e4872e","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_twinkle_loop_04 | 21fb952f-2c5d-4e6c-ac21-c40c9488a98f","FollowPosition":true,"Offset":{},"ComponentScale":10}
+	]
+}

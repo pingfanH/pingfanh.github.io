@@ -1,0 +1,15 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{"maxParticleCount":1,"lifetime":1.2,"mass":1,"spawnPointOffset":{},"followEmitter":true,"components":[{"__class":"SpawnRate","duration":0.1,"spawnRate":60}]},
+	"render":{
+		"globalScale":0.01,
+		"scale":1.2,
+		"color":[1,0.8,0.2],
+		"alpha":[0.036458343,0.7473959,0.4322917,0.9791667,1,0],
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/fx_blink_full_screen | 49e9c85e-d038-441f-bee3-79bde603ba70"]
+}

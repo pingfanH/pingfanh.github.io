@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":5,
+			"SWFClip":"sc/effects/bd_razor_beam | 49e9c85e-17ac-493d-b29f-69637624d3c9",
+			"FlashWidth":200,
+			"FollowPosition":true,
+			"FollowBone":"Wand_fx",
+			"Offset":{},
+			"ComponentScale":1
+		}
+	]
+}

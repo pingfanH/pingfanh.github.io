@@ -1,0 +1,17 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":5,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/speargoblin_def_ulti_trail | 49e9c85e-8de5-4810-93d4-9c2b51c86437",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":0.8,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/speargoblin_def_ulti_trail_2 | 21fb952f-0236-4ba2-a204-03870c2147b9","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/speargoblin_def_ulti_twinkle | 21fb952f-5b63-4efb-bb96-612d4583d3b5","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1}
+	]
+}

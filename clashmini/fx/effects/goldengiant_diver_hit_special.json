@@ -1,0 +1,8 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/goldengiant_diver_em_hit02_bubbles | 21fb952f-89d9-4769-a96c-c6c133167593","FollowPosition":true,"FollowAngle":true,"FollowBone":"Hip","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/goldengiant_diver_em_hit02_part2 | 21fb952f-c784-43c7-87f5-8d73837aef23","FollowPosition":true,"FollowAngle":true,"FollowBone":"Hip","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/goldengiant_diver_em_hit02 | 21fb952f-8de3-4d0d-8d0e-18d2936085e6","FollowPosition":true,"FollowAngle":true,"FollowBone":"Hip","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/goldengiant_diver_em_bubble03 | 21fb952f-e1af-4901-8184-d6a2d87853c2","FollowPosition":true,"FollowBone":"Hip","Offset":{},"ComponentScale":1,"StartTime":0.05}
+	]
+}

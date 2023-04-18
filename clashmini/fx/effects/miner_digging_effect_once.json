@@ -1,0 +1,8 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_miner_digging_01_once | 21fb952f-b9f0-4a99-996a-a301d5eae440","FollowPosition":true,"Offset":{"z":0.16666667},"ComponentScale":0.5},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_miner_digging_02_once | 21fb952f-4a22-4d6a-aa60-1c3bbcf719c0","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_miner_def_ability_digging_smoke_once | 21fb952f-9460-4434-b48c-1ad21c49fd73","FollowPosition":true,"Offset":{"z":0.16666667},"ComponentScale":0.7},
+		{"Type":"particle_emitter","BlendMode":2,"Layer":3,"ParticleEmitter":"fx/particles/bd_miner_digging_rock_shadow_once | 21fb952f-16c0-4916-96f1-471b1ddda01f","Offset":{},"ComponentScale":1}
+	]
+}

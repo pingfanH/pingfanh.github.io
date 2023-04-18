@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"swf","BlendMode":1,"Layer":5,"SWFClip":"sc/effects/bd_electricity_hand | 49e9c85e-90f4-4cbf-ae06-a26100374856","FollowPosition":true,"FollowBone":"Hand_R","Offset":{},"ComponentScale":1},
+		{"Type":"sub_effect","SubEffect":"fx/effects/electro_filter | 9047f5ea-02f7-4182-82fa-7b4713b63bfb","Offset":{},"ComponentScale":1}
+	]
+}

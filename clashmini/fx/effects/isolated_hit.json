@@ -1,0 +1,20 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/isolated_hit_acy02 | 21fb952f-32be-4ff2-b220-b736e0f05eb3","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"ForcedLength":2},
+		{"Type":"screen_shake","ShakeTime":0.05,"ShakeMaxIntensity":0.1,"ForcedLength":2},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"g":1,"b":1,"a":1},
+			"FresnelStrength":10,
+			"FresnelIOR":1.8,
+			"FresnelFadeOutTime":0.25,
+			"ForcedLength":0.1
+		},
+		{"Type":"particle_emitter","Layer":5,"GroundBasis":true,"ParticleEmitter":"fx/particles/isolated_hit_acy01 | 21fb952f-9fbc-4f3f-bf1f-b736e0ef5eb3","Offset":{},"ComponentScale":1.3,"ForcedLength":4},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/isolated_hit_acy04 | 21fb952f-c0b4-4fc0-8016-b736e0ea5eb3","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"ForcedLength":2},
+		{"Type":"screen_shake","ShakeTime":0.05,"ShakeMaxIntensity":0.1,"ForcedLength":2},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/isolated_hit_acy03 | 21fb952f-c5bf-4fa5-a522-b736e0f15eb3","FollowAngle":true,"Offset":{},"ComponentScale":1,"ForcedLength":2},
+		{"Type":"screen_shake","ShakeTime":0.05,"ShakeMaxIntensity":0.1,"ForcedLength":2},
+		{"Type":"sound","Sound":"sfx_hero_skeleton_atk_hit_cri"}
+	]
+}

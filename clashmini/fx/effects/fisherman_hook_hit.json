@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"sub_effect","SubEffect":"fx/effects/normal_hit | 9047f5ea-8898-45e8-a8ac-8f68075e6005","Offset":{},"ComponentScale":1},{"Type":"sound","Sound":"bat_skill_hookhit"}]
+}

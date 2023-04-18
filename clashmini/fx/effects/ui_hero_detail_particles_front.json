@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/ui_hero_impact01 | 21fb952f-55a8-4bf5-b50e-95f93c1150f0","Offset":{"z":-33.333332},"ComponentScale":60}]
+}

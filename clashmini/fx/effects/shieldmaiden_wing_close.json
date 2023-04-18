@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"model","ModelMesh":"sc3d/fx_reflect_shield_end | ec79f249-414c-40e1-a116-07a660b2f001","ModelFresnelColor":{"a":1},"FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1}]
+}

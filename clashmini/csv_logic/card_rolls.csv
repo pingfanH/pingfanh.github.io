@@ -1,0 +1,15 @@
+Name,FirsDeckChoiceIndex,RollIndex,Card1,Card2,Card3,Card4
+string,int,int,string,string,string,string
+FirstMatch,0,0,EliteArcherB1,,,
+,0,1,EliteArcherB1,,,
+,0,2,JEFFB1,JEFFB1,JEFFB1,
+,,,,,,
+SecondMatch,1,0,AngelB1,MiniPekkaB1,,
+,1,1,AngelB1,MiniPekkaB1,,
+,1,2,JEFFB1,JEFFB1,JEFFB1,
+,2,0,AngelB1,MiniPekkaB1,,
+,2,1,AngelB1,MiniPekkaB1,,
+,2,2,JEFFB1,JEFFB1,JEFFB1,
+,3,0,AngelB1,MiniPekkaB1,,
+,3,1,AngelB1,MiniPekkaB1,,
+,3,2,JEFFB1,JEFFB1,JEFFB1,

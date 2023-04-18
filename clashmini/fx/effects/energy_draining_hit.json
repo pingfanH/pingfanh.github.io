@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_hit_energy_drain | 21fb952f-77aa-4a97-97f0-78537b51b11f","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"SimulationSpace":1,"ParticleEmitter":"fx/particles/bd_hit_energy_drain_arrow_02 | 21fb952f-3434-4094-94fc-c355a6f757c5","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"bat_buff_burnenergy"}
+	]
+}

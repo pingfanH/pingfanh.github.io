@@ -1,0 +1,19 @@
+{
+	"Components":[
+		{
+			"Type":"color_filter",
+			"Additive":{"r":0.19607843,"g":0.19607843,"a":1},
+			"Multiplicative":{"r":1,"g":1,"b":1,"a":1},
+			"FadeOutTime":1,
+			"ForcedLength":0.05
+		},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":1,"g":1,"a":1},
+			"FresnelStrength":10,
+			"FresnelIOR":1.5,
+			"FresnelFadeOutTime":1,
+			"ForcedLength":0.05
+		}
+	]
+}

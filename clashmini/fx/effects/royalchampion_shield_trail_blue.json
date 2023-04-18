@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_wheel_blue | 21fb952f-d0ba-4750-9034-a5692c5e5493","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_wheel_trail_blue | 21fb952f-e5a7-49a5-a5d0-e065c58798ad","FollowPosition":true,"Offset":{},"ComponentScale":1}
+	]
+}

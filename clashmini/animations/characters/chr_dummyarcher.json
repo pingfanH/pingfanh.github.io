@@ -1,0 +1,30 @@
+{
+	"States":[
+		{"Type":"AnimClip","Name":"Idle","Loop":true,"StateTags":["Default"],"Animation":{"lastKnownPath":"sc3d/chr_dummyarcher_idle","uuid":"ec79f249-9d44-4cfd-bd82-65973d8a711e"},"TransInTime":1},
+		{"Type":"AnimClip","Name":"Victory_in","StateTags":["Combat"],"Animation":{"lastKnownPath":"sc3d/chr_dummyarcher_victory","uuid":"ec79f249-c5ec-49a5-a56b-cb6b3245c056"},"StartFrame":0,"EndFrame":58},
+		{"Type":"AnimClip","Name":"Victory_loop","StateTags":["Combat"],"Animation":{"lastKnownPath":"sc3d/chr_dummyarcher_victory","uuid":"ec79f249-c5ec-49a5-a56b-cb6b3245c056"},"StartFrame":58,"EndFrame":70},
+		{"Type":"Sequence","Name":"Victory","Loop":true,"StateTags":["Combat"],"SubStates":["Victory_in","Victory_loop"]},
+		{"Type":"AnimClip","Name":"JumpMove_jump_start","StateTags":["Combat"],"Animation":{"lastKnownPath":"sc3d/chr_dummyarcher_jump","uuid":"ec79f249-e704-4387-87a7-925cd173a232"},"StartFrame":0,"EndFrame":2},
+		{"Type":"AnimClip","Name":"JumpMove_jump_in_air","StateTags":["Combat"],"Animation":{"lastKnownPath":"sc3d/chr_dummyarcher_jump","uuid":"ec79f249-e704-4387-87a7-925cd173a232"},"StartFrame":2,"EndFrame":13},
+		{"Type":"AnimClip","Name":"JumpMove_jump_landing","StateTags":["Combat"],"Animation":{"lastKnownPath":"sc3d/chr_dummyarcher_jump","uuid":"ec79f249-e704-4387-87a7-925cd173a232"},"StartFrame":13,"EndFrame":16},
+		{"Type":"Sequence","Name":"JumpMove","Controller":"JumpMoveSeq","StateTags":["Combat"],"SubStates":["JumpMove_jump_start","JumpMove_jump_in_air","JumpMove_jump_landing"]},
+		{"Type":"AnimClip","Name":"Stunned","StateTags":["Combat"],"Animation":{"lastKnownPath":"sc3d/chr_dummyarcher_dizzy","uuid":"ec79f249-8961-4169-a927-e69c99cabe92"}},
+		{"Type":"AnimClip","Name":"KnockedUp","Loop":true,"StateTags":["Combat"],"Animation":{"lastKnownPath":"sc3d/chr_dummyarcher_knockout","uuid":"ec79f249-2744-42a7-a78c-800179477d84"}},
+		{"Type":"AnimClip","Name":"Drop","StateTags":["Combat"],"Animation":{"lastKnownPath":"sc3d/chr_dummyarcher_drop","uuid":"ec79f249-4643-4146-86b1-ed567cf236f8"},"StartFrame":0,"EndFrame":16},
+		{"Type":"AnimClip","Name":"InAir","Loop":true,"StateTags":["Combat"],"Animation":{"lastKnownPath":"sc3d/chr_dummyarcher_drop_inair","uuid":"ec79f249-6c6a-40ec-ac3f-6ad72998158f"}},
+		{"Type":"AnimClip","Name":"OpenChest","Loop":true,"StateTags":["Chest"],"Animation":{"lastKnownPath":"sc3d/chr_dummyarcher_idle","uuid":"ec79f249-9d44-4cfd-bd82-65973d8a711e"},"TransInTime":1},
+		{
+			"Type":"AnimClip",
+			"Name":"PrimarySkill",
+			"Controller":"Skill",
+			"StateTags":["Combat"],
+			"Animation":{"lastKnownPath":"sc3d/chr_dummyarcher_attack","uuid":"ec79f249-d343-4fd3-93c7-74be7b4278a0"},
+			"Events":[
+				{"Event":"Marker","Frame":43,"Name":"attack_frame"},
+				{"Event":"Marker","Frame":43,"Name":"sound_effect_frame"},
+				{"Event":"Effect","Frame":43,"Effect":{"lastKnownPath":"fx/effects/archer_atk_shot","uuid":"9047f5ea-ac79-434c-8c0f-eab87d9ff1f9"}}
+			]
+		}
+	],
+	"DefaultState":"Idle"
+}

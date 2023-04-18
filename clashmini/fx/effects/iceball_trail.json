@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_coldgas | 21fb952f-8f01-404f-8fab-98f565c02803","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_ice | 21fb952f-9b3d-41fb-bbb8-8b1d138cee5f","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_bloom_01_blue | 21fb952f-3088-4cd0-90ff-7deaf48a7fd7","FollowPosition":true,"Offset":{},"ComponentScale":1}
+	]
+}

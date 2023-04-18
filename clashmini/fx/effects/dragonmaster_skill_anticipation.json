@@ -1,0 +1,14 @@
+{
+	"Components":[
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"g":1,"b":1,"a":1},
+			"FresnelStrength":100,
+			"FresnelIOR":1.17,
+			"FresnelFadeInTime":0.5,
+			"FresnelFadeOutTime":1,
+			"ForcedLength":1.2
+		},
+		{"Type":"sound","Sound":"c_p_wavemaster_skill_dragon","ForcedLength":1.2}
+	]
+}

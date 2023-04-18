@@ -1,0 +1,22 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/wizard_party_em_particle02 | 21fb952f-a5a7-4945-8567-6ad59c8376e8",
+			"FollowPosition":true,
+			"FollowBone":"Hand_R",
+			"Offset":{"x":-0.033333335,"y":-0.06666667,"z":0.16666667},
+			"ComponentScale":1
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/wizard_party_em_ballmirror02 | 21fb952f-cd87-4e0d-8d46-7a631cca6f26",
+			"FollowPosition":true,
+			"FollowBone":"Hand_R",
+			"Offset":{"x":-0.033333335,"y":-0.06666667,"z":0.13333334},
+			"ComponentScale":1
+		}
+	]
+}

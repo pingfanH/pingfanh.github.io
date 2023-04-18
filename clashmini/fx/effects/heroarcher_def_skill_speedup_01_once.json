@@ -1,0 +1,17 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"GroundBasis":true,"ParticleEmitter":"fx/particles/em_heroarcher_def_skill_speedup_01_once | 21fb952f-d614-4316-966f-990594aa694e","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"GroundBasis":true,"ParticleEmitter":"fx/particles/em_heroarcher_def_skill_speedup_02_once | 21fb952f-9527-4d95-9525-e326ef10984c","FollowPosition":true,"Offset":{},"ComponentScale":1,"AllyOnly":true},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/em_heroarcher_def_skill_speedup_arrow | 21fb952f-b207-44b2-b21d-356e1f4b0ae4",
+			"FollowPosition":true,
+			"FollowBone":"spine1",
+			"Offset":{},
+			"ComponentScale":0.5,
+			"AllyOnly":true
+		}
+	]
+}

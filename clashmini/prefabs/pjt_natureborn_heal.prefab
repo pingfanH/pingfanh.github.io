@@ -1,0 +1,22 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/pjt_natureborn_healnote_rig","uuid":"ec79f249-c1d9-4101-819d-2d15bd961e80"},"m_animation":{"lastKnownPath":"animations/projectile/pjt_bezier_updown","uuid":"defe63bc-fb39-4e5b-9b3c-2b598f75eb69"}}],
+			"children":[
+				{
+					"name":"effect",
+					"pos":{"z":-0.2706292},
+					"rot":{"x":90},
+					"scl":{"x":1,"y":1,"z":1},
+					"components":[{"objectType":5004,"m_effect":{"lastKnownPath":"fx/effects/natureborn_heal_prj_trail","uuid":"9047f5ea-f6ed-4996-9643-0dfa4e1d87d7"}},{"objectType":5008,"m_bone":"fx_02"}]
+				}
+			]
+		}
+	}
+}

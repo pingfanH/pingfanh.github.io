@@ -1,0 +1,27 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_sparks_pierce_02 | 21fb952f-c6ed-4006-86b7-1e6a3eda1456","FollowPosition":true,"FollowAngle":true,"Offset":{"z":0.16666667},"ComponentScale":0.5},
+		{
+			"Type":"swf",
+			"Layer":5,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/Pierce_01_t2 | 49e9c85e-30fa-48a0-9b5b-81eafa5c5e5a",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"z":0.16666667},
+			"OffsetYaw":180,
+			"ComponentScale":0.85
+		},
+		{"Type":"sub_effect","SubEffect":"fx/effects/hit_colorfilter | 9047f5ea-5826-4a18-98ac-c87403c73561","Offset":{},"ComponentScale":1,"ForcedLength":0.15},
+		{
+			"Type":"fresnel",
+			"AlphaFadeOutTime":0.1,
+			"AlphaFadeDir":true,
+			"FresnelColor":{"g":0.93333334,"b":0.19607843,"a":1},
+			"FresnelStrength":6,
+			"FresnelIOR":1.1999999,
+			"FresnelFadeOutTime":0.1,
+			"ForcedLength":0.3
+		}
+	]
+}

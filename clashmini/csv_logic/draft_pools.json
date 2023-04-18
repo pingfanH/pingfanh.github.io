@@ -1,0 +1,8 @@
+{
+	"data":[
+		{
+			"name":"Default",
+			"items":[{"unitType":1,"kind":9,"level":15,"copy":6,"abilityLevels":[3,3,3]},{"stars":3,"copy":2}]
+		}
+	]
+}

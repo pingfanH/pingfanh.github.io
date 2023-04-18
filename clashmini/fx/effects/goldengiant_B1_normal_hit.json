@@ -1,0 +1,9 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/goldengiant_B1_hit_nor02 | 21fb952f-ab76-44cb-8bd2-52f806b916a0","FollowPosition":true,"FollowAngle":true,"FollowBone":"Hip","Offset":{},"ComponentScale":1.1999999},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/goldengiant_B1_hit_glow | 21fb952f-0fd4-448f-8f83-2fe451553ea7","FollowPosition":true,"FollowAngle":true,"FollowBone":"Hip","Offset":{},"ComponentScale":0.9},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/goldengiant_B1_hit_nor01 | 21fb952f-3e78-447e-bed4-52f806ba16a0","FollowPosition":true,"FollowAngle":true,"FollowBone":"Hip","Offset":{},"ComponentScale":1.1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/goldengiant_B1_hit_impact | 21fb952f-e874-4c88-8865-53281ecd5944","FollowPosition":true,"FollowAngle":true,"FollowBone":"Hip","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/goldengiant_B1_hit_nor03 | 21fb952f-1875-4418-98d1-52f806b816a0","Offset":{},"ComponentScale":1}
+	]
+}

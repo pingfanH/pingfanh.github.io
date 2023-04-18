@@ -1,0 +1,9 @@
+{
+	"Components":[
+		{"Type":"sound","Sound":"sfx_mini_skin_roblin_skill_impact"},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/mechaspeargoblin_atk_hit_ulti | 21fb952f-0fc7-44ef-afea-96ff79446739","FollowPosition":true,"Offset":{"x":0.16666667},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/mechaspeargoblin_hit_particle_ulti | 21fb952f-6796-4367-a7d7-58fd883d108b","FollowPosition":true,"Offset":{"x":0.16666667},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/mechaspeargoblin_atk_hit_ulti | 21fb952f-0fc7-44ef-afea-96ff79446739","FollowPosition":true,"Offset":{"x":-0.16666667},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/mechaspeargoblin_hit_particle_ulti | 21fb952f-6796-4367-a7d7-58fd883d108b","FollowPosition":true,"Offset":{"x":-0.16666667},"ComponentScale":1}
+	]
+}

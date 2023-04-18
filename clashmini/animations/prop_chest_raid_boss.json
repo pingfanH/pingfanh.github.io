@@ -1,0 +1,10 @@
+{
+	"States":[
+		{
+			"Type":"AnimClip",
+			"Name":"ChestOpen",
+			"Animation":{"lastKnownPath":"sc3d/prop_boss_chest_open","uuid":"ec79f249-b5c2-41d5-9539-6f35518f263b"},
+			"Events":[{"Event":"Marker","Frame":29,"Name":"event_open"},{"Event":"Effect","Frame":15,"Effect":{"lastKnownPath":"fx/effects/ui_bosschest_eye_blink_red","uuid":"9047f5ea-6d5a-494d-8d0a-c30f7eed7e2b"}}]
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/bd_fireball_trail02 | 21fb952f-dc13-40fc-bc5e-30e60b13abef",
+			"FollowPosition":true,
+			"FollowBone":"Hand_L",
+			"Offset":{},
+			"ComponentScale":0.5,
+			"ForcedLength":1
+		},
+		{"Type":"particle_emitter","Layer":4,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_fireball_trail02 | 21fb952f-dc13-40fc-bc5e-30e60b13abef","FollowPosition":true,"FollowBone":"Hand_R","Offset":{},"ComponentScale":1}
+	]
+}

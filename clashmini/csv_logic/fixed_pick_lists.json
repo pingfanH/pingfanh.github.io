@@ -1,0 +1,12 @@
+{
+	"data":[
+		{"name":"BuildingTutorial_Unit_R1","pickList":["BarbarianB1","BarbarianB1","BarbarianB1"]},
+		{"name":"BuildingTutorial_Building","pickList":["StarCollectorB2","StarTrapB2","StarHotPotB2"]},
+		{"name":"BuildingTutorial_Unit_R2","pickList":["EliteArcherB1","EliteArcherB1","EliteArcherB1"]},
+		{"name":"BuildingTutorial_Unit_R3","pickList":["ArcherB1","ArcherB1","ArcherB1"]},
+		{"name":"BuildingTutorial_Unit_Reroll_1","pickList":["ArcherB1","BarbarianB1","EliteArcherB1"]},
+		{"name":"BuildingTutorial_Unit_Reroll_2","pickList":["PekkaB1","PekkaB1","PekkaB1"]},
+		{"name":"BuildingTutorial_Unit_Reroll_3","pickList":["PekkaB1","MinerB1","MinerB1"]},
+		{"name":"BuildingTutorial_Unit_Reroll_4","pickList":["MinerB1","MinerB1","EliteArcherB1"]}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":50,
+		"lifetime":0.35,
+		"lifetimeJitter":0.2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","infinite":true,"spawnRate":20},
+			{"__class":"SpawnVelocityComponent","velocity":[0,-1.5,0],"velocityJitter":[0,0.5,0]},
+			{"__class":"SpawnLocation","spawnShape":1,"spawnMinSize":0.1,"spawnMaxSize":0.4},
+			{"__class":"Deceleration","deceleration":[5,5,5]}
+		]
+	},
+	"render":{
+		"globalScale":0.004,
+		"scale":[0.359375,0.044270843,0.9088542,0.7447917,0.6,0.15],
+		"scaleJitter":0.3,
+		"color":[1,1,1],
+		"alpha":[0.9895834,0.020833343,0.7369792,0.9869792,1,0],
+		"angleJitter":360,
+		"rotationSpeed":150,
+		"rotationSpeedJitter":20,
+		"tailLength":0.05,
+		"alphaFadeout":0.3,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/muscateer_particle_purple | 49e9c85e-10ce-4d91-9b89-e99c061e4978","sc/effects/muscateer_particle_blue | 49e9c85e-a475-4e2d-a607-ca16d48aff97","sc/effects/muscateer_particle_yellow | 49e9c85e-ab17-40dc-9317-63169d6f39f3","sc/effects/muscateer_particle_red | 49e9c85e-17b2-45d6-ae98-fb8dfb1aeeff","sc/effects/muscateer_particle_green | 49e9c85e-58d7-4397-8367-ce2547619725"]
+}

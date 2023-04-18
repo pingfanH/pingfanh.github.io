@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_megaknight_crab_atk_hit_fist_01 | 21fb952f-c6e3-4d06-869a-aa5cd024403f","Offset":{},"ComponentScale":0.8},
+		{"Type":"sound","Sound":"bat_hit_hammer"},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_megaknight_crab_atk_hit_fist_02 | 21fb952f-33e2-4d53-9398-aa5cd023403f","Offset":{},"ComponentScale":0.3}
+	]
+}

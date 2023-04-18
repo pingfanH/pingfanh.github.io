@@ -1,0 +1,33 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":5,
+		"emitterDelay":0.01,
+		"lifetime":2,
+		"lifetimeJitter":[0.33333334,0.33333334,0.6666667,0.6666667,0.7,0.7],
+		"mass":1,
+		"spawnPointOffset":{},
+		"gravity":[0.33333334,0.33333334,0.6666667,0.6666667,[0,0,0],[0,0,0]],
+		"components":[
+			{"__class":"SpawnRate","infinite":true,"duration":0.02,"spawnRate":2,"spawnRateJitter":0.2},
+			{"__class":"SpawnLocation","spawnMinSize":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],"spawnMaxSize":[0.33333334,0.33333334,0.6666667,0.6666667,0,0]}
+		]
+	},
+	"render":{
+		"globalScale":0.03,
+		"scale":[0.5130209,1.1067709,0.5807292,-1.3723958,1,0.2],
+		"scaleJitter":0.2,
+		"color":[[1,0,0.5],[1,1,0]],
+		"alpha":[0.14583334,0.5989584,0.4635417,0.8697917,0,0.4],
+		"angle":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"angleJitter":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"rotationSpeed":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"rotationSpeedJitter":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"tailLength":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"tailLengthJitter":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"alphaFadeout":2,
+		"trailWidth":[0.33333334,0.33333334,0.6666667,0.6666667,1,1],
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/generic_glow001 | 49e9c85e-017f-4977-8b73-31493f9d8b1f"]
+}

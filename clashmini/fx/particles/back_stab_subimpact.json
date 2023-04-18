@@ -1,0 +1,26 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":0.7,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]},
+			{"__class":"SpawnVelocityComponent","velocity":[0,0.016666668,0]}
+		]
+	},
+	"render":{
+		"globalScale":0.016666668,
+		"scale":0.9,
+		"scaleJitter":0.08,
+		"color":[0.14583334,0.37239584,0.6744792,0.8697917,[1,1,1],[1,0.5,0.3]],
+		"alpha":1,
+		"angleJitter":10,
+		"orientToDirection":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/back_stab_subimpact | 49e9c85e-7377-441d-9aa3-477618fcc53f"," | 49e9c85e-f192-4457-b45c-698186303b18"," | 49e9c85e-e3ba-4475-be12-cde81da75b3f"]
+}

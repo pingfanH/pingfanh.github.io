@@ -1,0 +1,35 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":10,
+		"emitterDelay":0.1,
+		"lifetime":0.54,
+		"mass":1,
+		"spawnPointOffset":{"z":-20},
+		"gravity":[0,0,100.00001],
+		"components":[
+			{"__class":"SpawnLocation","spawnShape":1,"spawnMaxSize":6},
+			{
+				"__class":"SpawnVelocityComponent",
+				"velocity":[0.09895834,0.6458334,0.6666667,0.6666667,[0,0,100.00001],[0,0,0]],
+				"velocityJitter":[0,0,30]
+			},
+			{"__class":"Deceleration","deceleration":[0,0,30]},
+			{"__class":"CurlNoise","frequency":10,"strength":10},
+			{"__class":"SpawnRate","duration":0.2,"spawnRate":60}
+		]
+	},
+	"render":{
+		"scale":[0.3828125,-0.018229157,0.8151042,0.6276042,1,0],
+		"scaleJitter":0.7,
+		"color":[1,1,1],
+		"alpha":[0.8098959,0.036458343,0.9010417,0.4713542,1,0],
+		"angleJitter":360,
+		"rotationSpeedJitter":90,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/ui/ui_color_twin01 | 49e9c85e-a6ea-46ef-9a69-39b3e20ec11d","sc/ui/ui_color_twin02 | 49e9c85e-1fd1-4e05-af44-9a14ccdbd410","sc/ui/ui_color_twin04 | 49e9c85e-ed70-4584-aee9-948bb2b3b564","sc/ui/ui_color_twin03 | 49e9c85e-50de-412f-b8e9-8890d6759300"]
+}

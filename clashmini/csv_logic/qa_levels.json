@@ -1,0 +1,14 @@
+{
+	"data":[
+		{
+			"name":"QA_01",
+			"gameMode":"QAMode",
+			"location":"WindyPlains",
+			"boardWavePrefix":"QA_01_A",
+			"previewWavePrefix":"QA_01_A",
+			"playerWavePrefix":"QA_01_P",
+			"tasks":["QA_Task_01"],
+			"fixedPickList":["BuildingTutorial_Unit_R1","BuildingTutorial_Unit_R2","BuildingTutorial_Unit_R3"]
+		}
+	]
+}

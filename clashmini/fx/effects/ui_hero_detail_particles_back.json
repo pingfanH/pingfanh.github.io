@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/ui_hero_particle01 | 21fb952f-dd21-43dd-9d94-3f4cea7c9ada","Offset":{},"ComponentScale":100,"Loop":true},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/ui_hero_particle02 | 21fb952f-241d-43c4-848f-3f4cea799ada","Offset":{},"ComponentScale":100,"Loop":true},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/ui_hero_particle03 | 21fb952f-b71e-4377-b791-3f4cea7a9ada","Offset":{},"ComponentScale":100,"Loop":true}
+	]
+}

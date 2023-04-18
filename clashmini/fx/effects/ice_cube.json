@@ -1,0 +1,17 @@
+{
+	"Components":[
+		{
+			"Type":"model",
+			"ModelMesh":"sc3d/fx_icecube | ec79f249-9023-4e30-b0d6-4d4d5c7e1a7c",
+			"EffectOnModel":"fx/effects/ice_twinkle_effect | 9047f5ea-3d6a-45bd-bd21-76ecaa63908a",
+			"ModelFresnelColor":{"a":1},
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Finger2_L",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{"Type":"sound","Sound":"sfx_icewizard_icecube"}
+	]
+}

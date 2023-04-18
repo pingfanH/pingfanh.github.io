@@ -1,0 +1,8 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_skeletonG_booty_ability_shield | 21fb952f-c3f2-4d03-8330-7c63ee330e43","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":0.8},
+		{"Type":"sound","Sound":"bat_buff_defense"},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_skeletonG_booty_ability_dot | 21fb952f-55c1-45b5-b5a0-e05f78ff0f7f","FollowPosition":true,"Offset":{"y":0.33333334},"ComponentScale":0.5},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_skeletonG_booty_ability_coin | 21fb952f-a799-4727-a771-b4f7a2f449f7","Offset":{},"ComponentScale":1}
+	]
+}

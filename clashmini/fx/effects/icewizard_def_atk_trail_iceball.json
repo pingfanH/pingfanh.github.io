@@ -1,0 +1,8 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_icewizard_def_atk_trail_smoke | 21fb952f-803c-4840-8061-6713d1ac8478","FollowPosition":true,"Offset":{},"ComponentScale":0.5,"StartTime":0.1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_icewizard_def_atk_trail_breaks | 21fb952f-53af-42d3-9319-599f0057710f","FollowPosition":true,"Offset":{},"ComponentScale":1,"StartTime":0.1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_icewizard_def_atk_trail_smoke_ad | 21fb952f-20c0-4f40-8053-bda7b55b971a","FollowPosition":true,"Offset":{},"ComponentScale":0.5,"StartTime":0.1},
+		{"Type":"sound","Sound":"sfx_icewizard_atk"}
+	]
+}

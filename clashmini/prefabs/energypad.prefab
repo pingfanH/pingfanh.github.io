@@ -1,0 +1,21 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"children":[
+				{
+					"name":"be_energy_pad_rig",
+					"pos":{},
+					"rot":{},
+					"scl":{"x":1,"y":1,"z":1},
+					"components":[{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/be_energy_rig","uuid":"ec79f249-c4b7-4384-84aa-49ff27be5db7"},"m_instancing":true}]
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":5,
+		"lifetime":0.2,
+		"lifetimeJitter":0.1,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","duration":0.15,"spawnRate":10},
+			{"__class":"SpawnPlanar","maxAngle":360,"minSpeedZ":0.6666667,"maxSpeedZ":1.1666667,"randomAngle":true},
+			{"__class":"Deceleration","deceleration":[0,0,2.5]}
+		]
+	},
+	"render":{
+		"globalScale":0.016666668,
+		"scale":[0.33333334,0.33333334,0.6666667,0.6666667,0.5,0.85],
+		"scaleJitter":0.1,
+		"color":[[0.5,0.5,0.5],[1,1,1]],
+		"alpha":0.3,
+		"angleJitter":360,
+		"rotationSpeed":20,
+		"rotationSpeedJitter":-20,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/ani_vampire_disappear | 49e9c85e-a646-4684-a24b-40d2e3f3cafe"]
+}

@@ -1,0 +1,8 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/ui_hero_upgrade02 | 21fb952f-725f-4172-b2c1-390750c84716","Offset":{},"ComponentScale":40},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/ui_hero_upgrade03 | 21fb952f-0561-4125-a5c3-390750c94716","Offset":{},"ComponentScale":40},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/ui_hero_upgrade04 | 21fb952f-0056-4140-80b7-390750c24716","Offset":{},"ComponentScale":30},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/ui_hero_upgrade05 | 21fb952f-9357-41f3-b3b8-390750c34716","Offset":{},"ComponentScale":30}
+	]
+}

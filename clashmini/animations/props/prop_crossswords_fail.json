@@ -1,0 +1,8 @@
+{
+	"States":[
+		{"Type":"AnimClip","Name":"Start","Animation":{"lastKnownPath":"sc3d/prop_crossswords_fail_rig","uuid":"ec79f249-1a7a-4d3a-ba99-a224d9ea38ef"},"EndFrame":140},
+		{"Type":"AnimClip","Name":"Loop","Loop":true,"Animation":{"lastKnownPath":"sc3d/prop_crossswords_fail_rig","uuid":"ec79f249-1a7a-4d3a-ba99-a224d9ea38ef"},"StartFrame":140,"EndFrame":220},
+		{"Type":"Sequence","Name":"Comp","SubStates":["Start","Loop"]}
+	],
+	"DefaultState":"Comp"
+}

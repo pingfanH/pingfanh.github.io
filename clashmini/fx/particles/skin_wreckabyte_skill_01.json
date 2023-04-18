@@ -1,0 +1,25 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":5,
+		"lifetime":0.6,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","duration":0.1,"spawnRate":60},
+			{"__class":"SpawnLocation","spawnShape":1,"spawnMaxSize":0.016666668},
+			{"__class":"SpawnVelocityComponent","velocity":[0,0,5],"velocityJitter":[0,0,10]}
+		]
+	},
+	"render":{
+		"globalScale":0.006666667,
+		"scale":1,
+		"scaleJitter":0.2,
+		"color":[0.2,0,0],
+		"alpha":0.1,
+		"trailDuration":0.2,
+		"trailWidth":5,
+		"blendMode":3
+	},
+	"movieclip":["sc/effects/fx_spotlight_11 | 49e9c85e-efe1-4daa-bab5-cd3e43f655be"]
+}

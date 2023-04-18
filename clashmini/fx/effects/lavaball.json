@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"model","ModelMesh":"sc3d/pjt_fireball_rig | ec79f249-90c2-4a90-90e4-877f696ac4cc","ModelFresnelColor":{"a":1},"Offset":{},"ComponentScale":1,"Loop":true}]
+}

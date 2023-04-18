@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_potter_fire_02 | 21fb952f-c9b4-4469-a970-1263493ca776","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_potter_fire_04 | 21fb952f-efb7-44cf-8f73-1263493ea776","Offset":{"z":0.16666667},"ComponentScale":1,"StartTime":2},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_potter_fire_05 | 21fb952f-5cb6-441c-9c72-1263493da776","Offset":{},"ComponentScale":1,"StartTime":2.5}
+	]
+}

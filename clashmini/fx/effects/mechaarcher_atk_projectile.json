@@ -1,0 +1,19 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/skin_a1000_arrow_trail_01 | 21fb952f-01e9-4281-8156-5b40f68abf01",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/skin_a1000_arrow_trail_02 | 21fb952f-48e4-4268-a851-5b40f687bf01","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/skin_a1000_arrow_trail_03 | 21fb952f-dbe5-421b-9b53-5b40f688bf01","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/skin_a1000_arrow_trail_04 | 21fb952f-baed-429a-9a5b-5b40f68dbf01","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"swf","BlendMode":1,"Layer":5,"SWFClip":"sc/effects/bd_point_blur_01_pink | 49e9c85e-425d-4dd4-9f36-cf4b9587f54e","FollowPosition":true,"Offset":{},"ComponentScale":2,"Loop":true}
+	]
+}

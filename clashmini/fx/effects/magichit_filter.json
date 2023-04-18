@@ -1,0 +1,13 @@
+{
+	"Components":[
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"g":0.78431374,"b":1,"a":1},
+			"FresnelStrength":10,
+			"FresnelIOR":1.8,
+			"FresnelFadeInTime":0.010000001,
+			"FresnelFadeOutTime":0.3,
+			"ForcedLength":0.05
+		}
+	]
+}

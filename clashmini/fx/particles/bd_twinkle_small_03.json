@@ -1,0 +1,29 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":6,
+		"lifetime":0.5,
+		"lifetimeJitter":0.1,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","duration":0.1,"spawnRate":300},
+			{"__class":"SpawnCone","direction":[0,0,1],"directionJitterAngle":270,"velocity":60},
+			{"__class":"Drag","dragCoeffecient":[0.9505209,0.052083343,1,0.2916667,0,4000]}
+		]
+	},
+	"render":{
+		"globalScale":0.03,
+		"scale":[0.4765625,-1.4557291,0.5807292,0.16666675,1,0],
+		"scaleJitter":[0.4,0],
+		"color":[[1,1,0.5],[1,0.5,0]],
+		"alpha":[1,1],
+		"rotationSpeed":6,
+		"rotationSpeedJitter":[0.6875,0.044270873,0.9921875,0.3697917,360,0],
+		"loopMovieClip":true,
+		"alphaFadeout":0.1,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/snow01 | 49e9c85e-8fd7-4076-b385-4022f55345c4"]
+}

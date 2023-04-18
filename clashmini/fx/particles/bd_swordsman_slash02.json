@@ -1,0 +1,17 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{"maxParticleCount":1,"lifetime":0.05,"mass":1,"spawnPointOffset":{},"components":[{"__class":"SpawnRate","duration":0.1,"spawnRate":100}]},
+	"render":{
+		"globalScale":0.023333333,
+		"scale":1,
+		"color":[1,1,1],
+		"alpha":0.5,
+		"angle":180,
+		"angleJitter":100,
+		"orientToDirection":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/bd_swordsman_slash02 | 49e9c85e-2834-4b1e-b9c4-ae8cc46167c4","sc/effects/bd_swordsman_slash02_reverse | 49e9c85e-b08e-484e-83f1-b42d691e357e","sc/effects/bd_swordsman_slash01 | 49e9c85e-507c-446a-933a-1e2f40f0dde6"]
+}

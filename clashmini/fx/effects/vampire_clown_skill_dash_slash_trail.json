@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_vampire_clown_skill_disappear_confetti_01 | 21fb952f-611d-4701-8151-ae995df50877","FollowPosition":true,"Offset":{},"ComponentScale":0.5},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_vampire_clown_skill_disappear_confetti_02 | 21fb952f-a818-47e8-a84b-ae995df20877","FollowPosition":true,"Offset":{},"ComponentScale":0.4}
+	]
+}

@@ -1,0 +1,43 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/robo_minipekka_criticalglow | 21fb952f-6360-44e3-a365-478aec3df972","FollowPosition":true,"FollowScale":true,"FollowBone":"Head1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/robo_minipekka_critical01 | 21fb952f-897c-4cc9-89b8-1be7f60005f3","FollowPosition":true,"FollowScale":true,"FollowBone":"Head1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/robo_minipekka_critical02 | 21fb952f-d077-4cb0-b0b3-1be7f6fd04f3","FollowPosition":true,"FollowScale":true,"FollowBone":"Head1","Offset":{},"ComponentScale":0.75},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/robo_minipekka_critical03 | 21fb952f-6379-4c63-a3b5-1be7f6fe04f3","FollowPosition":true,"FollowScale":true,"FollowBone":"Head1","Offset":{},"ComponentScale":0.75},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/robo_minipekka_critical04 | 21fb952f-4281-4ce2-a2bd-1be7f60305f3","FollowPosition":true,"FollowScale":true,"FollowBone":"Head1","Offset":{},"ComponentScale":0.75},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/robo_minipekka_criticalopti | 21fb952f-5222-42d2-920a-a9162e50596c",
+			"FollowPosition":true,
+			"FollowScale":true,
+			"FollowBone":"Head1",
+			"Offset":{},
+			"ComponentScale":1
+		},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/robo_minipekka_critical05_2 | 21fb952f-e4ff-4a64-a480-151eb0d2eab6",
+			"FollowPosition":true,
+			"FollowScale":true,
+			"FollowBone":"Head1",
+			"Offset":{},
+			"ComponentScale":1
+		},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/robo_minipekka_critical05_1 | 21fb952f-9d04-4b7d-bd85-151eb0d5eab6","FollowPosition":true,"FollowScale":true,"FollowBone":"Head1","Offset":{},"ComponentScale":1},
+		{
+			"Type":"fresnel",
+			"AlphaFadeOutTime":0.1,
+			"AlphaFadeDir":true,
+			"FresnelColor":{"r":0.19607843,"b":1,"a":1},
+			"FresnelStrength":10,
+			"FresnelIOR":1.1999999,
+			"FresnelFadeOutTime":0.1,
+			"ForcedLength":0.3
+		},
+		{"Type":"sound","Sound":"sfx_mini_skin_pc_atk_c_hit"}
+	]
+}

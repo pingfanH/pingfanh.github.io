@@ -1,0 +1,33 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":8,
+		"emitterDelay":0.1,
+		"lifetime":0.7,
+		"lifetimeJitter":0.2,
+		"mass":1,
+		"spawnPointOffset":{"z":0.2},
+		"components":[
+			{"__class":"SpawnLocation","spawnShape":1,"spawnMinSize":0.3,"spawnMaxSize":0.5},
+			{"__class":"SpawnRate","duration":0.6,"spawnRate":15},
+			{"__class":"SpawnVelocityComponent","velocity":[0,0,0.45],"velocityJitter":[0,0,0.25]},
+			{"__class":"Deceleration","deceleration":[[0.5,0.5,0.3],[1.5,1.5,0.3]]},
+			{"__class":"SpawnPlanar","spawnMinSize":0.15,"spawnMaxSize":0.35,"maxAngle":360,"maxSpeedXY":1,"minSpeedZ":0.4,"maxSpeedZ":0.8,"randomAngle":true}
+		]
+	},
+	"render":{
+		"globalScale":0.065,
+		"scale":0.25,
+		"scaleJitter":0.2,
+		"color":[1,1,1],
+		"alpha":1,
+		"angleJitter":360,
+		"rotationSpeedJitter":30,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/heal_twinkleparticle01 | 49e9c85e-225e-456e-91a5-fbb4bb281efd"]
+}

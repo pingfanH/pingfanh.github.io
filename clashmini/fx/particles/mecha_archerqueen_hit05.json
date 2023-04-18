@@ -1,0 +1,25 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"emitterDelay":0.02,
+		"lifetime":0.7,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.009000001,
+		"scale":[0,0.8020834,0.5494792,0.9401042,0.4,1.1],
+		"color":[0.796875,0.028645843,0.6510417,0.5182292,[1,1,1],[1,0.4,1]],
+		"alpha":[0.5052084,0.059895843,0.6666667,0.7604167,1,0],
+		"angleJitter":360,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/archerqueen_electrics | 49e9c85e-db57-4453-b8ee-605f41b2e530"]
+}

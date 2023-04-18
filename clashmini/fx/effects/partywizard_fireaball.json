@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_fireball_trail03 | 21fb952f-6f15-40af-af60-30e60b14abef","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":0.5,"Loop":true},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_smoke_trail01 | 21fb952f-8595-4845-858d-91d62bc75ca4","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_discoball_02 | 21fb952f-e27c-42a2-a2d4-c2ae24ba5f41","FollowPosition":true,"Offset":{},"ComponentScale":1}
+	]
+}

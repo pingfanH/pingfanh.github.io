@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"SimulationSpace":1,"ParticleEmitter":"fx/particles/bd_energy_arrow_01 | 21fb952f-303e-4df0-b013-763f5682f1a4","Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"bat_buff_energyfull"},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":0.5647059,"g":0.8980392,"b":0.9882353,"a":1},
+			"FresnelStrength":5,
+			"FresnelIOR":1.8,
+			"FresnelFadeInTime":0.05,
+			"FresnelFadeOutTime":0.8,
+			"ForcedLength":0.1,
+			"Loop":true
+		}
+	]
+}

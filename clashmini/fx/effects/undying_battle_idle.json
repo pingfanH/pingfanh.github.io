@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_undying_battle_idle_01 | 21fb952f-74af-4d74-b4b8-88a60eab04e5",
+			"FollowPosition":true,
+			"FollowBone":"head",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_trail_test_01 | 21fb952f-ba3f-4cda-9a3d-a50a040d5b14","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"swf","BlendMode":1,"Layer":4,"SWFClip":"sc/effects/bd_fire_dot_03 | 49e9c85e-8442-4bd4-ad03-737ae7e4a7cd","FollowPosition":true,"Offset":{},"ComponentScale":0.5,"Loop":true}
+	]
+}

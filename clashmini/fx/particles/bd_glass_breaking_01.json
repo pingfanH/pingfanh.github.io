@@ -1,0 +1,28 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":50,
+		"lifetime":0.3,
+		"lifetimeJitter":0.3,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","duration":0.1,"spawnRate":100},
+			{"__class":"SpawnCone","direction":[0,0,1],"directionJitterAngle":270,"velocity":6},
+			{"__class":"Ground"},
+			{"__class":"Drag","dragCoeffecient":20000}
+		]
+	},
+	"render":{
+		"globalScale":0.016666668,
+		"scale":[0.38802087,-4.111979,0.19791669,-3.5989583,0.2,0],
+		"color":[1,1,1],
+		"alpha":1,
+		"angleJitter":360,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/bd_glass_fragment_01 | 49e9c85e-102a-4cdc-a7c3-f542ee672fe7"]
+}

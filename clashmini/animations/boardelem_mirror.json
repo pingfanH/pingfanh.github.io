@@ -1,0 +1,30 @@
+{
+	"States":[
+		{"Type":"AnimClip","Name":"Idle","Animation":{"lastKnownPath":"sc3d/be_mirror_idle","uuid":"ec79f249-9f9c-45df-9ffa-c8d82a467104"}},
+		{
+			"Type":"AnimClip",
+			"Name":"Trigger",
+			"Animation":{"lastKnownPath":"sc3d/be_mirror_activate","uuid":"ec79f249-b4bd-4a94-944d-195932e2ac23"},
+			"Events":[{"Event":"Marker","Frame":1,"Name":"activate_effect"},{"Event":"Effect","Frame":1,"Effect":{"lastKnownPath":"fx/effects/duplicate_effect","uuid":"9047f5ea-0e86-486e-ae1d-93a2717c5c36"}}]
+		},
+		{"Type":"AnimClip","Name":"Stepon","Animation":{"lastKnownPath":"sc3d/be_mirror_idle","uuid":"ec79f249-9f9c-45df-9ffa-c8d82a467104"}},
+		{
+			"Type":"AnimClip",
+			"Name":"Deploy",
+			"Animation":{"lastKnownPath":"sc3d/be_mirror_generate","uuid":"ec79f249-2e73-49ce-8e3a-8d903ccf0713"},
+			"Events":[{"Event":"Marker","Frame":15,"Name":"drop_effect"},{"Event":"Effect","Frame":15,"Effect":{"lastKnownPath":"fx/effects/board_unit_drop_effect","uuid":"9047f5ea-9670-4716-9606-56b9e8f22e63"}}]
+		},
+		{
+			"Type":"AnimClip",
+			"Name":"Die",
+			"Animation":{"lastKnownPath":"sc3d/be_mirror_activate","uuid":"ec79f249-b4bd-4a94-944d-195932e2ac23"},
+			"Events":[{"Event":"Marker","Frame":1,"Name":"activate_effect"},{"Event":"Effect","Frame":1,"Effect":{"lastKnownPath":"fx/effects/duplicate_effect","uuid":"9047f5ea-0e86-486e-ae1d-93a2717c5c36"}}]
+		},
+		{
+			"Type":"AnimClip",
+			"Name":"Hidden",
+			"Animation":{"lastKnownPath":"sc3d/be_mirror_activate","uuid":"ec79f249-b4bd-4a94-944d-195932e2ac23"},
+			"Events":[{"Event":"Marker","Frame":1,"Name":"activate_effect"},{"Event":"Effect","Frame":1,"Effect":{"lastKnownPath":"fx/effects/duplicate_effect","uuid":"9047f5ea-0e86-486e-ae1d-93a2717c5c36"}}]
+		}
+	]
+}

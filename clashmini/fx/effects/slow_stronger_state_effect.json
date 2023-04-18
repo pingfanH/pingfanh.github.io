@@ -1,0 +1,11 @@
+{
+	"Components":[
+		{
+			"Type":"color_filter",
+			"Additive":{"r":0.19607843,"g":0.5882353,"b":1,"a":1},
+			"Multiplicative":{"r":0.78431374,"g":0.78431374,"b":0.78431374,"a":1},
+			"FadeOutTime":1,
+			"Loop":true
+		}
+	]
+}

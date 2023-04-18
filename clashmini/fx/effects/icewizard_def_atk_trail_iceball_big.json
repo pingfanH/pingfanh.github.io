@@ -1,0 +1,9 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_icewizard_def_atk_trail_smoke_big | 21fb952f-c1be-44a1-a136-5e15aca76f06","FollowPosition":true,"Offset":{},"ComponentScale":0.5,"StartTime":0.1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_icewizard_def_atk_trail_breaks_big | 21fb952f-92c3-44f2-b265-7d35c5d5bac4","FollowPosition":true,"Offset":{},"ComponentScale":1,"StartTime":0.1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_icewizard_def_atk_trail_smoke_big_ad | 21fb952f-bfed-411f-9f7c-c9580592f294","FollowPosition":true,"Offset":{},"ComponentScale":0.5,"StartTime":0.1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_icewizard_def_atk_trail_twinkle | 21fb952f-ddfd-4cdd-9df2-b59eb6326477","FollowPosition":true,"Offset":{},"ComponentScale":1,"StartTime":0.1},
+		{"Type":"sound","Sound":"sfx_icewizard_atk_spec"}
+	]
+}

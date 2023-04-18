@@ -1,0 +1,28 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":3,
+		"lifetime":1,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","duration":1,"spawnRate":60},
+			{"__class":"Ground"},
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":7}]}
+		]
+	},
+	"render":{
+		"globalScale":0.005,
+		"scale":1,
+		"scaleJitter":0.4,
+		"color":[1,1,1],
+		"alpha":1,
+		"angleJitter":360,
+		"rotationSpeed":[0.41145834,-0.033854157,1,0.5104167,30,0],
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/generic_waterbounces | 49e9c85e-92bf-4e10-b402-46d96f87a606"]
+}

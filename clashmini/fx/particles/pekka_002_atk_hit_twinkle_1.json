@@ -1,0 +1,40 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":3,
+		"lifetime":0.5,
+		"lifetimeJitter":0.15,
+		"mass":1,
+		"spawnPointOffset":{},
+		"gravity":[[0,0,0],[0,0,0]],
+		"components":[
+			{"__class":"SpawnRate","duration":0.1,"spawnRate":100},
+			{
+				"__class":"SpawnPlanar",
+				"spawnMinSize":[0.47395834,0.052083343,0.3932292,0.9401042,0.008333334,0.033333335],
+				"spawnMaxSize":[0.43489584,0.013020843,0.4166667,0.9869792,0.016666668,0.06666667],
+				"maxAngle":360,
+				"minSpeedXY":0.8333334,
+				"maxSpeedXY":1.5,
+				"minSpeedZ":-0.33333334,
+				"maxSpeedZ":0.33333334,
+				"randomAngle":true
+			},
+			{"__class":"Deceleration","deceleration":[[1,1,1],[2.6666667,2.6666667,2.3333335]]}
+		]
+	},
+	"render":{
+		"globalScale":0.016666668,
+		"scale":0.3,
+		"scaleJitter":0.05,
+		"color":[1,1,1],
+		"alpha":[0.3125,4.3359375,0.20572919,-1.8567708,0.5,1],
+		"angleJitter":360,
+		"rotationSpeedJitter":[0.32552087,-0.0026041567,0.4088542,0.9947917,30,60],
+		"alphaFadeout":0.2,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/particle_star_dot | 49e9c85e-00ca-43c5-ba1c-840eaed5f7b8"]
+}

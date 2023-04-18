@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_skin_miner_borebot_attack_01 | 21fb952f-072d-40c7-8739-8eb66a5fdc17","FollowPosition":true,"FollowAngle":true,"FollowBone":"fx_Hand_R","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_skin_miner_borebot_attack_02 | 21fb952f-9a2e-407a-ba3b-8eb66a60dc17","FollowPosition":true,"FollowAngle":true,"FollowBone":"fx_Hand_R","Offset":{},"ComponentScale":1}
+	]
+}

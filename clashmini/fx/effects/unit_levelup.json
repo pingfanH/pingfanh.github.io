@@ -1,0 +1,20 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/upgrade_glow_start | 21fb952f-ea8e-4d8a-8a38-1037a9adbc56","Offset":{},"ComponentScale":1.4},
+		{"Type":"sound","Sound":"ui_bat_unit_upgrade"},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/upgrade_wholelights01 | 21fb952f-8dfa-410d-8df6-fdb047eddfd8","Offset":{},"ComponentScale":1.5,"ForcedLength":2},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/upgrade_wholelights03 | 21fb952f-67f7-41a7-a7f2-fdb047ebdfd8","Offset":{},"ComponentScale":1.5,"ForcedLength":2},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/upgrade_star02_polish | 21fb952f-4263-4ee2-a2ab-a896557ad44c","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/upgrade_ground | 21fb952f-b328-4553-934f-f8617410b9b0","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/upgrade_star03 | 21fb952f-11cc-47f1-b124-0852a44fa2d8","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/upgrade_star04 | 21fb952f-a4cd-47a4-a426-0852a450a2d8","Offset":{},"ComponentScale":1},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":1,"g":0.78431374,"a":1},
+			"FresnelStrength":10,
+			"FresnelIOR":1.4499999,
+			"FresnelFadeOutTime":1,
+			"ForcedLength":0.010000001
+		}
+	]
+}

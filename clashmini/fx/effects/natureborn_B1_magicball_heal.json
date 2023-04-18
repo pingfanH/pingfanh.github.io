@@ -1,0 +1,17 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":5,
+			"SWFClip":"sc/effects/magicball_heal_backgr | 49e9c85e-fb52-4fb3-b1ed-08beba62a339",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"FollowBone":"fx",
+			"Offset":{},
+			"AbsoluteOffset":true,
+			"ComponentScale":1
+		},
+		{"Type":"sound","Sound":"sfx_hero_skin_astral_skill_healing_hit"}
+	]
+}

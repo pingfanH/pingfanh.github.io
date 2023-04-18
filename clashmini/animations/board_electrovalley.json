@@ -1,0 +1,4 @@
+{
+	"States":[{"Type":"AnimClip","Name":"loop","Loop":true,"Animation":{"lastKnownPath":"sc3d/board_electrovalley_rig","uuid":"ec79f249-def9-4b9e-9eb2-f7f3e86a888d"}}],
+	"DefaultState":"loop"
+}

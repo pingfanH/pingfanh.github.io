@@ -1,0 +1,35 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[
+				{
+					"objectType":5002,
+					"m_mesh":{"lastKnownPath":"sc3d/chr_wizard_skin_wabbit_rig","uuid":"ec79f249-8901-48a9-a9a3-36d1ee085ee5"},
+					"m_meshLOD1":{"lastKnownPath":"sc3d/chr_wizard_skin_wabbit_rig_lod1","uuid":"ec79f249-6755-41a7-a7fa-8e57c44c5aea"},
+					"m_animation":{"lastKnownPath":"animations/characters/chr_wizard_skin_wabbit","uuid":"defe63bc-21fd-48e1-a1db-f6c3a0c6ca07"}
+				},
+				{
+					"objectType":5003,
+					"m_targettedMaterials":[":reserved:AllMaterial"],
+					"m_roughness":0.5,
+					"m_specularStrength":1,
+					"m_diffuseColor":{"x":1,"y":1,"z":1},
+					"m_ambientColor":{"x":1,"y":1,"z":1},
+					"m_fresnelColor":{"x":1,"y":1,"z":1},
+					"m_specularColor":{"x":1,"y":1,"z":1},
+					"m_rimColor":{"x":1,"y":1,"z":1},
+					"m_specularBoardColor":{"x":1,"y":1,"z":1},
+					"m_teamColor":{"x":1,"y":0.039215688},
+					"m_emissionColor":{"x":1,"y":1,"z":1}
+				}
+			],
+			"children":[{"name":"skylight","pos":{},"rot":{"x":-45,"z":-5},"scl":{"x":1,"y":1,"z":1}}]
+		}
+	}
+}

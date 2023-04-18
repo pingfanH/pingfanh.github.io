@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":4,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/sc_megaknight_slash_01 | 49e9c85e-9e7c-4934-8172-0903641739cf",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"z":0.5},
+			"ComponentScale":0.55,
+			"AllyOnly":true
+		}
+	]
+}

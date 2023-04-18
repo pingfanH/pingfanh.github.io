@@ -1,0 +1,34 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/royalghost_B1_idle_particle01 | 21fb952f-943c-4bd4-945e-35e161e9c7ce",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Head2",
+			"Offset":{"z":0.23333333},
+			"ComponentScale":1
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/royalghost_B1_idle_particle02 | 21fb952f-4d41-4bed-ad63-35e161ecc7ce",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Spine1",
+			"Offset":{"z":0.23333333},
+			"ComponentScale":1
+		},
+		{
+			"Type":"swf",
+			"Layer":5,
+			"SWFClip":"sc/effects/Sleep | 49e9c85e-9971-42d0-9c84-c24c791cb733",
+			"FollowPosition":true,
+			"FollowBone":"Head2",
+			"Offset":{"x":-0.13333334,"z":0.13333334},
+			"ComponentScale":0.45,
+			"Loop":true
+		}
+	]
+}

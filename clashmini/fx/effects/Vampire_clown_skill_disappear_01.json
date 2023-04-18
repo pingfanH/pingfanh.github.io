@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_Vampire_clown_skill_disappear_cloud_01 | 21fb952f-8072-43e0-a029-19fd0a29ca40","Offset":{},"ComponentScale":0.3},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_Vampire_clown_skill_disappear_cloud_02 | 21fb952f-3977-43f9-b92e-19fd0a2cca40","Offset":{"z":0.06666667},"ComponentScale":0.3,"StartTime":0.15},
+		{"Type":"sound","Sound":"c_p_vampirecountess_skill_skin"}
+	]
+}

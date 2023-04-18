@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/building_depoly_lock_02 | 21fb952f-ad36-4b8d-8dc0-7004a73db516","Offset":{},"ComponentScale":1},{"Type":"sound","Sound":"giz_active"}]
+}

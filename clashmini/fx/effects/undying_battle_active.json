@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/bd_undying_battle_active_01 | 21fb952f-dc83-491c-9ccd-2a227d398a0f",
+			"FollowPosition":true,
+			"FollowBone":"head1",
+			"Offset":{"z":-0.001},
+			"ComponentScale":1
+		},
+		{"Type":"sound","Sound":"ui_bat_underhealing_01","KillSoundOnEnd":true}
+	]
+}

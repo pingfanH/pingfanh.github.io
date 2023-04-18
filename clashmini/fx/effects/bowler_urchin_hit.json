@@ -1,0 +1,8 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/generic_water_ball | 21fb952f-26af-4386-86fd-8dd971690b54","Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"bat_hit_rock"},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/generic_water_ball | 21fb952f-26af-4386-86fd-8dd971690b54","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/generic_water_sp_impact | 21fb952f-3f16-421f-9f8c-9cf15a302be4","Offset":{},"ComponentScale":1}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"Components":[
+		{
+			"Type":"model",
+			"ModelMesh":"sc3d/fx_monk_fist | ec79f249-9012-4490-90d8-6e9732b3c76f",
+			"ModelAlpha":1,
+			"ModelAlphaFadeInTime":0.2,
+			"ModelAlphaFadeOutTime":0.2,
+			"ModelAlphaFadeDir":true,
+			"ModelFresnelColor":{"r":1,"g":0.78431374,"a":1},
+			"ModelFresnelStrength":20,
+			"ModelFresnelIOR":0.84999996,
+			"ModelFresnelFadeInTime":0.3,
+			"ModelFresnelFadeOutTime":0.5,
+			"StartFadeOutTime":0.4,
+			"HideShadow":true,
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1
+		},
+		{"Type":"screen_shake","ShakeTime":0.3,"ShakeMaxIntensity":0.030000001}
+	]
+}

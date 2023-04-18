@@ -1,0 +1,24 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":20,
+		"lifetime":0.5,
+		"lifetimeJitter":0.1,
+		"mass":1,
+		"spawnPointOffset":{"z":0.16666667},
+		"components":[
+			{"__class":"SpawnRate","duration":2,"spawnRate":50,"spawnRateJitter":1},
+			{"__class":"SpawnLocation","spawnShape":2,"spawnMinSize":0.033333335,"spawnMaxSize":0.083333336},
+			{"__class":"SpawnVelocityComponent","velocityJitter":[0.33333334,0.33333334,0.33333334]}
+		]
+	},
+	"render":{
+		"globalScale":0.0013333334,
+		"scale":1,
+		"scaleJitter":[0.14583337,-2.502604,0,-1.7864583,0.4,0],
+		"color":[1,1,1],
+		"alpha":0.7,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/wizard_party_rect_particle_p1 | 49e9c85e-f080-448f-b4e3-7deaf6067954","sc/effects/wizard_party_rect_particle_p2 | 49e9c85e-81ad-4f68-b508-716c962a44c8","sc/effects/wizard_party_rect_particle_b1 | 49e9c85e-01c0-46fe-b825-3aa9220b5657","sc/effects/wizard_party_rect_particle_b2 | 49e9c85e-c0b7-4f22-a1d1-9a358fc55a2a"]
+}

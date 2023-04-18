@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{
+			"Type":"model",
+			"ModelMesh":"sc3d/be_water_fountain_rig | ec79f249-a4c4-4624-a49b-fca88ff79792",
+			"ModelFresnelColor":{"a":1},
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Root",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{"Type":"sub_effect","SubEffect":"fx/effects/waterpad_activate | 9047f5ea-6ff3-480f-8f9c-05663372f7f8","Offset":{},"ComponentScale":1,"Loop":true}
+	]
+}

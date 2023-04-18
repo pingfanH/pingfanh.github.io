@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/p_natureborn_heal_aura | 21fb952f-4245-41c2-8201-dbad9cd308c9","FollowPosition":true,"FollowAngle":true,"Offset":{"z":3000},"ComponentScale":0.5},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/p_natureborn_heal_spiral_02 | 21fb952f-0b8b-4ceb-abd4-86802d76cd4a",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"z":3000},
+			"ComponentScale":1
+		}
+	]
+}

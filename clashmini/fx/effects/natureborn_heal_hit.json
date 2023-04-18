@@ -1,0 +1,10 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/p_natureborn_heal_ground | 21fb952f-62d5-4a02-8238-49542276d9e2","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_heal_pole | 21fb952f-175c-44d7-970c-5c0220e50716","Offset":{},"ComponentScale":1.5},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_healimpact | 21fb952f-46d6-4826-a611-5f34824cd01b","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_heal_stars | 21fb952f-222b-45a2-a2f9-8ccc7ebd40f5","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_heal_particle | 21fb952f-0365-45a3-a390-61e83a76aa94","Offset":{}},
+		{"Type":"sound","Sound":"sfx_hero_nature_skill_healing_hit"}
+	]
+}

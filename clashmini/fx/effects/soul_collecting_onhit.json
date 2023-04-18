@@ -1,0 +1,35 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/bd_soulcollecting_01 | 21fb952f-014d-4b21-a11f-b9a9e2f89da3",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Spine1",
+			"Offset":{},
+			"ComponentScale":1,
+			"StartTime":0.5
+		},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"g":1,"b":1,"a":1},
+			"FresnelStrength":5,
+			"FresnelIOR":1.5,
+			"FresnelFadeOutTime":0.5,
+			"StartTime":0.5,
+			"ForcedLength":0.05
+		},
+		{
+			"Type":"swf",
+			"Layer":5,
+			"SWFClip":"sc/effects/fx_blink_common_04_small | 49e9c85e-8aac-415a-8d36-db16cf543955",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Spine1",
+			"Offset":{},
+			"ComponentScale":1,
+			"StartTime":0.5
+		}
+	]
+}

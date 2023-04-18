@@ -1,0 +1,34 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":3,
+		"emitterDelay":0.1,
+		"lifetime":[4,0.2],
+		"lifetimeJitter":0.2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"emitterLoop":true,
+		"components":[
+			{"__class":"SpawnRate","infinite":true,"duration":1.5,"spawnRate":8,"spawnRateJitter":0.2},
+			{"__class":"Spring","positionDelta":[[0,0,0.33333334],[0,0,0.16666667]],"stiffness":20,"damping":[0,0],"relativeToSpawn":true},
+			{"__class":"SpawnPlanar","spawnMinSize":0.5,"spawnMaxSize":0.5,"maxAngle":360,"maxSpeedXY":0.5,"maxSpeedZ":1}
+		]
+	},
+	"render":{
+		"globalScale":0.033333335,
+		"scale":[0.328125,0.5208334,0.8125,0.3932292,0.08,0.1],
+		"scaleJitter":0.04,
+		"color":[1,1,1],
+		"alpha":3,
+		"orientToDirection":true,
+		"loopMovieClip":true,
+		"alphaFadeout":0.7,
+		"trailEnabled":true,
+		"trailDuration":0.5,
+		"trailWidth":10,
+		"trailHeadOrTails":true,
+		"trailImage":"image/trail_blue.png#premultiply",
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/bd_glow_dot_blue | 49e9c85e-ceff-43ef-a622-d4c289a5c5a5"]
+}

@@ -1,0 +1,8 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/em_icewizard_def_ability_area_icetooth | 21fb952f-b793-4697-9732-cef1d069729f","FollowPosition":true,"Offset":{},"ComponentScale":0.4},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_icewizard_def_ability_area_breaks | 21fb952f-a83c-4648-888d-2070f4058ae6","Offset":{},"ComponentScale":0.5},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_icewizard_def_ability_area_smoke_01 | 21fb952f-91ff-48b1-b112-4b033d5a246e","Offset":{},"ComponentScale":0.4},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/em_icewizard_def_ability_area_smoke_02 | 21fb952f-d8fa-4898-980d-4b033d57246e","Offset":{},"ComponentScale":0.5}
+	]
+}

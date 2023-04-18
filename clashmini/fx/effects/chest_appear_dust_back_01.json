@@ -1,0 +1,12 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":3,
+			"ParticleEmitter":"fx/particles/em_chest_appear_dust_back_01 | 21fb952f-6cc7-4a0c-8c0c-d15d228161f3",
+			"Offset":{"x":0.16666667,"y":0.33333334,"z":0.1},
+			"ComponentScale":3.7,
+			"StartTime":0.2
+		}
+	]
+}

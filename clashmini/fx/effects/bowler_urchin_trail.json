@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_water_01 | 21fb952f-54d3-44d4-9463-e13fa60eca1c","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"fresnel","FresnelColor":{"g":1,"b":1,"a":1},"FresnelStrength":1,"FresnelIOR":1.8,"Loop":true},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_water_shadow_01 | 21fb952f-6b5c-4d0b-8baf-61af0f0053a9","FollowPosition":true,"Offset":{},"ComponentScale":2,"Loop":true}
+	]
+}

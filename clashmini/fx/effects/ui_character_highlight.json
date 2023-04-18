@@ -1,0 +1,13 @@
+{
+	"Components":[
+		{"Type":"swf","Layer":5,"SWFClip":"sc/effects/ui_deck_indicator | 49e9c85e-54c6-4186-8a57-ca5dc1caa158","Offset":{"z":1.3333334},"ComponentScale":0.59999996,"Loop":true},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"g":0.39215687,"b":1,"a":1},
+			"FresnelStrength":12,
+			"FresnelIOR":1.1999999,
+			"FresnelFadeInTime":0.1,
+			"FresnelFadeOutTime":0.5
+		}
+	]
+}

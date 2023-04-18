@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/em_event_medal_silver_01 | 21fb952f-3b11-411b-9bb7-151995892359",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		}
+	]
+}

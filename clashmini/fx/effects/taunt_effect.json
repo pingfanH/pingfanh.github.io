@@ -1,0 +1,30 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_taunt_01 | 21fb952f-12d9-4752-92eb-479dee5b6e0b","FollowPosition":true,"Offset":{"z":0.6666667},"ComponentScale":0.59999996},
+		{"Type":"screen_shake","ShakeTime":0.05,"ShakeMaxIntensity":0.030000001},
+		{
+			"Type":"particle_emitter",
+			"Layer":3,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/bd_taunt_01 | 21fb952f-12d9-4752-92eb-479dee5b6e0b",
+			"FollowPosition":true,
+			"Offset":{"z":0.6666667},
+			"ComponentScale":0.59999996,
+			"StartTime":0.2
+		},
+		{"Type":"screen_shake","ShakeTime":0.05,"ShakeMaxIntensity":0.030000001,"StartTime":0.2},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_taunt_02 | 21fb952f-7fd7-479f-9fe9-479dee5a6e0b","FollowPosition":true,"Offset":{"z":0.6666667},"ComponentScale":0.59999996},
+		{"Type":"screen_shake","ShakeTime":0.05,"ShakeMaxIntensity":0.030000001},
+		{
+			"Type":"particle_emitter",
+			"Layer":3,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/bd_taunt_02 | 21fb952f-7fd7-479f-9fe9-479dee5a6e0b",
+			"FollowPosition":true,
+			"Offset":{"z":0.6666667},
+			"ComponentScale":0.59999996,
+			"StartTime":0.2
+		},
+		{"Type":"screen_shake","ShakeTime":0.05,"ShakeMaxIntensity":0.030000001,"StartTime":0.2}
+	]
+}

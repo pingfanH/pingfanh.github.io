@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","BlendMode":1,"Layer":6,"ParticleEmitter":"fx/particles/mechaarcher_hit_particle | 21fb952f-7935-4359-992d-1496e5ff6c0f","FollowPosition":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":6,"ParticleEmitter":"fx/particles/mechaarcher_hit_impact | 21fb952f-fd20-4cbd-bd5e-061148f97ede","FollowPosition":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"sfx_mini_skin_a1000_atk_hit"},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":1,"g":0.39215687,"b":0.78431374,"a":1},
+			"FresnelStrength":10,
+			"FresnelIOR":1.3,
+			"FresnelFadeOutTime":0.3,
+			"ForcedLength":0.3
+		}
+	]
+}

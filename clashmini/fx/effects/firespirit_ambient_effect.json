@@ -1,0 +1,11 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_fire01 | 21fb952f-db14-499b-9b06-f55133c341b4","FollowPosition":true,"FollowBone":"Hip","Offset":{"z":0.16666667},"ComponentScale":1},
+		{
+			"Type":"color_filter",
+			"Additive":{"r":0.19607843,"g":0.078431375,"a":1},
+			"Multiplicative":{"r":1,"g":1,"b":1,"a":1}
+		},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_fire04 | 21fb952f-9419-49b4-b40b-f55133c641b4","FollowPosition":true,"FollowBone":"Hip","Offset":{"z":0.16666667},"ComponentScale":1}
+	]
+}

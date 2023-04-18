@@ -1,0 +1,17 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/prop_star_chest_lv1_rig","uuid":"ec79f249-0ccd-486c-ac3c-8ca1f1331c97"},"m_instancing":true}],
+			"children":[
+				{"name":"barbarian","pos":{"x":-2.478792},"rot":{},"scl":{"x":1,"y":1,"z":1}},
+				{"name":"chestOpenEffectPosition","pos":{"z":-5},"rot":{},"scl":{"x":1,"y":1,"z":1}}
+			]
+		}
+	}
+}

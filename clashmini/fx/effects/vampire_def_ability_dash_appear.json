@@ -1,0 +1,27 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_vampire_def_ability_dash_appear_bat | 21fb952f-34ef-47f4-b40b-6d03ad5a0fdf","FollowPosition":true,"Offset":{"z":0.33333334},"ComponentScale":1,"StartTime":0.2},
+		{
+			"Type":"particle_emitter",
+			"Layer":3,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/em_vampire_def_ability_dash_appear_crecent_low | 21fb952f-3c4d-42fc-bc50-29315d266d32",
+			"FollowPosition":true,
+			"Offset":{"z":0.33333334},
+			"ComponentScale":1,
+			"StartTime":0.2
+		},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/em_vampire_def_ability_dash_appear_smoke_front | 21fb952f-ee5a-442e-aed1-392a46213bd5","FollowPosition":true,"Offset":{"z":0.33333334},"ComponentScale":1.5,"StartTime":0.4},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_vampire_def_ability_dash_appear_smoke_back | 21fb952f-d06a-42d0-90e8-dc849df1d035","Offset":{"z":0.33333334},"ComponentScale":1.5,"StartTime":0.2},
+		{
+			"Type":"particle_emitter",
+			"Layer":3,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/em_vampire_def_ability_dash_appear_crecent_low_ad | 21fb952f-2456-49c4-8454-972291a7e439",
+			"FollowPosition":true,
+			"Offset":{"z":0.33333334},
+			"ComponentScale":1,
+			"StartTime":0.2
+		}
+	]
+}

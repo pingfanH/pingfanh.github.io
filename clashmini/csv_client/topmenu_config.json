@@ -1,0 +1,32 @@
+{
+	"data" : [
+		{
+			"name" : "main",
+			"CurrencyList" : ["PromotionToken", "Diamonds", "Gold"	]
+		},
+		{
+			"name" : "3currency",
+			"CurrencyList" : ["PromotionToken", "Diamonds", "Gold"	]
+		},
+		{
+			"name" : "4currency",
+			"CurrencyList" : ["SkillStoneA", "WildHero1", "WildHero2", "WildHero3"]
+		},
+		{
+			"name" : "star_shard_only",
+			"CurrencyList" : ["StarShard"]
+		},
+		{
+			"name" : "diamond_only",
+			"CurrencyList" : ["Diamonds"]
+		},
+		{
+			"name" : "gold_only",
+			"CurrencyList" : ["Gold"]
+		},
+		{
+			"name" : "shop",
+			"CurrencyList" : ["PromotionToken", "Diamonds", "Gold", "StarShard", "SkillStoneA", "WildHero1", "WildHero2", "WildHero3"]
+		}
+	]
+}

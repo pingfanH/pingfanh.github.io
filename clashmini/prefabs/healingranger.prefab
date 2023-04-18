@@ -1,0 +1,28 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[
+				{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/chr_healingranger_rig","uuid":"ec79f249-89c3-4bc9-8928-e9074e522713"},"m_animation":{"lastKnownPath":"animations/characters/chr_healingranger","uuid":"defe63bc-163b-4016-96a6-f453a4606628"}},
+				{
+					"objectType":5003,
+					"m_targettedMaterials":["chr_healingranger:GLSLShader1"],
+					"m_diffuseColor":{"x":1,"y":1,"z":1},
+					"m_ambientColor":{"x":1,"y":1,"z":1},
+					"m_fresnelColor":{"x":1,"y":1,"z":1},
+					"m_specularColor":{"x":1,"y":1,"z":1},
+					"m_rimColor":{"x":1,"y":1,"z":1},
+					"m_specularBoardColor":{"x":1,"y":1,"z":1},
+					"m_teamColor":{"y":0.64705884,"z":1},
+					"m_emissionColor":{"x":1,"y":1,"z":1}
+				}
+			],
+			"children":[{"name":"Node","pos":{},"rot":{},"scl":{"x":1,"y":1,"z":1}}]
+		}
+	}
+}

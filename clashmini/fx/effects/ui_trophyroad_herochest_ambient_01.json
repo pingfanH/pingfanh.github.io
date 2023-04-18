@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_herochest_ambient_twinkle_01 | 21fb952f-15a3-48b5-b55d-6bb4f4b1854e","Offset":{},"ComponentScale":10}]
+}

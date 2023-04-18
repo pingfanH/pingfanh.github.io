@@ -1,0 +1,29 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[
+				{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/prop_star_chest_lv3_rig","uuid":"ec79f249-42b1-4ee2-a238-896ae36be032"},"m_animation":{"lastKnownPath":"animations/prop_bigchest_star_lv3","uuid":"defe63bc-211b-4bc1-8153-4189564537ac"},"m_instancing":true},
+				{
+					"objectType":5003,
+					"m_targettedMaterials":["lv3"],
+					"m_diffuseColor":{"x":1,"y":1,"z":1},
+					"m_ambientColor":{"x":1,"y":1,"z":1},
+					"m_fresnelColor":{"x":1,"y":1,"z":1},
+					"m_specularColor":{"x":1,"y":1,"z":1},
+					"m_rimColor":{"x":1,"y":1,"z":1},
+					"m_specularBoardColor":{"x":1,"y":1,"z":1},
+					"m_teamColor":{"x":1,"y":1,"z":1},
+					"m_emissionColor":{"x":1,"y":1,"z":1},
+					"m_reflectionTexPath":"sc3d/matcap_crystal_04"
+				}
+			],
+			"children":[{"name":"chestOpenEffectPosition","pos":{"z":-5},"rot":{},"scl":{"x":1,"y":1,"z":1}}]
+		}
+	}
+}

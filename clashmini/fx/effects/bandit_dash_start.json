@@ -1,0 +1,24 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_bandit_shadowdash | 21fb952f-af2f-4e4f-8f46-63e4737688f2","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_bandit_shining | 21fb952f-1181-4651-91ba-ad69ad8841f1","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"StartTime":0.04},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_bandit_hide | 21fb952f-1a51-4d3a-ba87-31c1d22f91c2","Offset":{},"ComponentScale":1},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":0.3019608,"g":0.9647059,"b":0.09411765,"a":1},
+			"FresnelStrength":60,
+			"FresnelIOR":1.05,
+			"FresnelFadeOutTime":0.4,
+			"StartTime":0.05,
+			"ForcedLength":0.5
+		},
+		{
+			"Type":"color_filter",
+			"Additive":{"a":1},
+			"Multiplicative":{"r":0.039215688,"g":0.039215688,"b":0.039215688,"a":1},
+			"FadeInTime":0.1,
+			"FadeOutTime":0.2,
+			"ForcedLength":0.5
+		}
+	]
+}

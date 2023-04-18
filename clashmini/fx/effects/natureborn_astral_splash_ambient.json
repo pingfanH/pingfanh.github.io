@@ -1,0 +1,28 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"SimulationSpace":1,
+			"ParticleEmitter":"fx/particles/em_natureborn_astral_splash_ambient_01 | 21fb952f-9119-49d1-9186-35a8bb882adf",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":4,"SimulationSpace":1,"ParticleEmitter":"fx/particles/em_natureborn_astral_splash_ambient_02 | 21fb952f-2f33-4f6f-af69-782414e529c6","Offset":{},"ComponentScale":1,"Loop":true},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/em_natureborn_astral_splash_ambient_02 | 21fb952f-2f33-4f6f-af69-782414e529c6",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		}
+	]
+}

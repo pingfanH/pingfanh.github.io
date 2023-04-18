@@ -1,0 +1,36 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":2,
+		"emitterDelay":0.35,
+		"lifetime":0.63,
+		"lifetimeJitter":0.4,
+		"mass":1,
+		"spawnPointOffset":{"z":2},
+		"gravity":[[0,0,-25],[0,0,-33.333336]],
+		"components":[
+			{"__class":"SpawnLocation"},
+			{"__class":"SpawnCone","direction":[0,0,200],"directionJitterAngle":80,"velocity":5,"velocityJitter":1.6666667},
+			{"__class":"Deceleration","deceleration":[1.6666667,1.6666667,1.6666667]},
+			{"__class":"Drag","dragCoeffecient":2000},
+			{"__class":"Ground","bounciness":[1.5,1]},
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":4}]}
+		]
+	},
+	"render":{
+		"globalScale":0.0016666667,
+		"scale":[0.21614584,0.005208373,1,0.018229246,1,0],
+		"scaleJitter":0.5,
+		"color":[0.5833334,0.044270843,1,0.22135419,[1,1,1],[1,0.5,0.1]],
+		"alpha":2,
+		"rotationSpeed":[0.0546875,0.45833337,0.9921875,0.6510417,240,0],
+		"rotationSpeedJitter":200,
+		"orientToDirection":true,
+		"loopMovieClip":true,
+		"alphaFadeout":0.1,
+		"trailDuration":0.15,
+		"trailWidth":[50,0],
+		"trailImage":"image/range4.png#premultiply"
+	},
+	"movieclip":["sc/effects/upgrade_special_star01_lights | 49e9c85e-e937-41e7-872d-86591f4c6680"]
+}

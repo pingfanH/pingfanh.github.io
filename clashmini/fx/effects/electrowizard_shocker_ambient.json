@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/electrowizard_shocker_ambient | 21fb952f-3a94-4d3a-bab6-16deae78d01a","FollowPosition":true,"FollowBone":"fx","Offset":{},"ComponentScale":1,"Loop":true}]
+}

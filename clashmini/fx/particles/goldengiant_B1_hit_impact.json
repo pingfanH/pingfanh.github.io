@@ -1,0 +1,25 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":0.8,
+		"mass":1,
+		"spawnPointOffset":{"z":0.25},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.02,
+		"scale":1,
+		"color":[1,1,1],
+		"alpha":1,
+		"angleJitter":360,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/goldengiantB1_nor_impact | 49e9c85e-a9dd-4a34-9d22-2d5395b23e09"]
+}

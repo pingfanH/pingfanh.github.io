@@ -1,0 +1,14 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/prop_gacha_funbox_rig","uuid":"ec79f249-4963-49e9-a9f2-bc2319217398"},"m_animation":{"lastKnownPath":"animations/prop_gacha_funbox","uuid":"defe63bc-6a4b-40ca-8aff-3072383c68c4"}},{"objectType":5005}],
+			"children":[{"name":"chestOpenEffectPosition","pos":{"y":30},"rot":{},"scl":{"x":1,"y":1,"z":1}}]
+		}
+	}
+}

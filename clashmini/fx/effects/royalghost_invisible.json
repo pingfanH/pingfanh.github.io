@@ -1,0 +1,17 @@
+{
+	"Components":[
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":0.078431375,"g":0.39215687,"b":1,"a":1},
+			"FresnelStrength":10,
+			"FresnelIOR":1.8,
+			"FresnelFadeInTime":0.05,
+			"FresnelFadeOutTime":0.2,
+			"Loop":true
+		},
+		{"Type":"color_filter","Additive":{"a":1},"Multiplicative":{"r":0.5882353,"g":0.5882353,"b":0.5882353,"a":1},"Loop":true},
+		{"Type":"alpha","Alpha":0.5,"FadeInTime":0.1,"FadeOutTime":0.1,"Loop":true},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_invisibility_start | 21fb952f-3ccc-4bbc-bc5f-18c0bb0c85b2","Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"bat_buff_invisible","KillSoundOnEnd":true}
+	]
+}

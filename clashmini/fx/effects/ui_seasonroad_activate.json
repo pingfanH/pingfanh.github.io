@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_twinkle_loop_02 | 21fb952f-065a-4e06-861e-c40c9486a98f","Offset":{},"ComponentScale":100},{"Type":"sound","Sound":"ui_season_buying_fx_minipassup"}]
+}

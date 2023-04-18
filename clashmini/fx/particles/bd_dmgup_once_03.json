@@ -1,0 +1,27 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":20,
+		"lifetime":0.6,
+		"mass":1,
+		"spawnPointOffset":{"z":0.16666667},
+		"components":[
+			{"__class":"SpawnRate","duration":0.02,"spawnRate":5,"spawnRateJitter":10},
+			{"__class":"Deceleration","deceleration":[0,0,1.6666667]},
+			{"__class":"SpawnLocation","spawnShape":1,"spawnMinSize":0.33333334,"spawnMaxSize":0.33333334},
+			{"__class":"SpawnVelocityComponent","velocity":[0,0,3.3333335],"velocityJitter":[0,0,3.3333335]}
+		]
+	},
+	"render":{
+		"globalScale":0.0033333334,
+		"scale":[0.09895834,0.8723959,0.4557292,0.9713542,2,0],
+		"color":[[1,0.2,0],[1,0,0.8]],
+		"alpha":1,
+		"angle":-90,
+		"loopMovieClip":true,
+		"alphaFadeout":0.2,
+		"trailWidth":200,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/bd_point_blur_02 | 49e9c85e-3db7-4455-a28b-b9b3f5d092cb"]
+}

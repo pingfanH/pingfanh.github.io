@@ -1,0 +1,28 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":100,
+		"lifetime":1,
+		"lifetimeJitter":0.2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"gravity":[0,0,-3],
+		"components":[
+			{"__class":"SpawnRate","duration":0.1,"spawnRate":50},
+			{"__class":"SpawnPlanar","spawnMinSize":0.5,"spawnMaxSize":0.7,"maxAngle":360,"minSpeedZ":4,"maxSpeedZ":7,"randomAngle":true},
+			{"__class":"Deceleration","deceleration":[0,0,5]}
+		]
+	},
+	"render":{
+		"globalScale":0.016666668,
+		"scale":[0.0078125,0.7317709,0.2838542,0.99479175,2,0.5],
+		"scaleJitter":0.4,
+		"color":[0.5286459,0.14583334,0.8932292,0.5807292,[1,1,1],[0.3,0.8,1]],
+		"alpha":1,
+		"angleJitter":360,
+		"rotationSpeedJitter":[0.6223959,0.028645843,0.8776042,0.4010417,300,0],
+		"alphaFadeout":0.2,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/particle_glass01 | 49e9c85e-60ee-4114-affe-0bb67abf8353","sc/effects/particle_glass02 | 49e9c85e-8e68-4f2a-9317-58678952e4f8","sc/effects/particle_glass03 | 49e9c85e-8799-43d3-b116-415fe482cc2f","sc/effects/particle_glass04 | 49e9c85e-4e7c-47c9-a657-13c8f32de992"]
+}

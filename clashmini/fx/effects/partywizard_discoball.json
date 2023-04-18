@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{
+			"Type":"model",
+			"ModelMesh":"sc3d/fx_party_discoball | ec79f249-562d-4136-b634-b5abb179aee3",
+			"EffectOnModel":"fx/effects/partywizard_discoball_subeffect | 9047f5ea-f470-49f4-b4e7-c6413fe9158a",
+			"ModelFresnelColor":{"a":1},
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/wizard_party_em_stage01 | 21fb952f-7a23-481a-9ade-80b28ded29e2","FollowPosition":true,"FollowBone":"Hip","Offset":{},"ComponentScale":0.59999996,"Loop":true}
+	]
+}

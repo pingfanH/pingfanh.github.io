@@ -1,0 +1,48 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/bd_potter_firepunch_01 | 21fb952f-4496-4384-8464-bf3159c247a3",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"FollowBone":"Hand_L",
+			"Offset":{},
+			"ComponentScale":1
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_potter_firepunch_03 | 21fb952f-6a99-43ea-aa67-bf3159c447a3",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"FollowBone":"Hand_L",
+			"Offset":{},
+			"ComponentScale":1
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/bd_potter_firepunch_01 | 21fb952f-4496-4384-8464-bf3159c247a3",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"FollowBone":"Hand_R",
+			"Offset":{},
+			"ComponentScale":1
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_potter_firepunch_03 | 21fb952f-6a99-43ea-aa67-bf3159c447a3",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"FollowBone":"Hand_R",
+			"Offset":{},
+			"ComponentScale":1
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":5,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/speargoblin_def_atk_trail | 49e9c85e-32e3-484b-95c5-5812b67c8cb8",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"AllyOnly":true
+		},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/speargoblin_def_atk_trail_2 | 21fb952f-32c6-41f2-b2db-4c17666eda15","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1}
+	]
+}

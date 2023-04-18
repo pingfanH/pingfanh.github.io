@@ -1,0 +1,24 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":4,
+		"emitterDelay":0.145,
+		"lifetime":0.6,
+		"lifetimeJitter":0.3,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[{"__class":"SpawnRate","duration":0.07,"spawnRate":20,"spawnRateJitter":10}]
+	},
+	"render":{
+		"globalScale":0.0033333334,
+		"scale":[0.6,1],
+		"scaleJitter":0.1,
+		"color":[0.35677084,0.08333337,0.5963542,0.98697925,[1,1,1],[1,0.4,0.7]],
+		"alpha":1,
+		"angleJitter":90,
+		"alphaFadeout":0.15,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/mechaArcher_particle | 49e9c85e-1e64-4dc5-9b8c-5418d9cdf8b5","sc/effects/mechaArcher_particle2 | 49e9c85e-f3c2-43bf-bc3f-b98cabc5362e"]
+}

@@ -1,0 +1,9 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_cc_minstrel_hit_01 | 21fb952f-4300-44c3-8393-85d1ac82db4a","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_cc_minstrel_hit_02 | 21fb952f-d601-4476-b695-85d1ac83db4a","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_cc_minstrel_hit_03 | 21fb952f-6903-4429-a997-85d1ac84db4a","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_cc_minstrel_hit_04 | 21fb952f-fc04-44dc-9c98-85d1ac85db4a","Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"bat_hit_keyboard_arrow"}
+	]
+}

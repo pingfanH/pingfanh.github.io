@@ -1,0 +1,27 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"gravity":[0,0,-25],
+		"followEmitter":true,
+		"components":[{"__class":"SpawnRate","duration":0.1,"spawnRate":1},{"__class":"SpawnLocation"}]
+	},
+	"render":{
+		"globalScale":0.0016666667,
+		"scale":1,
+		"color":[1,1,1],
+		"alpha":0.1,
+		"loopMovieClip":true,
+		"alphaFadeout":1,
+		"trailEnabled":true,
+		"trailDuration":0.3,
+		"trailWidth":[0.33333334,0.33333334,0.6666667,0.6666667,50,10],
+		"trailHeadOrTails":true,
+		"trailImage":"image/tex_trail_heroarcher_01.png#premultiply",
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/bd_point_blur_01_pink | 49e9c85e-425d-4dd4-9f36-cf4b9587f54e"]
+}

@@ -1,0 +1,36 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"children":[
+				{
+					"name":"be_energy_pad_rig",
+					"pos":{"z":-0.03824538},
+					"rot":{},
+					"scl":{"x":1,"y":1,"z":1},
+					"components":[
+						{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/be_shield_rig","uuid":"ec79f249-f9fb-48f9-b984-e255a0420f46"},"m_instancing":true},
+						{
+							"objectType":5003,
+							"m_targettedMaterials":["Material_0"],
+							"m_diffuseColor":{"x":1,"y":1,"z":1},
+							"m_ambientColor":{"x":1,"y":1,"z":1},
+							"m_fresnelColor":{"x":1,"y":1,"z":1},
+							"m_specularColor":{"x":0.3803922,"y":0.37254903,"z":0.37254903},
+							"m_rimColor":{"x":0.8196079,"y":0.7803922,"z":0.7803922},
+							"m_specularBoardColor":{"x":0.81568635,"y":0.82745105,"z":0.8313726},
+							"m_teamColor":{"x":1,"y":1,"z":1},
+							"m_emissionColor":{"x":1,"y":1,"z":1}
+						}
+					]
+				},
+				{"name":"sun","pos":{},"rot":{"x":-76,"z":13},"scl":{"x":1,"y":1,"z":1}}
+			]
+		}
+	}
+}

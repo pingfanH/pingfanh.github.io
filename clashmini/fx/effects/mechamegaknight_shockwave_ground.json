@@ -1,0 +1,9 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","BlendMode":1,"Layer":4,"ParticleEmitter":"fx/particles/bd_shockwave_spark_04 | 21fb952f-daaf-4b3a-ba83-e8b9fc271db8","Offset":{},"ComponentScale":1},
+		{"Type":"screen_shake","ShakeTime":0.5,"ShakeMaxIntensity":0.040000003},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_lightgrid_01_red | 21fb952f-862a-4786-8679-2e02dcf66ecc","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/mechamegaknight_shockcrack_ground | 21fb952f-7a5f-477a-bab3-d4498995ad32","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_rock_01 | 21fb952f-81fe-4b01-81f9-59568862e819","Offset":{},"ComponentScale":1}
+	]
+}

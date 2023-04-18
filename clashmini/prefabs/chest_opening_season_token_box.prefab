@@ -1,0 +1,37 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[
+				{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/prop_currency_season_point","uuid":"ec79f249-4d3a-45cd-8d3d-fe0c758b5f78"},"m_animation":{"lastKnownPath":"animations/prop_box_coin_common","uuid":"defe63bc-60b0-4f60-a031-d29d4e7a5a66"},"m_instancing":true},
+				{"objectType":5005},
+				{
+					"objectType":5003,
+					"m_targettedMaterials":[":reserved:AllMaterial"],
+					"m_diffuseColor":{"x":1,"y":1,"z":1},
+					"m_ambientColor":{"x":1,"y":1,"z":1},
+					"m_fresnelColor":{"x":1,"y":1,"z":1},
+					"m_specularColor":{"x":1,"y":1,"z":1},
+					"m_rimColor":{"x":1,"y":1,"z":1},
+					"m_specularBoardColor":{"x":1,"y":1,"z":1},
+					"m_teamColor":{"x":1,"y":1,"z":1},
+					"m_emissionColor":{"x":1,"y":1,"z":1}
+				}
+			],
+			"children":[
+				{
+					"name":"skylight",
+					"pos":{},
+					"rot":{"x":-24,"z":-41},
+					"scl":{"x":1,"y":1,"z":1},
+					"components":[{"objectType":5013,"m_shadow_cha":0.029,"m_shadow_scene":0.04,"m_shadow_hero":0.55,"m_shadow_pbrcha":0.016,"m_shadow_pbrscene":0.044,"m_uber_dirIntensityMultiply":0.101,"m_uber_ambientIntensityMultiply":0.525}]
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":4,
+			"SWFClip":"sc/effects/bd_vam_candel_fire_f | 49e9c85e-8888-4051-9c06-0b1b7a47d862",
+			"FollowPosition":true,
+			"FollowBone":"fx",
+			"Offset":{"z":0.11666667},
+			"ComponentScale":0.39999998,
+			"Loop":true
+		}
+	]
+}

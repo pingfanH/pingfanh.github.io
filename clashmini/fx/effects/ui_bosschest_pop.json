@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_ember_once_01 | 21fb952f-5d84-411d-9d3e-4bf652755ad0","FollowBone":"chest","Offset":{"z":0.1},"ComponentScale":1.5},
+		{"Type":"sound","Sound":"ui_openchest_box_appear"}
+	]
+}

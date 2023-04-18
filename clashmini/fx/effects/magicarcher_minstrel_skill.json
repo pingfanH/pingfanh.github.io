@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"sound","Sound":"c_p_magicarcher_skill_shot_crystal"},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_cc_minstrel_skill_03 | 21fb952f-9186-41d1-9185-89cc5e890c40","FollowPosition":true,"FollowAngle":true,"Offset":{},"OffsetYaw":180,"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_cc_minstrel_skill_04 | 21fb952f-2488-4184-8487-89cc5e8a0c40","FollowPosition":true,"FollowAngle":true,"Offset":{},"OffsetYaw":180,"ComponentScale":1}
+	]
+}

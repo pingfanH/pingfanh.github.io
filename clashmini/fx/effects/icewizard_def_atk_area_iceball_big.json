@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_icewizard_def_atk_hit_smoke_01 | 21fb952f-b517-40f5-b5e4-ed19fb6b3569","FollowPosition":true,"Offset":{},"ComponentScale":0.2},
+		{"Type":"swf","Layer":3,"Offset":{},"ComponentScale":1}
+	]
+}

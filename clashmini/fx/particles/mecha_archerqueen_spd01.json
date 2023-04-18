@@ -1,0 +1,24 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":0.45,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.013333334,
+		"scale":[0.046875,0.6927084,0.6119792,0.8072917,0.75,1.15],
+		"color":[1,1,1],
+		"alpha":[0.7708334,-0.026041657,0.5885417,0.7838542,1,0],
+		"angleJitter":360,
+		"rotationSpeed":360,
+		"rotationSpeedJitter":100,
+		"loopMovieClip":true,
+		"trailEnabled":true
+	},
+	"movieclip":["sc/effects/mecha_ring_clips | 49e9c85e-e10e-4600-93bf-3652de47a7cd"]
+}

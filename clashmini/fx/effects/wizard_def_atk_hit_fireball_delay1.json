@@ -1,0 +1,8 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_wizard_def_atk_hit_smoke_01 | 21fb952f-806e-4fe0-a0ad-746596a24681","FollowPosition":true,"Offset":{},"ComponentScale":0.6,"StartTime":0.1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_wizard_def_atk_hit_flame_01 | 21fb952f-82ba-49c2-827a-40606c32ab48","Offset":{"y":-0.16666667},"AbsoluteOffset":true,"ComponentScale":0.4,"StartTime":0.1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_wizard_def_atk_hit_smoke_02 | 21fb952f-3973-4ff9-b9b2-746596a54681","Offset":{},"ComponentScale":0.55,"StartTime":0.1},
+		{"Type":"particle_emitter","Layer":6,"ParticleEmitter":"fx/particles/em_fireflash_01 | 21fb952f-688e-4308-8875-cfae1013c61f","Offset":{"y":0.16666667},"AbsoluteOffset":true,"ComponentScale":0.08,"StartTime":0.1}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/prop_currency_emote_rig","uuid":"ec79f249-a8a3-4888-88ba-267c5f92112b"},"m_animation":{"lastKnownPath":"animations/prop_box_coin_common","uuid":"defe63bc-60b0-4f60-a031-d29d4e7a5a66"}}]
+		}
+	}
+}

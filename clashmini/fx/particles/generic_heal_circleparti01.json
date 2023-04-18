@@ -1,0 +1,35 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":20,
+		"emitterDelay":0.15,
+		"lifetime":1,
+		"lifetimeJitter":0.4,
+		"mass":1,
+		"spawnPointOffset":{},
+		"gravity":[0,0,0.33333334],
+		"components":[
+			{"__class":"SpawnRate","duration":0.2,"spawnRate":13},
+			{"__class":"SpawnLocation","spawnShape":1,"spawnMaxSize":0.5},
+			{"__class":"SpawnVelocityComponent","velocity":[[0,0,2.5],[0,0,0.8333334]]},
+			{"__class":"Deceleration","deceleration":[0,0,3.3333335]}
+		]
+	},
+	"render":{
+		"globalScale":0.002,
+		"scale":1,
+		"scaleJitter":0.5,
+		"color":[0.5833334,0.044270843,1,0.22135419,[1,1,0.5],[1,0.5,0]],
+		"alpha":[1,0],
+		"rotationSpeed":[0.046875,0.5911459,0.9921875,0.6510417,280,0],
+		"rotationSpeedJitter":200,
+		"orientToDirection":true,
+		"loopMovieClip":true,
+		"alphaFadeout":0.1,
+		"trailDuration":0.15,
+		"trailWidth":[50,0],
+		"trailImage":"image/trail_holy.png#premultiply",
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/heal_particles01 | 49e9c85e-f36d-487b-8eec-8368d10d55a7","sc/effects/heal_particles02 | 49e9c85e-4e3e-4f82-9f2e-5ef5d481b45c","sc/effects/heal_particles03 | 49e9c85e-2bc7-47ed-b92e-651d7587fd0e"]
+}

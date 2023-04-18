@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_hit_01 | 21fb952f-d574-4f15-95f6-a79cea087359","Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"sfx_hero_champion_skill_super_hit"},
+		{"Type":"screen_shake","ShakeTime":0.1,"ShakeMaxIntensity":0.015000001},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":0.11764706,"g":0.5294118,"b":1,"a":1},
+			"FresnelStrength":50,
+			"FresnelIOR":1.8,
+			"FresnelFadeOutTime":0.1,
+			"ForcedLength":0.3,
+			"Loop":true
+		}
+	]
+}

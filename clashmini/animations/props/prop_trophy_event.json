@@ -1,0 +1,8 @@
+{
+	"States":[
+		{"Type":"AnimClip","Name":"Start","Animation":{"lastKnownPath":"sc3d/prop_event_medal_rig","uuid":"ec79f249-db21-475b-9ba4-4febaa1a61b3"},"EndFrame":40},
+		{"Type":"AnimClip","Name":"Loop","Loop":true,"Animation":{"lastKnownPath":"sc3d/prop_event_medal_rig","uuid":"ec79f249-db21-475b-9ba4-4febaa1a61b3"},"StartFrame":40,"EndFrame":120},
+		{"Type":"Sequence","Name":"Comp","SubStates":["Start","Loop"]}
+	],
+	"DefaultState":"Comp"
+}

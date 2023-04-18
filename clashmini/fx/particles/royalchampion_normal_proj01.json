@@ -1,0 +1,30 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":500,
+		"lifetime":0.5,
+		"lifetimeJitter":[1,1.5],
+		"mass":1,
+		"spawnPointOffset":{"x":0.083333336,"z":0.5},
+		"components":[
+			{"__class":"SpawnRate","infinite":true},
+			{"__class":"SpawnLocation","spawnShape":2,"spawnMaxSize":0.25},
+			{"__class":"SpawnVelocityComponent","velocity":[1.6666667,2,0.8333334],"velocityJitter":[0.8333334,0.16666667,0]},
+			{"__class":"Deceleration","deceleration":[6.666667,0.8333334,0]}
+		]
+	},
+	"render":{
+		"globalScale":0.0025,
+		"scale":0.8,
+		"scaleJitter":0.2,
+		"color":[1,1,0.8],
+		"alpha":1,
+		"angleJitter":360,
+		"orientToDirection":true,
+		"alphaFadeout":0.5,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/water_texture01 | 49e9c85e-36e4-41fa-b6cf-a72b2b358c94","sc/effects/water_texture02 | 49e9c85e-5fd0-4cf5-9c14-f9c58ddbe613","sc/effects/water_texture03 | 49e9c85e-8c53-45cb-b3ab-56a1a554710f"]
+}

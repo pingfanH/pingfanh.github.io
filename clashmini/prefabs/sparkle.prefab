@@ -1,0 +1,14 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/chr_archer_skin_sparkle_rig","uuid":"ec79f249-0e6d-4dce-8e4b-c8b5c52a62b6"},"m_animation":{"lastKnownPath":"animations/characters/chr_archer","uuid":"defe63bc-1e97-4a9e-9eb9-8456189f09bd"}}],
+			"children":[{"name":"Node","pos":{},"rot":{"x":-66},"scl":{"x":1,"y":1,"z":1}}]
+		}
+	}
+}

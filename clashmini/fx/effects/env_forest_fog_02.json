@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/em_forest_fog_02 | 21fb952f-3082-4a30-b076-896a6be977c2",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		}
+	]
+}

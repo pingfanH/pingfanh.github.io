@@ -1,0 +1,60 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"FollowPosition":true,"FollowAngle":true,"FollowBone":"Root","Offset":{},"ComponentScale":1,"Loop":true},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_wave_splash_end_01 | 21fb952f-9f8c-4d9f-9fae-20851ff54746",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Root",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_wave_splash_end_02 | 21fb952f-328e-4d52-92b0-20851ff64746",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Root",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_wave_splash_end_03 | 21fb952f-c58f-4d05-85b2-20851ff74746",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Root",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":3,
+			"ParticleEmitter":"fx/particles/bd_wave_splash_shadow_02 | 21fb952f-b184-44b1-b14a-dc44727853d4",
+			"FollowPosition":true,
+			"FollowBone":"Root",
+			"Offset":{},
+			"ComponentScale":1,
+			"ForcedLength":0.05,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":3,
+			"ParticleEmitter":"fx/particles/bd_wave_ripple_01 | 21fb952f-aedd-46ce-8e1c-7a0247fc2ca2",
+			"FollowPosition":true,
+			"FollowBone":"Root",
+			"Offset":{},
+			"ComponentScale":1,
+			"ForcedLength":0.05,
+			"Loop":true
+		}
+	]
+}

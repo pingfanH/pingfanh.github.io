@@ -1,0 +1,14 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":5,
+			"SWFClip":"sc/effects/mecha_archerqueen_atk | 49e9c85e-c7be-4b7b-b41e-aafe1eca8972",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Root",
+			"Offset":{"x":-0.13333334,"y":-0.6666667,"z":0.6666667},
+			"ComponentScale":1
+		}
+	]
+}

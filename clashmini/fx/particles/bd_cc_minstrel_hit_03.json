@@ -1,0 +1,29 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":10,
+		"lifetime":1,
+		"lifetimeJitter":0.5,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","duration":0.1,"spawnRate":50},
+			{"__class":"Drag","dragCoeffecient":20000},
+			{"__class":"SpawnCone","direction":[1,0,0],"directionJitterAngle":90,"velocity":10,"velocityJitter":5}
+		]
+	},
+	"render":{
+		"globalScale":0.006666667,
+		"scale":[0,0.7630209,0.2760417,0.7369792,2,0],
+		"scaleJitter":[0,0.8723959,0.4166667,0.7994792,0.5,0],
+		"color":[[1,1,1],[0.5,1,1]],
+		"alpha":1,
+		"rotationSpeed":100,
+		"rotationSpeedJitter":360,
+		"loopMovieClip":true,
+		"alphaFadeout":0.05,
+		"trailDuration":0.6,
+		"trailHeadOrTails":true
+	},
+	"movieclip":["sc/effects/bd_crystal_01 | 49e9c85e-6494-483c-a572-967360b6e503"]
+}

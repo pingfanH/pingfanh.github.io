@@ -1,0 +1,13 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":3,
+			"SWFClip":"sc/effects/ani_chest_open_herobox_bg | 49e9c85e-2161-4564-a451-850ff46d86c6",
+			"Offset":{"y":1.3333334,"z":0.33333334},
+			"ComponentScale":0.1,
+			"Loop":true
+		}
+	]
+}

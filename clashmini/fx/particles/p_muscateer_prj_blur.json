@@ -1,0 +1,32 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":100,
+		"lifetime":0.2,
+		"lifetimeJitter":0.2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","infinite":true,"spawnRate":50},
+			{"__class":"SpawnVelocityComponent","velocity":[0,-1,0],"velocityJitter":[0,0.5,0]},
+			{"__class":"SpawnLocation","spawnShape":1,"spawnMinSize":0.1,"spawnMaxSize":0.3},
+			{"__class":"Deceleration","deceleration":[4,4,4]}
+		]
+	},
+	"render":{
+		"globalScale":0.005,
+		"scale":[0.359375,0.044270843,0.9088542,0.7447917,0.9,0.3],
+		"scaleJitter":0.3,
+		"color":[1,1,1],
+		"alpha":[0.48958337,0.028645843,0.7369792,0.9869792,0.8,0],
+		"angleJitter":360,
+		"rotationSpeed":150,
+		"rotationSpeedJitter":20,
+		"alphaFadeout":0.3,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/muscateer_rainbow_01 | 49e9c85e-2f44-4fc6-86a1-e95549761e56","sc/effects/muscateer_rainbow_02 | 49e9c85e-8ac8-4918-b128-2eedf77ec129"]
+}

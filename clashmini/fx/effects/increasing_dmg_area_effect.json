@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"swf","Layer":4,"SWFClip":"sc/effects/bd_glare_red | 49e9c85e-9f23-41f5-ab14-9db6675ad09f","FollowPosition":true,"FollowBone":"Hand_R","Offset":{"z":0.033333335},"ComponentScale":1},
+		{"Type":"screen_shake","ShakeTime":0.1,"ShakeMaxIntensity":0.05}
+	]
+}

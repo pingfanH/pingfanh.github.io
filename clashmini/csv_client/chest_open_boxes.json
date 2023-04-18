@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "name": "Mini",
+            "prefab": "prefabs/chest_opening_mini_box",
+            "boxOpenSound": "ui_openbox_openedup_mini",
+			"boxAmbientEffect": "fx/effects/ui_reward_ambient_effect",
+            "modelAmbientEffect": "fx/effects/ui_reward_ambient_effect"
+        },
+        {
+            "name": "Coin",
+            "prefab": "prefabs/chest_opening_coin_box",
+            "boxOpenSound": "ui_openbox_openedup_items"
+        },
+        {
+            "name": "Skin",
+            "prefab": "prefabs/chest_opening_skin_box",
+            "boxOpenSound": "ui_openbox_openedup_hero",
+			"boxAmbientEffect": "fx/effects/ui_reward_ambient_effect_hero",
+            "modelAmbientEffect": "fx/effects/ui_reward_ambient_effect"
+        },
+        {
+            "name": "Hero",
+            "prefab": "prefabs/chest_opening_hero_box",
+            "boxOpenSound": "ui_openbox_openedup_hero",
+			"boxAmbientEffect": "fx/effects/ui_reward_ambient_effect_hero",
+            "modelAmbientEffect": "fx/effects/ui_reward_ambient_effect"
+        },
+        {
+            "name": "Emote",
+            "prefab": "prefabs/chest_opening_emote",
+            "boxOpenSound": "ui_openbox_openedup_mini"
+        }
+    ]
+}

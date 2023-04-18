@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"model","ModelMesh":"sc3d/fx_lavadrop_soldier_spawn | ec79f249-2ebb-4a6e-aeaa-37422c0f60c3","ModelFresnelColor":{"a":1},"Offset":{},"ComponentScale":1}]
+}

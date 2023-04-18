@@ -1,0 +1,36 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":4,
+		"emitterDelay":0.15,
+		"lifetime":1.5,
+		"lifetimeJitter":0.5,
+		"mass":1,
+		"spawnPointOffset":{"z":1.1666667},
+		"gravity":[0,0,0.33333334],
+		"components":[
+			{"__class":"SpawnRate","duration":0.2,"spawnRate":13},
+			{"__class":"SpawnLocation","spawnShape":1,"spawnMaxSize":0.5},
+			{"__class":"SpawnVelocityComponent","velocity":[[0,0,2.5],[0,0,0.8333334]]},
+			{"__class":"Deceleration","deceleration":[0,0,3.3333335]},
+			{"__class":"CurlNoise","frequency":0.5,"strength":[0.46614584,0.036458343,0.4557292,0.9010417,3.3333335,0.8333334]}
+		]
+	},
+	"render":{
+		"globalScale":0.0016666667,
+		"scale":1,
+		"scaleJitter":0.5,
+		"color":[1,1,1],
+		"alpha":[0.49739587,-0.026041657,0.6197917,0.8229167,1,0],
+		"rotationSpeed":[0.046875,0.5911459,0.9921875,0.6510417,280,0],
+		"rotationSpeedJitter":200,
+		"orientToDirection":true,
+		"loopMovieClip":true,
+		"alphaFadeout":0.1,
+		"trailEnabled":true,
+		"trailDuration":0.1,
+		"trailWidth":[10,0],
+		"trailImage":"image/trail_holy.png#premultiply"
+	},
+	"movieclip":["sc/effects/smash_tension003 | 49e9c85e-6a53-4f0a-8901-ee9eac0ed249"]
+}

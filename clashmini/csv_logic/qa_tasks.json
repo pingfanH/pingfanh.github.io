@@ -1,0 +1,13 @@
+{
+	"data":[
+		{
+			"name":"QA_Task_01",
+			"category":1,
+			"conditions":[
+				{"type":12,"showCounter":false,"round":1},
+				{"type":14,"showCounter":false,"checkMode":1,"character":34000005,"abilityType":2,"abilityData":"speargoblin_start","damage":8}
+			],
+			"action":[{"type":4,"category":0,"content":"Welcome To QA Mode","popupType":1}]
+		}
+	]
+}

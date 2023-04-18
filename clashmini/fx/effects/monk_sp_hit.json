@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_monk_sp_hit | 21fb952f-3975-4159-99d9-5e441e536375","Offset":{"z":0.33333334},"ComponentScale":1}]
+}

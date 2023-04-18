@@ -1,0 +1,36 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_B1_hit02 | 21fb952f-cd72-430d-8d11-f748fb0cae86","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":0.24705882,"g":0.5568628,"b":1,"a":1},
+			"FresnelStrength":20,
+			"FresnelIOR":1.3,
+			"FresnelFadeOutTime":0.3,
+			"ForcedLength":0.3
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/p_natureborn_B1_hit01 | 21fb952f-298d-47e2-a520-778ba65ceb54",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Spine1",
+			"Offset":{},
+			"ComponentScale":1,
+			"ForcedLength":100
+		},
+		{
+			"Type":"color_filter",
+			"Additive":{"r":0.05882353,"g":0.40392157,"b":0.79607844,"a":0.2},
+			"Multiplicative":{"g":0.58431375,"b":1,"a":0.23921569},
+			"FadeOutTime":0.05,
+			"ForcedLength":0.1
+		},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_B1_hit03 | 21fb952f-a76f-43a7-a70d-f748fb0aae86","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_B1_hit04 | 21fb952f-ee6a-438e-8e08-f748fb07ae86","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_B1_hit05 | 21fb952f-816c-4341-810a-f748fb08ae86","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_B1_hit06 | 21fb952f-c867-4328-a805-f748fb05ae86","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"sfx_hero_skin_astral_atk_hit"}
+	]
+}

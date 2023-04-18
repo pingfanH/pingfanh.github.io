@@ -1,0 +1,17 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":4,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/sc_megaknight_def_jump_smoke_gr | 49e9c85e-456a-4a0b-95ff-bb848326d098",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"z":0.33333334},
+			"OffsetYaw":180,
+			"ComponentScale":0.1,
+			"ForcedLength":0.5,
+			"AllyOnly":true
+		}
+	]
+}

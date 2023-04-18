@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/goldengiant_diver_em_bubble01 | 21fb952f-bbac-499b-9b80-d6a2d87653c2",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Head1",
+			"Offset":{"y":-0.33333334,"z":0.33333334},
+			"ComponentScale":1,
+			"AllyOnly":true
+		}
+	]
+}

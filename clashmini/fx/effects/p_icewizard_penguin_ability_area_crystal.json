@@ -1,0 +1,9 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_icewizard_penguin_ability_spark | 21fb952f-49ab-4e09-895f-f5ef7795fab5","Offset":{},"ComponentScale":0.8},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/em_icewizard_penguin_ability_grid | 21fb952f-c423-49a4-a465-1de172982f9e","FollowPosition":true,"Offset":{},"ComponentScale":1.6},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_icewizard_penguin_ability_glass | 21fb952f-5826-4dd8-98f6-ecbb87fee9e2","Offset":{},"ComponentScale":0.7},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_icewizard_penguin_ability_lightpillar | 21fb952f-ac2c-414c-8ce9-a418332cb53b","Offset":{"z":0.2},"ComponentScale":1},
+		{"Type":"sound","Sound":"sfx_arcticmage_skill"}
+	]
+}

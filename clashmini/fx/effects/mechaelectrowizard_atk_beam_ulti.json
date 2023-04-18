@@ -1,0 +1,34 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":4,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/mechaElectrowizard_beam_ulti | 49e9c85e-4fd6-4f9d-b7f2-c21c6a1b2e7a",
+			"FlashWidth":190,
+			"FollowBone":"Hand_L",
+			"Offset":{"z":0.16666667},
+			"ComponentScale":1
+		},
+		{
+			"Type":"swf",
+			"Layer":3,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/mechaElectrowizard_beam_ulti_behind | 49e9c85e-2476-44d7-81d3-973a9214d9a5",
+			"FlashWidth":190,
+			"FollowBone":"Hand_L",
+			"Offset":{"z":0.16666667},
+			"ComponentScale":1
+		},
+		{
+			"Type":"swf",
+			"Layer":5,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/mechaElectrowizard_beam_hand | 49e9c85e-f24a-4a68-99d0-9e2d2be5fec8",
+			"FlashWidth":190,
+			"FollowBone":"Hand_L",
+			"Offset":{"z":0.16666667},
+			"ComponentScale":1
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":100,
+		"lifetime":0.5,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","duration":0.5,"spawnRate":15},
+			{"__class":"Spring","stiffness":100,"damping":800,"relativeToSpawn":true},
+			{"__class":"SpawnLocation","spawnShape":1,"spawnMinSize":0.6666667,"spawnMaxSize":1},
+			{"__class":"SpawnCone","direction":[0,0,1],"directionJitterAngle":180,"velocity":10}
+		]
+	},
+	"render":{
+		"globalScale":0.0016666667,
+		"scale":1,
+		"scaleJitter":[0,0.5],
+		"color":[1,1,1],
+		"alpha":0.5,
+		"alphaFadeout":0.2,
+		"trailEnabled":true,
+		"trailDuration":0.4,
+		"trailWidth":[30,0],
+		"trailHeadOrTails":true,
+		"trailImage":"image/acy_alcolyte_trail.png#premultiply",
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/bd_cc_minstrel_pixel_01 | 49e9c85e-77d4-44bb-ae04-daa81c625602"]
+}

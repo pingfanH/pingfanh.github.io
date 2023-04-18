@@ -1,0 +1,29 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":100,
+		"lifetime":0.2,
+		"lifetimeJitter":0.1,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","infinite":true,"duration":0.5,"spawnRate":200},
+			{"__class":"SpawnCone","direction":[0,0,1],"directionJitterAngle":1,"velocity":1.6666667},
+			{"__class":"Spring","positionDelta":[1.6666667,3.3333335,1.6666667]}
+		]
+	},
+	"render":{
+		"globalScale":0.008333334,
+		"scale":[0.31770834,-0.49479163,0.8697917,-0.3802083,1,0.5],
+		"scaleJitter":0.2,
+		"color":[[1,1,0],[1,0,0]],
+		"alpha":1,
+		"angleJitter":360,
+		"orientToDirection":true,
+		"alphaFadeout":0.2,
+		"trailEnabled":true,
+		"trailHeadOrTails":true,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/bd_fire_particle_06 | 49e9c85e-bb76-4c21-a856-5321dc98d17e","sc/effects/bd_fire_particle_05 | 49e9c85e-3951-439a-b283-649bbf72d8a8","sc/effects/bd_fire_particle_07 | 49e9c85e-c44c-45d5-a773-4465a63c428a"]
+}

@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":3,
+			"ParticleEmitter":"fx/particles/bd_blue_glow_01 | 21fb952f-fec4-49be-be53-42c0dd5c01b5",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":3,
+			"Loop":true
+		}
+	]
+}

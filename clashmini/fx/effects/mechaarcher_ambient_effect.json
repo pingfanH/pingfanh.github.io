@@ -1,0 +1,27 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/skin_a1000_victory_01 | 21fb952f-f51a-4e35-b5d1-0723a486afb8","FollowPosition":true,"FollowAngle":true,"FollowBone":"fx","Offset":{},"ComponentScale":1},
+		{
+			"Type":"particle_emitter",
+			"Layer":3,
+			"ParticleEmitter":"fx/particles/skin_a1000_victory_02 | 21fb952f-3c16-4e1c-9ccc-0723a483afb8",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"fx",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":5,
+			"SWFClip":"sc/effects/bd_point_blur_01_pink | 49e9c85e-425d-4dd4-9f36-cf4b9587f54e",
+			"FollowPosition":true,
+			"FollowBone":"fx",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		}
+	]
+}

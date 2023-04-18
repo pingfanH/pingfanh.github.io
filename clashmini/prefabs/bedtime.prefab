@@ -1,0 +1,27 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[
+				{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/chr_royalghost_skin_bedtime_rig","uuid":"ec79f249-5177-4df1-b1e4-62dc8c808001"},"m_animation":{"lastKnownPath":"animations/characters/chr_royalghost_skin_bedtime","uuid":"defe63bc-d397-42f3-b392-c88918d0792c"}},
+				{
+					"objectType":5003,
+					"m_targettedMaterials":["GLSLShader1"],
+					"m_diffuseColor":{"x":1,"y":1,"z":1},
+					"m_ambientColor":{"x":1,"y":1,"z":1},
+					"m_fresnelColor":{"x":1,"y":1,"z":1},
+					"m_specularColor":{"x":1,"y":1,"z":1},
+					"m_rimColor":{"y":1,"z":0.3529412},
+					"m_specularBoardColor":{"x":0.03529412,"y":0.15686275,"z":0.19607845},
+					"m_teamColor":{"x":1,"y":0.82745105,"z":0.82745105},
+					"m_emissionColor":{"x":1,"y":1,"z":1}
+				}
+			]
+		}
+	}
+}

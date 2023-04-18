@@ -1,0 +1,8 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/wavemaster_B1_spe_hit | 21fb952f-0153-4681-81b9-5fad0553fc8c","Offset":{},"ComponentScale":0.8},
+		{"Type":"sound","Sound":"bat_skill_punch"},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/wavemaster_B1_spe_particle | 21fb952f-0e52-48ee-ae22-df3c732d468b","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/wavemaster_B1_spe_water | 21fb952f-fb5f-491b-9b50-bfe73f19516f","Offset":{},"ComponentScale":1}
+	]
+}

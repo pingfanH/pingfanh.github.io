@@ -1,0 +1,28 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":4,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/mechaSpeargoblin_projectile_fire_ulti | 49e9c85e-3581-4bf8-bce9-fd5c922d52f2",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"x":0.2},
+			"ComponentScale":2,
+			"Loop":true
+		},
+		{
+			"Type":"swf",
+			"Layer":4,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/mechaSpeargoblin_projectile_fire_ulti | 49e9c85e-3581-4bf8-bce9-fd5c922d52f2",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"x":-0.2},
+			"ComponentScale":2,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":6,"ParticleEmitter":"fx/particles/mechaspeargoblin_projectile_smoke_ulti | 21fb952f-c812-4388-881a-7ec720caf36b","FollowPosition":true,"FollowAngle":true,"Offset":{"x":0.2},"ComponentScale":1.5},
+		{"Type":"particle_emitter","Layer":6,"ParticleEmitter":"fx/particles/mechaspeargoblin_projectile_smoke_ulti | 21fb952f-c812-4388-881a-7ec720caf36b","FollowPosition":true,"FollowAngle":true,"Offset":{"x":-0.2},"ComponentScale":1.5}
+	]
+}

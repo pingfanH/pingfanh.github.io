@@ -1,0 +1,10 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/generic_water_ball | 21fb952f-26af-4386-86fd-8dd971690b54","Offset":{},"ComponentScale":1},
+		{"Type":"screen_shake","ShakeTime":0.5,"ShakeMaxIntensity":0.040000003},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_lightgrid_01_blue | 21fb952f-5b71-40db-9bec-950850172f87","Offset":{},"ComponentScale":1,"AllyOnly":true},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_lightgrid_01_red | 21fb952f-862a-4786-8679-2e02dcf66ecc","Offset":{},"ComponentScale":1,"EnemyOnly":true},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_split_grid | 21fb952f-e521-4685-85fa-47d6a2c2dae1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_water_spout_once_03_small | 21fb952f-c1c2-4041-81bf-3897ed546660","Offset":{},"ComponentScale":1}
+	]
+}

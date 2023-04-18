@@ -1,0 +1,13 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":5,
+		"lifetime":2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"followEmitter":true,
+		"components":[{"__class":"SpawnLocation"},{"__class":"SpawnRate","infinite":true,"spawnRate":0.57,"spawnRateJitter":[0,0]}]
+	},
+	"render":{"globalScale":0.016666668,"scale":1,"color":[1,1,1],"alpha":0.5,"trailWidth":1},
+	"movieclip":["sc/effects/wizard_party_stage01 | 49e9c85e-db2c-40dc-b34e-4f3c9568d897"]
+}

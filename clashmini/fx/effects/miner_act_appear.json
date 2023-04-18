@@ -1,0 +1,8 @@
+{
+	"Components":[
+		{"Type":"sound","Sound":"c_p_miner_act_appear"},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_miner_def_ability_digging_smoke_once | 21fb952f-9460-4434-b48c-1ad21c49fd73","Offset":{"z":0.16666667},"ComponentScale":0.75},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_miner_digging_02_once | 21fb952f-4a22-4d6a-aa60-1c3bbcf719c0","Offset":{"z":0.16666667},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_miner_digging_01_once | 21fb952f-b9f0-4a99-996a-a301d5eae440","Offset":{"z":0.16666667},"ComponentScale":0.5}
+	]
+}

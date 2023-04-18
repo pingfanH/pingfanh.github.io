@@ -1,0 +1,36 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":100,
+		"lifetime":20,
+		"lifetimeJitter":2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"gravity":[[0,100,0],[0,70,0]],
+		"components":[
+			{"__class":"SpawnRate","duration":0.6,"spawnRate":1000,"spawnRateJitter":10},
+			{"__class":"SpawnLocation","spawnMinSize":5,"spawnMaxSize":5},
+			{"__class":"SpawnCone","direction":[0.2,-1,0],"directionJitterAngle":20,"velocity":60,"velocityJitter":20},
+			{"__class":"Deceleration","deceleration":[[0,0,0],[70,70,70]]},
+			{"__class":"CurlNoise","frequency":50,"strength":100}
+		]
+	},
+	"render":{
+		"globalScale":0.01,
+		"scale":[0.33333334,0.33333334,0.6666667,0.6666667,1,2],
+		"scaleJitter":[0.33333334,0.33333334,0.6666667,0.6666667,0.8,0.8],
+		"color":[0.33333334,0.33333334,0.6666667,0.6666667,[1,1,1],[1,1,1]],
+		"alpha":[0.33333334,0.33333334,0.6666667,0.6666667,1,1],
+		"angle":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"angleJitter":[0.33333334,0.33333334,0.6666667,0.6666667,50,50],
+		"rotationSpeed":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"rotationSpeedJitter":[0.33333334,0.33333334,0.6666667,0.6666667,80,80],
+		"orientToDirection":true,
+		"tailLength":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"tailLengthJitter":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"loopMovieClip":true,
+		"alphaFadeout":0.2,
+		"trailWidth":[0.33333334,0.33333334,0.6666667,0.6666667,1,1]
+	},
+	"movieclip":["sc/effects/bd_confetti_01_white | 49e9c85e-2353-49fa-9799-d437994c5af6","sc/effects/bd_confetti_01_blue | 49e9c85e-886a-40b8-b42a-8df5c19069e7","sc/effects/bd_confetti_01_yellow | 49e9c85e-3a84-4aae-823e-c7feb6ed6397","sc/effects/bd_confetti_01_red | 49e9c85e-ba53-4a11-a330-f6b41999bdbd"]
+}

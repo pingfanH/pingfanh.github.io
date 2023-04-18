@@ -1,0 +1,6 @@
+Name,ExpToNextLevel,UnlocksTID
+String,int,String
+1,50,
+2,250,
+3,450,
+4,-1,

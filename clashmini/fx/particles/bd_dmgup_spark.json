@@ -1,0 +1,30 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":200,
+		"lifetime":0.4,
+		"lifetimeJitter":0.2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"gravity":[0,0,1.6666667],
+		"components":[
+			{"__class":"SpawnRate","infinite":true,"spawnRate":6},
+			{"__class":"SpawnCone","direction":[0,0,1],"directionJitterAngle":180,"velocity":1.6666667},
+			{"__class":"Deceleration","deceleration":[3.3333335,3.3333335,3.3333335]},
+			{"__class":"SpawnLocation","spawnShape":1,"spawnMaxSize":0.33333334}
+		]
+	},
+	"render":{
+		"globalScale":0.013333334,
+		"scale":[0.078125,0.9348959,1,0.43229175,0.5,0.1],
+		"scaleJitter":0.1,
+		"color":[[1,0.9,0.9],[1,0.5,0.5]],
+		"alpha":[0.09895834,0.49739584,0.0625,0.97135425,0,1],
+		"angleJitter":180,
+		"rotationSpeedJitter":50,
+		"alphaFadeout":0.1,
+		"trailEnabled":true,
+		"trailDuration":0.1
+	},
+	"movieclip":["sc/effects/get_legend_spark1 | 49e9c85e-1759-4c52-80d1-b7e59911a403"]
+}

@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/unit_summonvfx_emitter | 21fb952f-b0cd-47b0-b09b-b4bcf31263b1","FollowPosition":true,"Offset":{},"ComponentScale":3,"ForcedLength":2}]
+}

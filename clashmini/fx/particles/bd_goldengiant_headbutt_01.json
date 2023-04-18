@@ -1,0 +1,15 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{"maxParticleCount":1,"lifetime":0.6,"mass":1,"spawnPointOffset":{},"components":[{"__class":"SpawnRate","duration":0.01,"spawnRate":60},{"__class":"Ground"}]},
+	"render":{
+		"globalScale":0.008333334,
+		"scale":1,
+		"color":[1,1,1],
+		"alpha":1,
+		"angleJitter":100,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/knockout_hit_effect_yellow | 49e9c85e-1f63-4072-b86a-0718eee6202f"]
+}

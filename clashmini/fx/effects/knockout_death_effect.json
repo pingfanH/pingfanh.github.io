@@ -1,0 +1,39 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_knockup_smoke_blue | 21fb952f-942e-4ad4-9469-12c8faa291bc","FollowPosition":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1,"StartTime":0.3},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_knockout_hit_effect | 21fb952f-565d-4af6-b643-23ad69205b9a","FollowBone":"Spine1","Offset":{},"ComponentScale":1,"AllyOnly":true},
+		{"Type":"screen_shake","ShakeTime":0.2,"ShakeMaxIntensity":0.05,"AllyOnly":true},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_knockout_hit_effect_red | 21fb952f-9ac6-4a3a-ba7d-bba05181fa42","FollowBone":"Spine1","Offset":{},"ComponentScale":1,"EnemyOnly":true},
+		{"Type":"screen_shake","ShakeTime":0.2,"ShakeMaxIntensity":0.05,"EnemyOnly":true},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_knockout_hit_effect_cloud | 21fb952f-b0e3-4b10-908a-2344ecd79038","Offset":{},"ComponentScale":1,"StartTime":0.3},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_knockout_hit_effect_star | 21fb952f-075c-4347-876c-be55adb2c1a8","Offset":{},"ComponentScale":1},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":0.11764706,"g":0.5294118,"b":1,"a":1},
+			"FresnelStrength":20,
+			"FresnelIOR":1.8,
+			"FresnelFadeOutTime":0.3,
+			"ForcedLength":0.3,
+			"AllyOnly":true
+		},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":1,"g":0.39215687,"b":0.78431374,"a":1},
+			"FresnelStrength":20,
+			"FresnelIOR":1.8,
+			"FresnelFadeOutTime":0.3,
+			"ForcedLength":0.3,
+			"EnemyOnly":true
+		},
+		{
+			"Type":"color_filter",
+			"Additive":{"a":1},
+			"Multiplicative":{"r":0.003921569,"g":0.003921569,"b":0.003921569,"a":1},
+			"FadeInTime":1,
+			"StartTime":0.5
+		},
+		{"Type":"alpha","Alpha":0.01,"FadeInTime":0.2,"FadeOutTime":0.2,"FadeDir":true,"StartTime":1.2},
+		{"Type":"sound","Sound":"bat_common_death_3p","EnemyOnly":true},
+		{"Type":"sound","Sound":"bat_common_death_1p","AllyOnly":true}
+	]
+}

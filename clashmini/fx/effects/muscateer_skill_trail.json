@@ -1,0 +1,10 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_muscateer_prj_trail | 21fb952f-634c-4623-a391-d76505524f44","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"swf","Layer":5,"SWFClip":"sc/effects/muscateer_prj_head | 49e9c85e-7a51-494e-9f38-9c08e65e8b10","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":0.6,"Loop":true},
+		{"Type":"particle_emitter","BlendMode":2,"Layer":5,"ParticleEmitter":"fx/particles/p_muscateer_prj_particle | 21fb952f-bb07-4cdb-9be8-573a1a29413e","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_muscateer_prj_blur | 21fb952f-bd42-4e9d-9dda-e88869c86e81","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_muscateer_prj_star | 21fb952f-4cc6-41ac-acbf-def6f28c108c","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_muscateer_atk_muzzle | 21fb952f-6bc3-438b-8bc7-c7bbf7d163ac","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1}
+	]
+}

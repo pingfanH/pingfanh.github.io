@@ -1,0 +1,682 @@
+{
+    "data": [
+        {
+            "name": "Tutorial_Solo",
+            "Rewards": [
+                {
+                    "RankReq": 0,
+                    "Base": [
+                        "rankReward_Gold_5"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_2"
+                    ]
+                },
+                {
+                    "RankReq": 1,
+                    "Base": [
+                        "rankReward_Gold_5"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_2"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tutorial_Tournament",
+            "Rewards": [
+                {
+                    "RankReq": 7,
+                    "Base": [
+                        "rankReward_Gold_5"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_2"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bronze_Solo",
+            "Rewards": [
+                {
+                    "RankReq": 0,
+                    "Base": [
+                        "rankReward_Gold_50",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_2",
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_2",
+                        "rankReward_RankPoints_2",
+                        "rankReward_RankPoints_3"
+                    ]
+                },
+                {
+                    "RankReq": 1,
+                    "Base": [
+                        "rankReward_Gold_50"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_2",
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_2"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bronze_Tournament",
+            "Rewards": [
+                {
+                    "RankReq": 0,
+                    "Base": [
+                        "rankReward_Gold_80",
+                        "SeasonPoints_2"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_12",
+                        "rankReward_RankPoints_12",
+                        "rankReward_RankPoints_1"
+                    ]
+                },
+                {
+                    "RankReq": 1,
+                    "Base": [
+                        "rankReward_Gold_80",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_14",
+                        "rankReward_RankPoints_1"
+                    ]
+                },
+                {
+                    "RankReq": 3,
+                    "Base": [
+                        "rankReward_Gold_60",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_7",
+                        "rankReward_RankPoints_3"
+                    ]
+                },
+                {
+                    "RankReq": 7,
+                    "Base": [
+                        "rankReward_Gold_50"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_7",
+                        "rankReward_RankPoints_3"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Silver_Solo",
+            "Rewards": [
+                {
+                    "RankReq": 0,
+                    "Base": [
+                        "rankReward_Gold_50",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_3"
+                    ]
+                },
+                {
+                    "RankReq": 1,
+                    "Base": [
+                        "rankReward_Gold_50"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_2"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Silver_Tournament",
+            "Rewards": [
+                {
+                    "RankReq": 0,
+                    "Base": [
+                        "rankReward_Gold_80",
+                        "SeasonPoints_2"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_12",
+                        "rankReward_RankPoints_12",
+                        "rankReward_RankPoints_1"
+                    ]
+                },
+                {
+                    "RankReq": 1,
+                    "Base": [
+                        "rankReward_Gold_80",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_14",
+                        "rankReward_RankPoints_1"
+                    ]
+                },
+                {
+                    "RankReq": 3,
+                    "Base": [
+                        "rankReward_Gold_60",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_7",
+                        "rankReward_RankPoints_3"
+                    ]
+                },
+                {
+                    "RankReq": 7,
+                    "Base": [
+                        "rankReward_Gold_50"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_2",
+                        "rankReward_RankPoints_3"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Gold_Solo",
+            "Rewards": [
+                {
+                    "RankReq": 0,
+                    "Base": [
+                        "rankReward_Gold_50",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_3"
+                    ]
+                },
+                {
+                    "RankReq": 1,
+                    "Base": [
+                        "rankReward_Gold_50"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_3"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Gold_Tournament",
+            "Rewards": [
+                {
+                    "RankReq": 0,
+                    "Base": [
+                        "rankReward_Gold_80",
+                        "SeasonPoints_2"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_12",
+                        "rankReward_RankPoints_12",
+                        "rankReward_RankPoints_1"
+                    ]
+                },
+                {
+                    "RankReq": 1,
+                    "Base": [
+                        "rankReward_Gold_80",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_14",
+                        "rankReward_RankPoints_1"
+                    ]
+                },
+                {
+                    "RankReq": 3,
+                    "Base": [
+                        "rankReward_Gold_60",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_7",
+                        "rankReward_RankPoints_3"
+                    ]
+                },
+                {
+                    "RankReq": 7,
+                    "Base": [
+                        "rankReward_Gold_50"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_3"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Diamond_Solo",
+            "Rewards": [
+                {
+                    "RankReq": 0,
+                    "Base": [
+                        "rankReward_Gold_50",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_3"
+                    ]
+                },
+                {
+                    "RankReq": 1,
+                    "Base": [
+                        "rankReward_Gold_50"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_1"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Diamond_Tournament",
+            "Rewards": [
+                {
+                    "RankReq": 0,
+                    "Base": [
+                        "rankReward_Gold_80",
+                        "SeasonPoints_2"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_12",
+                        "rankReward_RankPoints_12",
+                        "rankReward_RankPoints_1"
+                    ]
+                },
+                {
+                    "RankReq": 1,
+                    "Base": [
+                        "rankReward_Gold_80",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_14",
+                        "rankReward_RankPoints_1"
+                    ]
+                },
+                {
+                    "RankReq": 3,
+                    "Base": [
+                        "rankReward_Gold_60",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_7",
+                        "rankReward_RankPoints_3"
+                    ]
+                },
+                {
+                    "RankReq": 7,
+                    "Base": [
+                        "rankReward_Gold_50"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_1"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Diamond_Tournament_D1",
+            "Rewards": [
+                {
+                    "RankReq": 0,
+                    "Base": [
+                        "rankReward_Gold_80",
+                        "SeasonPoints_2"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_12",
+                        "rankReward_RankPoints_12",
+                        "rankReward_RankPoints_1"
+                    ]
+                },
+                {
+                    "RankReq": 1,
+                    "Base": [
+                        "rankReward_Gold_80",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_14",
+                        "rankReward_RankPoints_1"
+                    ]
+                },
+                {
+                    "RankReq": 3,
+                    "Base": [
+                        "rankReward_Gold_60",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_7",
+                        "rankReward_RankPoints_3"
+                    ]
+                },
+                {
+                    "RankReq": 7,
+                    "Base": [
+                        "rankReward_Gold_50"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_1"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Master_Solo",
+            "Rewards": [
+                {
+                    "RankReq": 0,
+                    "Base": [
+                        "rankReward_Gold_50",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_7",
+                        "rankReward_RankPoints_7",
+                        "rankReward_RankPoints_1"
+                    ]
+                },
+                {
+                    "RankReq": 1,
+                    "Base": [
+                        "rankReward_Gold_50"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Master_Tournament",
+            "Rewards": [
+                {
+                    "RankReq": 0,
+                    "Base": [
+                        "rankReward_Gold_80",
+                        "SeasonPoints_2"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_12",
+                        "rankReward_RankPoints_12",
+                        "rankReward_RankPoints_1"
+                    ]
+                },
+                {
+                    "RankReq": 1,
+                    "Base": [
+                        "rankReward_Gold_80",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_14",
+                        "rankReward_RankPoints_1"
+                    ]
+                },
+                {
+                    "RankReq": 3,
+                    "Base": [
+                        "rankReward_Gold_60",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_7",
+                        "rankReward_RankPoints_3"
+                    ]
+                },
+                {
+                    "RankReq": 7,
+                    "Base": [
+                        "rankReward_Gold_50"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Grandmaster_Solo",
+            "Rewards": [
+                {
+                    "RankReq": 0,
+                    "Base": [
+                        "rankReward_Gold_50",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_7",
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_2"
+                    ]
+                },
+                {
+                    "RankReq": 1,
+                    "Base": [
+                        "rankReward_Gold_50"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_-3",
+                        "rankReward_RankPoints_-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Grandmaster_Tournament",
+            "Rewards": [
+                {
+                    "RankReq": 0,
+                    "Base": [
+                        "rankReward_Gold_80",
+                        "SeasonPoints_2"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_14",
+                        "rankReward_RankPoints_7",
+                        "rankReward_RankPoints_1",
+                        "rankReward_RankPoints_3"
+                    ]
+                },
+                {
+                    "RankReq": 1,
+                    "Base": [
+                        "rankReward_Gold_80",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_12",
+                        "rankReward_RankPoints_3"
+                    ]
+                },
+                {
+                    "RankReq": 3,
+                    "Base": [
+                        "rankReward_Gold_60",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_7",
+                        "rankReward_RankPoints_3"
+                    ]
+                },
+                {
+                    "RankReq": 7,
+                    "Base": [
+                        "rankReward_Gold_50"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_-3",
+                        "rankReward_RankPoints_-2"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Legendary_Solo_ChestBased",
+            "Rewards": [
+                {
+                    "RankReq": 0,
+                    "Base": [
+                        "rankReward_Gold_50",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_3",
+                        "rankReward_RankPoints_2"
+                    ]
+                },
+                {
+                    "RankReq": 1,
+                    "Base": [
+                        "rankReward_Gold_50"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_-2",
+                        "rankReward_RankPoints_-3"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Legendary_Tournament_ChestBased",
+            "Rewards": [
+                {
+                    "RankReq": 0,
+                    "Base": [
+                        "rankReward_Gold_80",
+                        "SeasonPoints_2"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_12",
+                        "rankReward_RankPoints_12",
+                        "rankReward_RankPoints_1"
+                    ]
+                },
+                {
+                    "RankReq": 1,
+                    "Base": [
+                        "rankReward_Gold_80",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_14",
+                        "rankReward_RankPoints_1"
+                    ]
+                },
+                {
+                    "RankReq": 3,
+                    "Base": [
+                        "rankReward_Gold_60",
+                        "SeasonPoint_1"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_7",
+                        "rankReward_RankPoints_3"
+                    ]
+                },
+                {
+                    "RankReq": 7,
+                    "Base": [
+                        "rankReward_Gold_50"
+                    ],
+                    "Competitive": [
+                        "rankReward_RankPoints_7",
+                        "rankReward_RankPoints_3"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Legendary_Solo",
+            "Rewards": [
+                {
+                    "RankReq": 0,
+                    "Base": [
+                        "rankReward_Gold_50",
+                        "SeasonPoint_1"
+                    ]
+                },
+                {
+                    "RankReq": 1,
+                    "Base": [
+                        "rankReward_Gold_50"
+                    ]
+                }
+            ],
+            "RankPoints": "Legendary"
+        },
+        {
+            "name": "Legendary_Tournament",
+            "Rewards": [
+                {
+                    "RankReq": 0,
+                    "Base": [
+                        "rankReward_Gold_80",
+                        "SeasonPoints_2"
+                    ]
+                },
+                {
+                    "RankReq": 1,
+                    "Base": [
+                        "rankReward_Gold_80",
+                        "SeasonPoint_1"
+                    ]
+                },
+                {
+                    "RankReq": 3,
+                    "Base": [
+                        "rankReward_Gold_60",
+                        "SeasonPoint_1"
+                    ]
+                },
+                {
+                    "RankReq": 7,
+                    "Base": [
+                        "rankReward_Gold_50"
+                    ]
+                }
+            ],
+            "RankPoints": "Legendary"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"emitterDelay":0.08,
+		"lifetime":0.3,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.0225,
+		"scale":[0.0234375,0.6302084,0.18229169,0.9713542,0.5,1.4],
+		"color":[0.33333334,0.33333334,0.6666667,0.6666667,[1,0.6,0.25],[1,0.1,0.1]],
+		"alpha":[0.5442709,-0.026041627,0.4166667,0.8932292,0.8,0],
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/Fire_Ring | 49e9c85e-01fb-445b-8fec-8f6b242cc96a"]
+}

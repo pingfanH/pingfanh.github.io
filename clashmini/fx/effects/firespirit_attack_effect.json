@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_fire03 | 21fb952f-0118-4901-810a-f55133c541b4","FollowPosition":true,"FollowBone":"Hip","Offset":{},"ComponentScale":1,"ForcedLength":0.4},
+		{"Type":"sub_effect","SubEffect":"fx/effects/firespirit_attack_filter | 9047f5ea-9c9b-4efc-bca6-0f0c44b8f371","Offset":{},"ComponentScale":1}
+	]
+}

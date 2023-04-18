@@ -1,0 +1,25 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":1.5,
+		"mass":1,
+		"spawnPointOffset":{},
+		"followEmitter":true,
+		"components":[{"__class":"SpawnRate","infinite":true,"duration":5,"spawnRate":10}]
+	},
+	"render":{
+		"globalScale":0.0033333334,
+		"scale":1,
+		"color":[0,0.4,0.5],
+		"alpha":[0.09114584,0.6223959,0.23697919,0.9635417,0.5,0],
+		"loopMovieClip":true,
+		"alphaFadeout":0.1,
+		"trailEnabled":true,
+		"trailDuration":0.22,
+		"trailWidth":130,
+		"trailHeadOrTails":true,
+		"trailImage":"image/shadow_bluegreen.png#premultiply"
+	},
+	"movieclip":["sc/effects/bd_point_blur_01 | 49e9c85e-e997-4050-af52-06e49ec1aa08"]
+}

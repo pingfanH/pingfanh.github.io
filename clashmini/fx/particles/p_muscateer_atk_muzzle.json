@@ -1,0 +1,24 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":0.4,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.003,
+		"scale":[0.27864584,0.38020834,0.5651042,0.7994792,0.5,0.8],
+		"color":[1,1,1],
+		"alpha":[0.6302084,0.0052083433,0.7135417,0.94791675,1,0],
+		"angle":50,
+		"angleJitter":15,
+		"alphaFadeout":0.1,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/muscateer_atk_muzzle_01 | 49e9c85e-15fa-4053-a5fd-3614290b5ca3","sc/effects/muscateer_atk_muzzle_02 | 49e9c85e-db14-4254-afea-b351192ddb81","sc/effects/muscateer_atk_muzzle_03 | 49e9c85e-41b2-49db-8f7a-600f24706c4f"]
+}

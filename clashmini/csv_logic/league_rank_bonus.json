@@ -1,0 +1,98 @@
+{
+    "data": [
+        {
+            "name": "s1",
+            "Bonus": [
+                {
+                    "RankReq": 1,
+                    "Rewards": [
+                        "reset_CC_100",
+                        "reset_CC_200"
+                    ]
+                },
+                {
+                    "RankReq": 2,
+                    "Rewards": [
+                        "reset_CC_10",
+                        "reset_CC_10",
+                        "reset_CC_60",
+                        "reset_CC_200"
+                    ]
+                },
+                {
+                    "RankReq": 3,
+                    "Rewards": [
+                        "reset_CC_60",
+                        "reset_CC_200"
+                    ]
+                },
+                {
+                    "RankReq": 4,
+                    "Rewards": [
+                        "reset_CC_10",
+                        "reset_CC_30",
+                        "reset_CC_200"
+                    ]
+                },
+                {
+                    "RankReq": 5,
+                    "Rewards": [
+                        "reset_CC_10",
+                        "reset_CC_10",
+                        "reset_CC_200"
+                    ]
+                },
+                {
+                    "RankReq": 6,
+                    "Rewards": [
+                        "reset_CC_200"
+                    ]
+                },
+                {
+                    "RankReq": 7,
+                    "Rewards": [
+                        "reset_CC_10",
+                        "reset_CC_10",
+                        "reset_CC_60",
+                        "reset_CC_100"
+                    ]
+                },
+                {
+                    "RankReq": 8,
+                    "Rewards": [
+                        "reset_CC_60",
+                        "reset_CC_100"
+                    ]
+                },
+                {
+                    "RankReq": 9,
+                    "Rewards": [
+                        "reset_CC_10",
+                        "reset_CC_30",
+                        "reset_CC_100"
+                    ]
+                },
+                {
+                    "RankReq": 10,
+                    "Rewards": [
+                        "reset_CC_10",
+                        "reset_CC_10",
+                        "reset_CC_100"
+                    ]
+                },
+                {
+                    "RankReq": 100,
+                    "Rewards": [
+                        "reset_CC_100"
+                    ]
+                },
+                {
+                    "RankReq": 1000,
+                    "Rewards": [
+                        "reset_CC_50"
+                    ]
+                }
+            ]
+        }
+    ]
+}

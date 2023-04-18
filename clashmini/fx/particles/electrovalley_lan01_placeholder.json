@@ -1,0 +1,23 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":10,
+		"mass":1,
+		"spawnPointOffset":{},
+		"followEmitter":true,
+		"emitterLoop":true,
+		"components":[{"__class":"SpawnRate","duration":1,"spawnRate":1},{"__class":"Ground"}]
+	},
+	"render":{
+		"globalScale":0.0065,
+		"scale":1,
+		"color":[0.3,1,1],
+		"alpha":0.1,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/generic_placeholder02 | 49e9c85e-b368-450a-9ac4-b6e66c8169fe"]
+}

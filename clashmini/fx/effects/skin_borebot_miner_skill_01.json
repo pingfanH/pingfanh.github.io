@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/skin_borebot_skill_start | 21fb952f-f8ac-4798-9882-a13045244844","Offset":{},"ComponentScale":0.8}]
+}

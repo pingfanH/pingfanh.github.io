@@ -1,0 +1,31 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":500,
+		"emitterDelay":0.1,
+		"lifetime":0.6,
+		"lifetimeJitter":0.5,
+		"mass":1,
+		"spawnPointOffset":{"z":0.16666667},
+		"gravity":[0.8333334,0,0.5],
+		"components":[
+			{"__class":"SpawnRate","infinite":true,"spawnRate":60},
+			{"__class":"SpawnLocation","spawnShape":1,"spawnMinSize":[0,1.6666667],"spawnMaxSize":2},
+			{"__class":"SpawnVelocityComponent","velocity":[-0.8333334,-0.8333334,0],"velocityJitter":[0.33333334,0,0]},
+			{"__class":"Deceleration","deceleration":[4.166667,1.3333334,0]}
+		]
+	},
+	"render":{
+		"globalScale":0.0025,
+		"scale":[0.8125,0.09114584,0.9088542,0.7447917,0.8,0.4],
+		"scaleJitter":0.2,
+		"color":[[1,0.7,0.3],[1,0,1]],
+		"alpha":[0.3,0],
+		"angleJitter":[-45,60],
+		"alphaFadeout":0.5,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/alcolyte_heart_symbol02 | 49e9c85e-8db9-47cd-9b37-115ab9951518"]
+}

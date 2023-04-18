@@ -1,0 +1,34 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[
+				{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/chr_wavemaster_skin_dragon_rig","uuid":"ec79f249-5380-4413-9338-038b0dc62de6"},"m_animation":{"lastKnownPath":"animations/characters/chr_wavemaster_skin_dragon","uuid":"defe63bc-22ca-4b42-8295-1daaf700d5a3"}},
+				{
+					"objectType":5003,
+					"m_targettedMaterials":["GLSLShader1"],
+					"m_metalness":1,
+					"m_roughness":0.2,
+					"m_specularStrength":1.5,
+					"m_diffuseColor":{"x":1,"y":1,"z":1},
+					"m_ambientColor":{"x":1,"y":1,"z":1},
+					"m_fresnelColor":{"x":1,"y":1,"z":1},
+					"m_specularColor":{"x":1,"y":1,"z":1},
+					"m_rimColor":{"x":1,"y":1,"z":1},
+					"m_specularBoardColor":{"x":1,"y":1,"z":1},
+					"m_teamColor":{"x":1},
+					"m_emissionColor":{"x":1,"y":1,"z":1},
+					"m_diffuseTexPath":"sc3d/chr_wavemaster_skin_dragon_diff",
+					"m_mrsTexPath":"sc3d/chr_wavemaster_skin_dragon_mra",
+					"m_reflectionTexPath":"sc3d/sky_mipmaps0"
+				}
+			],
+			"children":[{"name":"Node","pos":{},"rot":{"x":-60},"scl":{"x":1,"y":1,"z":1}}]
+		}
+	}
+}

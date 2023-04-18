@@ -1,0 +1,9 @@
+Name,HintType,HintTime,HintMsg
+String,String,int,String
+count_down,count_down,4000,TID_AUTOHINT_COUNTDOWN
+reroll_free,reroll_free,4000,TID_AUTOHINT_REROLL_FREE
+reroll_cost,reroll_cost,4000,TID_AUTOHINT_REROLL_COST
+elixir,elixir,4000,TID_AUTOHINT_ELIXIR
+team_size,team_size,4000,TID_AUTOHINT_TEAMSIZE
+unit_cost,unit_cost,4000,TID_AUTOHINT_UNIT_COST
+level_up,level_up,4000,TID_AUTOHINT_UNIT_LEVEL_UP

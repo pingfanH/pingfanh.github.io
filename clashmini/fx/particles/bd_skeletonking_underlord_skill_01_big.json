@@ -1,0 +1,27 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":100,
+		"lifetime":1.2,
+		"lifetimeJitter":1,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","duration":0.2,"spawnRate":2000},
+			{"__class":"Drag","dragCoeffecient":10000},
+			{"__class":"SpawnPlanar","spawnMinSize":1.2,"spawnMaxSize":1.8,"maxAngle":500,"minSpeedZ":2,"maxSpeedZ":10}
+		]
+	},
+	"render":{
+		"globalScale":0.016666668,
+		"scale":[0,1.0052084,0.5026042,0.7604167,2,0],
+		"color":[1,1,1],
+		"alpha":1,
+		"loopMovieClip":true,
+		"alphaFadeout":0.2,
+		"trailDuration":0.2,
+		"trailWidth":5,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/bd_point_blur_01_cyan | 49e9c85e-2566-4904-8133-2d281a5270ee"]
+}

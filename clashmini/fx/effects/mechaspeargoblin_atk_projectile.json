@@ -1,0 +1,18 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":5,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/mechaSpeargoblin_projectile_fire | 49e9c85e-d732-43b9-92e3-9e7c54a93a8e",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"fx",
+			"Offset":{},
+			"OffsetYaw":180,
+			"ComponentScale":1.6,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/mechaspeargoblin_projectile_smoke | 21fb952f-5d82-473d-bd2a-906d79419b28","FollowPosition":true,"FollowAngle":true,"FollowBone":"fx","Offset":{},"ComponentScale":1}
+	]
+}

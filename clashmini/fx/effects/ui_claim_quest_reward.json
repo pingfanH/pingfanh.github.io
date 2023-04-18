@@ -1,0 +1,9 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_twinkle_rectangular_01 | 21fb952f-034a-4c43-83cb-ca401f00c7bb","Offset":{},"ComponentScale":30},
+		{"Type":"sound","Sound":"ui_quests_openedup_fx"},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_twinkle_rectangular_01_L | 21fb952f-48f9-4108-88cf-ccc80aa97ab6","Offset":{},"ComponentScale":30},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_twinkle_rectangular_01_R | 21fb952f-f2dc-4172-b2b0-ccc80a977ab6","Offset":{},"ComponentScale":30},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_blink_03 | 21fb952f-5a79-437a-baac-7f3e240df859","Offset":{},"ComponentScale":20}
+	]
+}

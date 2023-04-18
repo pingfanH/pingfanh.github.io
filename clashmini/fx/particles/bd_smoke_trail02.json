@@ -1,0 +1,23 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":200,
+		"lifetime":0.8,
+		"lifetimeJitter":0.2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[{"__class":"SpawnRate","infinite":true,"duration":0.5,"spawnRate":50}]
+	},
+	"render":{
+		"globalScale":0.016666668,
+		"scale":[1,2],
+		"color":[1,0,0],
+		"alpha":1,
+		"angleJitter":360,
+		"orientToDirection":true,
+		"alphaFadeout":0.2,
+		"trailEnabled":true,
+		"trailHeadOrTails":true
+	},
+	"movieclip":["sc/effects/fireball_trail1 | 49e9c85e-f254-489b-972c-b925ca953a2b"]
+}

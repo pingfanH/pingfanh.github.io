@@ -1,0 +1,33 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[
+				{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/prop_minibox_rig","uuid":"ec79f249-0c7a-4dac-acd7-7cfafbc74cb2"},"m_animation":{"lastKnownPath":"animations/prop_box_common","uuid":"defe63bc-8434-4b44-843d-dc2ace6bcc1f"},"m_notCastShadow":true,"m_instancing":true},
+				{"objectType":5005},
+				{
+					"objectType":5003,
+					"m_targettedMaterials":["cover"],
+					"m_metalness":100,
+					"m_roughness":0.01,
+					"m_specularStrength":1,
+					"m_diffuseColor":{"x":0.039215688,"y":0.039215688,"z":0.039215688},
+					"m_ambientColor":{"x":1,"y":1,"z":1},
+					"m_fresnelColor":{"x":1,"y":1,"z":1},
+					"m_specularColor":{"x":1,"y":1,"z":1},
+					"m_rimColor":{"x":1,"y":1,"z":1},
+					"m_specularBoardColor":{"x":1,"y":1,"z":1},
+					"m_teamColor":{"x":1,"y":1,"z":1},
+					"m_emissionColor":{"x":1,"y":1,"z":1},
+					"m_mrsTexPath":"sc3d/test_mra",
+					"m_reflectionTexPath":"sc3d/sky_mipmaps3"
+				}
+			]
+		}
+	}
+}

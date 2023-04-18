@@ -1,0 +1,4 @@
+{
+	"States":[{"Type":"AnimClip","Name":"loop","Loop":true,"Animation":{"lastKnownPath":"sc3d/board_vampirecastle_rig","uuid":"ec79f249-6f1e-4daf-af91-c4c256d1bf2e"}}],
+	"DefaultState":"loop"
+}

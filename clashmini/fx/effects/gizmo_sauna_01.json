@@ -1,0 +1,8 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_gizmo_sauna_effect_01 | 21fb952f-27a6-4287-8707-bef8344ee605","Offset":{"z":0.33333334},"ComponentScale":1.5},
+		{"Type":"screen_shake","ShakeTime":0.1,"ShakeMaxIntensity":0.1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_gizmo_sauna_effect_02 | 21fb952f-89f0-4789-8957-3260e7aba262","Offset":{},"ComponentScale":1},
+		{"Type":"swf","Layer":3,"GroundBasis":true,"SWFClip":"sc/effects/fx_light_ground_pink_once | 49e9c85e-daac-4518-b9ad-5e26190714ee","Offset":{},"ComponentScale":2.5}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/electrowizard_def_ulti_hit | 21fb952f-9582-43f5-b549-173d6c0a6c82",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Spine1",
+			"Offset":{"z":-0.33333334},
+			"ComponentScale":0.9
+		},
+		{"Type":"sound","Sound":"bat_skill_zap"},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/electrowizard_def_atk_spark | 21fb952f-23e2-45e3-a30e-a725073e9c2b","Offset":{},"ComponentScale":1.5},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"g":0.39215687,"b":1,"a":1},
+			"FresnelStrength":30,
+			"FresnelIOR":1.1999999,
+			"FresnelFadeOutTime":1,
+			"ForcedLength":1
+		}
+	]
+}

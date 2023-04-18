@@ -1,0 +1,36 @@
+{
+	"Components":[
+		{"Type":"filter","FilterClip":"sc/effects/filter_immune | 49e9c85e-3865-406e-a4ee-1498670830c7","Loop":true},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/immune_stun_state_02 | 21fb952f-77a8-4597-9747-043143eba330",
+			"FollowPosition":true,
+			"FollowScale":true,
+			"FollowBone":"Head1",
+			"Offset":{"z":0.33333334},
+			"ComponentScale":1
+		},
+		{
+			"Type":"swf",
+			"Layer":5,
+			"SWFClip":"sc/effects/bd_immune_control_effect_once | 49e9c85e-22a1-4704-a192-e1a88006b5d4",
+			"FollowPosition":true,
+			"FollowScale":true,
+			"FollowBone":"Head1",
+			"Offset":{"z":0.33333334},
+			"ComponentScale":1
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/immune_stun_state_01 | 21fb952f-0aaa-454a-8a49-043143eca330",
+			"FollowPosition":true,
+			"FollowScale":true,
+			"FollowBone":"Head1",
+			"Offset":{"z":0.33333334},
+			"ComponentScale":1,
+			"Loop":true
+		}
+	]
+}

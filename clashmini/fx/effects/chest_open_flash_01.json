@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":6,"ParticleEmitter":"fx/particles/em_chest_open_flash_01 | 21fb952f-e7d2-4aa7-a7a3-21a6e8d14cb4","FollowPosition":true,"FollowAngle":true,"FollowBone":"cube_center","Offset":{},"ComponentScale":3},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/em_chest_open_light_small_01 | 21fb952f-79dc-4af9-b9d0-e295dbabf192","Offset":{"x":-0.6666667,"y":-0.6666667},"ComponentScale":3,"StartTime":0.1}
+	]
+}

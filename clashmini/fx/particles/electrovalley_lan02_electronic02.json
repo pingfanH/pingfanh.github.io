@@ -1,0 +1,28 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"emitterDelay":7,
+		"lifetime":1,
+		"mass":1,
+		"spawnPointOffset":{},
+		"followEmitter":true,
+		"emitterLoop":true,
+		"components":[
+			{"__class":"Ground"},
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.0065,
+		"scale":1,
+		"color":[1,1,1],
+		"alpha":0.6,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/lan02_electric02 | 49e9c85e-8396-4db4-be01-1847a49147a9"]
+}

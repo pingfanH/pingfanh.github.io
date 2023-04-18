@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"sound","Sound":"sfx_hero_wave_skill_super_hit"},{"Type":"sub_effect","SubEffect":"fx/effects/normal_hit | 9047f5ea-8898-45e8-a8ac-8f68075e6005","Offset":{},"ComponentScale":1}]
+}

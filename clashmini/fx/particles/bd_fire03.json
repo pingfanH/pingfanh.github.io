@@ -1,0 +1,24 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":2,
+		"lifetime":5,
+		"mass":1,
+		"spawnPointOffset":{},
+		"gravity":[0,0,0.1],
+		"followEmitter":true,
+		"components":[{"__class":"SpawnRate","infinite":true,"spawnRate":5},{"__class":"SpawnLocation","spawnShape":1}]
+	},
+	"render":{
+		"globalScale":0.1,
+		"scale":1,
+		"color":[1,0,0],
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":2,
+		"trailReference":"texture_graph/graph_node/trail_energy_01/texture0 | c06da060-ee2b-4449-b824-4b576886399e",
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/bd_golden_point | 49e9c85e-ac5b-4f7f-8d71-d5f4480b7d9e"]
+}

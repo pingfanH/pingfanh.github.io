@@ -1,0 +1,26 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":500,
+		"lifetime":0.13,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","infinite":true,"spawnRate":200},
+			{"__class":"SpawnVelocityComponent","velocity":[0,0,16.666668],"velocityJitter":[1.6666667,1.6666667,1.6666667]},
+			{"__class":"SpawnLocation","spawnShape":1,"spawnMaxSize":1}
+		]
+	},
+	"render":{
+		"globalScale":0.016666668,
+		"scale":[1,-0.010416627,0.9869792,0.3541667,1,0],
+		"color":[0,0.6927084,1,0.44791675,[1,1,1],[1,0,0]],
+		"alpha":[0.4765625,0.013020873,0.90625,0.33854175,0.6,1],
+		"angleJitter":180,
+		"rotationSpeedJitter":50,
+		"alphaFadeout":0.2,
+		"trailEnabled":true,
+		"trailDuration":0.1
+	},
+	"movieclip":["sc/effects/bd_spdup_fire | 49e9c85e-7aec-4270-8c4a-01f0582e62cd"]
+}

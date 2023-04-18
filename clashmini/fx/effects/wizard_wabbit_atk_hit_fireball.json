@@ -1,0 +1,25 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_wizard_wabbit_atk_hit_smoke_01 | 21fb952f-b3a5-4d33-b306-285f0d9bc998","FollowPosition":true,"Offset":{"z":0.16666667},"ComponentScale":0.5},
+		{"Type":"sound","Sound":"bat_hit_fire"},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_wizard_wabbit_atk_hit_fireball_02 | 21fb952f-8264-4ea2-a271-b1c8a9feeecd","FollowPosition":true,"Offset":{"z":0.16666667},"ComponentScale":0.4},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_wizard_def_atk_hit_smoke_02 | 21fb952f-3973-4ff9-b9b2-746596a54681","FollowPosition":true,"Offset":{"z":0.16666667},"ComponentScale":0.5},
+		{
+			"Type":"fresnel",
+			"AlphaFadeOutTime":0.1,
+			"AlphaFadeDir":true,
+			"FresnelColor":{"r":1,"g":0.7921569},
+			"FresnelStrength":6,
+			"FresnelIOR":1.2,
+			"FresnelFadeOutTime":0.1,
+			"ForcedLength":0.3
+		},
+		{
+			"Type":"color_filter",
+			"Additive":{"r":1,"g":0.5882353,"b":0.07450981},
+			"Multiplicative":{"r":1,"g":0.7647059},
+			"FadeOutTime":0.05,
+			"ForcedLength":0.1
+		}
+	]
+}

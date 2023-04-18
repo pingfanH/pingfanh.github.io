@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/mecha_archerqueen_spd01 | 21fb952f-b587-43b5-b5d3-5049f24e13f1","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"bat_buff_speedup"}
+	]
+}

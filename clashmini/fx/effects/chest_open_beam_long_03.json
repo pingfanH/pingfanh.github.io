@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":6,"ParticleEmitter":"fx/particles/em_chest_open_beam_long_03 | 21fb952f-0978-43a9-a9c9-cad8c86b8d58","Offset":{},"ComponentScale":1}]
+}

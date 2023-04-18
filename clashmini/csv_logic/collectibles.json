@@ -1,0 +1,4061 @@
+{
+  "data": [
+    {
+      "collectibleId": 107000023,
+      "name": "Hero-WaveMaster",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "Hero",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "WildHero1"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 20000,
+          "resource": "Gold"
+        },
+        {
+          "count": 200,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_miniHero_Wavemaster_1"
+      ]
+    },
+    {
+      "collectibleId": 107000011,
+      "name": "Hero-VampireCountess",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "Hero",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "WildHero1"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 300,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_miniHero_VampireCountess_1"
+      ]
+    },
+    {
+      "collectibleId": 107000016,
+      "name": "Hero-GrandWarden",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "Hero",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "WildHero1"
+      },
+      "tags": [
+        "Season 0"
+      ],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 107000012,
+      "name": "Hero-BarbarianKing",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "Hero",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "WildHero1"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 20000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_miniHero_BarbarianKing_1"
+      ]
+    },
+    {
+      "collectibleId": 107000013,
+      "name": "Hero-ArcherQueen",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "Hero",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "WildHero1"
+      },
+      "tags": [
+        "Season 0"
+      ],
+      "unlockPlace": "TID_UNLOCK_LOGIN_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_miniHero_ArcherQueen_1"
+      ]
+    },
+    {
+      "collectibleId": 107000014,
+      "name": "Hero-OldMonk",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "Hero",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "WildHero1"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 20000,
+          "resource": "Gold"
+        },
+        {
+          "count": 200,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_miniHero_Monk_1"
+      ]
+    },
+    {
+      "collectibleId": 107000015,
+      "name": "Hero-ShieldMaiden",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "Hero",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "WildHero1"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 20000,
+          "resource": "Gold"
+        },
+        {
+          "count": 200,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_miniHero_ShieldMaiden_1"
+      ]
+    },
+    {
+      "collectibleId": 107000017,
+      "name": "Hero-RoyalChampion",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "Hero",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "WildHero1"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_TROPHYROAD_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_miniHero_RoyalChampion_1"
+      ]
+    },
+    {
+      "collectibleId": 107000020,
+      "name": "Hero-SkeletonKing",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "Hero",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "WildHero1"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 20000,
+          "resource": "Gold"
+        },
+        {
+          "count": 200,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_miniHero_SkeletonKing_1"
+      ]
+    },
+    {
+      "collectibleId": 107000021,
+      "name": "Hero-MotherWitch",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "Hero",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "WildHero1"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 107000019,
+      "name": "Hero-GoldenKnight",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "Hero",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "WildHero1"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 36000001,
+      "name": "Barbarian",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar2",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Season 1"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_barbarian"
+      ]
+    },
+    {
+      "collectibleId": 36000012,
+      "name": "MiniPekka",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar3",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_minipekka"
+      ]
+    },
+    {
+      "collectibleId": 36000018,
+      "name": "Valkyrie",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar3",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_TROPHYROAD_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_valkyrie"
+      ]
+    },
+    {
+      "collectibleId": 36000007,
+      "name": "Musketeer",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar3",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Season 2"
+      ],
+      "unlockPlace": "TID_UNLOCK_LOGIN_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_musketeer"
+      ]
+    },
+    {
+      "collectibleId": 36000004,
+      "name": "Archer",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar2",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Season 0"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_archer"
+      ]
+    },
+    {
+      "collectibleId": 36000019,
+      "name": "EliteArcher",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar4",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [ "shop_unit_magicArcher" ]
+    },
+    {
+      "collectibleId": 36000016,
+      "name": "Angel",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar3",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_angel"
+      ]
+    },
+    {
+      "collectibleId": 36000010,
+      "name": "Lumberjack",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar2",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Season 1"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_lumberjack"
+      ]
+    },
+    {
+      "collectibleId": 36000003,
+      "name": "Miner",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar2",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_Miner"
+      ]
+    },
+    {
+      "collectibleId": 36000002,
+      "name": "Fisherman",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar3",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_fisherman"
+      ]
+    },
+    {
+      "collectibleId": 36000015,
+      "name": "Prince",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar4",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Season 2"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_prince"
+      ]
+    },
+    {
+      "collectibleId": 36000011,
+      "name": "Swordsman",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar3",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_swordsman"
+      ]
+    },
+    {
+      "collectibleId": 36000014,
+      "name": "Bowler",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar3",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_bowler"
+      ]
+    },
+    {
+      "collectibleId": 36000000,
+      "name": "Knight",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar2",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Season 2"
+      ],
+      "unlockPlace": "TID_UNLOCK_TROPHYROAD_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_knight"
+      ]
+    },
+    {
+      "collectibleId": 36000017,
+      "name": "Pekka",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar4",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_TROPHYROAD_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_pekka"
+      ]
+    },
+    {
+      "collectibleId": 36000021,
+      "name": "MegaKnight",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar4",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Season 2"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_megaKnight"
+      ]
+    },
+    {
+      "collectibleId": 36000006,
+      "name": "Wizard",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar2",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_wizard"
+      ]
+    },
+    {
+      "collectibleId": 36000009,
+      "name": "GiantSkeleton",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar3",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_giantSkeleton"
+      ]
+    },
+    {
+      "collectibleId": 36000022,
+      "name": "ElectroWizard",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar4",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_LOGIN_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_electroWizard"
+      ]
+    },
+    {
+      "collectibleId": 44000001,
+      "name": "Archer_A-1000",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 399,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_Archer_A-1000"
+      ]
+    },
+    {
+      "collectibleId": 36000005,
+      "name": "SpearGoblin",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar2",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_speargoblin"
+      ]
+    },
+    {
+      "collectibleId": 36000008,
+      "name": "IceWizard",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar2",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_iceWizard"
+      ]
+    },
+    {
+      "collectibleId": 36000013,
+      "name": "BlowdartGoblin",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar3",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [ 
+        "shop_unit_dartGoblin"
+      ]
+    },
+    {
+      "collectibleId": 36000023,
+      "name": "ShieldSkeleton",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar2",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_TROPHYROAD_HINT",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_shieldskeleton"
+      ]
+    },
+    {
+      "collectibleId": 44000057,
+      "name": "Warden_Vizier",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 0,
+        "resource": ""
+      },
+      "tags": [],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 44000077,
+      "name": "Wavemaster_Shrimp",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 90,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 44000078,
+      "name": "Warden_Scourge",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 0,
+        "resource": ""
+      },
+      "tags": [],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 44000058,
+      "name": "Musketeer_Marching",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 0,
+        "resource": ""
+      },
+      "tags": [],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 44000059,
+      "name": "MagicArcher_Celtic",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 199,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_MagicArcherCeltic"
+      ]
+    },
+    {
+      "collectibleId": 44000060,
+      "name": "Valkyrie_Celtic",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 0,
+        "resource": ""
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 44000061,
+      "name": "DartGoblin_Ceremonial",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 199,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_DartGoblinCeremonial"
+      ]
+    },
+    {
+      "collectibleId": 44000063,
+      "name": "MiniPekka_Pirate",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 0,
+        "resource": ""
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 44000064,
+      "name": "ShieldSkeleton_Praetorian",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 199,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_ShieldSkeletonPraetorian"
+      ]
+    },
+    {
+      "collectibleId": 44000065,
+      "name": "ElectroWizard_Scientist",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 600,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_ElectroWizardScientist"
+      ]
+    },
+    {
+      "collectibleId": 44000066,
+      "name": "GiantSkeleton_Sekhmet",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 0,
+        "resource": ""
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 44000067,
+      "name": "SpearGoblin_Buccaneer",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 199,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_SpearGoblinBuccaneer"
+      ]
+    },
+    {
+      "collectibleId": 44000068,
+      "name": "Prince_Schooner",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 0,
+        "resource": ""
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 44000069,
+      "name": "PrincePony_Schooner",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 0,
+        "resource": ""
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 44000070,
+      "name": "Miner_Gravedigger",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 199,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_MinerGravedigger"
+      ]
+    },
+    {
+      "collectibleId": 44000071,
+      "name": "Bowler_Chapeau",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 0,
+        "resource": ""
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 44000072,
+      "name": "MegaKnight_DepthCharge",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 0,
+        "resource": ""
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 44000073,
+      "name": "Pekka_Plushy",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 600,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_PekkaPlushy"
+      ]
+    },
+    {
+      "collectibleId": 44000048,
+      "name": "fisherman_Puffer",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 299,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_FishermanPuffer"
+      ]
+    },
+    {
+      "collectibleId": 44000049,
+      "name": "swordsman_Ronin",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 199,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_SwordsmanRonin"
+      ]
+    },
+    {
+      "collectibleId": 44000050,
+      "name": "Lumberjack_Khopesh",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 0,
+        "resource": ""
+      },
+      "tags": [
+        "Season 1"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 44000006,
+      "name": "MusketeerSkin_Heaven",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 0,
+        "resource": ""
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 44000020,
+      "name": "BarbarianSkin_Summer",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 0,
+        "resource": ""
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 44000038,
+      "name": "MiniPekkaSkin_Silver",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 0,
+        "resource": ""
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 44000037,
+      "name": "MiniPekkaSkin_Golden",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 0,
+        "resource": ""
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 44000034,
+      "name": "PekkaSkin_Silver",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 0,
+        "resource": ""
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 44000033,
+      "name": "PekkaSkin_Golden",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 0,
+        "resource": ""
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 44000035,
+      "name": "PekkaSkin_Heaven",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 1500,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_pekkaCrystal"
+      ]
+    },
+    {
+      "collectibleId": 36000020,
+      "name": "BattleHealer",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar4",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Season 1"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_BattleHealer"
+      ]
+    },
+    {
+      "collectibleId": 44000080,
+      "name": "shieldmaiden_Victory",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_TROPHYROAD_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_ShieldMaidenVictory"
+      ]
+    },
+    {
+      "collectibleId": 44000081,
+      "name": "monk_Luchador",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 399,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_MonkLuchador"
+      ]
+    },
+    {
+      "collectibleId": 44000082,
+      "name": "RoyalChampion_S3",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 1000,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_RoyalChampionShelly"
+      ]
+    },
+    {
+      "collectibleId": 44000083,
+      "name": "GoldenKnight_S3",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 0,
+        "resource": ""
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 44000084,
+      "name": "BarbarianKing_Cowboy",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 299,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_Skin_BarbarianKingCowboy"
+      ]
+    },
+    {
+      "collectibleId": 36000024,
+      "name": "Witch",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar4",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_LOGIN_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_witch"
+      ]
+    },
+    {
+      "collectibleId": 36000025,
+      "name": "Bandit",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar4",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SPECIAL_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_bandit"
+      ]
+    },
+    {
+      "collectibleId": 36000026,
+      "name": "HogRider",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar3",
+      "fragmentToRes": {
+        "count": 15,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_hogrider"
+      ]
+    },
+    {
+      "collectibleId": 44000089,
+      "name": "PrinceSkin_Fabulous",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 1500,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_PrinceFabulous"
+      ]
+    },
+    {
+      "collectibleId": 44000090,
+      "name": "BarbarianKing_Jolly",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SPECIAL_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_BarbarianKingJolly"
+      ]
+    },
+    {
+      "collectibleId": 44000091,
+      "name": "MiniPekka_Helpful",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SPECIAL_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_MiniPekkaWindup"
+      ]
+    },
+    {
+      "collectibleId": 44000092,
+      "name": "GiantSkeleton_Gift",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SPECIAL_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_GiantSkeletonGift"
+      ]
+    },
+    {
+      "collectibleId": 44000093,
+      "name": "SpearGoblin_CandyElf",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SPECIAL_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_SpearGoblinElf"
+      ]
+    },
+    {
+      "collectibleId": 44000094,
+      "name": "Bowler_Snowler",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SPECIAL_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_BowlerSnowler"
+      ]
+    },
+    {
+      "collectibleId": 44000095,
+      "name": "ArcherSkin_Sparkle",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SPECIAL_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_ArcherSparkle"
+      ]
+    },
+    {
+      "collectibleId": 36000027,
+      "name": "GoldenGiant",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar3",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_goldenGiant"
+      ]
+    },
+    {
+      "collectibleId": 36000028,
+      "name": "HeadHunter",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar3",
+      "fragmentToRes": {
+        "count": 15,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_headhunter"
+      ]
+    },
+    {
+      "collectibleId": 36000029,
+      "name": "Bomber",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar2",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 36000030,
+      "name": "DarkPrince",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar4",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 36000031,
+      "name": "Batter",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar4",
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 36000032,
+      "name": "Charger",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar4",
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 36000033,
+      "name": "Placeholder",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar4",
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 36000034,
+      "name": "BabyDragon",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar4",
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 36000035,
+      "name": "BabyElectroDragon",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar4",
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 36000036,
+      "name": "Placeholder2",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar4",
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 36000037,
+      "name": "Lancer",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar4",
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 36000038,
+      "name": "Ninja",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar4",
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 36000039,
+      "name": "RoyalGhost",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar4",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 10000,
+          "resource": "Gold"
+        },
+        {
+          "count": 100,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_unit_RoyalGhost"
+      ]
+    },
+    {
+      "collectibleId": 36000040,
+      "name": "MightyMiner",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "MiniStar4",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "StarShard"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 44000098,
+      "name": "Bowler_BigFish",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 399,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_BowlerBigfish"
+      ]
+    },
+    {
+      "collectibleId": 44000107,
+      "name": "Wizard_Party",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 1500,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_WizardParty"
+      ]
+    },
+    {
+      "collectibleId": 44000120,
+      "name": "Valkyrie_Siren",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 299,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_ValkyrieSiren"
+      ]
+    },
+    {
+      "collectibleId": 44000117,
+      "name": "MegaKnight_Megacrab",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 399,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_MeganightCrab"
+      ]
+    },
+    {
+      "collectibleId": 44000118,
+      "name": "Witch_Squitch",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 1500,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_WitchSquitch"
+      ]
+    },
+    {
+      "collectibleId": 44000108,
+      "name": "GoldenGiant_DepthCharge",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 299,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_GoldengiantDiver"
+      ]
+    },
+    {
+      "collectibleId": 44000113,
+      "name": "Wavemaster_Dragon",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+			"fragmentToRes": {
+				"count": 100,
+				"resource": "Diamonds"
+			},
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 499,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_WavemasterDragon"
+      ]
+    },
+    {
+      "collectibleId": 44000122,
+      "name": "SkeletonKing_Underlord",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 499,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "season3_seasonalHero1_skin_Underlord"
+      ]
+    },
+    {
+      "collectibleId": 44000123,
+      "name": "HealingRanger_Acolyte",
+      "rarity": "Rare",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 399,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "season3_seasonalMini1_skin_Acolyte"
+      ]
+    },
+    {
+      "collectibleId": 44000124,
+      "name": "Barbarian_Barbarihen",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SPECIAL_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_Barbarian_Barbarihen"
+      ]
+    },
+		{
+			"collectibleId": 44000125,
+			"name": "Skeletonguard_Bootybarry",
+			"rarity": "Epic",
+			"fragmentValue": 0,
+			"fragmentToRes": {
+				"count": 100,
+				"resource": "Diamonds"
+			},
+			"tags": [],
+			"unlockPlace": "TID_UNLOCK_SHOP_HINT",
+			"shopCost": [
+				{
+					"count": 399,
+					"resource": "Diamonds"
+				}
+			],
+			"shopChests": [
+        "shop_skin_SkeletonGuard_BootyBarry"
+      ]
+		},
+    {
+      "collectibleId": 44000126,
+      "name": "RoyalGhost_Bedtime",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 399,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "season4_seasonalMini1_skin_Bedtime"
+      ]
+    },
+    {
+      "collectibleId": 44000127,
+      "name": "Barbarian_Samurai",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 0,
+        "resource": ""
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 44000128,
+      "name": "Countess_Clowntess",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 499,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "season4_seasonalHero1_skin_Clowntess"
+      ]
+    },
+    {
+      "collectibleId": 44000132,
+      "name": "MagicArcher_Minstrel",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 1500,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_magicArcherMinstrel"
+      ]
+    },
+    {
+      "collectibleId": 44000144,
+      "name": "MegaKnight_Wreckabyte",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 399,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_MegaKnight_Wreckabyte"
+      ]
+    },
+    {
+      "collectibleId": 44000145,
+      "name": "ElectroWizard_Shocker",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 399,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_ElectroWizard_Shocker"
+      ]
+    },
+    {
+      "collectibleId": 44000146,
+      "name": "ArcherQueen_QueenTron",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_ArcherQueen_QueenTron"
+      ]
+    },
+    {
+      "collectibleId": 44000147,
+      "name": "Miner_Borebot",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 399,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_Miner_Borebot"
+      ]
+    },
+    {
+      "collectibleId": 44000148,
+      "name": "MiniPekka_PC",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 399,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_MiniPekka_PC"
+      ]
+    },
+    {
+      "collectibleId": 44000149,
+      "name": "Speargoblin_Roblin",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 399,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_Speargoblin_Roblin"
+      ]
+    },
+    {
+      "collectibleId": 104000006,
+      "name": "Emote_0",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 150,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emote_0"
+      ]
+    },
+    {
+      "collectibleId": 104000000,
+      "name": "TextEmote0",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 104000001,
+      "name": "TextEmote1",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 104000002,
+      "name": "TextEmote2",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 104000003,
+      "name": "TextEmote3",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 104000004,
+      "name": "TextEmote4",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 104000005,
+      "name": "TextEmote5",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": []
+    },
+    {
+      "collectibleId": 104000007,
+      "name": "Emote_1",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 150,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emote_1"
+      ]
+    },
+    {
+      "collectibleId": 104000008,
+      "name": "Emote_2",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 150,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emote_2"
+      ]
+    },
+    {
+      "collectibleId": 104000009,
+      "name": "Emote_3",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 150,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emote_3"
+      ]
+    },
+    {
+      "collectibleId": 104000010,
+      "name": "Emote_4",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 49,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emote_4"
+      ]
+    },
+    {
+      "collectibleId": 104000011,
+      "name": "Emote_5",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 150,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emote_5"
+      ]
+    },
+    {
+      "collectibleId": 104000012,
+      "name": "Emote_6",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 49,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emote_6"
+      ]
+    },
+    {
+      "collectibleId": 104000013,
+      "name": "Emote_7",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 150,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emote_7"
+      ]
+    },
+    {
+      "collectibleId": 104000014,
+      "name": "Emote_8",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 150,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emote_8"
+      ]
+    },
+    {
+      "collectibleId": 104000015,
+      "name": "Emote_9",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 150,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emote_9"
+      ]
+    },
+    {
+      "collectibleId": 104000016,
+      "name": "Emote_10",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 150,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emote_10"
+      ]
+    },
+    {
+      "collectibleId": 104000017,
+      "name": "Emote_11",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 150,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emote_11"
+      ]
+    },
+    {
+      "collectibleId": 104000018,
+      "name": "Emote_12",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 49,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emote_12"
+      ]
+    },
+    {
+      "collectibleId": 104000019,
+      "name": "Emote_13",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 150,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emote_13"
+      ]
+    },
+    {
+      "collectibleId": 104000020,
+      "name": "Emote_14",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 49,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emote_14"
+      ]
+    },
+    {
+      "collectibleId": 104000021,
+      "name": "Emote_15",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 150,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emote_15"
+      ]
+    },
+    {
+      "collectibleId": 104000022,
+      "name": "Emote_16",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 49,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emote_16"
+      ]
+    },
+    {
+      "collectibleId": 104000023,
+      "name": "Emote_17",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 150,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emote_17"
+      ]
+    },
+    {
+      "collectibleId": 104000024,
+      "name": "Emotes_bday",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SPECIAL_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emotes_bday"
+      ]
+    },
+    {
+      "collectibleId": 104000025,
+      "name": "Emotes_gifmaking",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 99,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emotes_gifmaking"
+      ]
+    },
+    {
+      "collectibleId": 104000026,
+      "name": "Emotes_gym",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 99,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emotes_gym"
+      ]
+    },
+    {
+      "collectibleId": 104000027,
+      "name": "Emotes_onyourface",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 99,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emotes_onyourface"
+      ]
+    },
+    {
+      "collectibleId": 104000028,
+      "name": "Emotes_parent",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 99,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emotes_parent"
+      ]
+    },
+    {
+      "collectibleId": 104000029,
+      "name": "Emotes_sos",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 99,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_chest_emotes_sos"
+      ]
+    },
+    {
+      "collectibleId": 107000022,
+      "name": "Hero-ForestGoddess",
+      "rarity": "Legendary",
+      "fragmentValue": 0,
+      "growthTemplate": "Hero",
+      "fragmentToRes": {
+        "count": 10,
+        "resource": "WildHero1"
+      },
+      "tags": [
+        "Base"
+      ],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 20000,
+          "resource": "Gold"
+        },
+        {
+          "count": 200,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_miniHero_ForestGodness_1"
+      ]
+    },
+    {
+      "collectibleId": 44000006,
+      "name": "Musketeer_Muscateer",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_MINIPASS_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_Musketeer_Muscateer"
+      ]
+    },
+    {
+      "collectibleId": 44000038,
+      "name": "Wizard_Wabbit",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_MINIPASS_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_Wizard_Wabbit"
+      ]
+    },
+    {
+      "collectibleId": 44000003,
+      "name": "Barbarian_Barkarian",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_Barbarian_Barkarian"
+      ]
+    },
+    {
+      "collectibleId": 44000033,
+      "name": "IceWizard_ArcticMage",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_IceWizard_ArcticMage"
+      ]
+    },
+    {
+      "collectibleId": 44000026,
+      "name": "Lumberjack_Lumberdale",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_MINIPASS_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_Lumberjack_Lumberdale"
+      ]
+    },
+    {
+      "collectibleId": 44000015,
+      "name": "Bandit_Racoon",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_Bandit_Raccoon"
+      ]
+    },
+    {
+      "collectibleId": 44000099,
+      "name": "ForestGoddess_Astral",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 100,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_skin_ForestGoddess_Astral"
+      ]
+    },
+    {
+      "collectibleId": 66000001,
+      "name": "avatar_bandit",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 49,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_avatar_bandit"
+      ]
+    },
+    {
+      "collectibleId": 66000002,
+      "name": "avatar_muscateer",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_MINIPASS_BASIC_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_avatar_muscateer"
+      ]
+    },
+    {
+      "collectibleId": 66000003,
+      "name": "avatar_collect",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_QUEST_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_avatar_collect"
+      ]
+    },
+    {
+      "collectibleId": 66000004,
+      "name": "avatar_barbking",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_QUEST_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_avatar_barbking"
+      ]
+    },
+    {
+      "collectibleId": 66000005,
+      "name": "avatar_gold_medal",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_QUEST_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_avatar_gold_medal"
+      ]
+    },
+    {
+      "collectibleId": 66000006,
+      "name": "avatar_astral",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 49,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_avatar_astral"
+      ]
+    },
+    {
+      "collectibleId": 66000007,
+      "name": "avatar_legendary_medal",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_QUEST_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_avatar_legendary_medal"
+      ]
+    },
+    {
+      "collectibleId": 66000008,
+      "name": "avatar_dog",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 150,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_avatar_dog"
+      ]
+    },
+    {
+      "collectibleId": 66000009,
+      "name": "avatar_event1",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_EVENTPASS_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_avatar_event1"
+      ]
+    },
+    {
+      "collectibleId": 66000010,
+      "name": "avatar_event2",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_EVENTPASS_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_avatar_event2"
+      ]
+    },
+    {
+      "collectibleId": 66000011,
+      "name": "avatar_event3",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_EVENTPASS_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_avatar_event3"
+      ]
+    },
+    {
+      "collectibleId": 66000012,
+      "name": "avatar_hero_forestgoddess",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 49,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_avatar_hero_forestgoddess"
+      ]
+    },
+    {
+      "collectibleId": 66000013,
+      "name": "avatar_arcticmage",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 150,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_avatar_arcticmage"
+      ]
+    },
+    {
+      "collectibleId": 66000014,
+      "name": "avatar_lumberdale",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_MINIPASS_BASIC_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_avatar_lumberdale"
+      ]
+    },
+    {
+      "collectibleId": 66000015,
+      "name": "avatar_raccoon",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 150,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_avatar_raccoon"
+      ]
+    },
+    {
+      "collectibleId": 66000016,
+      "name": "avatar_wabbit",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_MINIPASS_BASIC_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_avatar_wabbit"
+      ]
+    },
+    {
+      "collectibleId": 66000017,
+      "name": "avatar_skin10",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_QUEST_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_avatar_skin10"
+      ]
+    },
+    {
+      "collectibleId": 66000018,
+      "name": "avatar_skin40",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_QUEST_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_avatar_skin40"
+      ]
+    },
+    {
+      "collectibleId": 66000019,
+      "name": "avatar_trophy",
+      "rarity": "Common",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SPECIAL_HINT",
+      "shopCost": [
+        {
+          "count": 114,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_avatar_trophy"
+      ]
+    },
+    {
+      "collectibleId": 104000030,
+      "name": "Emote_countess_youaremine",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_MINIPASS_HINT",
+      "shopCost": [
+        {
+          "count": 49,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_emote_Countess_Youaremine"
+      ]
+    },
+    {
+      "collectibleId": 104000031,
+      "name": "Emote_monk_justasip",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_MINIPASS_HINT",
+      "shopCost": [
+        {
+          "count": 49,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_emote_Monk_Justasip"
+      ]
+    },
+    {
+      "collectibleId": 104000032,
+      "name": "Emote_wavemaster_swimminly",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_MINIPASS_HINT",
+      "shopCost": [
+        {
+          "count": 49,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_emote_Wavemaster_Swimmingly"
+      ]
+    },
+    {
+      "collectibleId": 104000033,
+      "name": "Emote_forestgodness_iheartyou",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 49,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_emote_ForestGodness_Iheartyou"
+      ]
+    },
+    {
+      "collectibleId": 104000034,
+      "name": "Emote_bandit_sneaky",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 49,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_emote_Bandit_Sneaky"
+      ]
+    },
+    {
+      "collectibleId": 104000035,
+      "name": "Emote_musketeer_cheeky",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 49,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_emote_Musketeer_Cheeky"
+      ]
+    },
+    {
+      "collectibleId": 104000036,
+      "name": "Emote_barbarian_barkbark",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 49,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_emote_Barbarian_Barkbark"
+      ]
+    },
+    {
+      "collectibleId": 104000037,
+      "name": "Emote_megaknight_smashing",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 150,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_emote_Megaknight_Smashing"
+      ]
+    },
+    {
+      "collectibleId": 104000038,
+      "name": "Emote_icewizard_snowflake",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 150,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_emote_Icewizard_Snowflake"
+      ]
+    },
+    {
+      "collectibleId": 104000039,
+      "name": "Emote_lumberjack_furrious",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 49,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_emote_Lumberjack_Furrious"
+      ]
+    },
+    {
+      "collectibleId": 104000040,
+      "name": "Emote_gif_recharge",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 99,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_emote_gif_recharge"
+      ]
+    },
+    {
+      "collectibleId": 104000041,
+      "name": "Emote_gif_hattrick",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 99,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_emote_gif_hattrick"
+      ]
+    },
+    {
+      "collectibleId": 104000042,
+      "name": "Emote_gif_loveshot",
+      "rarity": "Epic",
+      "fragmentValue": 0,
+      "fragmentToRes": {
+        "count": 20,
+        "resource": "Diamonds"
+      },
+      "tags": [],
+      "unlockPlace": "TID_UNLOCK_SHOP_HINT",
+      "shopCost": [
+        {
+          "count": 99,
+          "resource": "Diamonds"
+        }
+      ],
+      "shopChests": [
+        "shop_emote_gif_loveshot"
+      ]
+    }
+  ]
+}

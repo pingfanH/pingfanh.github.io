@@ -1,0 +1,19 @@
+{
+	"Components":[
+		{"Type":"swf","Layer":5,"SWFClip":"sc/effects/mecha_archer_proj | 49e9c85e-51bc-4895-ab8a-49154a341881","FollowPosition":true,"FollowAngle":true,"Offset":{"z":0.6666667},"ComponentScale":0.7},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/mecha_archerqueen_proj01 | 21fb952f-3d8e-45fd-bdda-13634165586b","FollowPosition":true,"FollowAngle":true,"Offset":{"z":0.73333335},"ComponentScale":0.9},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/mecha_archerqueen_proj02 | 21fb952f-8489-45e4-a4d5-13634162586b","FollowPosition":true,"FollowAngle":true,"Offset":{"z":0.5},"ComponentScale":0.9},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/mecha_archerqueen_proj03 | 21fb952f-178b-4597-97d7-13634163586b","FollowPosition":true,"FollowAngle":true,"Offset":{"z":0.6666667},"ComponentScale":0.9},
+		{
+			"Type":"particle_emitter",
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/mecha_archerqueen_proj04 | 21fb952f-5e86-457e-bed2-13634160586b",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"Offset":{"z":0.45},
+			"AbsoluteOffset":true,
+			"ComponentScale":1.25
+		}
+	]
+}

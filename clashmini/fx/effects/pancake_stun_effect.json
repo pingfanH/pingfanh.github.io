@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"model",
+			"ModelMesh":"sc3d/fx_pancake_loop | ec79f249-b2eb-4012-92d2-1955571f91e6",
+			"ModelFresnelColor":{"a":1},
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Head2",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		}
+	]
+}

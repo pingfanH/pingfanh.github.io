@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/lavaland_lavabubble01 | 21fb952f-fccb-4a7c-bcc1-a733a2bce390","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1}]
+}

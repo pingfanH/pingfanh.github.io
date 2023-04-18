@@ -1,0 +1,28 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":0.99,
+		"mass":1,
+		"spawnPointOffset":{"z":-0.5},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]},
+			{"__class":"SpawnCone","direction":[1,0,1],"velocity":3.833},
+			{"__class":"Deceleration","deceleration":[[0,0,0],[30,30,30]]},
+			{"__class":"SpawnLocation"}
+		]
+	},
+	"render":{
+		"globalScale":0.008,
+		"scale":[0,0.6380209,0.026041687,1.0572917,0,1.2],
+		"color":[1,0.7,0.6],
+		"alpha":1,
+		"angle":90,
+		"orientToDirection":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"trailHeadOrTails":true,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/Pushback_Hit_offset001 | 49e9c85e-2b2f-4c25-adb8-53c31137c24f"]
+}

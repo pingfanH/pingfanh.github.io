@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","BlendMode":1,"Layer":4,"GroundBasis":true,"ParticleEmitter":"fx/particles/generic_water_ball | 21fb952f-26af-4386-86fd-8dd971690b54","Offset":{},"ComponentScale":1.5},
+		{"Type":"screen_shake","ShakeTime":0.05,"ShakeMaxIntensity":0.020000001},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_water_spout_once_03_small | 21fb952f-c1c2-4041-81bf-3897ed546660","Offset":{},"ComponentScale":1}
+	]
+}

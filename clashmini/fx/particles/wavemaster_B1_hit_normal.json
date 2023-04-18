@@ -1,0 +1,24 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":0.8,
+		"mass":1,
+		"spawnPointOffset":{"z":0.5},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.015000001,
+		"scale":[0.13020834,0.5286459,0.5572917,0.8854167,0.8,1],
+		"color":[1,1,1],
+		"alpha":1,
+		"angleJitter":360,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/wavedragon_hit_nor | 49e9c85e-ed3f-4eb7-a969-717249b10ef4"]
+}

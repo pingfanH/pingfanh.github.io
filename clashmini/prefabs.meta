@@ -1,0 +1,13 @@
+{
+	"data":{
+		"childKeys":["archerqueen","bandit","bandit_light_testing","barbarian","barbarianking","barkbarian","board_tile_forest_01","board_tile_forest_02","board_tile_green_01","board_tile_green_02",
+			"board_tile_lavaland_01","board_tile_lavaland_02","board_tile_robotfactory_01","board_tile_robotfactory_02","building_test","chest_opening","chest_opening_bigchest","chest_opening_coin_box","chest_opening_crown_shards_common","chest_opening_crown_shards_epic",
+			"chest_opening_crown_shards_rare","chest_opening_crystal_coin_box","chest_opening_emote","chest_opening_exp","chest_opening_gacha_funbox","chest_opening_gacha_toybox","chest_opening_gem_box","chest_opening_hero_box","chest_opening_mini_box","chest_opening_raidchest",
+			"chest_opening_scene","chest_opening_season_token_box","chest_opening_skill_stone","chest_opening_skin_box","chest_opening_star_shards","chest_opening_starchest","chest_opening_starchest_lv1","chest_opening_starchest_lv2","chest_opening_starchest_lv3","chest_opening_trophy",
+			"clonepad","electro_valley","energypad","evn_mainscreen_robot","forest","healing_temple","healingpad","item_elixircollector","item_hotpot","item_king_tower",
+			"item_muchopuncho","item_pancaker","item_rocket","item_saint_mirror","item_sauna","item_trainingcamp","item_wartoot","jumppad","lavaland","lumberdale",
+			"magicarcher_skin_minstrel","megaknight","monk","musketeer","natureborn","natureborn_deer","raccoon","robot_factory","shipwreck","test",
+			"ui_scene_collection_detail","ui_scene_collection_view","ui_scene_raid_boss_view","ui_scene_shop","ui_scene_trophyroad","ui_scene_trophyroad_view","under","undyingpad","vampire_castle","vampirecountess",
+			"wabbit","wavemaster","windy_plain","wizard","wreckabyte"]
+	}
+}

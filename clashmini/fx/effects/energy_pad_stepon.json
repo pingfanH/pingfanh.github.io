@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"swf","BlendMode":1,"Layer":4,"SWFClip":"sc/effects/bd_energypad_effect | 49e9c85e-60c5-43b9-9142-3fe9a826d9a2","Offset":{"z":0.4},"ComponentScale":1},
+		{"Type":"sound","Sound":"ui_bat_prop_electrocharge_loop","KillSoundOnEnd":true}
+	]
+}

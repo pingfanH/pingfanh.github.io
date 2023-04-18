@@ -1,0 +1,24 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":0.4,
+		"mass":1,
+		"spawnPointOffset":{},
+		"followEmitter":true,
+		"components":[{"__class":"SpawnRate","infinite":true,"spawnRate":100},{"__class":"SpawnPlanar"}]
+	},
+	"render":{
+		"globalScale":0.016666668,
+		"scale":0.5,
+		"color":[1,1,1],
+		"alpha":1,
+		"orientToDirection":true,
+		"loopMovieClip":true,
+		"trailDuration":0.3,
+		"trailWidth":[7,5],
+		"trailHeadOrTails":true,
+		"trailImage":"image/range.png#premultiply"
+	},
+	"movieclip":["sc/effects/speargoblin_def_atk_trail | 49e9c85e-32e3-484b-95c5-5812b67c8cb8"]
+}

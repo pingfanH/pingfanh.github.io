@@ -1,0 +1,59 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_lava_bublle_01 | 21fb952f-0fa6-4a2f-af60-99f4a70d1967",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"lava_bublle_01",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_lava_bublle_01 | 21fb952f-0fa6-4a2f-af60-99f4a70d1967",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"lava_bublle_02",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_lava_bublle_01 | 21fb952f-0fa6-4a2f-af60-99f4a70d1967",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"lava_bublle_03",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_lava_bublle_01 | 21fb952f-0fa6-4a2f-af60-99f4a70d1967",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"lava_bublle_04",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_lava_bublle_01 | 21fb952f-0fa6-4a2f-af60-99f4a70d1967",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"lava_bublle_05",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		}
+	]
+}

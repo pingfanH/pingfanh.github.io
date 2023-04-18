@@ -1,0 +1,25 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":1.15,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.01,
+		"scale":[0,-8.440104,0.1015625,-2.9114583,0.4,0],
+		"color":[0.33333334,0.33333334,0.6666667,0.6666667,[1,1,1],[1,0,1]],
+		"alpha":[1,0.09895834,0.6640625,0.9244792,0.2,1],
+		"angleJitter":360,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/Stargazer_transform_main | 49e9c85e-4268-4bbd-b520-74ed3ab6c3fe"]
+}

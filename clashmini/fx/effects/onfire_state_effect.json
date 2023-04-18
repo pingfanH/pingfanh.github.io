@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_dmgup_fire | 21fb952f-fac1-46fa-bac2-2a2eb2ca6c38","FollowPosition":true,"FollowBone":"Hip","Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"sub_effect","SubEffect":"fx/effects/atk_state_sound | 9047f5ea-37a3-4317-971f-3bc48c689767","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_dmgup_spark | 21fb952f-ebd9-48cb-8bd8-c83e65276cf5","FollowPosition":true,"FollowBone":"Hip","Offset":{},"ComponentScale":1,"Loop":true},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":1,"g":0.07450981,"b":0.039215688,"a":1},
+			"FresnelStrength":8,
+			"FresnelIOR":1.3,
+			"FresnelFadeInTime":0.1,
+			"FresnelFadeOutTime":0.5
+		}
+	]
+}

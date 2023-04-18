@@ -1,0 +1,66 @@
+{
+	"data":[
+		{
+			"name": "s3",
+			"ResourceFile": "sc/season_road_03.sc",
+			"PreviewPopup": "newseason",
+			"Layout": "season_info_3_layout",
+			"TitleHeader": "title",
+			"HeroHeader": "header_hero",
+			"MiniHeader": "header_mini",
+			"SkinHeader": "header_skin",
+			"BoardHeader": "header_board",
+			"HeroTemplate": "new_hero",
+			"MiniTemplate": "new_mini",
+			"SkinTemplate": "new_skin",
+			"BoardTemplate": "new_board",
+			"ItemPadding": 50,
+			"NewHeroes": [
+				"Hero-SkeletonKing"
+			],
+			"NewMinis": [
+				"RoyalGhost"
+			],
+			"NewSkins": [
+				"SkeletonKing_Underlord",
+				"HealingRanger_Acolyte",
+				"Barbarian_Barbarihen",
+				"Skeletonguard_Bootybarry"
+
+			],
+			"NewBoards": [
+				"Under"
+			],
+			"ExtraItems": [
+				"adventure_road_info"
+			]
+		},
+		{
+			"name": "s4",
+			"ResourceFile": "sc/season_road_04.sc",
+			"PreviewPopup": "newseason",
+			"Layout": "season_info_4_layout",
+			"TitleHeader": "title",
+			"SkinHeader": "header_skin",
+			"SkinTemplate": "new_skin",
+			"BoardTemplate": "new_board",
+			"ItemPadding": 50,
+			"NewHeroes": [
+			],
+			"NewMinis": [
+			],
+			"NewSkins": [
+				"RoyalGhost_Bedtime",
+				"Countess_Clowntess",
+				"MagicArcher_Minstrel"
+
+			],
+			"NewBoards": [
+			],
+			"ExtraItems": [
+				"adventure_road_info",
+				"item_new_mode"
+			]
+		}
+	]
+}

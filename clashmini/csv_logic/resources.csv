@@ -1,0 +1,20 @@
+Name,TID,IconSWF,TooltipTID,CollectEffect,CanObtainFromShop,IconExportName,IconSmall,TrophyRoadClip,RewardPrefab,ModelLoopingEffect,ModelCollectEffect,CapFullTID,TextRed,TextGreen,TextBlue,Cap
+String,String,String,String,String,boolean,String,String,String,string,String,String,String,int,int,int,int
+Diamonds,TID_DIAMONDS,sc/ui.sc,TID_DIAMONDS_TOOLTIP,,TRUE,icon_gems,icon_gems_s,trophy_road_node_gem,prefabs/chest_opening_gem_box,ui_chest_idle,ui_star_lightup,,0,178,65,
+Gold,TID_GOLD,sc/ui.sc,TID_GOLD_TOOLTIP,Collect Gold,TRUE,icon_gold,icon_gold_s,trophy_road_node_coin,prefabs/chest_opening_coin_box,,ui_star_lightup,TID_GOLD_CAP_FULL,246,130,36,5000000
+FreeGold,TID_GOLD,sc/ui.sc,TID_GOLD_TOOLTIP,Collect Gold,,icon_gold,icon_gold_s,trophy_road_node_coin,prefabs/chest_opening_coin_box,,ui_star_lightup,,246,130,36,5000000
+WildHero1,TID_WILDHERO_COMMON,sc/ui.sc,TID_COMMONCROWN_TOOLTIP,,TRUE,icon_material_hero_crown1,icon_common_crown_shards_s,trophy_road_node_crown_shards_common,prefabs/chest_opening_crown_shards_common,,,,,,,
+WildHero2,TID_WILDHERO_RARE,sc/ui.sc,TID_RARECROWN_TOOLTIP,,TRUE,icon_material_hero_crown2,icon_rare_crown_shards_s,trophy_road_node_crown_shards_rare,prefabs/chest_opening_crown_shards_rare,,,,,,,
+WildHero3,TID_WILDHERO_EPIC,sc/ui.sc,TID_EPICCROWN_TOOLTIP,,TRUE,icon_material_hero_crown3,icon_epic_crown_shards_s,trophy_road_node_crown_shards_epic,prefabs/chest_opening_crown_shards_epic,,,,,,,
+SkillStoneA,TID_SKILLSTONE_A,sc/ui.sc,TID_SKILLSHARD_TOOLTIP,,TRUE,icon_material_hero_skillstone,icon_skill_shards_s,trophy_road_node_skill_stone,prefabs/chest_opening_skill_stone,,,,,,,
+SkillStoneB,TID_SKILLSTONE_B,,,,,,,,,,,,,,,
+SkillStoneC,TID_SKILLSTONE_C,,,,,,,,,,,,,,,
+Prestige,,,,,,,,,,,,,,,,
+MaxScore,,,,,,,,,,,,,,,,
+ExpPoints,TID_EXP,sc/ui.sc,,,,icon_xp,icon_xp_s,icon_xp,prefabs/chest_opening_exp,,,TID_EXP_CAP_FULL,0,135,215,
+RankPoints,TID_RANKPOINTS,sc/ui.sc,,,TRUE,icon_rank_point,icon_rank_point,icon_rank_point,prefabs/chest_opening_trophy,,,,,,,
+PromotionToken,TID_PROMOTIONTOKEN,sc/ui.sc,TID_PROMOTIONTOKEN_TOOLTIP,,,icon_challenge_coin,icon_crystal_coin_s,trophy_road_node_crystal_coin,prefabs/chest_opening_crystal_coin_box,ui_chest_idle,ui_star_lightup,TID_PROMOTIONTOKEN_FULL,,,,
+SeasonPoints,TID_SEASONPOINTS,sc/ui.sc,,,,icon_season_point,icon_season_point_s,icon_season_point,prefabs/chest_opening_season_token_box,,,,,,,
+StarShard,TID_STARSHARD,sc/ui.sc,TID_STARSHARD_TOOLTIP,,TRUE,icon_material_mini_starshards,icon_star_shards_s,trophy_road_node_star_shards,prefabs/chest_opening_star_shards,,,,,,,9999
+ActivityRankPoints,TID_BATTLEROYALE_END_SCREEN_DETAILS_TROPHY,sc/ui.sc,,,,icon_rank_point_event,icon_rank_point_event_s,icon_rank_point_event,prefabs/chest_opening_trophy,,,,,,,
+ActivityPassPoints,TID_BATTLEROYALE_END_SCREEN_DETAILS_PASS_POINTS,sc/ui.sc,,,,icon_pass_point_event,icon_pass_point_event_s,icon_pass_point_event,prefabs/chest_opening_season_token_box,,,,,,,

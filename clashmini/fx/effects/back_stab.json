@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"color_filter",
+			"Additive":{"r":1,"g":1,"b":1,"a":1},
+			"Multiplicative":{"r":1,"g":1,"b":1,"a":1},
+			"FadeOutTime":0.2,
+			"ForcedLength":0.2
+		},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/back_stab_subimpact | 21fb952f-44c8-48e4-a44c-6bed093676db","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/back_stab_mainimpact | 21fb952f-1b38-4d3b-bb61-d4c1fd0894d9","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/back_stab_ember | 21fb952f-c7ae-45e7-a7ec-42447d378df7","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/back_stab_glow | 21fb952f-5dfe-453d-bd51-e088bf43efe1","Offset":{},"ComponentScale":1}
+	]
+}

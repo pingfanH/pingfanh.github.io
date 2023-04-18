@@ -1,0 +1,26 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/bd_aqua_shine_up_blue | 21fb952f-3d9b-489d-9d7a-0778b02a3bce",
+			"FollowPosition":true,
+			"FollowScale":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/bd_aqua_shine_up_golden | 21fb952f-543d-44b4-b4e0-8614e00b83df",
+			"FollowPosition":true,
+			"FollowScale":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		}
+	]
+}

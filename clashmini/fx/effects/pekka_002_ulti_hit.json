@@ -1,0 +1,30 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/pekka_002_atk_hit_twinkle_1 | 21fb952f-be9c-44fe-be92-5839c63b8a67","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1.8},
+		{"Type":"sound","Sound":"bat_hit_slash"},
+		{"Type":"screen_shake","ShakeTime":0.05,"ShakeMaxIntensity":0.15},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/pekka_002_atk_hit_twinkle_2 | 21fb952f-2b9b-444b-8b91-5839c63a8a67","Offset":{"z":0.5},"ComponentScale":1.8},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/pekka_002_ulti_hit_slash | 21fb952f-ad1f-4aed-adec-e430e2b35c0e","Offset":{"z":0.5},"ComponentScale":0.8},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/pekka_002_ulti_hit_butterfly_1 | 21fb952f-8bed-422b-abb7-e3f63f41de67","FollowPosition":true,"Offset":{"z":0.5},"ComponentScale":1.05},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/pekka_002_ulti_hit_butterfly_2 | 21fb952f-1eef-42de-9eb8-e3f63f42de67","FollowPosition":true,"Offset":{"z":0.5},"ComponentScale":1.05},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/pekka_002_ulti_hit_ground | 21fb952f-4711-4127-a740-b32d20a24c0a","Offset":{},"ComponentScale":2.4},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/pekka_002_atk_hit_twinkle_3 | 21fb952f-9899-4498-988f-5839c6398a67","Offset":{"z":0.5},"ComponentScale":1.3},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":0.39215687,"b":1,"a":1},
+			"FresnelStrength":10,
+			"FresnelIOR":1.1999999,
+			"FresnelFadeOutTime":0.5,
+			"ForcedLength":0.2
+		},
+		{
+			"Type":"color_filter",
+			"Additive":{"r":1,"g":0.078431375,"b":1,"a":1},
+			"Multiplicative":{"r":1,"g":1,"b":1,"a":1},
+			"FadeInTime":0.001,
+			"FadeOutTime":0.2,
+			"ForcedLength":0.15
+		},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/pekka_atk_hit_twinkle_1 | 21fb952f-576e-4d57-97ec-b6182b1554d3","Offset":{},"ComponentScale":1}
+	]
+}

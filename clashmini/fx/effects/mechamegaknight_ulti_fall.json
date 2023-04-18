@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/mechamegaknight_atk_firebody | 21fb952f-dbbd-42bb-bb62-4be19e08a0c2","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"fresnel","FresnelColor":{"r":1,"g":0.39215687,"a":1},"FresnelStrength":10,"FresnelIOR":1.25,"FresnelFadeOutTime":1.5000001}
+	]
+}

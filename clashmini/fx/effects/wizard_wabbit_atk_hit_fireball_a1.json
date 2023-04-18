@@ -1,0 +1,8 @@
+{
+	"Components":[
+		{"Type":"sub_effect","SubEffect":"fx/effects/wizard_wabbit_atk_hit_fireball_delay1 | 9047f5ea-d80b-4878-b814-b0778770e11d","Offset":{"x":-0.9,"z":0.16666667},"AbsoluteOffset":true,"ComponentScale":0.9},
+		{"Type":"sub_effect","SubEffect":"fx/effects/wizard_wabbit_atk_hit_fireball_delay1 | 9047f5ea-d80b-4878-b814-b0778770e11d","Offset":{"x":0.9,"z":0.16666667},"AbsoluteOffset":true,"ComponentScale":0.9},
+		{"Type":"sub_effect","SubEffect":"fx/effects/wizard_wabbit_atk_hit_fireball_delay1 | 9047f5ea-d80b-4878-b814-b0778770e11d","Offset":{"y":-0.9,"z":0.16666667},"AbsoluteOffset":true,"ComponentScale":0.9},
+		{"Type":"sub_effect","SubEffect":"fx/effects/wizard_wabbit_atk_hit_fireball_delay1 | 9047f5ea-d80b-4878-b814-b0778770e11d","Offset":{"y":0.9,"z":0.16666667},"AbsoluteOffset":true,"ComponentScale":0.9}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":50,
+		"lifetime":0.8,
+		"lifetimeJitter":0.5,
+		"mass":1,
+		"spawnPointOffset":{},
+		"gravity":[0,0,-3.3333335],
+		"components":[
+			{"__class":"SpawnRate","duration":0.2,"spawnRate":500},
+			{"__class":"SpawnVelocityComponent","velocity":[0,0,0.8333334]},
+			{"__class":"SpawnCone","direction":[0,-10,20],"directionJitterAngle":60,"velocity":3.3333335,"velocityJitter":0.8333334},
+			{"__class":"Deceleration","deceleration":[1.6666667,1.6666667,1.6666667]}
+		]
+	},
+	"render":{
+		"globalScale":0.004166667,
+		"scale":[0.32552087,0.37239584,0.6328125,0.6354167,1,0],
+		"scaleJitter":[0.5,0],
+		"color":[[1,1,1],[0,1,1]],
+		"alpha":1,
+		"angleJitter":100,
+		"alphaFadeout":0.6,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/bd_point_01 | 49e9c85e-d959-4447-8cbf-69c5e729bb2a"]
+}

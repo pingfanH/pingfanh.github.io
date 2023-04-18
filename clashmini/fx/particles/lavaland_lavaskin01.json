@@ -1,0 +1,15 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":5,
+		"mass":0.1,
+		"spawnPointOffset":{},
+		"emitterLoop":true,
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{"globalScale":0.016666668,"scale":1,"color":[1,1,0.3],"alpha":0.55,"alphaFadeout":0.1},
+	"movieclip":["sc/effects/kava_skin01 | 49e9c85e-6d51-4038-979b-2741500e5ef6"]
+}

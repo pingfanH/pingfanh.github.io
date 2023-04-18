@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":3,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/lava_outline001 | 49e9c85e-b67f-4645-9018-d6cb40696f20",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"AbsoluteOffset":true,
+			"ComponentScale":1.5,
+			"Loop":true
+		}
+	]
+}

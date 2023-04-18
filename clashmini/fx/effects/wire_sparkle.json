@@ -1,0 +1,114 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/wire_sparkle_01 | 21fb952f-8196-4341-819e-e2ee523b3266",
+			"FollowPosition":true,
+			"FollowBone":"wire_01",
+			"Offset":{"x":0.016666668,"y":-0.1,"z":0.083333336},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/wire_sparkle_01 | 21fb952f-8196-4341-819e-e2ee523b3266",
+			"FollowPosition":true,
+			"FollowBone":"wire_02",
+			"Offset":{"y":-0.10666667,"z":0.1},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/wire_sparkle_02 | 21fb952f-c891-4328-a899-e2ee52383266",
+			"FollowPosition":true,
+			"FollowBone":"wire_03",
+			"Offset":{"y":-0.05,"z":0.083333336},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/tesla_spark_pink_01 | 21fb952f-674d-44c7-87b3-df2ed002d9d7",
+			"FollowPosition":true,
+			"FollowBone":"tesla_01",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/tesla_spark_pink_01 | 21fb952f-674d-44c7-87b3-df2ed002d9d7",
+			"FollowPosition":true,
+			"FollowBone":"tesla_02",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/tesla_spark_pink_01 | 21fb952f-674d-44c7-87b3-df2ed002d9d7",
+			"FollowPosition":true,
+			"FollowBone":"tesla_03",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/tesla_spark_pink_01 | 21fb952f-674d-44c7-87b3-df2ed002d9d7",
+			"FollowPosition":true,
+			"FollowBone":"tesla_04",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/tesla_spark_pink_01 | 21fb952f-674d-44c7-87b3-df2ed002d9d7",
+			"FollowPosition":true,
+			"FollowBone":"tesla_05",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/tesla_spark_pink_01 | 21fb952f-674d-44c7-87b3-df2ed002d9d7",
+			"FollowPosition":true,
+			"FollowBone":"tesla_06",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/tesla_spark_pink_01 | 21fb952f-674d-44c7-87b3-df2ed002d9d7",
+			"FollowPosition":true,
+			"FollowBone":"tesla_07",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		}
+	]
+}

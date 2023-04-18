@@ -1,0 +1,18 @@
+{
+	"Components":[
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":0.78431374,"g":0.39215687,"b":1,"a":1},
+			"FresnelStrength":10,
+			"FresnelIOR":1.5,
+			"FresnelFadeInTime":0.05,
+			"FresnelFadeOutTime":0.2,
+			"Loop":true
+		},
+		{"Type":"color_filter","Additive":{"a":1},"Multiplicative":{"r":0.5882353,"g":0.5882353,"b":0.5882353,"a":1},"Loop":true},
+		{"Type":"alpha","Alpha":0.5,"FadeInTime":0.1,"FadeOutTime":0.1,"Loop":true},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_cc_minstrel_invisible_03 | 21fb952f-2376-4483-8314-43375cee33fe","Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"bat_buff_invisible","KillSoundOnEnd":true},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_cc_minstrel_invisible_01 | 21fb952f-4979-44e9-a917-43375cf033fe","Offset":{},"ComponentScale":1}
+	]
+}

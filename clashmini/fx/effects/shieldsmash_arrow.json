@@ -1,0 +1,35 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/shieldsmash_arrow | 21fb952f-4177-4d41-81dc-a1525bcdb56a",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"Offset":{"z":0.6666667},
+			"ComponentScale":1
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/shieldsmash_arrow02 | 21fb952f-03bb-4343-83cf-467b29b714fa",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"Offset":{"z":0.6666667},
+			"ComponentScale":1
+		},
+		{
+			"Type":"fresnel",
+			"AlphaFadeOutTime":5,
+			"AlphaFadeDir":true,
+			"FresnelColor":{"g":0.21960784,"b":0.21960784,"a":1},
+			"FresnelStrength":20,
+			"FresnelIOR":1.1999999,
+			"FresnelFadeOutTime":0.3,
+			"ForcedLength":0.5
+		},
+		{"Type":"swf","Layer":4,"SWFClip":"sc/effects/smash_glowbackgr | 49e9c85e-eab0-4a8e-855a-6d6ad03efbfe","FollowPosition":true,"Offset":{"z":0.4},"ComponentScale":1}
+	]
+}

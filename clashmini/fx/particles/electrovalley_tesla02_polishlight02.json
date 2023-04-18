@@ -1,0 +1,24 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":2,
+		"emitterDelay":5.45,
+		"lifetime":0.6,
+		"mass":1,
+		"spawnPointOffset":{},
+		"followEmitter":true,
+		"components":[{"__class":"Ground"},{"__class":"SpawnRate","infinite":true,"duration":3.3,"spawnRate":3}]
+	},
+	"render":{
+		"globalScale":0.013333334,
+		"scale":[0.028645843,0.5364584,0.421875,0.75260425,0.8,1.3],
+		"color":[0.33333334,0.33333334,0.6666667,0.6666667,[0.6,0.5,1],[0.2,0.6,1]],
+		"alpha":[0.40364584,0.30989584,0.4088542,0.9322917,0.6,0],
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/tesla_polish_light03 | 49e9c85e-2598-40b4-8720-bc22d76f0b65"]
+}

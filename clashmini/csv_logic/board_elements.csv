@@ -1,0 +1,10 @@
+Name,TID,TID_INFO,Prefab,Model,Anim,FileName,IconExportName,Type,StartTurn,EndTurn,MaxOnField,Passable,Persistent,LifetimeTicks,CharacterBuff,CharacterBuffTime,AreaEffectObject,UnderUnit,GridXMin,GridXMax,GridYMin,GridYMax,ActivateUnit,TriggeredEffect,LoopEffect,ShowMirror,OffsetZ
+String,String,String,string,string,string,string,string,string,int,int,int,boolean,boolean,int,string,int,string,boolean,int,int,int,int,boolean,string,string,boolean,int
+TagDynamic,,,,,,sc/ui.sc,player_unknown_pad,Dynamic,1,99,0,TRUE,FALSE,,,50000,,FALSE,0,4,0,3,FALSE,,,TRUE,0
+JumpPad1,TID_JUMPPAD,TID_JUMPPAD_INFO,prefabs/jumppad,be_jumppad_rig.glb,animations/boardelem_jumppad,,,JumpPad,1,99,2,TRUE,FALSE,60,FlyBarrel,10000,,FALSE,0,4,3,3,TRUE,,waterpad_effect2,TRUE,1000
+Shield1,TID_HEALINGTILE,TID_HEALINGTILE_INFO,prefabs/healingpad,be_shield_rig.glb,animations/boardelem_shield,,,JumpPad,1,99,2,TRUE,FALSE,,HealingTempleBuff,12000,,FALSE,0,4,0,1,FALSE,,,TRUE,500
+ClonePad1,TID_MASK,TID_MASK_INFO,prefabs/clonepad,be_mirror_rig.glb,animations/boardelem_mirror,,,JumpPad,1,99,2,TRUE,FALSE,,CloneBuff1,50000,,FALSE,0,4,0,3,FALSE,,shining_stars01,TRUE,100
+ChargingEnergyPad,TID_ENERGY,TID_ENERGY_INFO,prefabs/energypad,be_energy_rig.glb,animations/boardelem_energy,,,JumpPad,1,99,2,TRUE,FALSE,,ChargingEnergy1,500,,FALSE,0,4,0,3,FALSE,,,TRUE,100
+HealingTemplePad,TID_HEALINGTILE,TID_HEALINGTILE_INFO,prefabs/healingpad,,,,,JumpPad,1,99,2,TRUE,FALSE,,HealingTempleBuff,4000,,FALSE,0,4,0,1,FALSE,,,TRUE,500
+UndyingPad,TID_SOULSHIELD,TID_SOULSHIELD_INFO,prefabs/undyingpad,be_undying_rig.glb,animations/boardelem_undying,,,JumpPad,1,99,2,TRUE,FALSE,,ReviveBase,-1,,FALSE,0,4,0,3,FALSE,,,TRUE,200
+Trap,TID_HEALINGTILE,TID_HEALINGTILE_INFO,prefabs/healingpad,,,,,JumpPad,1,99,2,TRUE,FALSE,,TrapRooted,5000,,FALSE,0,4,0,1,TRUE,,,TRUE,500

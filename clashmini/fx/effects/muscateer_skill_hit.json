@@ -1,0 +1,21 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_B1_pushhit_off04 | 21fb952f-3814-4898-98b1-e091e6f8fb1c","FollowPosition":true,"Offset":{},"AbsoluteOffset":true,"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_sparks_01 | 21fb952f-0c05-46ac-ac2e-b4dbc01eb7f6","FollowPosition":true,"FollowBone":"spine1","Offset":{},"ComponentScale":0.5,"ForcedLength":0.030000001},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_muscateer_hit_bloom | 21fb952f-32a2-4452-92b5-84916bf389e5","FollowPosition":true,"FollowBone":"spine1","Offset":{},"ComponentScale":1},
+		{
+			"Type":"particle_emitter",
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/p_muscateer_hit_pow_02 | 21fb952f-4668-4346-869f-42eb942d5930",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"FollowBone":"spine1",
+			"Offset":{},
+			"ComponentScale":1,
+			"StartTime":0.06
+		},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_muscateer_hit_atk | 21fb952f-076b-4b27-a779-1e53f2f56fac","FollowPosition":true,"FollowBone":"spine1","Offset":{},"ComponentScale":1},
+		{"Type":"screen_shake","ShakeTime":0.05,"ShakeMaxIntensity":10}
+	]
+}

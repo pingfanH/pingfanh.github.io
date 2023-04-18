@@ -1,0 +1,21 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":5,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/music_note00 | 49e9c85e-c4c4-4de4-a978-32a97654f898",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"OffsetYaw":90,
+			"ComponentScale":0.5,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_side_leaves | 21fb952f-7d48-451d-9d32-7f9c50960208","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_side_particle | 21fb952f-c443-4504-842d-7f9c50930208","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_notes | 21fb952f-1791-40b7-b75a-58368a303d66","FollowPosition":true,"Offset":{},"ComponentScale":1,"StartTime":0.01},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/p_natureborn_prj_main | 21fb952f-ac1a-4f6c-ac4f-82b9b3c381ed","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"sound","Sound":"sfx_hero_nature_skill_healing_cast"}
+	]
+}

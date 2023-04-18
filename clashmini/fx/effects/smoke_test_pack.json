@@ -1,0 +1,8 @@
+{
+	"Components":[
+		{"Type":"sub_effect","SubEffect":"fx/effects/smoke_test | 9047f5ea-4f2f-4d2f-af36-f60a0b08ad42","FollowPosition":true,"FollowAngle":true,"Offset":{"x":-1.6666666},"ComponentScale":0.5},
+		{"Type":"sub_effect","SubEffect":"fx/effects/smoke_test | 9047f5ea-4f2f-4d2f-af36-f60a0b08ad42","FollowPosition":true,"FollowAngle":true,"Offset":{"y":1.6666666},"ComponentScale":0.5},
+		{"Type":"sub_effect","SubEffect":"fx/effects/smoke_test | 9047f5ea-4f2f-4d2f-af36-f60a0b08ad42","FollowPosition":true,"FollowAngle":true,"Offset":{"x":-1.6666666,"y":1.6666666},"ComponentScale":0.5},
+		{"Type":"sub_effect","SubEffect":"fx/effects/smoke_test | 9047f5ea-4f2f-4d2f-af36-f60a0b08ad42","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1}
+	]
+}

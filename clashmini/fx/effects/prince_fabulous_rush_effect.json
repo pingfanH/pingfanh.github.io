@@ -1,0 +1,9 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_prince_rush_rainbow_trail | 21fb952f-d6bb-4416-9618-5b3ec38ba4e2","FollowPosition":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_prince_rush_rainbow_twinkle_trail | 21fb952f-8568-4aa5-a515-fe753d592bd2","FollowPosition":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"filter","FilterClip":"sc/effects/filter_rainbow | 49e9c85e-3188-478e-9c66-10858e9e66b9","Loop":true},
+		{"Type":"fresnel","FresnelColor":{"r":1,"b":1,"a":1},"FresnelStrength":20,"FresnelIOR":1.1999999,"FresnelFadeOutTime":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_prince_speedline | 21fb952f-4b22-4fcb-8bc0-7b2ec573615a","FollowPosition":true,"FollowAngle":true,"FollowBone":"Root","Offset":{},"ComponentScale":1}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":3,
+		"lifetime":0.43,
+		"lifetimeJitter":0.06,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","duration":0.1,"spawnRate":16,"spawnRateJitter":-1},
+			{"__class":"Deceleration","deceleration":[7.5,7.5,7.5]},
+			{"__class":"SpawnPlanar","maxAngle":360,"minSpeedXY":1.7,"maxSpeedXY":2.3,"minSpeedZ":1.7,"maxSpeedZ":2.3,"randomAngle":true}
+		]
+	},
+	"render":{
+		"globalScale":0.01,
+		"scale":[0.7864584,0.013020843,0.9088542,0.4635417,0.4,0.35],
+		"scaleJitter":0.05,
+		"color":[1,1,1],
+		"alpha":1,
+		"angleJitter":20,
+		"rotationSpeed":100,
+		"rotationSpeedJitter":2,
+		"alphaFadeout":0.1,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/barbarian_barkarian_atk_hit_star01 | 49e9c85e-5458-4c14-a89d-639e25ad8bd7","sc/effects/barbarian_barkarian_atk_hit_star02 | 49e9c85e-91fa-4dbe-8a2e-ab8d8579846a","sc/effects/barbarian_barkarian_atk_hit_star03 | 49e9c85e-2625-4f84-97b0-7b8516c0a9bf"]
+}

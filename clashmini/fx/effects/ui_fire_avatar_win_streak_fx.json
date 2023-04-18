@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_avatar_win_streak | 21fb952f-b271-44b2-b217-3f9341b39815","Offset":{"x":-2,"y":20},"ComponentScale":3},
+		{"Type":"particle_emitter","ParticleEmitter":"fx/particles/em_avatar_fire01 | 21fb952f-988f-40b8-b85a-83b956521df4","Offset":{},"ComponentScale":10}
+	]
+}

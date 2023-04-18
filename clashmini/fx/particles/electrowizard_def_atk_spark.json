@@ -1,0 +1,29 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":5,
+		"lifetime":0.7,
+		"lifetimeJitter":0.5,
+		"mass":1,
+		"spawnPointOffset":{},
+		"gravity":[0,0,-5],
+		"components":[
+			{"__class":"SpawnRate","duration":0.01,"durationJitter":1,"spawnRate":100},
+			{"__class":"SpawnLocation"},
+			{"__class":"SpawnVelocityComponent","velocity":[0,0,1.3333334],"velocityJitter":[3.3333335,3.3333335,0.33333334]},
+			{"__class":"Ground","bounciness":0.4,"friction":0.5}
+		]
+	},
+	"render":{
+		"globalScale":0.0033333334,
+		"scale":[0.45052087,0.15364584,0.7838542,0.4947917,1,0],
+		"scaleJitter":0.2,
+		"color":[1,1,1],
+		"alpha":1,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/blue_sparks | 49e9c85e-6221-49ff-9b5e-7666618d74ca"]
+}

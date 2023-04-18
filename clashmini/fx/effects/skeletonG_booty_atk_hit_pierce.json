@@ -1,0 +1,8 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_skeletonG_booty_atk_hit_pierce | 21fb952f-8c34-41ac-ac6e-24880644cd46","FollowPosition":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":0.8},
+		{"Type":"sound","Sound":"bat_hit_stab"},
+		{"Type":"sub_effect","SubEffect":"fx/effects/filter_hit_common | 9047f5ea-57fd-4357-9761-e72112621cdc","Offset":{},"ComponentScale":1,"ForcedLength":0.2},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_skeletonG_booty_atk_hit_pierce_spark | 21fb952f-c60b-4206-86f6-b908aef6e278","FollowPosition":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":0.8}
+	]
+}

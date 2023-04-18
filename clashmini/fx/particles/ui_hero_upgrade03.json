@@ -1,0 +1,26 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":8,
+		"lifetime":0.7,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":8}]},
+			{"__class":"SpawnPlanar","randomAngle":true}
+		]
+	},
+	"render":{
+		"globalScale":0.10000001,
+		"scale":1,
+		"color":[[1,1,0.8],[1,1,0.1]],
+		"alpha":1,
+		"angleJitter":360,
+		"rotationSpeedJitter":80,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/ui/ui_ani_lights01 | 49e9c85e-9007-464e-84bb-82cc6ee2d48d","sc/ui/ui_ani_lights02 | 49e9c85e-6c57-4dc1-b87d-b4ca62018f43","sc/ui/ui_ani_lights03 | 49e9c85e-d0cd-4bd9-8cb8-d8daddd7d55a","sc/ui/ui_ani_lights04 | 49e9c85e-e0a9-4aac-9cff-9c4f35e8280e"]
+}

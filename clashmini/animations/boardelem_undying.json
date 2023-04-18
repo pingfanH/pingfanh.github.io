@@ -1,0 +1,35 @@
+{
+	"States":[
+		{
+			"Type":"AnimClip",
+			"Name":"Idle",
+			"Animation":{"lastKnownPath":"sc3d/be_undying_idle","uuid":"ec79f249-32ed-44d2-92a4-215eb2a911a0"},
+			"Events":[{"Event":"Effect","Frame":1,"Effect":{"lastKnownPath":"fx/effects/undying_idle","uuid":"9047f5ea-9a81-4a5a-9a88-3022372aec10"}}]
+		},
+		{
+			"Type":"AnimClip",
+			"Name":"Trigger",
+			"Animation":{"lastKnownPath":"sc3d/be_undying_active","uuid":"ec79f249-b66c-4596-96cf-e3dda3be80ea"},
+			"Events":[{"Event":"Effect","Effect":{"lastKnownPath":"fx/effects/undying_tirgger","uuid":"9047f5ea-fe1b-42be-be5f-6079c879b937"}}]
+		},
+		{
+			"Type":"AnimClip",
+			"Name":"Stepon",
+			"Loop":true,
+			"Animation":{"lastKnownPath":"sc3d/be_undying_stepon","uuid":"ec79f249-7fc2-4b7f-bf30-4a281312b151"},
+			"Events":[{"Event":"Effect","NotLooped":true,"Effect":{"lastKnownPath":"fx/effects/undying_active","uuid":"9047f5ea-4204-4542-822d-6435b9a583cf"}}]
+		},
+		{
+			"Type":"AnimClip",
+			"Name":"Stepoff",
+			"Animation":{"lastKnownPath":"sc3d/be_undying_stepoff","uuid":"ec79f249-2d39-41ad-ad20-ff1c4f83f43e"},
+			"Events":[{"Event":"Effect","Frame":1,"Effect":{"lastKnownPath":"fx/effects/undying_idle","uuid":"9047f5ea-9a81-4a5a-9a88-3022372aec10"}}]
+		},
+		{
+			"Type":"AnimClip",
+			"Name":"Deploy",
+			"Animation":{"lastKnownPath":"sc3d/be_undying_deploy","uuid":"ec79f249-fbfb-42fb-bb6f-ce7781c0b41a"},
+			"Events":[{"Event":"Effect","Frame":1,"Effect":{"lastKnownPath":"fx/effects/undying_idle","uuid":"9047f5ea-9a81-4a5a-9a88-3022372aec10"}}]
+		}
+	]
+}

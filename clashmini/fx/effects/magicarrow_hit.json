@@ -1,0 +1,17 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","BlendMode":2,"Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_fireshadow_01 | 21fb952f-3e1a-4fbe-bed0-a023b4f1cf06","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_magicarrow_hit01 | 21fb952f-716f-45f1-b1b1-ec729499d212","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"g":0.78431374,"b":1,"a":1},
+			"FresnelStrength":5,
+			"FresnelIOR":1.8,
+			"FresnelFadeInTime":0.010000001,
+			"FresnelFadeOutTime":0.5,
+			"ForcedLength":1
+		},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_magicarrow_hit02 | 21fb952f-b86a-45d8-98ac-ec729496d212","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"sfx_mini_magicarcher_atk_hit"}
+	]
+}

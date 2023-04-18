@@ -1,0 +1,10 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_glass_breaking_01 | 21fb952f-721c-4fb2-b2c1-3e984462d844","Offset":{"z":1},"ComponentScale":1,"ForcedLength":5},
+		{"Type":"submesh_visibility","HideSubmeshName":"elixir_storage_glass:PIV","ForcedLength":5},
+		{"Type":"particle_emitter","Layer":4,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_elixir_storage_break_02 | 21fb952f-acfb-464c-8cd3-6e0b9c586283","Offset":{},"ComponentScale":1,"StartTime":0.1,"ForcedLength":5},
+		{"Type":"submesh_visibility","HideSubmeshName":"elixir:PIV","StartTime":0.1,"ForcedLength":5},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/death_effect_emitter | 21fb952f-4a4c-4b0a-8a46-26cc4c364468","Offset":{},"ComponentScale":1,"ForcedLength":5},
+		{"Type":"sound","Sound":"elixir_break"}
+	]
+}

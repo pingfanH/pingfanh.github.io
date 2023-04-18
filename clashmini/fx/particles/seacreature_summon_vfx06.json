@@ -1,0 +1,25 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":0.5,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"Ground"},
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.01,
+		"scale":1,
+		"color":[1,1,1],
+		"alpha":1,
+		"angleJitter":360,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/generic_water_impact | 49e9c85e-3a09-4e11-a6b4-77c1a92e4632"]
+}

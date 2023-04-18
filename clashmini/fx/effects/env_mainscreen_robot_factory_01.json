@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/env_mainscreen_spotlight_01 | 21fb952f-ecf8-440c-8c5c-ac82ca912d25","FollowPosition":true,"Offset":{},"ComponentScale":1}]
+}

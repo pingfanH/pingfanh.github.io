@@ -1,0 +1,10 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_wizard_wabbit_atk_hit_smoke_01 | 21fb952f-b3a5-4d33-b306-285f0d9bc998","FollowPosition":true,"Offset":{},"ComponentScale":0.6,"StartTime":0.1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_wizard_wabbit_atk_hit_flame_01 | 21fb952f-a56b-4f45-85ba-4cb824bc3e78","Offset":{"y":-0.16666667},"AbsoluteOffset":true,"ComponentScale":0.4,"StartTime":0.1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_wizard_def_atk_hit_smoke_02 | 21fb952f-3973-4ff9-b9b2-746596a54681","Offset":{},"ComponentScale":0.55,"StartTime":0.1},
+		{"Type":"particle_emitter","Layer":6,"ParticleEmitter":"fx/particles/em_fireflash_01 | 21fb952f-688e-4308-8875-cfae1013c61f","Offset":{"y":0.16666667},"AbsoluteOffset":true,"ComponentScale":0.08,"StartTime":0.1},
+		{"Type":"particle_emitter","Layer":6,"ParticleEmitter":"fx/particles/em_wizard_wabbit_atk_hit_star | 21fb952f-3662-4676-b633-971dbd3c113b","Offset":{},"ComponentScale":0.4,"StartTime":0.1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_wizard_wabbit_atk_hit_particle | 21fb952f-98b4-45f8-b82f-59fde29c18fc","Offset":{},"ComponentScale":0.4,"StartTime":0.1}
+	]
+}

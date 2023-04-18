@@ -1,0 +1,25 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"emitterDelay":0.05,
+		"lifetime":2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"Ground"},
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.008166667,
+		"scale":1,
+		"color":[[1,1,1],[1,1,1]],
+		"alpha":[0.7,0.4],
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/AQ_ground_01 | 49e9c85e-0a5d-437d-8527-1bba709975ef","sc/effects/AQ_ground_02 | 49e9c85e-cacf-45db-a00d-b9764ff68985","sc/effects/AQ_ground_03 | 49e9c85e-d614-4fd8-8514-01eec9ba62cf","sc/effects/AQ_ground_04 | 49e9c85e-48a1-4864-8dcf-d583fbc922ff","sc/effects/AQ_ground | 49e9c85e-c65d-411d-b576-077dbfcb66da","sc/effects/AQ_ground_01_2 | 49e9c85e-ff04-4b15-9b7c-14fa40c33ece","sc/effects/AQ_ground_02_2 | 49e9c85e-6060-4c5e-b547-fc1deec4014f","sc/effects/AQ_ground_03_2 | 49e9c85e-3383-4485-9154-edb80e15d4b1","sc/effects/AQ_ground_04_2 | 49e9c85e-6ed7-4590-98b0-ae1efb9a2edb"]
+}

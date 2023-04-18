@@ -1,0 +1,22 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":8,
+		"mass":1,
+		"spawnPointOffset":{},
+		"followEmitter":true,
+		"components":[{"__class":"Ground"},{"__class":"SpawnRate","infinite":true,"spawnRate":60}]
+	},
+	"render":{
+		"globalScale":0.013333334,
+		"scale":1,
+		"color":[1,1,1],
+		"alpha":1,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/tesla_polish_light01 | 49e9c85e-0522-4c84-977c-da0a14122b4f"]
+}

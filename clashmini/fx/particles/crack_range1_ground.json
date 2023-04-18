@@ -1,0 +1,22 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":1,
+		"lifetimeJitter":0.05,
+		"mass":1,
+		"spawnPointOffset":{"z":0.0016666667},
+		"components":[{"__class":"SpawnRate","duration":0.1,"spawnRate":60},{"__class":"Ground"}]
+	},
+	"render":{
+		"globalScale":0.0058333334,
+		"scale":1,
+		"color":[0.5598959,0.005208343,0.4869792,0.9947917,[0.75,0.5,0.1],[0.8,0.7,0.1]],
+		"alpha":1,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"billboardAlign":2
+	},
+	"movieclip":["sc/effects/crack_src_range1_01 | 49e9c85e-e8a0-4780-ab9c-1c9e1cabe75e","sc/effects/crack_src_range1_02 | 49e9c85e-61d2-4c44-8226-70beed19ecff","sc/effects/crack_src_range1_01a | 49e9c85e-892f-4632-8bc9-f68e0637c347","sc/effects/crack_src_range1_03 | 49e9c85e-f449-47fb-9a31-ca9d5e5420c5","sc/effects/crack_src_range1_03a | 49e9c85e-bcb7-4ee6-832c-fe341d89584a"]
+}

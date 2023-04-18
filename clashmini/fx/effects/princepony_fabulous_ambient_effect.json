@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_princepony_fabulous_ambient | 21fb952f-04a1-4cc4-8422-3ce5375a7f43","FollowPosition":true,"Offset":{},"ComponentScale":0.79999995,"Loop":true},
+		{
+			"Type":"swf",
+			"Layer":5,
+			"SWFClip":"sc/effects/fx_light_ambient_rainbow_add | 49e9c85e-924c-461b-b27c-5edbbc0f667a",
+			"FollowPosition":true,
+			"FollowScale":true,
+			"FollowBone":"Spine1",
+			"Offset":{},
+			"ComponentScale":2,
+			"Loop":true
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":1,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{"globalScale":0.01,"scale":1,"color":[1,1,1],"alpha":1,"trailEnabled":true,"trailDuration":1,"trailWidth":1},
+	"movieclip":["sc/effects/penguin_ability_grid01 | 49e9c85e-8656-4f42-98b3-9627da5d14b0","sc/effects/penguin_ability_grid02 | 49e9c85e-c27a-413a-95a0-a68d7f7c6c93","sc/effects/penguin_ability_grid03 | 49e9c85e-f14b-47e3-8a5c-0bc1d07827dd","sc/effects/penguin_ability_grid04 | 49e9c85e-6de8-419a-99ce-89c7dcd34ed9"]
+}

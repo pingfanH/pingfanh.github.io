@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_skeletonking_slash_01 | 21fb952f-d441-4ad4-94b5-b782ff1c4a04","FollowPosition":true,"FollowAngle":true,"FollowBone":"fx_02","Offset":{},"ComponentScale":1}]
+}

@@ -1,0 +1,14 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/bd_iceball_cross_single | 21fb952f-a2e4-4162-a295-e19e68072735",
+			"FollowPosition":true,
+			"Offset":{"z":0.16666667},
+			"ComponentScale":1,
+			"StartTime":0.060000002,
+			"Loop":true
+		}
+	]
+}

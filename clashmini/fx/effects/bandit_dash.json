@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/bd_bandit_speedline | 21fb952f-d41e-4fd4-9451-4d0cecf3e2dd",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"z":0.1},
+			"ComponentScale":1,
+			"Loop":true
+		}
+	]
+}

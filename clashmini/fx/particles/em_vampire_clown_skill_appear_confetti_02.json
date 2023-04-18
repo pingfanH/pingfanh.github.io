@@ -1,0 +1,32 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":10,
+		"lifetime":2,
+		"lifetimeJitter":0.5,
+		"mass":1,
+		"spawnPointOffset":{"z":0.6666667},
+		"gravity":[0,0,-25],
+		"components":[
+			{"__class":"SpawnRate","duration":0.1,"spawnRate":150},
+			{"__class":"Deceleration","deceleration":[20,20,20]},
+			{"__class":"SpawnPlanar","spawnMaxSize":0.33333334,"maxAngle":360,"maxSpeedXY":3.3333335,"minSpeedZ":15,"maxSpeedZ":28.333334,"randomAngle":true}
+		]
+	},
+	"render":{
+		"globalScale":0.005,
+		"scale":[0.9505209,0.020833343,1,0.5182292,2.5,0],
+		"scaleJitter":1,
+		"color":[0.33333334,0.33333334,0.6666667,0.6666667,[1,1,1],[1,1,1]],
+		"alpha":[0.33333334,0.33333334,0.6666667,0.6666667,1,1],
+		"angle":30,
+		"angleJitter":-30,
+		"rotationSpeed":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"rotationSpeedJitter":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"tailLength":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"tailLengthJitter":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"trailDuration":1,
+		"trailWidth":[0.33333334,0.33333334,0.6666667,0.6666667,1,1]
+	},
+	"movieclip":["sc/effects/ani_confeti_01_Y | 49e9c85e-b4f1-466d-854a-b2251b1619f4","sc/effects/ani_confeti_02_Y | 49e9c85e-cace-4f14-9058-2ce55dfd6f59","sc/effects/ani_confeti_01_P | 49e9c85e-d9ab-4fca-9a2f-d623f4a449c5","sc/effects/ani_confeti_02_P | 49e9c85e-58cb-465a-9a87-4421d2db6f35","sc/effects/ani_confeti_01_B | 49e9c85e-7bf7-4d86-81a6-004116f793e5","sc/effects/ani_confeti_02_B | 49e9c85e-52af-4064-a19e-d787aac6a13a"]
+}

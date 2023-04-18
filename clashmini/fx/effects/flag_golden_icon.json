@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_meta_flag_icon | 21fb952f-cca6-480c-8c36-228d5f951d00","Offset":{},"ComponentScale":1}]
+}

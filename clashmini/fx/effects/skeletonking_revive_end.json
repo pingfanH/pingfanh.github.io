@@ -1,0 +1,14 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_skeletonking_revive_04 | 21fb952f-1999-4ef9-b979-b2ad2f5b0d5b","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_skeletonking_revive_02 | 21fb952f-3f9c-4e5f-9f7d-b2ad2f5d0d5b","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1.4},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"g":1,"b":1,"a":1},
+			"FresnelStrength":10,
+			"FresnelIOR":1.4499999,
+			"FresnelFadeOutTime":0.6,
+			"ForcedLength":0.001
+		}
+	]
+}

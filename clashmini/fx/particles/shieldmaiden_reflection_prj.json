@@ -1,0 +1,25 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":1,
+		"mass":1,
+		"spawnPointOffset":{},
+		"gravity":[0,0,-25],
+		"followEmitter":true,
+		"components":[{"__class":"SpawnRate","duration":2,"spawnRate":10},{"__class":"SpawnLocation"}]
+	},
+	"render":{
+		"globalScale":0.0028333336,
+		"scale":0.5,
+		"color":[1,1,1],
+		"orientToDirection":true,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":0.3,
+		"trailWidth":100,
+		"trailHeadOrTails":true,
+		"trailImage":"image/trail_holy.png#premultiply"
+	},
+	"movieclip":["sc/effects/shieldmaiden_prj_head | 49e9c85e-f3dc-4f0f-9c56-73ef28a2e6ac"]
+}

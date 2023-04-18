@@ -1,0 +1,25 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":10,
+		"lifetime":5,
+		"lifetimeJitter":2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[{"__class":"SpawnRate","infinite":true,"duration":4,"spawnRate":2},{"__class":"SpawnVelocityComponent","velocityJitter":[10,5,5]}]
+	},
+	"render":{
+		"globalScale":0.10000001,
+		"scale":[0.5,1],
+		"scaleJitter":0.2,
+		"color":[0.34375,3.013021,0.8385417,-0.45052075,[40,40,40],[10,10,5]],
+		"alpha":[0.20052087,-0.049479157,0.7369792,0.4947917,0,1],
+		"angleJitter":20,
+		"rotationSpeedJitter":10,
+		"loopMovieClip":true,
+		"alphaFadeout":4,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/round_hard_yellow | 49e9c85e-3919-4c6b-9221-ac04106bb6d0","sc/effects/round_hard_pink | 49e9c85e-19ce-489e-ab44-6c8e4d3a4076","sc/effects/round_hard_blue | 49e9c85e-2533-4b6a-ae94-583ed574248c","sc/effects/round_hard_orange | 49e9c85e-4fd9-45c9-ada4-5b00e6dc59b7"]
+}

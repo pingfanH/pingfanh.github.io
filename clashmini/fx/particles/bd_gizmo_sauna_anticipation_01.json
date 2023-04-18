@@ -1,0 +1,15 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{"maxParticleCount":1,"lifetime":2.5,"mass":1,"spawnPointOffset":{},"followEmitter":true,"components":[{"__class":"SpawnRate","duration":0.1,"spawnRate":60}]},
+	"render":{
+		"globalScale":0.0025,
+		"scale":1,
+		"color":[1,1,1],
+		"alpha":1,
+		"alphaFadeout":0.1,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/fx_spotlight_07_pink | 49e9c85e-9458-47fa-aefe-edcdc02ac6d9"]
+}

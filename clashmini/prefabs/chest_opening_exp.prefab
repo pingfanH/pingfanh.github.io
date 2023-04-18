@@ -1,0 +1,14 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/prop_currency_xp_rig","uuid":"ec79f249-a80b-4568-a8d0-91dd4d44204c"},"m_animation":{"lastKnownPath":"animations/prop_box_coin_common","uuid":"defe63bc-60b0-4f60-a031-d29d4e7a5a66"},"m_instancing":true},{"objectType":5005}],
+			"children":[{"name":"skylight","pos":{},"rot":{"x":-24,"z":-41},"scl":{"x":1,"y":1,"z":1}}]
+		}
+	}
+}

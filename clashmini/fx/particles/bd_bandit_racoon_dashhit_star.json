@@ -1,0 +1,41 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":7,
+		"lifetime":0.4,
+		"lifetimeJitter":0.15,
+		"mass":1,
+		"spawnPointOffset":{},
+		"gravity":[0,0,-8.333334],
+		"components":[
+			{"__class":"Ground"},
+			{
+				"__class":"SpawnPlanar",
+				"spawnMinSize":0.1,
+				"spawnMaxSize":0.2,
+				"maxAngle":360,
+				"minSpeedXY":3,
+				"maxSpeedXY":6,
+				"minSpeedZ":3,
+				"maxSpeedZ":6,
+				"randomAngle":true
+			},
+			{"__class":"Deceleration","deceleration":[10,10,10]},
+			{"__class":"SpawnRate","duration":0.1,"spawnRate":40,"spawnRateJitter":5}
+		]
+	},
+	"render":{
+		"globalScale":0.016666668,
+		"scale":[0.8723959,0.013020843,0.9401042,0.61197925,0.6,0.3],
+		"scaleJitter":0.15,
+		"color":[1,1,1],
+		"alpha":1,
+		"angleJitter":360,
+		"rotationSpeedJitter":120,
+		"loopMovieClip":true,
+		"alphaFadeout":0.15,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/particle_star_blue | 49e9c85e-c7ef-467c-a8cc-2b17da2051b9","sc/effects/particle_star_orange | 49e9c85e-5154-44f4-9560-f4c6129e1e52","sc/effects/particle_star_green | 49e9c85e-4a87-4d07-979a-65117d50fd19","sc/effects/particle_star_violet | 49e9c85e-e385-46dc-94d4-12a92994b67d"]
+}

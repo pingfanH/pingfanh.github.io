@@ -1,0 +1,21 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":6,"ParticleEmitter":"fx/particles/bd_bandit_racoon_dashhit | 21fb952f-a27e-45a2-a20c-3f0e64fd8ec0","Offset":{"z":0.3},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":6,"ParticleEmitter":"fx/particles/bd_bandit_racoon_dashhit_star | 21fb952f-8b10-426b-abd6-62fd2f8417de","Offset":{},"ComponentScale":1},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":0.23137255,"g":0.9843137,"b":0.1254902},
+			"FresnelStrength":40,
+			"FresnelIOR":1.2,
+			"FresnelFadeOutTime":0.3,
+			"ForcedLength":0.35
+		},
+		{
+			"Type":"color_filter",
+			"Additive":{"r":0.14509805,"g":1,"b":0.11372549,"a":0.039215688},
+			"Multiplicative":{"r":0.21960784,"g":1,"b":0.23921569},
+			"FadeOutTime":0.3,
+			"ForcedLength":0.08
+		}
+	]
+}

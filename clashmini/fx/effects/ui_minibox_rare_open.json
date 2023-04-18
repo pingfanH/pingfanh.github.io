@@ -1,0 +1,26 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_ui_spotlight_02 | 21fb952f-58c2-45f8-b8d4-19e574de8390",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"z":0.033333335},
+			"ComponentScale":2
+		},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_twinkle_big_01 | 21fb952f-5154-47d1-91a7-4d612f9637fe","FollowPosition":true,"FollowAngle":true,"Offset":{"z":0.033333335},"ComponentScale":2},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/bd_twinkle_small_01 | 21fb952f-cad6-4aca-8ab3-c9c19d41111e",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"z":0.033333335},
+			"ComponentScale":2
+		},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_blink_full_screen | 21fb952f-a3f0-47e3-a31b-9a0de1a089d2","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":3}
+	]
+}

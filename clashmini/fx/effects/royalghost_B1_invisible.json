@@ -1,0 +1,23 @@
+{
+	"Components":[
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":0.0627451,"g":0.76862746,"b":0.3137255,"a":1},
+			"FresnelStrength":6,
+			"FresnelIOR":2,
+			"FresnelFadeInTime":0.05,
+			"FresnelFadeOutTime":0.2,
+			"Loop":true
+		},
+		{"Type":"color_filter","Additive":{"r":0.019607844,"g":0.09019608,"b":0.19607843,"a":1},"Multiplicative":{"a":1},"Loop":true},
+		{"Type":"alpha","Alpha":0.5,"FadeInTime":0.1,"FadeOutTime":0.1,"Loop":true},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/royalghost_B1_spe_particle01 | 21fb952f-ec20-4e8c-8cde-4446e0570d41","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/royalghost_B1_spe_testsmoke01 | 21fb952f-b14a-4c91-9142-c58fc53916b2","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/royalghost_B1_spe_particle03 | 21fb952f-1224-4ef2-b2e1-4446e0590d41","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/royalghost_B1_spe_testsmoke02 | 21fb952f-f845-4c78-b83d-c58fc53616b2","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/royalghost_B1_spe_impact | 21fb952f-df64-427f-bfce-9697bca86707","Offset":{},"ComponentScale":1},
+		{"Type":"swf","Layer":5,"SWFClip":"sc/effects/bedtime_animobile | 49e9c85e-4fdb-47b8-b252-54b52c6182be","FollowPosition":true,"Offset":{"x":-0.23333333,"z":1.2666667},"ComponentScale":0.25},
+		{"Type":"swf","Layer":4,"SWFClip":"sc/effects/bedtime_glowbackgr | 49e9c85e-ec7b-4671-a139-4599dcf19ecf","FollowPosition":true,"Offset":{"z":0.6333333},"ComponentScale":1.05},
+		{"Type":"sound","Sound":"bat_buff_invisible_skin"}
+	]
+}

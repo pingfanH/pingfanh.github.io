@@ -1,0 +1,28 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":200,
+		"lifetime":0.6,
+		"lifetimeJitter":0.1,
+		"mass":1,
+		"spawnPointOffset":{"z":0.16666667},
+		"gravity":[0,0,0.16666667],
+		"components":[
+			{"__class":"SpawnRate","infinite":true,"spawnRate":10,"spawnRateJitter":1},
+			{"__class":"SpawnLocation","spawnShape":2,"spawnMinSize":0.033333335,"spawnMaxSize":0.033333335},
+			{"__class":"SpawnCone","direction":[0,0,5],"directionJitterAngle":60,"velocity":3.3333335},
+			{"__class":"Drag","dragCoeffecient":10000}
+		]
+	},
+	"render":{
+		"globalScale":0.0033333334,
+		"scale":[0,-1.424479,0.953125,-0.26302052,1,0],
+		"scaleJitter":[0.34895834,0.27864587,0.6666667,0.6666667,0.2,0],
+		"color":[0.1640625,0.5052084,0.5390625,0.6197917,[1,0.5,0],[1,1,1]],
+		"alpha":[0.5755209,0.13802084,0.6666667,0.6666667,0,0.3],
+		"alphaFadeout":0.3,
+		"trailDuration":0.1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/sc_miner_smoke_01 | 49e9c85e-15f4-4e32-afaf-7a448d48990f"]
+}

@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_robot_factory_blue_light_01 | 21fb952f-64e3-4524-a4d7-065c9d07e0f6",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1.5,
+			"Loop":true
+		}
+	]
+}

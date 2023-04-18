@@ -1,0 +1,14 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/chr_bowler_skin_bigfish_rig","uuid":"ec79f249-c0c5-41e0-a036-1c0ad77a5620"},"m_animation":{"lastKnownPath":"animations/characters/chr_bowler_skin_bigfish","uuid":"defe63bc-bffb-425f-9f98-bc72e1456179"}}],
+			"children":[{"name":"skylight","pos":{},"rot":{"x":-30,"z":12},"scl":{"x":1,"y":1,"z":1}}]
+		}
+	}
+}

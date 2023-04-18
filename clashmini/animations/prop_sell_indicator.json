@@ -1,0 +1,9 @@
+{
+	"States":[
+		{"Type":"AnimClip","Name":"sell","Animation":{"lastKnownPath":"sc3d/sell_indicator_sell","uuid":"ec79f249-5073-48d0-90e5-76db33a5a291"}},
+		{"Type":"AnimClip","Name":"start","Animation":{"lastKnownPath":"sc3d/sell_indicator_start","uuid":"ec79f249-ceaa-420e-8eb7-e563eb5b7ade"}},
+		{"Type":"AnimClip","Name":"end","Animation":{"lastKnownPath":"sc3d/sell_indicator_end","uuid":"ec79f249-b7a4-4a57-978b-2aac9d9aea4c"}},
+		{"Type":"AnimClip","Name":"idle","Loop":true,"Animation":{"lastKnownPath":"sc3d/sell_indicator_idle","uuid":"ec79f249-6ac4-47ea-aa8e-1c8cd4e15b9c"}}
+	],
+	"DefaultState":"idle"
+}

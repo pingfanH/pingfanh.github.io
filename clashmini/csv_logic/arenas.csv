@@ -1,0 +1,8 @@
+Name,TID,SubtitleTID,Arena,IsInUse,TrainingCamp,TrophyLimit,DemoteTrophyLimit,RequestSize,IconSWF,IconExportName,SmallIconExportName,MatchmakingMinTrophyDelta,MatchmakingMaxTrophyDelta,MatchmakingMaxSeconds,ReleaseDate,SeasonRewardChest
+string,string,string,Int,boolean,boolean,int,int,int,string,string,string,int,int,int,String,String
+TrainingCamp,TID_ARENA_TRAINING_CAMP,TID_INFO_ARENA_TRAINING_CAMP,0,TRUE,TRUE,0,0,10,sc/ui.sc,arena_00,,0,100,60,,
+Autochess1,TID_ARENA_TRAINING_CAMP,TID_INFO_ARENA_TRAINING_CAMP,1,TRUE,FALSE,0,0,10,sc/ui.sc,arena_00,,0,100,60,,
+Autochess2,TID_ARENA_TRAINING_CAMP,TID_INFO_ARENA_TRAINING_CAMP,2,TRUE,FALSE,0,0,10,sc/ui.sc,arena_00,,0,100,60,,
+Autochess3,TID_ARENA_TRAINING_CAMP,TID_INFO_ARENA_TRAINING_CAMP,3,TRUE,FALSE,0,0,10,sc/ui.sc,arena_00,,0,100,60,,
+Autochess4,TID_ARENA_TRAINING_CAMP,TID_INFO_ARENA_TRAINING_CAMP,4,TRUE,FALSE,0,0,10,sc/ui.sc,arena_00,,0,100,60,,
+FirstMatch,TID_ARENA_TRAINING_CAMP,TID_INFO_ARENA_TRAINING_CAMP,0,TRUE,FALSE,0,0,10,sc/ui.sc,arena_00,,0,100,60,,

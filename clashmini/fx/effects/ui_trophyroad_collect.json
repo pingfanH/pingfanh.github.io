@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_blink_03 | 21fb952f-5a79-437a-baac-7f3e240df859","Offset":{"y":0.8},"ComponentScale":10},
+		{"Type":"sound","Sound":"ui_items_get_token"},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_twinkle_small_01 | 21fb952f-cad6-4aca-8ab3-c9c19d41111e","Offset":{"y":0.8},"ComponentScale":15}
+	]
+}

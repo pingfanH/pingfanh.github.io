@@ -1,0 +1,31 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":10,
+		"lifetime":1,
+		"lifetimeJitter":0.2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","duration":0.3,"spawnRate":50},
+			{"__class":"SpawnVelocityComponent","velocity":[0,0,3.3333335],"velocityJitter":[0,0,8.333334]},
+			{"__class":"Deceleration","deceleration":[0,0,5]}
+		]
+	},
+	"render":{
+		"globalScale":0.033333335,
+		"scale":[0.359375,0.30989587,0.4479167,0.9088542,0,1],
+		"scaleJitter":0.3,
+		"color":[0.33333334,0.33333334,0.6666667,0.6666667,[1,1,0.9],[1,1,1]],
+		"alpha":[0.020833343,0.36458334,0.033854187,0.8697917,0,1],
+		"rotationSpeed":[0.33333334,0.33333334,0.026041687,0.8854167,-1000,0],
+		"rotationSpeedJitter":200,
+		"loopMovieClip":true,
+		"alphaFadeout":1.5,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2,
+		"billboardAlign":2
+	},
+	"movieclip":["sc/effects/sc_speedup_01 | 49e9c85e-27d9-4063-a3fe-6d3e762f621c"]
+}

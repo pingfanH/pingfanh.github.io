@@ -1,0 +1,12 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_icewizard_def_atk_hit_iceball_01 | 21fb952f-a4bc-4844-841e-ef8803d8d946","FollowPosition":true,"Offset":{"z":0.16666667},"AbsoluteOffset":true,"ComponentScale":0.9},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_icewizard_def_atk_hit_breaks_big | 21fb952f-0563-4725-a52a-194834560add","FollowPosition":true,"Offset":{"z":0.16666667},"AbsoluteOffset":true,"ComponentScale":0.5},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_icewizard_def_atk_hit_smoke_01 | 21fb952f-b517-40f5-b5e4-ed19fb6b3569","FollowPosition":true,"Offset":{"z":0.6666667},"AbsoluteOffset":true,"ComponentScale":0.2},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_icewizard_def_ability_shot_smoke_02 | 21fb952f-eb80-4c2b-abe8-8c2212b56434","Offset":{"x":1,"z":0.16666667},"AbsoluteOffset":true,"ComponentScale":0.3},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_icewizard_def_ability_shot_smoke_02 | 21fb952f-eb80-4c2b-abe8-8c2212b56434","Offset":{"y":1,"z":0.16666667},"AbsoluteOffset":true,"ComponentScale":0.3},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_icewizard_def_ability_shot_smoke_02 | 21fb952f-eb80-4c2b-abe8-8c2212b56434","Offset":{"y":-1,"z":0.16666667},"AbsoluteOffset":true,"ComponentScale":0.3},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_icewizard_def_ability_shot_smoke_02 | 21fb952f-eb80-4c2b-abe8-8c2212b56434","Offset":{"x":-1,"z":0.16666667},"AbsoluteOffset":true,"ComponentScale":0.3},
+		{"Type":"sound","Sound":"sfx_icewizard_atk_spec_hit"}
+	]
+}

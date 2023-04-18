@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_twinkle_loop_06 | 21fb952f-5260-4ed2-9224-c40c948aa98f","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1}]
+}

@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"GroundBasis":true,"ParticleEmitter":"fx/particles/em_icewizard_def_ability_shot_smoke_01 | 21fb952f-7e82-4cde-9ee9-8c2212b66434","FollowPosition":true,"Offset":{},"ComponentScale":0.6},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_icewizard_def_ability_shot_smoke_02 | 21fb952f-eb80-4c2b-abe8-8c2212b56434","Offset":{},"ComponentScale":0.5},
+		{"Type":"sound","Sound":"sfx_icewizard_icecube"}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[
+				{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/chr_wavemaster_rig","uuid":"ec79f249-f99f-4539-b985-1f206d084bc5"},"m_animation":{"lastKnownPath":"animations/characters/chr_wavemaster","uuid":"defe63bc-24c5-4684-84d2-96de2b6c3279"}},
+				{
+					"objectType":5003,
+					"m_targettedMaterials":[":reserved:AllMaterial"],
+					"m_metalness":12,
+					"m_roughness":2,
+					"m_specularStrength":5,
+					"m_diffuseColor":{"x":1,"y":1,"z":1},
+					"m_ambientColor":{"x":1,"y":1,"z":1},
+					"m_fresnelColor":{"x":1,"y":1,"z":1},
+					"m_specularColor":{"x":1,"y":1,"z":1},
+					"m_rimColor":{"x":1,"y":1,"z":1},
+					"m_specularBoardColor":{"x":1,"y":1,"z":1},
+					"m_teamColor":{"x":0.8745099},
+					"m_emissionColor":{"x":1,"y":1,"z":1},
+					"m_reflectionTexPath":"sc3d/sky_mipmaps1"
+				}
+			],
+			"children":[{"name":"Node","pos":{},"rot":{"x":-60},"scl":{"x":1,"y":1,"z":1}}]
+		}
+	}
+}

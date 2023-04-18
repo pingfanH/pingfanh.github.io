@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","BlendMode":1,"Layer":4,"ParticleEmitter":"fx/particles/bd_undying_active | 21fb952f-cfc2-408f-8f6b-c27d60883a80","FollowBone":"fx","Offset":{},"ComponentScale":1,"Loop":true},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_undying_active_bloom | 21fb952f-3bea-473b-bb20-b93cded40a49",
+			"FollowBone":"root",
+			"Offset":{"z":0.13333334},
+			"ComponentScale":1,
+			"Loop":true
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{"maxParticleCount":1,"lifetime":1,"mass":1,"spawnPointOffset":{},"components":[{"__class":"SpawnRate","duration":0.2,"spawnRate":20},{"__class":"SpawnLocation"}]},
+	"render":{
+		"globalScale":0.033333335,
+		"scale":[0.015625,4.247396,0,3.354167,1,2],
+		"color":[0,1,0.7],
+		"alpha":0.5,
+		"loopMovieClip":true,
+		"alphaFadeout":1,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2,
+		"billboardAlign":2
+	},
+	"movieclip":["sc/effects/bd_point_blur_01_cyan | 49e9c85e-2566-4904-8133-2d281a5270ee"]
+}

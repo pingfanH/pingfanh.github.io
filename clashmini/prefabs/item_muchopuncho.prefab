@@ -1,0 +1,13 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/item_muchopuncho_rig","uuid":"ec79f249-59ce-48b9-b9d6-239fca72f6fb"},"m_animation":{"lastKnownPath":"animations/items/item_muchopuncho","uuid":"defe63bc-b18a-4831-b1cf-ca21ef1bf8ca"}},{"objectType":5005}]
+		}
+	}
+}

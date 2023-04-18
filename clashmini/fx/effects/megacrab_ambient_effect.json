@@ -1,0 +1,17 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/megaknight_crab_bubble_01 | 21fb952f-3afe-451a-9acb-aa71c5af8fb1",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Head1",
+			"Offset":{},
+			"ComponentScale":1,
+			"StartTime":0.1,
+			"Loop":true
+		}
+	]
+}

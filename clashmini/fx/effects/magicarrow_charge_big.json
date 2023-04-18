@@ -1,0 +1,17 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"GroundBasis":true,"ParticleEmitter":"fx/particles/magicarrow_power_charge_02 | 21fb952f-6383-4de3-a342-369399a7fdca","FollowPosition":true,"FollowBone":"Weapon_L","Offset":{},"ComponentScale":1.8},
+		{
+			"Type":"swf",
+			"BlendMode":3,
+			"Layer":5,
+			"SWFClip":"sc/effects/magicarcher_charge | 49e9c85e-4341-4bed-a31e-03e0111b2536",
+			"FollowPosition":true,
+			"FollowBone":"Weapon_L",
+			"Offset":{},
+			"ComponentScale":2,
+			"StartTime":0.1,
+			"ForcedLength":0.8
+		}
+	]
+}

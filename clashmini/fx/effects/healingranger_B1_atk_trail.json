@@ -1,0 +1,20 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":5,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/alcolyte_proj | 49e9c85e-754a-4b0c-adbf-cfe59aeccbea",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":0.4,
+			"StartTime":0.1,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/healingranger_b1_normal_proj01 | 21fb952f-7b31-467b-bbbb-751fc8f6ae7e","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/healingranger_b1_normal_proj02 | 21fb952f-0e33-462e-aebd-751fc8f7ae7e","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/healingranger_b1_normal_proj04 | 21fb952f-3436-4694-94c0-751fc8f9ae7e","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":0.8},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/healingranger_b1_normal_proj03 | 21fb952f-a134-46e1-a1be-751fc8f8ae7e","FollowPosition":true,"Offset":{},"ComponentScale":1}
+	]
+}

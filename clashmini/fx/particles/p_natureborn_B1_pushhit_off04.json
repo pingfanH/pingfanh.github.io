@@ -1,0 +1,31 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":12,
+		"emitterDelay":0.05,
+		"lifetime":0.85,
+		"lifetimeJitter":0.2,
+		"mass":1,
+		"spawnPointOffset":{"z":-0.5},
+		"components":[
+			{"__class":"SpawnRate","duration":0.1,"spawnRate":100},
+			{"__class":"SpawnCone","direction":[20,0,1],"directionJitterAngle":45,"velocity":10,"velocityJitter":3},
+			{"__class":"CurlNoise","frequency":5,"strength":8.333334},
+			{"__class":"Deceleration","deceleration":[0.036458343,0.5208334,0.5885417,0.8229167,[10,10,10],[60,60,60]]}
+		]
+	},
+	"render":{
+		"globalScale":0.0043333336,
+		"scale":[0.1015625,0.653646,0.53125,0.916667,0.5,1.6],
+		"scaleJitter":[0.07552084,0.5364584,0.4322917,0.9010417,0.5,0],
+		"color":[0.25520834,0.059895873,0.5338542,0.8229167,[1,1,0],[1,0.2,1]],
+		"alpha":[0.07,0],
+		"angleJitter":360,
+		"rotationSpeed":45,
+		"rotationSpeedJitter":45,
+		"alphaFadeout":0.1,
+		"trailDuration":0.25,
+		"trailWidth":4
+	},
+	"movieclip":["sc/effects/sc_icewizard_smoke_01 | 49e9c85e-18a5-4272-a472-6e55e6be3710"]
+}

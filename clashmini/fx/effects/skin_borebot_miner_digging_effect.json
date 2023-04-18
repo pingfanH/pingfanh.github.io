@@ -1,0 +1,9 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_miner_digging_01 | 21fb952f-97a2-4317-97ae-9a2b227c4d3d","FollowPosition":true,"Offset":{"z":0.16666667},"ComponentScale":0.5},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_miner_digging_02 | 21fb952f-2aa4-43ca-8aaf-9a2b227d4d3d","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","BlendMode":2,"Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_miner_digging_rock_shadow01 | 21fb952f-8181-43e1-a134-6db147136ee4","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_miner_def_ability_digging_smoke_loop | 21fb952f-5bb3-457b-bba4-4214177fc567","FollowPosition":true,"Offset":{"z":0.16666667},"ComponentScale":0.7,"Loop":true},
+		{"Type":"swf","Layer":3,"GroundBasis":true,"SWFClip":"sc/effects/fx_light_ground_red | 49e9c85e-7177-4ca4-85ba-ee5fe122590d","FollowPosition":true,"Offset":{},"ComponentScale":0.5,"Loop":true}
+	]
+}

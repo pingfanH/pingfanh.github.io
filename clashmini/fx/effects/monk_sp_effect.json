@@ -1,0 +1,24 @@
+{
+	"Components":[
+		{
+			"Type":"model",
+			"ModelMesh":"sc3d/fx_monk_hand | ec79f249-e74c-4327-a764-192cbafbe186",
+			"ModelAlpha":1,
+			"ModelAlphaFadeInTime":0.2,
+			"ModelAlphaFadeOutTime":0.2,
+			"ModelAlphaFadeDir":true,
+			"ModelFresnelColor":{"r":1,"g":0.78431374,"a":1},
+			"ModelFresnelStrength":20,
+			"ModelFresnelIOR":0.84999996,
+			"ModelFresnelFadeInTime":0.3,
+			"ModelFresnelFadeOutTime":0.5,
+			"StartFadeOutTime":0.4,
+			"HideShadow":true,
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1
+		},
+		{"Type":"screen_shake","ShakeTime":0.3,"ShakeMaxIntensity":0.030000001}
+	]
+}

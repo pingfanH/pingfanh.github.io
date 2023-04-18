@@ -1,0 +1,13 @@
+{
+	"data":{
+		"childKeys":["chr_archer","chr_archer_skin_a1000","chr_archer_skin_sparkle","chr_archerqueen","chr_archerqueen_skin_queentron","chr_bandit","chr_bandit_skin_raccoon","chr_barbarian","chr_barbarian_king","chr_barbarian_king_cowboy",
+			"chr_barbarian_king_jolly","chr_barbarian_skin_barbarihen","chr_barbarian_skin_barkbarian","chr_battlehealer","chr_bowler","chr_bowler_skin_bigfish","chr_bowler_skin_snowler","chr_dartgoblin","chr_dummy","chr_dummyarcher",
+			"chr_dummymelee","chr_electrowizard","chr_electrowizard_skin_shocker","chr_fisherman","chr_giantskeleton","chr_giantskeleton_skn_gift","chr_goldengiant","chr_healingranger","chr_healingranger_skin_acolyte","chr_icewizard",
+			"chr_icewizard_skin_arctic_mage","chr_knight","chr_lavagolem","chr_lavasoldier","chr_lumberjack","chr_lumberjack_skin_lumberdale","chr_magicarcher","chr_magicarcher_skin_minstrel","chr_megaknight","chr_megaknight_skin_megacrab",
+			"chr_megaknight_skin_wreckabyte","chr_miner","chr_miner_skin_borebot","chr_minipekka","chr_minipekka_skin_helpful","chr_minipekka_skin_pc","chr_monk","chr_monk_skin_luchador","chr_musketeer","chr_musketeer_skin_muscateer",
+			"chr_natureborn","chr_natureborn_deer","chr_natureborn_deer_skin_astral","chr_natureborn_skin_astral","chr_pekka","chr_potter","chr_prince","chr_prince_pony","chr_prince_skin_fabulous","chr_prince_skin_fabulous_pony",
+			"chr_royalchampion","chr_royalghost","chr_royalghost_skin_bedtime","chr_shieldmaiden","chr_shieldmaiden_skin_victory","chr_skeleton","chr_skeleton_skin_jellyfish","chr_skeletonguard","chr_skeletonguard_skin_bootybarry","chr_skeletonguard_skin_praetorian",
+			"chr_skeletonking","chr_skeletonking_skin_underlord","chr_speargoblin","chr_speargoblin_skin_buccaneer","chr_speargoblin_skin_candyelf","chr_speargoblin_skin_roblin","chr_swordsman","chr_valkyrie","chr_valkyrie_skin_siren","chr_vampirecountess",
+			"chr_vampirecountess_skin_clowntess","chr_wavemaster","chr_wavemaster_skin_dragon","chr_witch","chr_witch_skin_squitch","chr_wizard","chr_wizard_skin_party","chr_wizard_skin_wabbit"]
+	}
+}

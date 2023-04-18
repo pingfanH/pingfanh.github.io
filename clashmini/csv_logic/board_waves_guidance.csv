@@ -1,0 +1,12 @@
+Name,WaveName,Content,HeroLevel,Modifiers,GridX,GridY,BoardElementName,BoardElementX,BoardElementY,RandomSeed
+string,string,string,int,string,int,int,string,int,int,int
+BuildingTutorial-1,,HeroBarbarian,1,,2,3,,,,
+,,SpearGoblinB1,,SpearGoblin_Mod;SpearGoblin_A,1,3,,,,
+,,StarCollectorB2,,,2,1,,,,
+BuildingTutorial_Preview-1,,HeroBarbarian,,,2,3,,,,
+BuildingTutorial_Wave1,BuildingTutorial-1,,,,,,,,,
+BuildingTutorial_Wave2,BuildingTutorial-1,,,,,,,,,
+BuildingTutorial_Wave3,BuildingTutorial-1,,,,,,,,,
+BuildingTutorial_Preview_Wave1,BuildingTutorial_Preview-1,,,,,,,,,
+BuildingTutorial_Preview_Wave2,BuildingTutorial-1,,,,,,,,,
+BuildingTutorial_Preview_Wave3,BuildingTutorial-1,,,,,,,,,

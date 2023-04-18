@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_cc_minstrel_volumn_01 | 21fb952f-1d84-471d-9d4e-52205efa559d","FollowPosition":true,"Offset":{},"ComponentScale":1}]
+}

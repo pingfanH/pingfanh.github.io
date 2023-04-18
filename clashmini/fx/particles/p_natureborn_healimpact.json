@@ -1,0 +1,23 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"emitterDelay":0.1,
+		"lifetime":0.3,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.01,
+		"scale":[0.40364584,-0.5026041,0.7447917,0.9869792,2.5,0],
+		"color":[0.9,1,0.8],
+		"alpha":1,
+		"angleJitter":360,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/tesla02_lanoptical01 | 49e9c85e-8698-40ef-83c8-955a54df2c09"]
+}

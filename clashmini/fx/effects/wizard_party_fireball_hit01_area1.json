@@ -1,0 +1,10 @@
+{
+	"Components":[
+		{"Type":"sub_effect","SubEffect":"fx/effects/wizard_party_fireball_hit01 | 9047f5ea-7a14-46fa-baf4-24ef1713afa7","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"bat_hit_fire"},
+		{"Type":"sub_effect","SubEffect":"fx/effects/wizard_party_fireball_hit01_delay2 | 9047f5ea-e4bd-4044-84e5-623b225d6660","FollowPosition":true,"Offset":{"x":0.93333334},"AbsoluteOffset":true,"ComponentScale":1},
+		{"Type":"sub_effect","SubEffect":"fx/effects/wizard_party_fireball_hit01_delay2 | 9047f5ea-e4bd-4044-84e5-623b225d6660","FollowPosition":true,"Offset":{"y":0.93333334},"AbsoluteOffset":true,"ComponentScale":1},
+		{"Type":"sub_effect","SubEffect":"fx/effects/wizard_party_fireball_hit01_delay2 | 9047f5ea-e4bd-4044-84e5-623b225d6660","FollowPosition":true,"Offset":{"x":-0.93333334},"AbsoluteOffset":true,"ComponentScale":1},
+		{"Type":"sub_effect","SubEffect":"fx/effects/wizard_party_fireball_hit01_delay2 | 9047f5ea-e4bd-4044-84e5-623b225d6660","FollowPosition":true,"Offset":{"y":-0.93333334},"AbsoluteOffset":true,"ComponentScale":1}
+	]
+}

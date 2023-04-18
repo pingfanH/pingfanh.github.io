@@ -1,0 +1,20 @@
+{
+	"Components":[
+		{"Type":"swf","Layer":5,"SWFClip":"sc/effects/bd_hit_effect_big_01 | 49e9c85e-ea4f-460d-b551-0b00e3ef53a9","Offset":{"z":0.6666667},"ComponentScale":2},
+		{"Type":"sound","Sound":"bat_skill_boss_lavaball"},
+		{"Type":"screen_shake","ShakeTime":0.3,"ShakeMaxIntensity":0.05},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_lavarock_hit | 21fb952f-39a4-47d9-99b5-ff4fbe5787dc","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_smoke_once_01 | 21fb952f-871c-4f07-8782-bd8e76541ada","Offset":{"z":0.6666667},"ComponentScale":5,"StartTime":0.1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_hit_07 | 21fb952f-636b-4fe3-a3eb-a79cea027359","Offset":{"z":0.6666667},"ComponentScale":2,"StartTime":0.1},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":1,"g":0.19607843,"a":1},
+			"FresnelStrength":20,
+			"FresnelIOR":1.3,
+			"FresnelFadeInTime":0.05,
+			"FresnelFadeOutTime":0.2,
+			"ForcedLength":0.5
+		},
+		{"Type":"sound","Sound":"giz_poket_break"}
+	]
+}

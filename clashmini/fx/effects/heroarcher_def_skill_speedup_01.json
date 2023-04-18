@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/em_heroarcher_def_skill_speedup_01 | 21fb952f-1e30-491e-9e1f-8b995f741215","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/em_heroarcher_def_skill_speedup_02 | 21fb952f-8b2e-496b-ab1d-8b995f731215","FollowPosition":true,"Offset":{},"ComponentScale":1,"AllyOnly":true}
+	]
+}

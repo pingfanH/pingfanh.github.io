@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":3,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/lavaland_lavaoutline01_in | 21fb952f-64ff-4b44-84f1-936c56e8dd22",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1.5,
+			"Loop":true
+		}
+	]
+}

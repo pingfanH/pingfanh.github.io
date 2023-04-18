@@ -1,0 +1,45 @@
+{
+	"nodes":[
+		{
+			"__class":"Output|Texture",
+			"id":1284833536,
+			"inputs":{"Texture":{"id":1284833537}},
+			"outputs":{},
+			"uuid":"c06da060-f65a-406c-950a-7b6fef22edc7",
+			"name":"texture0",
+			"nodePos":{"x":895.10254,"y":443.15527}
+		},
+		{
+			"__class":"Asset|Movieclip reference",
+			"id":1009582336,
+			"inputs":{"Time":{"id":1009582340},"size":{"id":1009582337}},
+			"outputs":{"Texture":{"id":1009582338}},
+			"movieclip":{"lastKnownPath":"sc/effects/astral_pjt_trail_01","uuid":"49e9c85e-a141-4788-82d0-b875689a1d1a"},
+			"nodePos":{"x":456.2463,"y":629.24036}
+		},
+		{
+			"__class":"Time|Time",
+			"id":584188416,
+			"inputs":{"Reset":{"id":584188417}},
+			"outputs":{
+				"Time":{"id":584188418},
+				"DTime":{"id":584188419},
+				"DTime 0-1":{"id":584188420},
+				"DTime 0-360":{"id":584188421},
+				"sin(DTime)":{"id":584188422},
+				"cos(DTime)":{"id":584188423}
+			},
+			"nodePos":{"x":-29.44336,"y":481.08667}
+		},
+		{
+			"__class":"Math|Simple op",
+			"op":"Multiply",
+			"b":3,
+			"id":2646409728,
+			"inputs":{"A":{"id":2646409729},"B":{"id":2646409730}},
+			"outputs":{"Out":{"id":2646409731}},
+			"nodePos":{"x":209.99997,"y":437}
+		}
+	],
+	"links":[{"o":1009582338,"i":1284833537},{"o":584188418,"i":2646409729},{"o":2646409731,"i":1009582340}]
+}

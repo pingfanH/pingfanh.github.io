@@ -1,0 +1,32 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":5,
+		"emitterDelay":0.06,
+		"lifetime":0.4,
+		"lifetimeJitter":0.25,
+		"mass":1,
+		"spawnPointOffset":{"z":0.1},
+		"components":[
+			{"__class":"SpawnRate","duration":0.1,"spawnRate":70},
+			{"__class":"SpawnLocation"},
+			{"__class":"SpawnCone","direction":[1,0,0],"directionJitterAngle":45,"velocity":6},
+			{"__class":"Deceleration","deceleration":[[0,0,0],[8.333334,8.333334,8.333334]]},
+			{"__class":"CurlNoise","frequency":1,"strength":3}
+		]
+	},
+	"render":{
+		"globalScale":0.05,
+		"scale":1.15,
+		"scaleJitter":0.5,
+		"color":[[1,1,1],[1,1,0]],
+		"alpha":[0.8411459,0.020833343,1,0.5963542,1,0],
+		"angleJitter":360,
+		"orientToDirection":true,
+		"alphaFadeout":0.2,
+		"trailDuration":0.1,
+		"trailWidth":1,
+		"trailHeadOrTails":true
+	},
+	"movieclip":["sc/effects/Hit_Lights01 | 49e9c85e-2a45-41e3-8fb3-796b38268edb","sc/effects/Hit_Lights01_1 | 49e9c85e-5b50-4a22-86cd-bc4ca0fa62b8","sc/effects/Hit_Lights02 | 49e9c85e-c8e0-4b85-a526-11ad4f1b1135","sc/effects/Hit_Lights02_1 | 49e9c85e-6896-4e81-b970-31ba0ac31008"]
+}

@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":0.39215687,"g":0.19607843,"b":1,"a":1},
+			"FresnelStrength":20,
+			"FresnelIOR":2,
+			"FresnelFadeOutTime":0.1,
+			"ForcedLength":0.05
+		},
+		{"Type":"screen_shake","ShakeTime":0.05,"ShakeMaxIntensity":0.010000001,"ForcedLength":0.05},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_sword_slash_01 | 21fb952f-7f81-4c3f-bf74-869c927b8bcf","FollowPosition":true,"FollowBone":"Head1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/fishslap_hit | 21fb952f-470f-4287-87a2-781fe8d95cdf","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine2","Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"sfx_mini_swordman_atk_hit"}
+	]
+}

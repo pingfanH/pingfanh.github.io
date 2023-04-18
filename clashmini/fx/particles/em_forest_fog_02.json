@@ -1,0 +1,28 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":2,
+		"lifetime":12,
+		"lifetimeJitter":2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","infinite":true,"spawnRate":1,"spawnRateJitter":2},
+			{"__class":"SpawnPlanar","spawnMinSize":-1,"spawnMaxSize":1},
+			{"__class":"SpawnVelocityComponent","velocity":[-1,0,0],"velocityJitter":[0.2,0,0]}
+		]
+	},
+	"render":{
+		"globalScale":0.05,
+		"scale":1,
+		"scaleJitter":0.5,
+		"color":[[0.4,0.8,1],[0.2,0.6,1]],
+		"alpha":[0,0.3],
+		"loopMovieClip":true,
+		"alphaFadeout":2,
+		"trailEnabled":true,
+		"trailDuration":2,
+		"trailWidth":1
+	},
+	"movieclip":["sc/cloud/fog_01 | 49e9c85e-b141-4830-b24a-4ec593d6d35f","sc/cloud/fog_02 | 49e9c85e-d725-4d5e-bb16-380844a4a9d8","sc/cloud/fog_03 | 49e9c85e-5abb-4a6b-b57a-6eb05b04a724","sc/cloud/fog_04 | 49e9c85e-bda9-4e01-bfdd-a660ed04c390","sc/cloud/fog_05 | 49e9c85e-3a1d-4a99-b1a7-8d0b54643e6b","sc/cloud/fog_06 | 49e9c85e-35f9-4634-8502-1f5444f2371d"]
+}

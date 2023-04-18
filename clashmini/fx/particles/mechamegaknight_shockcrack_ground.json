@@ -1,0 +1,23 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":1,
+		"lifetimeJitter":0.05,
+		"mass":1,
+		"spawnPointOffset":{"z":0.0016666667},
+		"components":[{"__class":"SpawnRate","duration":0.1,"spawnRate":60},{"__class":"Ground"}]
+	},
+	"render":{
+		"globalScale":0.0058333334,
+		"scale":1,
+		"color":[1,1,1],
+		"alpha":1,
+		"angle":180,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"billboardAlign":2
+	},
+	"movieclip":["sc/effects/crack_mecha_range1_01 | 49e9c85e-c46c-45ff-a230-192ff7011d3a","sc/effects/crack_mecha_range1_01a | 49e9c85e-9aa6-442d-8085-484286e498d1","sc/effects/crack_mecha_range1_02 | 49e9c85e-3046-4aec-b41f-67b9246c7f12","sc/effects/crack_mecha_range1_03 | 49e9c85e-bbd0-42c7-bf46-90fdc1c6f2a3","sc/effects/crack_mecha_range1_03a | 49e9c85e-7b6c-43f1-ba27-06e46480d2bd"]
+}

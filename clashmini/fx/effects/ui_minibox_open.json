@@ -1,0 +1,19 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/bd_blink_02 | 21fb952f-ed7a-432d-adae-7f3e240ef859",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"cube_center",
+			"Offset":{},
+			"ComponentScale":1.5,
+			"ForcedLength":1
+		},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":4,"ParticleEmitter":"fx/particles/bd_ui_spotlight_02 | 21fb952f-58c2-45f8-b8d4-19e574de8390","Offset":{"z":0.033333335},"ComponentScale":1.5},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_twinkle_big_01 | 21fb952f-5154-47d1-91a7-4d612f9637fe","Offset":{"z":0.033333335},"ComponentScale":1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_twinkle_small_01 | 21fb952f-cad6-4aca-8ab3-c9c19d41111e","Offset":{"z":0.033333335},"ComponentScale":1.1999999}
+	]
+}

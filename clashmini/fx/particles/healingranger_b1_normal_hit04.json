@@ -1,0 +1,30 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":2,
+		"lifetime":1,
+		"mass":1,
+		"spawnPointOffset":{},
+		"gravity":[0,0,-0.8333334],
+		"components":[
+			{"__class":"SpawnRate","duration":0.2,"spawnRate":15},
+			{"__class":"SpawnVelocityComponent","velocity":[0,0,0.33333334]},
+			{"__class":"Deceleration","deceleration":[0,0,1.6666667]},
+			{"__class":"SpawnLocation","spawnShape":1,"spawnMaxSize":0.25}
+		]
+	},
+	"render":{
+		"globalScale":0.0028333336,
+		"scale":0.7,
+		"scaleJitter":0.1,
+		"color":[[1,1,1],[1,1,0]],
+		"alpha":1,
+		"angle":[-10,10],
+		"orientToDirection":true,
+		"loopMovieClip":true,
+		"alphaFadeout":0.1,
+		"trailDuration":0.15,
+		"trailWidth":[50,0]
+	},
+	"movieclip":["sc/effects/alcolyte_heart_parti01a | 49e9c85e-fad8-4ae7-b639-7d5b5af8bf32","sc/effects/alcolyte_heart_parti02a | 49e9c85e-3c23-458f-b7f3-dd34ac7ae0b9"]
+}

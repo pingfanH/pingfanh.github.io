@@ -1,0 +1,18 @@
+{
+  "Enabled": true,
+  "EnabledCountries": [
+    "ALL"
+  ],
+  "UseNativeCountries": [
+    "ALL"
+  ],
+  "UseSocialCountries": ["ALL"],
+  "UseSocialPlatforms": ["ALL"],
+  "ScFileName": "sc/supercell_id.sc",
+  "Game": "board",
+  "PreloadingEnabled":  true,
+  "UseNative": true,
+  "InternalDomains": [
+    "www.google.com"
+  ]
+}

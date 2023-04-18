@@ -1,0 +1,18 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{"maxParticleCount":20,"lifetime":0.6,"mass":1,"spawnPointOffset":{},"components":[{"__class":"SpawnRate","duration":0.4,"spawnRate":10},{"__class":"Ground"}]},
+	"render":{
+		"globalScale":0.016666668,
+		"scale":[0.044270843,0.47395834,0.11197919,1.0026042,0,1],
+		"color":[0.33333334,0.33333334,0.6666667,0.6666667,[0,0,1],[1,0,1]],
+		"alpha":[0,0.9661459,0.3307292,1.0416667,0,1],
+		"loopMovieClip":true,
+		"alphaFadeout":0.5,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2,
+		"billboardAlign":2
+	},
+	"movieclip":["sc/effects/bd_soundwave_04 | 49e9c85e-b078-418a-a330-a4581741c5db","sc/effects/bd_soundwave_05 | 49e9c85e-2660-4e4b-a0f5-a9dc1f44f692","sc/effects/bd_soundwave_06 | 49e9c85e-f95f-4b1c-a948-a0fc35e746f8"]
+}

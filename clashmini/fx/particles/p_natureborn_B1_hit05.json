@@ -1,0 +1,26 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"emitterDelay":0.1,
+		"lifetime":0.99,
+		"mass":1,
+		"spawnPointOffset":{"z":0.1},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.038,
+		"scale":1.5,
+		"scaleJitter":0.1,
+		"color":[1,1,1],
+		"alpha":1,
+		"angleJitter":360,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/Stargazer_Instell01_1 | 49e9c85e-f722-43c1-995d-602e0d9947ab","sc/effects/Stargazer_Instell02 | 49e9c85e-56f2-4013-b582-a875946c5f5e","sc/effects/Stargazer_Instell03_1 | 49e9c85e-c943-48ff-aaf1-b4097e5472d4","sc/effects/Stargazer_Instell02 | 49e9c85e-56f2-4013-b582-a875946c5f5e","sc/effects/Stargazer_Instell01_1 | 49e9c85e-f722-43c1-995d-602e0d9947ab"]
+}

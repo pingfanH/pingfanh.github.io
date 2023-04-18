@@ -1,0 +1,27 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/shieldmaiden_reflection_prj | 21fb952f-3348-4613-9386-543e93e75f9e",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/shieldmaiden_reflection_particle | 21fb952f-dbfc-487b-bbf4-ff8da4dd794e","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{
+			"Type":"swf",
+			"Layer":5,
+			"SWFClip":"sc/effects/shieldmaiden_prj_head | 49e9c85e-f3dc-4f0f-9c56-73ef28a2e6ac",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"y":0.1},
+			"ComponentScale":0.5,
+			"Loop":true
+		}
+	]
+}

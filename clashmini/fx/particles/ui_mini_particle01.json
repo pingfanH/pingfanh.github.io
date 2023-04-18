@@ -1,0 +1,28 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":10,
+		"lifetime":0.6,
+		"lifetimeJitter":0.15,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":8}]},
+			{"__class":"SpawnPlanar","spawnMinSize":0.40000004,"spawnMaxSize":2.3,"maxAngle":360,"minSpeedXY":6,"maxSpeedXY":12},
+			{"__class":"Deceleration","deceleration":[11,11,0]},
+			{"__class":"CurlNoise","frequency":20,"strength":20}
+		]
+	},
+	"render":{
+		"globalScale":0.01,
+		"scale":[1,-0.002604127,0.3307292,0.5651042,0.6,0],
+		"scaleJitter":0.5,
+		"color":[1,1,1],
+		"alpha":[0.640625,-0.0026041567,0.984375,0.4166667,1,0],
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/ui/ui_general_orange | 49e9c85e-20e6-4f5d-9d90-6d3be6bcc269","sc/ui/ui_general_white01 | 49e9c85e-2e5a-4656-96e9-002ea0bdc8c4"]
+}

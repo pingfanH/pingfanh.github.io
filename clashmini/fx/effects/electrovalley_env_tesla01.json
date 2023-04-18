@@ -1,0 +1,9 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/electrovalley_tesla01_lightbeam | 21fb952f-8be1-42ab-abe4-3d2816b96478","FollowPosition":true,"FollowBone":"tesla_06","Offset":{},"ComponentScale":0.8,"Loop":true},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/electrovalley_tesla01_backlights | 21fb952f-0a99-40ca-8a4b-291fdbf7030d","FollowPosition":true,"FollowBone":"tesla_06","Offset":{},"ComponentScale":0.7,"Loop":true},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/electrovalley_tesla01_backlights02 | 21fb952f-34c5-4834-b427-f0330c0754e2","FollowPosition":true,"FollowBone":"tesla_06","Offset":{},"ComponentScale":0.8,"Loop":true},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/electrovalley_tesla01_lights | 21fb952f-5d51-4f9d-9df2-c1946dfe4686","FollowPosition":true,"FollowBone":"tesla_06","Offset":{},"ComponentScale":0.8,"Loop":true},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/electrovalley_tesla01_parti_front | 21fb952f-0485-4f04-8475-b6d7f12cc138","FollowPosition":true,"FollowBone":"tesla_06","Offset":{},"ComponentScale":0.8,"Loop":true}
+	]
+}

@@ -1,0 +1,13 @@
+Name,BoardElementsRules,BoardElements
+string,string,string
+NoElement,NoElementRule,
+ElementSet1,Arena1Rule1,ClonePad1
+,,ChargingEnergyPad
+,,JumpPad1
+,,HealingTemplePad
+Mirror,Arena1Rule1,ClonePad1
+EnergyPad,Arena1Rule1,ChargingEnergyPad
+WaterPad,Arena1Rule1,JumpPad1
+Shield,Arena1Rule1,HealingTemplePad
+Halo,Arena1Rule1,HealingTemplePad
+Undying,Arena1Rule1,UndyingPad

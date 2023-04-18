@@ -1,0 +1,8 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_hit_04 | 21fb952f-f66c-4f96-96ed-a79cea037359","FollowPosition":true,"FollowAngle":true,"FollowBone":"Hip","Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"bat_hit_arrow"},
+		{"Type":"sub_effect","SubEffect":"fx/effects/hit_colorfilter | 9047f5ea-5826-4a18-98ac-c87403c73561","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"ForcedLength":0.15},
+		{"Type":"sound"}
+	]
+}

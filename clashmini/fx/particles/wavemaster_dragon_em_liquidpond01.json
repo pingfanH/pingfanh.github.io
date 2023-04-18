@@ -1,0 +1,21 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":10,
+		"lifetime":1,
+		"mass":1,
+		"spawnPointOffset":{"z":0.005},
+		"components":[{"__class":"SpawnLocation","spawnShape":1,"spawnMaxSize":0.16666667},{"__class":"SpawnRate","infinite":true,"duration":0.7,"spawnRate":5},{"__class":"Ground"}]
+	},
+	"render":{
+		"globalScale":0.013333334,
+		"scale":1,
+		"scaleJitter":0.2,
+		"color":[0.0078125,0.46614584,0.8072917,0.9869792,[1,1,1],[0.2,1,1]],
+		"alpha":1,
+		"angleJitter":30,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/wavemaster_dragon_waterpond01 | 49e9c85e-a90e-4666-b185-786823d8f049","sc/effects/wavemaster_dragon_waterpond02 | 49e9c85e-3e56-4592-878c-3722e9cea7f3","sc/effects/wavemaster_dragon_waterpond03 | 49e9c85e-fe6b-4456-b736-6756903a3b0c"]
+}

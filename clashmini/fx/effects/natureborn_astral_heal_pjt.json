@@ -1,0 +1,18 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_natureborn_astral_heal_pjt_01 | 21fb952f-5770-4417-979f-3410e8b287cb","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_natureborn_astral_heal_pjt_02 | 21fb952f-ea71-44ca-8aa0-3410e8b387cb","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":5,
+			"SWFClip":"sc/effects/astral_star_hollow_02 | 49e9c85e-57e9-4b21-9b14-732e082c2632",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":0.7,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_natureborn_astral_heal_pjt_03 | 21fb952f-7d73-447d-bda2-3410e8b487cb","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1}
+	]
+}

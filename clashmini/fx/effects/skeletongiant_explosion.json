@@ -1,0 +1,17 @@
+{
+	"Components":[
+		{"Type":"sub_effect","SubEffect":"fx/effects/giantskeleton_def_skill_hit_boom_01 | 9047f5ea-f1f2-43f1-b1e1-3ed11eb068ed","Offset":{},"ComponentScale":1,"StartTime":1.9000001},
+		{
+			"Type":"model",
+			"ModelMesh":"sc3d/fx_deathbomb | ec79f249-8c6b-4dec-ac01-84b2f7ca332f",
+			"EffectOnModel":"fx/effects/bomb_sparkle_effect | 9047f5ea-20f6-42a0-a00a-b65e257b5872",
+			"ModelFresnelColor":{"r":1,"g":0.42745098,"a":1},
+			"ModelFresnelStrength":20,
+			"ModelFresnelIOR":1.3,
+			"ModelFresnelFadeInTime":1,
+			"Offset":{},
+			"ComponentScale":1,
+			"ForcedLength":2.5
+		}
+	]
+}

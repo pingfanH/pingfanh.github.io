@@ -1,0 +1,36 @@
+{
+	"data":[
+		{
+			"name":"generic",
+			"upgrade_costs":[
+				{"res":["SkillStoneA"],"amount":[0],"level_req":1},
+				{"res":["SkillStoneA"],"amount":[0],"level_req":1},
+				{"res":["SkillStoneA"],"amount":[0],"level_req":1}
+			]
+		},
+		{
+			"name":"SkillUpgrade1",
+			"upgrade_costs":[
+				{"res":["SkillStoneA"],"amount":[0],"level_req":1},
+				{"res":["SkillStoneA"],"amount":[0],"level_req":1},
+				{"res":["SkillStoneA"],"amount":[0],"level_req":1}
+			]
+		},
+		{
+			"name":"SkillUpgrade2",
+			"upgrade_costs":[
+				{"res":["SkillStoneA"],"amount":[0],"level_req":1},
+				{"res":["SkillStoneA"],"amount":[0],"level_req":1},
+				{"res":["SkillStoneA"],"amount":[0],"level_req":1}
+			]
+		},
+		{
+			"name":"SkillUpgrade3",
+			"upgrade_costs":[
+				{"res":["SkillStoneA"],"amount":[0],"level_req":1},
+				{"res":["SkillStoneA"],"amount":[0],"level_req":1},
+				{"res":["SkillStoneA"],"amount":[0],"level_req":1}
+			]
+		}		
+	]
+}

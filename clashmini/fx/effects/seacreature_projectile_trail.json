@@ -1,0 +1,33 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":3,
+			"SWFClip":"sc/effects/bd_point_blur_02_cyan | 49e9c85e-ec6e-47f8-8151-f0594ae2aa0b",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1.25,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":3,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/bd_witch_projecile_trail01 | 21fb952f-e92b-48e9-a945-3521182fe4db",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true,
+			"AllyOnly":true
+		},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/seacreature_witch_proj_particle | 21fb952f-5c40-433c-bc8a-8700dc4ba396","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":4,"ParticleEmitter":"fx/particles/seacreature_witch_proj_smoke | 21fb952f-1bdc-463b-bb78-62674a5f143b","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/seacreature_witch_proj_glitter | 21fb952f-cf3c-428f-8f76-97f88dc9ad47","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/seacreature_witch_proj_ground | 21fb952f-bd9f-4c9d-9d5b-71a040bea5ac","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"swf","Layer":3,"SWFClip":"sc/effects/seacreature_projectile_ball_turn | 49e9c85e-052d-48e7-b1b6-39083935bac1","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":0.39999998,"Loop":true},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/seacreature_witch_proj_particle_02 | 21fb952f-dbc9-409b-9b60-a240f22b141a","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1}
+	]
+}

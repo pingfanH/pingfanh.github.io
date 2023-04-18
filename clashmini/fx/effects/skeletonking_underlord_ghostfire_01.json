@@ -1,0 +1,37 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":3,
+			"ParticleEmitter":"fx/particles/bd_skeletonking_underlord_ghostfire_02 | 21fb952f-19f8-49f9-b951-519c55ba1e03",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Head3",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_skeletonking_underlord_ghostfire_01 | 21fb952f-60f3-49e0-a04c-519c55b71e03",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Head3",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_skeletonking_underlord_ghostfire_03 | 21fb952f-86f6-4946-8650-519c55b91e03",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Head3",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		}
+	]
+}

@@ -1,0 +1,40 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":3,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/bd_point_blur_01_golden | 49e9c85e-d45b-41df-9570-f052a763b445",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":2,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/bd_healingspear_trail01 | 21fb952f-a76f-4ee7-a711-c269eee22b4f",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true,
+			"AllyOnly":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/bd_healingspear_trail01_red | 21fb952f-ef53-43ef-af4a-39db969bd71c",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true,
+			"EnemyOnly":true
+		}
+	]
+}

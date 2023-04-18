@@ -1,0 +1,23 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":1,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[{"__class":"SpawnRate","duration":0.8,"spawnRate":8},{"__class":"SpawnCone","direction":[1,0,0],"velocity":0.016666668}]
+	},
+	"render":{
+		"globalScale":0.01,
+		"scale":1,
+		"color":[1,1,1],
+		"alpha":1,
+		"angle":90,
+		"orientToDirection":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"billboardAlign":2
+	},
+	"movieclip":["sc/effects/vampire_slash | 49e9c85e-4088-4e33-9baf-1d6b52e212bf"]
+}

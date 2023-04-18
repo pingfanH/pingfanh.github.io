@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_vampire_candel_01 | 21fb952f-0e79-4dce-8ece-1cb4a60a52c3",
+			"FollowPosition":true,
+			"FollowScale":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{"Type":"swf","Layer":4,"SWFClip":"sc/effects/bd_vam_candel_fire_f | 49e9c85e-8888-4051-9c06-0b1b7a47d862","FollowPosition":true,"FollowScale":true,"Offset":{},"ComponentScale":1,"Loop":true}
+	]
+}

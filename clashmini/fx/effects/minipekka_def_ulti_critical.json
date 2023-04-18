@@ -1,0 +1,21 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/minipekka_def_hit_critical01 | 21fb952f-4a40-44ea-aa0c-651bdae59e3c","Offset":{"z":0.5},"ComponentScale":0.75},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/minipekka_def_hit_glow | 21fb952f-7505-4335-b59a-4a91742edeeb","Offset":{"z":0.5},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/minipekka_def_hit_critical02 | 21fb952f-b73e-4437-b70b-651bdae49e3c","Offset":{"z":0.5},"ComponentScale":0.75},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/minipekka_def_hit_particle01 | 21fb952f-d641-4796-96c4-416919b6019e","Offset":{"z":0.5},"ComponentScale":0.75},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/minipekka_def_hit_particle02 | 21fb952f-60b9-4d60-a0c8-33b6eab63dc1","Offset":{"z":0.5},"ComponentScale":0.75},
+		{"Type":"sub_effect","SubEffect":"fx/effects/hit_colorfilter | 9047f5ea-5826-4a18-98ac-c87403c73561","Offset":{},"ComponentScale":1,"ForcedLength":0.15},
+		{
+			"Type":"fresnel",
+			"AlphaFadeOutTime":0.1,
+			"AlphaFadeDir":true,
+			"FresnelColor":{"g":0.9019608,"b":0.19607843,"a":1},
+			"FresnelStrength":6,
+			"FresnelIOR":1.1999999,
+			"FresnelFadeOutTime":0.1,
+			"ForcedLength":0.3
+		},
+		{"Type":"sound","Sound":"sfx_mini_minipeaka_atk_hit_c"}
+	]
+}

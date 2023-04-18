@@ -1,0 +1,14 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":4,
+			"SWFClip":"sc/effects/mechaArcher_launch | 49e9c85e-d1fa-4136-8e09-56f7bb482bd4",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"y":-0.6666667,"z":0.33333334},
+			"ComponentScale":0.9,
+			"ForcedLength":0.35000002
+		}
+	]
+}

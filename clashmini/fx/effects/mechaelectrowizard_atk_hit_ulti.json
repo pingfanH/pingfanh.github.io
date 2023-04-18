@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":1,"g":0.78431374,"b":0.11764706,"a":1},
+			"FresnelStrength":30,
+			"FresnelIOR":1.1999999,
+			"FresnelFadeOutTime":1,
+			"StartTime":0.3,
+			"ForcedLength":1
+		},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/mechaelectrowizard_hit_impact_ulti | 21fb952f-46d9-4866-a69c-5b435b883470","Offset":{},"ComponentScale":1,"StartTime":0.3},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/mechaelectrowizard_hit_elec_ulti | 21fb952f-ffa2-471f-9fd7-09f8e1a9f978","FollowPosition":true,"Offset":{},"ComponentScale":1,"StartTime":0.3}
+	]
+}

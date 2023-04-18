@@ -1,0 +1,14 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/jumptrail_emitter | 21fb952f-dab4-439a-9ade-7d82dd0e891c",
+			"FollowPosition":true,
+			"Offset":{"z":0.33333334},
+			"ComponentScale":1,
+			"Loop":true
+		}
+	]
+}

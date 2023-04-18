@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/electrowizard_def_atk_onhand | 21fb952f-8ecc-4d0e-8eaa-b556af8d2521","FollowPosition":true,"FollowBone":"Hand_L","Offset":{},"ComponentScale":1.5},
+		{"Type":"sub_effect","SubEffect":"fx/effects/electro_filter | 9047f5ea-02f7-4182-82fa-7b4713b63bfb","Offset":{},"ComponentScale":1}
+	]
+}

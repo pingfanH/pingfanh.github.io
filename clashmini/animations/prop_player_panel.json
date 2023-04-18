@@ -1,0 +1,32 @@
+{
+	"States":[
+		{"Type":"AnimClip","Name":"idle","Loop":true,"Animation":{"lastKnownPath":"sc3d/battlebox_idle","uuid":"ec79f249-b972-41b9-b961-7cb405dfc83b"}},
+		{
+			"Type":"AnimClip",
+			"Name":"in",
+			"Animation":{"lastKnownPath":"sc3d/battlebox_in","uuid":"ec79f249-84af-4ea4-a4b8-832e2e84a882"},
+			"Events":[
+				{"Event":"Marker","Frame":1,"Name":"sound_frame"},
+				{"Event":"Effect","Frame":1,"Effect":{"lastKnownPath":"fx/effects/shop_in_sound","uuid":"9047f5ea-852f-4de5-a530-daaa3690e8e3"}},
+				{"Event":"Marker","Frame":15,"Name":"elixir_change"}
+			]
+		},
+		{"Type":"AnimClip","Name":"out","Animation":{"lastKnownPath":"sc3d/battlebox_out","uuid":"ec79f249-4f4c-4e0f-8f7c-e0170a888dd2"}},
+		{"Type":"AnimClip","Name":"shop_reroll_start","Animation":{"lastKnownPath":"sc3d/battlebox_reroll_start","uuid":"ec79f249-6254-4942-82f1-9d2fa317bfa2"},"Events":[{"Event":"Marker","Frame":4,"Name":"unit_reroll"}]},
+		{"Type":"AnimClip","Name":"shop_reroll","Animation":{"lastKnownPath":"sc3d/battlebox_reroll","uuid":"ec79f249-25ad-4805-8587-6d6d962e7317"}},
+		{"Type":"AnimClip","Name":"shop_reroll_fail","Animation":{"lastKnownPath":"sc3d/battlebox_reroll_fail","uuid":"ec79f249-2407-4a04-8487-8cbef51c65bd"}},
+		{"Type":"AnimClip","Name":"pve_ready_clicked","Animation":{"lastKnownPath":"sc3d/battlebox_reroll_start","uuid":"ec79f249-6254-4942-82f1-9d2fa317bfa2"}},
+		{"Type":"AnimClip","Name":"pve_ready_unclicked","Animation":{"lastKnownPath":"sc3d/battlebox_reroll","uuid":"ec79f249-25ad-4805-8587-6d6d962e7317"}},
+		{"Type":"AnimClip","Name":"shop_closed","Animation":{"lastKnownPath":"sc3d/battlebox_reroll","uuid":"ec79f249-25ad-4805-8587-6d6d962e7317"},"StartFrame":0,"EndFrame":0},
+		{
+			"Type":"AnimClip",
+			"Name":"shop_ready_out",
+			"Animation":{"lastKnownPath":"sc3d/battlebox_out","uuid":"ec79f249-4f4c-4e0f-8f7c-e0170a888dd2"},
+			"BaseSpeed":0.5,
+			"TransInTime":0.1,
+			"StartFrame":5,
+			"EndFrame":14
+		}
+	],
+	"DefaultState":"idle"
+}

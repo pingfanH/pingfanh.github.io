@@ -1,0 +1,9 @@
+{
+	"Components":[
+		{"Type":"swf","Layer":3,"GroundBasis":true,"SWFClip":"sc/effects/bd_water_grid_indicator | 49e9c85e-aa4b-43eb-8ab7-315babc925c1","Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_bubble_ground_loop_01 | 21fb952f-279e-4c27-a7db-88cc560de221","FollowPosition":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_flare_loop_01 | 21fb952f-ef2b-4b6f-af1e-ad22c1e1d916","FollowPosition":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_wave_ripple_02 | 21fb952f-1bdc-461b-9b1b-7a0247fb2ca2","FollowPosition":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_wave_ripple_03 | 21fb952f-88da-4668-a819-7a0247fa2ca2","FollowPosition":true,"Offset":{},"ComponentScale":1,"Loop":true}
+	]
+}

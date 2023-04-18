@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{"Type":"swf","Layer":3,"SWFClip":"sc/effects/bd_speedup_onhand | 49e9c85e-9eb3-446e-86c6-7a1450d57fca","FollowPosition":true,"FollowBone":"Hand_R","Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"swf","Layer":3,"SWFClip":"sc/effects/bd_speedup_onhand | 49e9c85e-9eb3-446e-86c6-7a1450d57fca","FollowPosition":true,"FollowBone":"Hand_L","Offset":{},"ComponentScale":2,"Loop":true},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":1,"g":0.19607843,"b":1,"a":1},
+			"FresnelStrength":6,
+			"FresnelIOR":1.3,
+			"FresnelFadeOutTime":0.5,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_spdup_loop_01 | 21fb952f-636a-4583-8347-a438287ad51a","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1.5}
+	]
+}

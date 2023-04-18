@@ -1,0 +1,26 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_chest_open_glow_01 | 21fb952f-ec97-4ecc-8cb4-d8a22174a62f",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"chest",
+			"Offset":{},
+			"ComponentScale":1
+		},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_chest_open_glow_02 | 21fb952f-a59c-4ee5-a5b9-d8a22177a62f",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"chest",
+			"Offset":{},
+			"ComponentScale":1
+		}
+	]
+}

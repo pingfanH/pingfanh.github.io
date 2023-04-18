@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_water_spout_once_03_small | 21fb952f-c1c2-4041-81bf-3897ed546660","FollowPosition":true,"FollowBone":"fx","Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_wave_ripple_02_once | 21fb952f-e579-42c5-85f0-97017927a156","FollowPosition":true,"Offset":{},"ComponentScale":1,"Loop":true}
+	]
+}

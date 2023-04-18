@@ -1,0 +1,13 @@
+{
+	"Components":[
+		{
+			"Type":"color_filter",
+			"Additive":{"r":1,"g":0.19607843,"a":1},
+			"Multiplicative":{"r":1,"g":1,"b":1,"a":1},
+			"FadeOutTime":0.2,
+			"ForcedLength":0.1,
+			"Loop":true
+		},
+		{"Type":"sound","Sound":"sfx_mini_minipeaka_atk_hit","ForcedLength":0.1,"Loop":true}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","BlendMode":1,"Layer":4,"ParticleEmitter":"fx/particles/bd_ui_spotlight_02 | 21fb952f-58c2-45f8-b8d4-19e574de8390","Offset":{"z":0.1},"ComponentScale":2},
+		{"Type":"sound","Sound":"ui_openchest"},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/bd_blink_01 | 21fb952f-3476-4314-94a9-7f3e240bf859",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"Offset":{"z":0.1},
+			"ComponentScale":0.2,
+			"ForcedLength":1
+		},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/star4_fireworks | 21fb952f-a614-4a26-a668-3cf47dc7a22d","Offset":{"z":0.1},"ComponentScale":1}
+	]
+}

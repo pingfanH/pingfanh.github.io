@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_witch_attach_hit01 | 21fb952f-c49e-47c4-84f5-2f8a0f3b41cd","FollowPosition":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":0.5},
+		{"Type":"sound","Sound":"bat_hit_magic_impact_zaplight"},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"g":1,"b":1,"a":1},
+			"FresnelStrength":5,
+			"FresnelIOR":1.8,
+			"FresnelFadeInTime":0.010000001,
+			"FresnelFadeOutTime":0.5,
+			"ForcedLength":0.05
+		}
+	]
+}

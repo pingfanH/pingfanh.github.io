@@ -1,0 +1,13 @@
+{
+	"States":[
+		{"Type":"AnimClip","Name":"Idle","Animation":{"lastKnownPath":"sc3d/be_shield_idle","uuid":"ec79f249-31d1-43f1-b1e0-c47c9fbc049a"}},
+		{
+			"Type":"AnimClip",
+			"Name":"Trigger",
+			"Animation":{"lastKnownPath":"sc3d/be_shield_rotate","uuid":"ec79f249-e0fe-4560-a09b-e0fee28e1fe0"},
+			"Events":[{"Event":"Marker","Frame":1,"Name":"activate_effect"},{"Event":"Effect","Frame":1,"Effect":{"lastKnownPath":"fx/effects/shieldpad_trigger","uuid":"9047f5ea-86fa-4b06-86d6-79a4fe5e10dc"}}]
+		},
+		{"Type":"AnimClip","Name":"Stepon","Animation":{"lastKnownPath":"sc3d/be_shield_idle","uuid":"ec79f249-31d1-43f1-b1e0-c47c9fbc049a"}},
+		{"Type":"AnimClip","Name":"Deploy","Animation":{"lastKnownPath":"sc3d/be_shield_deploy","uuid":"ec79f249-3012-4690-9026-6848688c0788"}}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_cc_minstrel_note_01 | 21fb952f-d449-4d34-b488-f87705f996bd","FollowPosition":true,"Offset":{},"ComponentScale":1,"StartTime":0.05},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_cc_minstrel_volumn_01 | 21fb952f-1d84-471d-9d4e-52205efa559d","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_cc_minstrel_volumn_02 | 21fb952f-647f-4704-8449-52205ef7559d","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_cc_minstrel_volumn_03 | 21fb952f-f780-47b7-b74a-52205ef8559d","FollowPosition":true,"FollowAngle":true,"FollowBone":"fx","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_cc_minstrel_volumn_04 | 21fb952f-3e7c-479e-9e45-52205ef5559d","FollowPosition":true,"FollowAngle":true,"FollowBone":"fx","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_cc_minstrel_volumn_03_small | 21fb952f-efe9-4eaf-af30-1fad7a646c4e","FollowPosition":true,"FollowAngle":true,"FollowBone":"fx_L","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_cc_minstrel_volumn_03_small | 21fb952f-efe9-4eaf-af30-1fad7a646c4e","FollowPosition":true,"FollowAngle":true,"FollowBone":"fx_R","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_cc_minstrel_volumn_05 | 21fb952f-d17d-4751-9147-52205ef6559d","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"c_p_magicarcher_atk_shot_crystal"}
+	]
+}

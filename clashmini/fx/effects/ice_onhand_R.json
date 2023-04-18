@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_ice_small | 21fb952f-b30f-47d3-932a-ee68883c5f97","Offset":{},"ComponentScale":1,"ForcedLength":1}]
+}

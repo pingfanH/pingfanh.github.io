@@ -1,0 +1,60 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/p_natureborn_B1_transform03 | 21fb952f-e6f7-4226-a6d9-2d6c636f3738",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"Offset":{"z":0.5},
+			"ComponentScale":1.3
+		},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":0.24705882,"g":0.5568628,"b":1,"a":1},
+			"FresnelStrength":10,
+			"FresnelIOR":1.3,
+			"FresnelFadeOutTime":0.6,
+			"ForcedLength":0.5
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/p_natureborn_B1_transform01 | 21fb952f-8813-4d48-88a3-077ea9c27ffe",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"Offset":{"z":0.5},
+			"ComponentScale":1
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/p_natureborn_B1_transform02 | 21fb952f-79f9-42d9-99da-2d6c63703738",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"Offset":{"z":0.5},
+			"ComponentScale":1.3
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/p_natureborn_B1_transform04 | 21fb952f-9ffc-423f-bfde-2d6c63723738",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"Offset":{"z":0.5},
+			"ComponentScale":1.3
+		},
+		{
+			"Type":"color_filter",
+			"Additive":{"r":0.83137256,"g":0.87058824,"b":1},
+			"Multiplicative":{"r":1,"g":1,"b":1},
+			"FadeOutTime":0.5,
+			"ForcedLength":0.2
+		}
+	]
+}

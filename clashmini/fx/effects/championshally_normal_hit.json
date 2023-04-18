@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/royalchampion_nor_hit01 | 21fb952f-4a9f-48ca-8a7d-2bc55af6d559","FollowPosition":true,"FollowAngle":true,"FollowBone":"Hip","Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"sfx_hero_skin_shelly_atk_hit"}
+	]
+}

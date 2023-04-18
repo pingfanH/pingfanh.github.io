@@ -1,0 +1,26 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/bd_fire_hit04 | 21fb952f-9ec5-4afe-beb6-dbebcc72c828",
+			"FollowPosition":true,
+			"Offset":{"z":0.16666667},
+			"ComponentScale":1,
+			"StartTime":0.11000001,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":2,
+			"Layer":3,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/bd_fireshadow_01 | 21fb952f-3e1a-4fbe-bed0-a023b4f1cf06",
+			"FollowPosition":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"StartTime":0.1,
+			"Loop":true
+		}
+	]
+}

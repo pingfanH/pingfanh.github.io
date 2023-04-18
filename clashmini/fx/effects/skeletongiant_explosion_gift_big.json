@@ -1,0 +1,18 @@
+{
+	"Components":[
+		{"Type":"sub_effect","SubEffect":"fx/effects/bomb_explosion_gift | 9047f5ea-c434-49c4-8439-77229f2b78bf","Offset":{},"ComponentScale":3},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_confetti_s_01 | 21fb952f-2034-4660-a086-415141ec7448","FollowPosition":true,"Offset":{},"ComponentScale":3,"StartTime":2.0500002},
+		{
+			"Type":"model",
+			"ModelMesh":"sc3d/fx_deathbomb_gift | ec79f249-a98e-4669-a91c-4b2a15c5439e",
+			"EffectOnModel":"fx/effects/bomb_sparkle_effect | 9047f5ea-20f6-42a0-a00a-b65e257b5872",
+			"ModelFresnelColor":{"r":1,"g":0.105882354,"a":1},
+			"ModelFresnelStrength":10,
+			"ModelFresnelIOR":2,
+			"ModelFresnelFadeInTime":3,
+			"Offset":{},
+			"ComponentScale":2,
+			"ForcedLength":2.5
+		}
+	]
+}

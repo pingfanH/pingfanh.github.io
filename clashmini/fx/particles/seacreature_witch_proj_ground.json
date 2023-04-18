@@ -1,0 +1,26 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":500,
+		"emitterDelay":0.1,
+		"lifetime":2,
+		"lifetimeJitter":0.3,
+		"mass":1,
+		"spawnPointOffset":{"z":-0.5},
+		"components":[{"__class":"SpawnRate","infinite":true,"spawnRate":35},{"__class":"SpawnLocation","spawnShape":2,"spawnMaxSize":0.4166667}]
+	},
+	"render":{
+		"globalScale":0.0025,
+		"scale":[1.3,1.7],
+		"scaleJitter":0.3,
+		"color":[1,1,1],
+		"alpha":0.3,
+		"angleJitter":180,
+		"orientToDirection":true,
+		"alphaFadeout":0.5,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/seacreature_proj_ground | 49e9c85e-8f35-440b-a5f8-84b78a5a6400"]
+}

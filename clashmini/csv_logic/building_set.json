@@ -1,0 +1,28 @@
+{
+	"data":[
+		{"name":"BLD_Gold_Set"},
+		{"name":"All","buildings":["StarCactusB2","StarCollectorB2","StarWarDrumB2","StarTrapB2","StarHotPotB2","StarSaunaB2","StarKingTowerB2","StarTrainingCampB2","StarPancakerB2"]},
+		{"name":"Empty"},
+		{"name":"Silver3","buildings":["StarTrapB2","StarCollectorB2","StarHotPotB2"]},
+		{"name":"Gold3","buildings":["StarTrapB2","StarCollectorB2","StarHotPotB2","StarCactusB2","StarSaunaB2","StarRocketB2"]},
+		{"name":"Diamond3","buildings":["StarTrapB2","StarCollectorB2","StarHotPotB2","StarCactusB2","StarSaunaB2","StarRocketB2","StarPancakerB2","StarTrainingCampB2","StarWarDrumB2","StarKingTowerB2"]},
+		{"name":"Silver3_B","buildings":["StarTrapB2","StarCollectorB2","StarHotPotB2","StarRocketB2"]},
+		{"name":"Gold3_B","buildings":["StarTrapB2","StarCollectorB2","StarHotPotB2","StarCactusB2","StarSaunaB2","StarRocketB2","StarPancakerB2"]},
+		{"name":"Diamond3_B","buildings":["StarTrapB2","StarCollectorB2","StarHotPotB2","StarCactusB2","StarSaunaB2","StarRocketB2","StarPancakerB2","StarTrainingCampB2","StarWarDrumB2","StarKingTowerB2"]},
+		{"name":"Silver3_C","buildings":["StarTrapB2","StarCollectorB2","StarHotPotB2","StarRocketB2","StarSaunaB2","StarCactusB2"]},
+		{"name":"Gold3_C","buildings":["StarTrapB2","StarCollectorB2","StarHotPotB2","StarCactusB2","StarSaunaB2","StarRocketB2","StarPancakerB2","StarTrainingCampB2"]},
+		{"name":"Silver3_A","buildings":["StarTrapB2","StarSaunaB2","StarRocketB2"]},
+		{"name":"Ban_Collector","buildings":["StarCactusB2","StarWarDrumB2","StarTrapB2","StarHotPotB2","StarSaunaB2","StarKingTowerB2","StarTrainingCampB2","StarPancakerB2","StarRocketB2"]},
+		{"name":"Silver3-U6-1","buildings":["StarTrapB2","StarCollectorB2","StarHotPotB2"]},
+		{"name":"Gold3-U6-1","buildings":["StarTrapB2","StarCollectorB2","StarHotPotB2","StarCactusB2","StarSaunaB2","StarWarDrumB2"]},
+		{"name":"Silver3-U6-2","buildings":["StarCactusB2","StarCollectorB2","StarPancakerB2"]},
+		{"name":"Gold3-U6-2","buildings":["StarCactusB2","StarCollectorB2","StarPancakerB2","StarWarDrumB2","StarTrainingCampB2","StarKingTowerB2"]},
+		{"name":"Gold3-U6-3","buildings":["StarKingTowerB2","StarPancakerB2","StarHotPotB2","StarSaunaB2","StarTrainingCampB2","StarTrapB2"]},
+		{"name":"Silver3-U6-3","buildings":["StarTrapB2","StarPancakerB2","StarHotPotB2"]},
+		{"name":"Silver3-U6-4","buildings":["StarCollectorB2","StarCactusB2","StarHotPotB2"]},
+		{"name":"Gold3-U6-4","buildings":["StarCollectorB2","StarCactusB2","StarHotPotB2","StarSaunaB2","StarWarDrumB2","StarKingTowerB2"]},
+		{"name":"DraftRumble","buildings":["StarTrapB2","StarKingTowerB2","StarHotPotB2","StarCactusB2","StarSaunaB2","StarWarDrumB2"]},
+		{"name":"DoubleHeroDraft","buildings":["StarCactusB2","StarHotPotB2","StarPancakerB2","StarWarDrumB2","StarTrainingCampB2","StarKingTowerB2"]},
+		{"name":"DoubleHeroMegaDraft","buildings":["StarKingTowerB2","StarPancakerB2","StarHotPotB2","StarSaunaB2","StarTrainingCampB2","StarTrapB2"]}
+	]
+}

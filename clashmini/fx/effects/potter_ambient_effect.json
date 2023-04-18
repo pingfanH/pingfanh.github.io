@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_potter_fire_01 | 21fb952f-10b0-4450-906b-12634939a776","FollowPosition":true,"FollowScale":true,"FollowBone":"Hip","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_potter_fire_03 | 21fb952f-36b3-44b6-b66e-1263493ba776","FollowPosition":true,"FollowScale":true,"FollowBone":"Head1","Offset":{},"ComponentScale":1},
+		{"Type":"swf","Layer":3,"GroundBasis":true,"SWFClip":"sc/effects/fx_light_ground_orange | 49e9c85e-e346-4a31-990e-04e05eec3f16","FollowPosition":true,"Offset":{},"ComponentScale":0.3,"Loop":true}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"emitterDelay":0.05,
+		"lifetime":0.5,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.006666667,
+		"scale":[0.23958334,0.8098959,0.6744792,0.8307292,1.6,0],
+		"color":[1,1,1],
+		"alpha":[0.27083334,-0.026041657,0.17447919,0.9166667,1,0],
+		"angleJitter":360,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/archerqueen_hits | 49e9c85e-13e7-4807-a448-5a300c7f8720"]
+}

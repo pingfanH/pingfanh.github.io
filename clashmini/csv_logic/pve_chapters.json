@@ -1,0 +1,6 @@
+{
+	"data":[
+		{"name":"Chapter_1","displayName":"TID_PVE_CHAPTER_1_NAME","iconExportName":"icon_chapter_01","levels":[30500000,30500001,30500002,30500003,30500004,30500005,30500006]},
+		{"name":"Chapter_2","displayName":"TID_PVE_CHAPTER_2_NAME","iconExportName":"icon_chapter_02","levels":[30500007,30500008,30500009,30500010,30500011,30500012,30500013]}
+	]
+}

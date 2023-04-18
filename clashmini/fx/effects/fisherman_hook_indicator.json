@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{
+			"Type":"model",
+			"ModelMesh":"sc3d/fx_hook_indicator | ec79f249-a539-4b65-a5af-586b76ff2b24",
+			"ModelAlpha":0.59999996,
+			"ModelFresnelColor":{"a":1},
+			"HideShadow":true,
+			"FollowPosition":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true,
+			"AllyOnly":true
+		}
+	]
+}

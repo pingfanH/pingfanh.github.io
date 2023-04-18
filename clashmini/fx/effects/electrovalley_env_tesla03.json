@@ -1,0 +1,12 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/electrovalley_tesla02_polishlight01 | 21fb952f-0517-4d85-85bb-03ac8d8209dd","FollowPosition":true,"FollowBone":"tesla_02","Offset":{},"ComponentScale":0.85,"Loop":true},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/electrovalley_tesla02_polishglow01 | 21fb952f-806a-4a40-80d3-409172dd26c0","FollowPosition":true,"FollowBone":"tesla_02","Offset":{},"ComponentScale":0.75},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/electrovalley_tesla02_thunder | 21fb952f-af95-40ef-af87-542e2bf9aafe","FollowPosition":true,"FollowBone":"tesla_02","Offset":{},"ComponentScale":0.85},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/electrovalley_tesla02_polishlight02 | 21fb952f-4c12-4d6c-acb6-03ac8d7f09dd","FollowPosition":true,"FollowBone":"tesla_02","Offset":{},"ComponentScale":0.8},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/electrovalley_tesla02_polishlight01 | 21fb952f-0517-4d85-85bb-03ac8d8209dd","FollowPosition":true,"FollowBone":"tesla_07","Offset":{},"ComponentScale":0.75},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/electrovalley_tesla02_polishglow01 | 21fb952f-806a-4a40-80d3-409172dd26c0","FollowPosition":true,"FollowBone":"tesla_07","Offset":{},"ComponentScale":0.75},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/electrovalley_tesla02_thunder | 21fb952f-af95-40ef-af87-542e2bf9aafe","FollowPosition":true,"FollowBone":"tesla_07","Offset":{},"ComponentScale":0.85},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/electrovalley_tesla02_polishlight02 | 21fb952f-4c12-4d6c-acb6-03ac8d7f09dd","FollowPosition":true,"FollowBone":"tesla_07","Offset":{},"ComponentScale":0.8}
+	]
+}

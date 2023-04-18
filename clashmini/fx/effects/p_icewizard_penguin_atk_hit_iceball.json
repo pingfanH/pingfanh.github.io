@@ -1,0 +1,10 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_icewizard_penguin_atk_hit_smoke01 | 21fb952f-bb3e-45bb-bb43-42b675e5a708","FollowPosition":true,"Offset":{"z":0.6},"ComponentScale":0.2},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_icewizard_penguin_atk_hit_star | 21fb952f-2a72-4d4a-8a6f-b5382a0f7ef3","Offset":{"z":0.6},"ComponentScale":0.3},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_icewizard_penguin_atk_hit_impact | 21fb952f-7850-47d8-9837-3487b70905d6","FollowPosition":true,"Offset":{"z":0.6},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_icewizard_penguin_atk_hit_spark | 21fb952f-cf6b-448f-8f02-2d789f354f4a","Offset":{"z":0.6},"ComponentScale":0.5},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_icewizard_penguin_atk_hit_glass | 21fb952f-0635-4886-8618-972ab89eb532","Offset":{"z":0.6},"ComponentScale":1},
+		{"Type":"sound","Sound":"sfx_arcticmage_atk_hit"}
+	]
+}

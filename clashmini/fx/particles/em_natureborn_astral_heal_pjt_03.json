@@ -1,0 +1,25 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":200,
+		"lifetime":0.2,
+		"lifetimeJitter":0.1,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[{"__class":"SpawnLocation","spawnShape":2},{"__class":"SpawnRate","infinite":true,"spawnRate":20},{"__class":"SpawnVelocityComponent","velocity":[0,1,0]}]
+	},
+	"render":{
+		"globalScale":0.01,
+		"scale":[0.33333334,0.33333334,0.6666667,0.6666667,0.4,0.2],
+		"color":[0.09114584,0.6692709,0.4713542,0.7994792,[0.1,1,0.5],[1,0.2,0.2]],
+		"alpha":1,
+		"rotationSpeed":100,
+		"loopMovieClip":true,
+		"alphaFadeout":0.1,
+		"trailDuration":0.2,
+		"trailWidth":5,
+		"trailImage":"image/trail_bluepurple01.png#premultiply",
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/astral_star_hollow_02 | 49e9c85e-57e9-4b21-9b14-732e082c2632"]
+}

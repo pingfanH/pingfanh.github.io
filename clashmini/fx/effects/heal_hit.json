@@ -1,0 +1,13 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/generic_heal_ground | 21fb952f-d934-4eb9-b911-7f1e693120af","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/generic_heal_lights01 | 21fb952f-6062-4ec0-8033-c5118efb0e7a","Offset":{},"ComponentScale":1.5},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/generic_heal_texture | 21fb952f-c9d2-4c09-890f-4ae3c46b7899","Offset":{},"ComponentScale":1.1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/generic_heal_impact | 21fb952f-8c2a-4e8c-8c4c-b67025644905","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/generic_heal_glow | 21fb952f-6363-4443-839c-52987036ea4a","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/generic_heal_particles02 | 21fb952f-93f2-4193-935c-1ea0da5611c0","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/generic_heal_lightbeam | 21fb952f-4d24-48ed-ad57-0253dd690597","Offset":{},"ComponentScale":1.4},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/generic_heal_arura3 | 21fb952f-b27c-4b52-9291-50654ae23d4d","Offset":{},"ComponentScale":0.85},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/generic_heal_dust | 21fb952f-8e67-40ae-ae39-7a80764609a0","Offset":{},"ComponentScale":1}
+	]
+}

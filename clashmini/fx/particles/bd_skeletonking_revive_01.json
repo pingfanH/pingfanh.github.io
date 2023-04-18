@@ -1,0 +1,37 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":6,
+		"lifetime":2,
+		"mass":1,
+		"spawnPointOffset":{"z":0.5},
+		"gravity":[0,1.6666667,0],
+		"components":[
+			{"__class":"SpawnRate","duration":1.2,"spawnRate":60},
+			{
+				"__class":"Spring",
+				"positionDelta":[0,0,0.5],
+				"stiffness":[0.53125,0.020833373,0.984375,0.3854167,0,80],
+				"damping":[0,1.0364584,0.3203125,1.0026042,0,500],
+				"relativeToSpawn":true
+			},
+			{"__class":"CurlNoise","frequency":1,"strength":20},
+			{"__class":"SpawnPlanar","spawnMinSize":0.16666667,"spawnMaxSize":0.33333334,"maxAngle":360,"minSpeedXY":10,"maxSpeedXY":10,"minSpeedZ":2,"maxSpeedZ":8}
+		]
+	},
+	"render":{
+		"globalScale":0.008333334,
+		"scale":[1,2],
+		"scaleJitter":[0,0.5],
+		"color":[[0,1,0.5],[0,0,1]],
+		"alpha":1,
+		"alphaFadeout":0.2,
+		"trailEnabled":true,
+		"trailDuration":0.4,
+		"trailWidth":5,
+		"trailHeadOrTails":true,
+		"trailImage":"image/trail_blue.png#premultiply",
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/bd_point_blur_02 | 49e9c85e-3db7-4455-a28b-b9b3f5d092cb"]
+}

@@ -1,0 +1,30 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":10,
+		"lifetime":0.4,
+		"lifetimeJitter":0.05,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","infinite":true,"duration":0.1,"spawnRate":5},
+			{"__class":"Deceleration","deceleration":[7.5,7.5,7.5]},
+			{"__class":"SpawnPlanar","maxAngle":360,"minSpeedXY":1.7,"maxSpeedXY":2,"minSpeedZ":1.7,"maxSpeedZ":2,"randomAngle":true}
+		]
+	},
+	"render":{
+		"globalScale":0.01,
+		"scale":[0.7864584,0.013020843,0.9088542,0.4635417,0.7,0.55],
+		"scaleJitter":0.1,
+		"color":[1,1,1],
+		"alpha":1,
+		"angleJitter":20,
+		"rotationSpeed":100,
+		"rotationSpeedJitter":2,
+		"alphaFadeout":0.1,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/wizard_wabbit_atk_hit_star01 | 49e9c85e-43ae-4fad-b2ff-90ed1c468835","sc/effects/wizard_wabbit_atk_hit_star02 | 49e9c85e-1e83-4477-9436-109734f28b31","sc/effects/wizard_wabbit_atk_hit_star03 | 49e9c85e-c8d3-4c16-93c7-9c8ea94ac9ce"]
+}

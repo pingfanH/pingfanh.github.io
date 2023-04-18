@@ -1,0 +1,10 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_Vampire_clown_skill_appear_cloud_01 | 21fb952f-ee51-4e4e-8ec5-cce7088623d1","Offset":{},"ComponentScale":0.3},
+		{"Type":"particle_emitter","Layer":6,"ParticleEmitter":"fx/particles/em_vampire_clown_skill_twinkle_01 | 21fb952f-a12c-4481-817e-204670351d42","Offset":{"z":0.33333334},"ComponentScale":0.44},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_Vampire_clown_skill_appear_cloud_02 | 21fb952f-5b50-4e9b-9bc3-cce7088523d1","Offset":{"z":0.06666667},"ComponentScale":0.3,"StartTime":0.15},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_vampire_clown_skill_appear_confetti_01 | 21fb952f-bbab-4e9b-9b3b-0b4bc4aec307","Offset":{"z":1.6666666},"ComponentScale":0.3},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_vampire_clown_skill_appear_confetti_02 | 21fb952f-4ead-4e4e-8e3d-0b4bc4afc307","Offset":{},"ComponentScale":0.3},
+		{"Type":"sound","Sound":"c_p_vampirecountess_skill_skin_appear"}
+	]
+}

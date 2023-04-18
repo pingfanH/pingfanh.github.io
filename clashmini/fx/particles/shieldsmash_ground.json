@@ -1,0 +1,25 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"emitterDelay":0.05,
+		"lifetime":2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"Ground"},
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.008166667,
+		"scale":1,
+		"color":[[1,1,1],[1,1,1]],
+		"alpha":[0.7,0.4],
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/shieldsmash_ground | 49e9c85e-e6b7-44c7-93da-68d5490ca14f"]
+}

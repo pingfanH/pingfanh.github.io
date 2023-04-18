@@ -1,0 +1,9 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_generic_atkHit_musket_01 | 21fb952f-bf19-471f-9f16-415ad950363e","FollowPosition":true,"FollowBone":"spine1","Offset":{},"ComponentScale":0.5},
+		{"Type":"sound","Sound":"sfx_mini_muscateer_atk_hit"},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_generic_atkHit_musket_stone | 21fb952f-4941-4829-a93b-0b0691aabc56","FollowPosition":true,"FollowBone":"spine1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_sparks_01 | 21fb952f-0c05-46ac-ac2e-b4dbc01eb7f6","FollowPosition":true,"FollowBone":"spine1","Offset":{},"ComponentScale":0.5,"ForcedLength":0.030000001},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_generic_atkHit_musket_01_smoke | 21fb952f-a9b3-4329-a970-b5074de92f75","FollowPosition":true,"FollowBone":"spine1","Offset":{},"ComponentScale":0.4}
+	]
+}

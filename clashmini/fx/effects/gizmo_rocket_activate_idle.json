@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_gizmo_rocket_anticipation_01 | 21fb952f-5ced-4bdc-9c36-f83f30562dbe",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"fx",
+			"Offset":{"z":0.16666667},
+			"ComponentScale":1,
+			"Loop":true
+		}
+	]
+}

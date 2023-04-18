@@ -1,0 +1,25 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":5,
+			"SWFClip":"sc/effects/knight_shield_hitblocked | 49e9c85e-03eb-47fb-a42d-34906357d6e7",
+			"FollowPosition":true,
+			"FollowBone":"Spine1",
+			"Offset":{},
+			"ComponentScale":2.2,
+			"StartTime":0.05
+		},
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":5,
+			"SWFClip":"sc/effects/block_hit01 | 49e9c85e-6c9a-4248-81d9-a4aa43cbc97a",
+			"FollowPosition":true,
+			"FollowBone":"Spine1",
+			"Offset":{"z":0.2},
+			"ComponentScale":1
+		}
+	]
+}

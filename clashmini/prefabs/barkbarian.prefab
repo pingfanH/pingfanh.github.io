@@ -1,0 +1,36 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[
+				{
+					"objectType":5002,
+					"m_mesh":{"lastKnownPath":"sc3d/chr_barbarian_skin_barkbarian_rig","uuid":"ec79f249-98d7-4fd8-9887-e4bcb9e362bd"},
+					"m_meshLOD1":{"lastKnownPath":"sc3d/chr_barbarian_skin_barkbarian_rig_lod1","uuid":"ec79f249-964e-4cb6-b61f-dc27fcf92442"},
+					"m_animation":{"lastKnownPath":"animations/characters/chr_barbarian_skin_barkbarian","uuid":"defe63bc-b679-40b6-b690-7bb9d697adeb"}
+				},
+				{
+					"objectType":5003,
+					"m_targettedMaterials":[":reserved:AllMaterial"],
+					"m_metalness":10,
+					"m_roughness":1,
+					"m_specularStrength":2,
+					"m_diffuseColor":{"x":1,"y":1,"z":1},
+					"m_ambientColor":{"x":1,"y":1,"z":1},
+					"m_fresnelColor":{"x":1,"y":1,"z":1},
+					"m_specularColor":{"x":1,"y":1,"z":1},
+					"m_rimColor":{"x":0.18039216,"y":0.18039216,"z":0.18039216},
+					"m_specularBoardColor":{"x":0.227451,"y":0.227451,"z":0.227451},
+					"m_teamColor":{"x":1,"y":1,"z":1},
+					"m_emissionColor":{"x":1,"y":1,"z":1}
+				}
+			],
+			"children":[{"name":"skylight","pos":{},"rot":{"x":-32,"z":-5},"scl":{"x":1,"y":1,"z":1}}]
+		}
+	}
+}

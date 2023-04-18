@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","BlendMode":1,"Layer":4,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_energy_activate_01 | 21fb952f-42ca-4c62-a278-c1aadff2c024","FollowPosition":true,"Offset":{},"ComponentScale":1}]
+}

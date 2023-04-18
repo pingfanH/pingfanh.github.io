@@ -1,0 +1,10 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_valkyrie_sp_hit01 | 21fb952f-9850-4c78-b878-b27dbdd74303","FollowPosition":true,"Offset":{"z":0.33333334},"ComponentScale":1.5},
+		{"Type":"sound","Sound":"bat_hit_slash"},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_valkyrie_sp_hit01_reverse | 21fb952f-8532-4d05-85a7-7cd67a588d16","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_valkyrie_sp_hit02 | 21fb952f-5155-4c91-917d-b27dbdda4303","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_light_once_orange | 21fb952f-270c-4967-a7fb-9ca133975df7","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"sub_effect","SubEffect":"fx/effects/hit_colorfilter | 9047f5ea-5826-4a18-98ac-c87403c73561","FollowPosition":true,"Offset":{},"ComponentScale":1}
+	]
+}

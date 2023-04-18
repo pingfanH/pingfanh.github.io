@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_skin_miner_borebot_victory_01 | 21fb952f-a32d-4ca3-a320-6926011ea87f","FollowPosition":true,"FollowAngle":true,"FollowBone":"fx_Back02_L","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_skin_miner_borebot_victory_01 | 21fb952f-a32d-4ca3-a320-6926011ea87f","FollowPosition":true,"FollowAngle":true,"FollowBone":"fx_Back02_R","Offset":{},"ComponentScale":1}
+	]
+}

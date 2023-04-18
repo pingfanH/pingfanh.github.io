@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_generic_atkHit_witch_01 | 21fb952f-21af-4321-a14d-4472897d2caf","FollowPosition":true,"FollowBone":"spine1","Offset":{},"ComponentScale":1.7},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_generic_atkHit_witch_twinkle_01 | 21fb952f-48ca-4308-882f-eceb34bb4f30","FollowPosition":true,"FollowBone":"spine1","Offset":{},"ComponentScale":0.3},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_generic_atkHit_witch_smoke_02 | 21fb952f-de97-421e-9e93-8b3a7b5eccb7","FollowPosition":true,"FollowBone":"spine1","Offset":{}}
+	]
+}

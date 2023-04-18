@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":3,
+			"SWFClip":"sc/effects/bd_point_blur_02_blue | 49e9c85e-9c88-4338-b22b-91f4af36d46a",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"Offset":{},
+			"ComponentScale":6,
+			"Loop":true
+		}
+	]
+}

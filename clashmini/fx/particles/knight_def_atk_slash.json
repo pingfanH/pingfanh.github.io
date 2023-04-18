@@ -1,0 +1,24 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":0.12,
+		"mass":1,
+		"spawnPointOffset":{"y":-0.6666667},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]},
+			{"__class":"SpawnPlanar"}
+		]
+	},
+	"render":{
+		"globalScale":0.016666668,
+		"scale":1,
+		"color":[1,1,1],
+		"alpha":1,
+		"angle":75,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/knight_def_atk_slash | 49e9c85e-d9f9-45b5-a95d-d4144cf421bd"]
+}

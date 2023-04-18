@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"sub_effect","SubEffect":"fx/effects/hit_colorfilter | 9047f5ea-5826-4a18-98ac-c87403c73561","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":0.5,"ForcedLength":0.15},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_hit_03 | 21fb952f-af71-4faf-aff2-a79cea067359","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":0.5},
+		{"Type":"sound","Sound":"sfx_hero_sheild_atk_hit"}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/archer_def_atk_hit | 21fb952f-2593-43c5-8547-9845b4a7af2f","Offset":{"z":-0.33333334},"ComponentScale":0.8},
+		{"Type":"sound","Sound":"bat_hit_arrow"},
+		{
+			"Type":"color_filter",
+			"Additive":{"r":1,"g":0.39215687,"a":1},
+			"Multiplicative":{"r":1,"g":1,"b":1,"a":1},
+			"ForcedLength":0.1
+		}
+	]
+}

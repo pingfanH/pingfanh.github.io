@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/thunderstrike_ground_emt | 21fb952f-e649-4d86-8681-226a7f6bca91","Offset":{},"ComponentScale":0.099999994}]
+}

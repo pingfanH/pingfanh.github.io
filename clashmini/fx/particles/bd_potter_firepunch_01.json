@@ -1,0 +1,23 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":200,
+		"lifetime":0.3,
+		"lifetimeJitter":0.1,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[{"__class":"SpawnRate","infinite":true,"spawnRate":100},{"__class":"SpawnLocation","spawnShape":2,"spawnMinSize":0.016666668,"spawnMaxSize":0.016666668}]
+	},
+	"render":{
+		"globalScale":83333335e-11,
+		"scale":[0.41145834,-0.7994791,0.6432292,-0.3255208,1,0],
+		"color":[0,1.0286459,0.3854167,0.7994792,[1,0.5,0],[1,0,0]],
+		"alpha":1,
+		"angleJitter":360,
+		"alphaFadeout":0.2,
+		"trailEnabled":true,
+		"trailDuration":0.1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/particle_smoke | 49e9c85e-e0b2-4b79-a652-7fea4dcc2ec2"]
+}

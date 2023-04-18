@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_vampirefear_mark | 21fb952f-7488-4bf4-b493-5e12512b9e6f","FollowPosition":true,"Offset":{"z":0.33333334},"ComponentScale":1}]
+}

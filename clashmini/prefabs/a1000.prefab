@@ -1,0 +1,14 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/chr_archer_skin_a1000_rig","uuid":"ec79f249-3efd-4ade-9eab-674ff161ba80"},"m_animation":{"lastKnownPath":"animations/characters/chr_archer_skin_a1000","uuid":"defe63bc-2495-41c4-843e-d149ae1ed4ad"}}],
+			"children":[{"name":"Node","pos":{},"rot":{"x":-66},"scl":{"x":1,"y":1,"z":1}}]
+		}
+	}
+}

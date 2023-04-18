@@ -1,0 +1,23 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":0.5,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.008166667,
+		"scale":1,
+		"color":[1,1,1],
+		"alpha":[1,-0.07291663,0,1.0026042,1,1],
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/new_lightspreview01 | 49e9c85e-0661-49f0-ba14-996860feeaf9","sc/effects/new_lightspreview02 | 49e9c85e-b09f-4876-ad14-3b729bea0acd","sc/effects/new_lightspreview03 | 49e9c85e-2b99-4092-8c51-38b630dd40fb"]
+}

@@ -1,0 +1,8 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_hit_01 | 21fb952f-d574-4f15-95f6-a79cea087359","FollowPosition":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"bat_hit_rock"},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_rock_hit | 21fb952f-df23-43ff-bfeb-091cac6a67cf","Offset":{},"ComponentScale":1},
+		{"Type":"sub_effect","SubEffect":"fx/effects/hit_colorfilter | 9047f5ea-5826-4a18-98ac-c87403c73561","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"ForcedLength":0.15}
+	]
+}

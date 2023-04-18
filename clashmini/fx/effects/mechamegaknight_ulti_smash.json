@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"swf","Layer":4,"SWFClip":"sc/effects/mechaMegaKnight_smashback | 49e9c85e-6258-40a5-8cc4-6db7b0e4e65f","Offset":{"z":0.1},"ComponentScale":0.8},
+		{"Type":"swf","Layer":4,"SWFClip":"sc/effects/mechaMegaknight_smash | 49e9c85e-ff58-4f0e-a66a-cefd34468f93","Offset":{"z":0.1},"ComponentScale":0.8},
+		{"Type":"swf","Layer":3,"GroundBasis":true,"SWFClip":"sc/effects/mechaMegaKnight_smashground | 49e9c85e-5b3d-42de-9c39-6de4d45d0da5","Offset":{},"ComponentScale":0.8}
+	]
+}

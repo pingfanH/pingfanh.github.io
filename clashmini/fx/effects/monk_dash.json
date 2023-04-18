@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_monk_dash_01 | 21fb952f-26cd-42e6-a6de-71624301e74a","FollowPosition":true,"Offset":{"z":0.33333334},"ComponentScale":1},
+		{"Type":"sub_effect","SubEffect":"fx/effects/monk_dash_filter | 9047f5ea-c2ee-4382-823d-d7ca8a4ce4d3","FollowPosition":true,"Offset":{},"ComponentScale":1}
+	]
+}

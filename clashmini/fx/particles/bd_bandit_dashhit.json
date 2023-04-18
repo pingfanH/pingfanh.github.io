@@ -1,0 +1,23 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":0.5,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.01,
+		"scale":1,
+		"color":[1,1,1],
+		"alpha":1,
+		"angleJitter":120,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/bandit_skill_hit01 | 49e9c85e-57e3-484c-a442-3057720a8a6c","sc/effects/bandit_skill_hit02 | 49e9c85e-1f76-45b3-ad30-c2908a2de7f4","sc/effects/bandit_skill_hit03 | 49e9c85e-14db-46d3-aff8-d701737ef069"]
+}

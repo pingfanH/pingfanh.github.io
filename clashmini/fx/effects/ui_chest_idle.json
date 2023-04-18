@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","BlendMode":1,"Layer":4,"ParticleEmitter":"fx/particles/bd_ui_spotlight_01 | 21fb952f-11c7-4511-91da-19e574e18390","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_twinkle_loop | 21fb952f-5f9e-4d1f-9f37-891365c611a0","Offset":{"z":0.16666667},"ComponentScale":2,"Loop":true}
+	]
+}

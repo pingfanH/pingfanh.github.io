@@ -1,0 +1,18 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/bd_healingcastle_trigger_01 | 21fb952f-b10e-4ad1-91f7-b0577865788f",
+			"FollowPosition":true,
+			"FollowBone":"Head1",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{"Type":"sound","Sound":"ui_bat_prop_goldcharge","Loop":true},
+		{"Type":"swf","BlendMode":1,"Layer":5,"SWFClip":"sc/effects/bd_healingcastle_bubble_01 | 49e9c85e-49fe-40f1-8b4f-c81c87383e85","FollowPosition":true,"FollowBone":"Head1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":4,"ParticleEmitter":"fx/particles/bd_healingcastle_trigger_02 | 21fb952f-f809-4ab8-b8f2-b0577862788f","FollowPosition":true,"FollowBone":"Head1","Offset":{},"ComponentScale":1}
+	]
+}

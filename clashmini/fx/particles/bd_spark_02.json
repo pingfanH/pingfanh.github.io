@@ -1,0 +1,28 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":100,
+		"lifetime":0.15,
+		"mass":1,
+		"spawnPointOffset":{},
+		"gravity":[0,0,-3.3333335],
+		"components":[
+			{"__class":"SpawnRate","infinite":true,"duration":1,"spawnRate":20},
+			{"__class":"SpawnCone","direction":[0,0,1],"directionJitterAngle":180,"velocity":1}
+		]
+	},
+	"render":{
+		"globalScale":0.016666668,
+		"scale":[0,-1.2135415,0.4401042,0.09635419,1,0],
+		"color":[[1,1,1],[0.6,0.2,0]],
+		"alpha":1,
+		"angleJitter":50,
+		"rotationSpeedJitter":100,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/bd_golden_point | 49e9c85e-ac5b-4f7f-8d71-d5f4480b7d9e"]
+}

@@ -1,0 +1,10 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_chest_open_star_01_big | 21fb952f-ea69-4c4a-8abb-6b17dcba50a7","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_chest_open_star_01_small | 21fb952f-4330-44c3-839b-23872d192a7f","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_chest_sparks_Y | 21fb952f-a4f8-4f24-a46c-a0897ef211d9","Offset":{},"ForcedLength":0.020000001},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_chest_sparks_b | 21fb952f-553c-4035-b5b5-a0897e1d12d9","Offset":{},"ForcedLength":0.020000001},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_chest_open_star_01_big_R | 21fb952f-874e-41e7-a719-4fbddbf020f5","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_chest_open_star_01_small_R | 21fb952f-3262-4df2-b294-e76e66cf40e7","Offset":{},"ComponentScale":1}
+	]
+}

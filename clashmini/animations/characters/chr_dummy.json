@@ -1,0 +1,23 @@
+{
+	"States":[
+		{"Type":"AnimClip","Name":"Idle","Loop":true,"StateTags":["Default"],"Animation":{"lastKnownPath":"sc3d/chr_dummy_idle","uuid":"ec79f249-a43d-45e4-a4b4-e75ee5dc8bff"}},
+		{"Type":"AnimClip","Name":"Stunned_Start","StateTags":["Combat"],"Animation":{"lastKnownPath":"sc3d/chr_dummy_dizzy","uuid":"ec79f249-baef-449a-9ab9-4ffef4b123dd"}},
+		{
+			"Type":"AnimClip",
+			"Name":"Stunned_Loop",
+			"Loop":true,
+			"StateTags":["Combat"],
+			"Animation":{"lastKnownPath":"sc3d/chr_dummy_dizzy","uuid":"ec79f249-baef-449a-9ab9-4ffef4b123dd"},
+			"StartFrame":17,
+			"EndFrame":17
+		},
+		{"Type":"AnimClip","Name":"KnockedUp","Loop":true,"StateTags":["Combat"],"Animation":{"lastKnownPath":"sc3d/chr_dummy_knockout","uuid":"ec79f249-f696-4e96-96f6-f34573fd660b"}},
+		{"Type":"AnimClip","Name":"Death","Loop":true,"StateTags":["Combat"],"Animation":{"lastKnownPath":"sc3d/chr_dummy_knockout","uuid":"ec79f249-f696-4e96-96f6-f34573fd660b"}},
+		{"Type":"AnimClip","Name":"Hit_01","StateTags":["Combat"],"Animation":{"lastKnownPath":"sc3d/chr_dummy_hit_01","uuid":"ec79f249-c3d1-4e83-8353-4665daaad60d"}},
+		{"Type":"AnimClip","Name":"Hit_02","StateTags":["Combat"],"Animation":{"lastKnownPath":"sc3d/chr_dummy_hit_02","uuid":"ec79f249-12d3-4572-b290-f255f241e388"}},
+		{"Type":"Random","Name":"Hit","StateTags":["Combat"],"SubStates":["Hit_01","Hit_02","Hit_03"]},
+		{"Type":"AnimClip","Name":"Hit_03","StateTags":["Combat"],"Animation":{"lastKnownPath":"sc3d/chr_dummy_hit_03","uuid":"ec79f249-3925-4db9-b94c-9c42fb2e0bd3"}},
+		{"Type":"Sequence","Name":"Stunned","StateTags":["Combat"],"SubStates":["Stunned_Start","Stunned_Loop"]}
+	],
+	"DefaultState":"Idle"
+}

@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_spark_02 | 21fb952f-8c73-49cc-8c61-9feb020b0214","FollowPosition":true,"FollowAngle":true,"FollowBone":"fx","Offset":{},"ComponentScale":1}]
+}

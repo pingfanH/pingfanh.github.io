@@ -1,0 +1,19 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/mecha_archerqueen_hit01 | 21fb952f-e9f6-4cc9-899b-1770f1a29f7a","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/mecha_archerqueen_hit02 | 21fb952f-30f2-4cb0-b096-1770f19f9f7a","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/mecha_archerqueen_hit03 | 21fb952f-c3f3-4c63-a398-1770f1a09f7a","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/mecha_archerqueen_hit04 | 21fb952f-a2fb-4ce2-a2a0-1770f1a59f7a","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/mecha_archerqueen_hit05 | 21fb952f-35fd-4c95-95a2-1770f1a69f7a","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/mecha_archerqueen_hit06 | 21fb952f-7cf8-4c7c-bc9d-1770f1a39f7a","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"sfx_mini_skin_queentron_atk_hit"},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":1,"g":0.39215687,"b":0.78431374,"a":1},
+			"FresnelStrength":20,
+			"FresnelIOR":1.3,
+			"FresnelFadeOutTime":0.3,
+			"ForcedLength":0.3
+		}
+	]
+}

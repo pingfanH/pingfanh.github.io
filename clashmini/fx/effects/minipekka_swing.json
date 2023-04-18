@@ -1,0 +1,14 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":3,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/cleave_hit | 49e9c85e-08c3-4f1b-a94b-5fac3226e998",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"z":0.33333334},
+			"ComponentScale":1
+		}
+	]
+}

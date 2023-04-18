@@ -1,0 +1,8 @@
+{
+	"Components":[
+		{"Type":"swf","BlendMode":1,"Layer":5,"SWFClip":"sc/effects/bd_razor_spark | 49e9c85e-ca87-48ed-b2a0-b0918ffd69c1","FollowPosition":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":0.59999996},
+		{"Type":"sound","Sound":"bat_hit_magic_impact_zaplight"},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":4,"ParticleEmitter":"fx/particles/bd_razor_spark01 | 21fb952f-853b-45a5-a54d-b5ceeccc9872","Offset":{},"ComponentScale":1},
+		{"Type":"sub_effect","SubEffect":"fx/effects/warden_razor_spark_ground | 9047f5ea-85ac-4885-8528-e6f8821b23eb","Offset":{},"ComponentScale":1}
+	]
+}

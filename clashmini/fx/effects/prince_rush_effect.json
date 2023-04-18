@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_prince_rush_dust | 21fb952f-25c3-4d45-8552-61919e17d30b","FollowPosition":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_prince_speedline | 21fb952f-4b22-4fcb-8bc0-7b2ec573615a","FollowPosition":true,"FollowAngle":true,"FollowBone":"Root","Offset":{},"ComponentScale":1}
+	]
+}

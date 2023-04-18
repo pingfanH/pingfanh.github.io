@@ -1,0 +1,37 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"children":[
+				{"name":"light","pos":{},"rot":{},"scl":{"x":1,"y":1,"z":1}},
+				{
+					"name":"pjt_lavarock_rig",
+					"pos":{},
+					"rot":{},
+					"scl":{"x":1,"y":1,"z":1},
+					"components":[
+						{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/pjt_fireball_rig","uuid":"ec79f249-90c2-4a90-90e4-877f696ac4cc"}},
+						{
+							"objectType":5003,
+							"m_targettedMaterials":["Material_0","Material_1"],
+							"m_diffuseColor":{"x":1,"y":1,"z":1},
+							"m_ambientColor":{"x":1,"y":1,"z":1},
+							"m_fresnelColor":{"x":1,"y":1,"z":1},
+							"m_specularColor":{"x":1,"y":1,"z":1},
+							"m_rimColor":{"x":0.7254902,"y":0.6509804,"z":0.6509804},
+							"m_specularBoardColor":{"x":0.19215688,"y":0.21568629,"z":0.2509804},
+							"m_teamColor":{"x":0.9450981,"y":0.48235297,"z":0.48235297},
+							"m_emissionColor":{"x":1,"y":1,"z":1}
+						},
+						{"objectType":5004,"m_effect":{"lastKnownPath":"fx/effects/lavaball_rock_projectile","uuid":"9047f5ea-f4c1-4e94-9487-aa5142e158fc"}}
+					]
+				}
+			]
+		}
+	}
+}

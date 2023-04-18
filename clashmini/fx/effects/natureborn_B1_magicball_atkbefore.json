@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":5,
+			"SWFClip":"sc/effects/magicball_hit_before | 49e9c85e-f431-4cc3-9b60-ea438248c516",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"FollowBone":"fx",
+			"Offset":{},
+			"AbsoluteOffset":true,
+			"ComponentScale":1.2
+		}
+	]
+}

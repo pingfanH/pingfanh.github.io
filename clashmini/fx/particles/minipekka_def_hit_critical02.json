@@ -1,0 +1,24 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":0.45,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.009166667,
+		"scale":[0.48958337,0.044270873,1,0.3932292,1,0],
+		"color":[1,1,1],
+		"alpha":1,
+		"angleJitter":10,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/minipekka_critical_particle01 | 49e9c85e-c143-489a-92ef-dab976a33e6b","sc/effects/minipekka_critical_particle02 | 49e9c85e-199b-40ab-9599-04993d310c81","sc/effects/minipekka_critical_particle03 | 49e9c85e-9758-494f-b321-5939b2338333","sc/effects/minipekka_critical_particle04 | 49e9c85e-569b-4f96-8201-c28c9b258480"]
+}

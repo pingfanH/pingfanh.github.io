@@ -1,0 +1,34 @@
+{
+	"Components":[
+		{
+			"Type":"color_filter",
+			"Additive":{"g":0.48235294,"b":0.6117647,"a":1},
+			"Multiplicative":{"r":1,"g":1,"b":1,"a":1},
+			"Loop":true
+		},
+		{"Type":"model","ModelMesh":"sc3d/fx_icewall | ec79f249-32da-4ed2-9285-66d50abe3cfd","ModelFresnelColor":{},"FollowPosition":true,"FollowAngle":true,"FollowScale":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/em_icewall_01 | 21fb952f-786e-4b98-9859-1fc09cc7cd8b",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"Offset":{"z":0.5},
+			"ComponentScale":4,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/em_icewall_02 | 21fb952f-3173-4bb1-b15e-1fc09ccacd8b",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"Offset":{"z":0.5},
+			"ComponentScale":3,
+			"Loop":true
+		}
+	]
+}

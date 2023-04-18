@@ -1,0 +1,12 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"FollowPosition":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/em_lumberjack_lumberdale_buff_grid | 21fb952f-e8d3-4a08-8857-b92116a8f6fa","FollowPosition":true,"Offset":{},"ComponentScale":1,"AllyOnly":true},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_speedup_grid_02_red | 21fb952f-663f-48e6-a69f-ebc76458d897","Offset":{},"ComponentScale":1,"EnemyOnly":true},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/em_lumberjack_lumberdale_buff_tile_01 | 21fb952f-ef82-406f-af52-a56f68d865d5","FollowPosition":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_spdup_once_03 | 21fb952f-646e-46e4-a464-d7772731b7af","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_lumberjack_lumberdale_buff_flare | 21fb952f-8823-4528-a837-b3d17a10a19f","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_lumberjack_lumberdale_buff_star | 21fb952f-ec9f-460c-8c03-78b3d871c888","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/em_lumberjack_lumberdale_buff_glare | 21fb952f-fb36-4d3b-bb7b-ce21ac1ef5af","FollowPosition":true,"Offset":{},"ComponentScale":1}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"Components":[
+		{"Type":"fresnel","FresnelColor":{"r":1,"g":1,"a":1},"FresnelStrength":50,"FresnelIOR":1.8,"FresnelFadeInTime":0.1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/levelup_upgrade_indicator02 | 21fb952f-ebd1-416b-abf6-0b4113a491e0","FollowPosition":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/levelup_upgrade_indicator03 | 21fb952f-58d0-41b8-b8f4-0b4113a391e0","FollowPosition":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_lvlup_spirit_trail01 | 21fb952f-a1ea-45c1-816b-370480b71a98","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_lvlup_spirit_trail02 | 21fb952f-e8e5-45a8-a866-370480b41a98","Offset":{},"ComponentScale":1}
+	]
+}

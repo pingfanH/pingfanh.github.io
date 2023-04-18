@@ -1,0 +1,23 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":5,
+		"lifetime":10,
+		"mass":1,
+		"spawnPointOffset":{},
+		"followEmitter":true,
+		"components":[{"__class":"SpawnLocation"},{"__class":"SpawnRate","infinite":true,"spawnRate":0.1}]
+	},
+	"render":{
+		"globalScale":0.0058333334,
+		"scale":1,
+		"color":[1,1,1],
+		"alpha":0.8,
+		"angle":180,
+		"orientToDirection":true,
+		"loopMovieClip":true,
+		"trailWidth":1,
+		"trailHeadOrTails":true
+	},
+	"movieclip":["sc/effects/wizard_party_ballmirror02 | 49e9c85e-ba45-4bd5-aeec-760dda545309"]
+}

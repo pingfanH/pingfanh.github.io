@@ -1,0 +1,11 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_explosion_spark_01 | 21fb952f-7deb-413d-bdc1-42d97d6d247b","FollowPosition":true,"Offset":{},"ComponentScale":1,"StartTime":2.0500002},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_explosion_spark_02 | 21fb952f-c4e6-4124-a4bc-42d97d6a247b","FollowPosition":true,"Offset":{},"ComponentScale":1,"StartTime":2.0500002},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_explosion01 | 21fb952f-704c-4450-907a-7de708112741","FollowPosition":true,"Offset":{},"ComponentScale":1,"StartTime":2},
+		{"Type":"screen_shake","ShakeTime":0.6,"ShakeMaxIntensity":0.030000001,"StartTime":2},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":4,"ParticleEmitter":"fx/particles/bd_explosion02 | 21fb952f-2951-4469-a97f-7de708142741","FollowPosition":true,"Offset":{},"ComponentScale":1,"StartTime":2.1000001},
+		{"Type":"swf","Layer":3,"GroundBasis":true,"SWFClip":"sc/effects/bd_explosion_ground | 49e9c85e-ae06-42d5-8856-099ba714bf42","FollowPosition":true,"Offset":{},"ComponentScale":1,"StartTime":2.0500002},
+		{"Type":"swf","Layer":5,"SWFClip":"sc/effects/bd_explosion | 49e9c85e-6183-441a-8883-b49b172a9241","FollowPosition":true,"Offset":{},"ComponentScale":1,"StartTime":2}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/chr_barbarian_rig","uuid":"ec79f249-1cbf-443c-bc9d-c69969275130"},"m_animation":{"lastKnownPath":"animations/characters/chr_barbarian","uuid":"defe63bc-5b75-4bbb-bb47-b2fa89200ea2"}}],
+			"children":[{"name":"Node","pos":{},"rot":{"x":-66},"scl":{"x":1,"y":1,"z":1}}]
+		}
+	}
+}

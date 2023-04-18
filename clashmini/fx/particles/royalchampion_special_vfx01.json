@@ -1,0 +1,23 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":100,
+		"lifetime":0.3,
+		"mass":1,
+		"spawnPointOffset":{"x":0.016666668},
+		"components":[{"__class":"SpawnRate","infinite":true,"duration":1,"spawnRate":15},{"__class":"Ground"},{"__class":"SpawnVelocityComponent","velocity":[0,-1,0]}]
+	},
+	"render":{
+		"globalScale":0.004,
+		"scale":1,
+		"color":[1,1,1],
+		"alpha":[0.8,0],
+		"rotationSpeed":-500,
+		"orientToDirection":true,
+		"trailDuration":1,
+		"trailImage":"image/acy_royal_trail.png#premultiply",
+		"blendMode":2,
+		"billboardAlign":2
+	},
+	"movieclip":["sc/effects/shield_special_tex01 | 49e9c85e-1775-45ad-a961-04edec5c4130"]
+}

@@ -1,0 +1,17 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/bd_hit_02 | 21fb952f-1c70-4ffc-bcf0-a79cea057359",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Spine1",
+			"Offset":{},
+			"ComponentScale":1
+		},
+		{"Type":"sound","Sound":"bat_hit_stab"},
+		{"Type":"sub_effect","SubEffect":"fx/effects/hit_colorfilter | 9047f5ea-5826-4a18-98ac-c87403c73561","Offset":{},"ComponentScale":1,"ForcedLength":0.15}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_hero_damage | 21fb952f-bc0d-4adc-9c15-61fc3700791a","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_hero_damage_trail | 21fb952f-5fb8-479f-9ff6-f33cf65a89e0","Offset":{},"ComponentScale":1}
+	]
+}

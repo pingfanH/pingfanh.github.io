@@ -1,0 +1,25 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"emitterDelay":0.08,
+		"lifetime":0.3,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.010333333,
+		"scale":[0.0234375,0.6302084,0.18229169,0.9713542,0.5,1.45],
+		"color":[0.33333334,0.33333334,0.6666667,0.6666667,[0.6,1,0.6],[1,0.1,0]],
+		"alpha":[0.5442709,-0.026041627,0.4166667,0.8932292,1,0],
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/robo_ringglow_01 | 49e9c85e-8e0a-446c-a452-1ccc2a717ba2"]
+}

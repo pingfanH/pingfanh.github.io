@@ -1,0 +1,27 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":0.99,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.013,
+		"scale":[0.0234375,0.6848959,0,1.0104167,1,1.5],
+		"scaleJitter":0.3,
+		"color":[1,1,1],
+		"alpha":[0.5286459,-0.0026041567,0.6041667,0.7291667,1,0],
+		"angleJitter":360,
+		"rotationSpeedJitter":20,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/FirstSmoke | 49e9c85e-d156-44fb-895d-b20ba55c6d13"]
+}

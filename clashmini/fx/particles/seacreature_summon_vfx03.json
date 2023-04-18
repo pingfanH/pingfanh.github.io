@@ -1,0 +1,27 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":20,
+		"lifetime":0.8,
+		"lifetimeJitter":0.2,
+		"mass":1,
+		"spawnPointOffset":{"z":0.8333334},
+		"components":[
+			{"__class":"SpawnRate","duration":0.55,"durationJitter":0.2,"spawnRate":10},
+			{"__class":"SpawnVelocityComponent","velocityJitter":[0,0,0.16666667]},
+			{"__class":"SpawnLocation","spawnShape":1,"spawnMaxSize":0.6666667},
+			{"__class":"SpawnPlanar","spawnMaxSize":0.8333334,"maxAngle":360,"minSpeedZ":0.5,"maxSpeedZ":1.6666667,"randomAngle":true}
+		]
+	},
+	"render":{
+		"globalScale":0.0075000003,
+		"scale":[0.33333334,0.42708337,0.5651042,0.7447917,1,0],
+		"color":[1,1,1],
+		"alpha":1,
+		"angleJitter":100,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/generic_water_glitter | 49e9c85e-250a-4359-a752-4bd1b73fe3e9"]
+}

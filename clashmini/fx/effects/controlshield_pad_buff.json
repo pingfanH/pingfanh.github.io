@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_healingcastle_trigger_01 | 21fb952f-b10e-4ad1-91f7-b0577865788f",
+			"FollowPosition":true,
+			"FollowBone":"Head1",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":3,"ParticleEmitter":"fx/particles/bd_healingcastle_halo_01 | 21fb952f-6502-4e65-a555-c401df3ce5aa","FollowPosition":true,"FollowBone":"Head1","Offset":{},"ComponentScale":1}
+	]
+}

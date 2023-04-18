@@ -1,0 +1,26 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":5,
+			"SWFClip":"sc/effects/ui_deck_indicator | 49e9c85e-54c6-4186-8a57-ca5dc1caa158",
+			"FollowPosition":true,
+			"FollowScale":true,
+			"FollowBone":"Head1",
+			"Offset":{"z":1.4},
+			"ComponentScale":1.1999999,
+			"Loop":true
+		},
+		{"Type":"sound","Sound":"ui_select_fx_light","Loop":true},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_ui_deck_selected | 21fb952f-5a30-40da-9ac9-d93eee211e19","FollowPosition":true,"Offset":{"z":0.033333335},"ComponentScale":0.79999995},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"g":0.78431374,"b":1,"a":1},
+			"FresnelStrength":50,
+			"FresnelIOR":1.8,
+			"FresnelFadeInTime":0.1,
+			"FresnelFadeOutTime":0.5,
+			"ForcedLength":1
+		}
+	]
+}

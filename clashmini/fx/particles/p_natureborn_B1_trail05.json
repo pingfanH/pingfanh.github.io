@@ -1,0 +1,27 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":10,
+		"emitterDelay":0.05,
+		"lifetime":0.9,
+		"mass":1,
+		"spawnPointOffset":{},
+		"followEmitter":true,
+		"emitterLoop":true,
+		"components":[{"__class":"SpawnRate","infinite":true,"spawnRate":6}]
+	},
+	"render":{
+		"globalScale":0.028,
+		"scale":1.05,
+		"scaleJitter":0.25,
+		"color":[1,1,1],
+		"alpha":1,
+		"angleJitter":5,
+		"orientToDirection":true,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/Grond_cons01 | 49e9c85e-0ad6-4fd0-b254-81be3660c2c8","sc/effects/Grond_cons01 | 49e9c85e-0ad6-4fd0-b254-81be3660c2c8","sc/effects/Grond_cons01_1 | 49e9c85e-4cf1-4f52-9a08-3045e6f1680a","sc/effects/Grond_cons02 | 49e9c85e-24b8-4fcd-9a5e-e6ea8cac3a29","sc/effects/Grond_cons02_1 | 49e9c85e-bd48-4577-bf27-cbc8c0f685db","sc/effects/Grond_cons03 | 49e9c85e-6cce-4f4f-83b7-cdc8322eaf31","sc/effects/Grond_cons03_1 | 49e9c85e-e11e-4700-933d-eea86d92cc8f","sc/effects/Grond_cons04 | 49e9c85e-dbc9-40e7-a806-a88e2e6306c7","sc/effects/Grond_cons04_1 | 49e9c85e-e777-4711-8236-36c249414e3e"]
+}

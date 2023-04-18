@@ -1,0 +1,4 @@
+{
+	"States":[{"Type":"AnimClip","Name":"increase","Controller":"ElixirCount","Animation":{"lastKnownPath":"sc3d/battlebox_elixir_increase","uuid":"ec79f249-a3e0-4503-833d-6a087af213a2"}}],
+	"DefaultState":"increase"
+}

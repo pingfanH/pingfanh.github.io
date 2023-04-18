@@ -1,0 +1,30 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":10,
+		"lifetime":2,
+		"lifetimeJitter":1,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","infinite":true,"spawnRate":2,"spawnRateJitter":2},
+			{"__class":"CurlNoise","frequency":300,"strength":300},
+			{"__class":"SpawnCone","direction":[0,-1,0],"directionJitterAngle":50,"velocity":100,"velocityJitter":10},
+			{"__class":"Drag","dragCoeffecient":500},
+			{"__class":"SpawnLocation","spawnShape":1,"spawnMinSize":8,"spawnMaxSize":20}
+		]
+	},
+	"render":{
+		"globalScale":1,
+		"scale":[1,0.013020843,0.5651042,0.9869792,0.2,0],
+		"scaleJitter":0.2,
+		"color":[[0.8,1,0.3],[0.2,1,0]],
+		"alpha":[0.6067709,0.005208373,0.9791667,0.4088542,1,0],
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/bd_point_blur_02 | 49e9c85e-3db7-4455-a28b-b9b3f5d092cb"]
+}

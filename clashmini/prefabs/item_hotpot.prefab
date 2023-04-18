@@ -1,0 +1,22 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/item_hotpot_rig","uuid":"ec79f249-0c6c-470c-8c17-b58fdac0e658"},"m_animation":{"lastKnownPath":"animations/items/item_hotpot","uuid":"defe63bc-e252-4162-a24f-4a47a617f4db"}},{"objectType":5005}],
+			"children":[
+				{
+					"name":"deactivate",
+					"pos":{},
+					"rot":{"x":90},
+					"scl":{"x":1,"y":1,"z":1},
+					"components":[{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/item_hotpot_deactivate_model","uuid":"ec79f249-a4a8-4124-a454-485ef662a05c"},"m_animation":{"lastKnownPath":"animations/items/item_hotpot","uuid":"defe63bc-e252-4162-a24f-4a47a617f4db"}}]
+				}
+			]
+		}
+	}
+}

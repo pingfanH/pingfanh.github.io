@@ -1,0 +1,23 @@
+{
+	"Components":[
+		{
+			"Type":"model",
+			"ModelMesh":"sc3d/fx_reflect_shield_0 | ec79f249-5cb5-405c-9cbe-98565b14db56",
+			"ModelAlpha":1,
+			"ModelAlphaFadeInTime":0.2,
+			"ModelAlphaFadeOutTime":0.2,
+			"ModelAlphaFadeDir":true,
+			"ModelFresnelColor":{"r":1,"g":0.78431374,"a":1},
+			"ModelFresnelStrength":20,
+			"ModelFresnelIOR":0.84999996,
+			"ModelFresnelFadeInTime":0.3,
+			"ModelFresnelFadeOutTime":0.5,
+			"StartFadeOutTime":0.4,
+			"HideShadow":true,
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":2
+		}
+	]
+}

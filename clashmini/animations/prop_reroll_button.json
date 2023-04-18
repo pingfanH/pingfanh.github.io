@@ -1,0 +1,11 @@
+{
+	"States":[
+		{"Type":"AnimClip","Name":"pushdown_start","Animation":{"lastKnownPath":"sc3d/reroll_button_press","uuid":"ec79f249-a8c8-4148-88b4-6e8a8ddc46af"}},
+		{"Type":"AnimClip","Name":"popup_activate","Animation":{"lastKnownPath":"sc3d/reroll_button_release_a","uuid":"ec79f249-b20b-4572-b244-3f7fa9b0c195"}},
+		{"Type":"AnimClip","Name":"popup_recover","Animation":{"lastKnownPath":"sc3d/reroll_button_release_b","uuid":"ec79f249-e314-4083-8307-938e9119b51a"}},
+		{"Type":"AnimClip","Name":"idle","Animation":{"lastKnownPath":"sc3d/reroll_button_press","uuid":"ec79f249-a8c8-4148-88b4-6e8a8ddc46af"},"StartFrame":0,"EndFrame":0},
+		{"Type":"AnimClip","Name":"pushdown_loop","Loop":true,"Animation":{"lastKnownPath":"sc3d/reroll_button_press","uuid":"ec79f249-a8c8-4148-88b4-6e8a8ddc46af"},"StartFrame":2,"EndFrame":2},
+		{"Type":"Sequence","Name":"pushdown","SubStates":["pushdown_start","pushdown_loop"]}
+	],
+	"DefaultState":"idle"
+}

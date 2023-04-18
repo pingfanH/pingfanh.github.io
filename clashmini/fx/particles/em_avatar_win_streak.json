@@ -1,0 +1,26 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":100,
+		"lifetime":0.5,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","infinite":true,"duration":3,"spawnRate":60},
+			{"__class":"SpawnPlanar","spawnMinSize":-9,"spawnMaxSize":10},
+			{"__class":"SpawnVelocityComponent","velocity":[0,-36,0]}
+		]
+	},
+	"render":{
+		"globalScale":1,
+		"scale":0.2,
+		"color":[0.33333334,0.33333334,0.6666667,0.6666667,[1,1,0.2],[1,0,0]],
+		"alpha":1,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/bd_point_blur_01 | 49e9c85e-e997-4050-af52-06e49ec1aa08"]
+}

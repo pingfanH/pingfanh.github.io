@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_projectile_trail_blue | 21fb952f-6dd8-464d-8df4-9dfcdfeaf66c","FollowPosition":true,"Offset":{},"ComponentScale":1,"AllyOnly":true},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_projectile_trail_red | 21fb952f-fccd-431c-9c3c-c0019b9207bd","FollowPosition":true,"Offset":{},"ComponentScale":1,"EnemyOnly":true}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_healingspear_02 | 21fb952f-9e90-445e-9e23-1ec56cc7bb92","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{
+			"Type":"particle_emitter",
+			"Layer":3,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/bd_healingspear_trail01_golden_big | 21fb952f-288c-4368-a8a9-e1eec739f911",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_healingspear_03 | 21fb952f-3192-4411-9125-1ec56cc8bb92","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_healingspear_trail01_twinkle | 21fb952f-2816-4408-88b6-1713117b57b1","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1}
+	]
+}

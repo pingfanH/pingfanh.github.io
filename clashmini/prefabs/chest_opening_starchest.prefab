@@ -1,0 +1,13 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/prop_chest4s_rig","uuid":"ec79f249-ccfb-412c-ac59-a5a079168a12"},"m_animation":{"lastKnownPath":"animations/prop_bigchest_common","uuid":"defe63bc-20ab-4ce0-a078-256c90e71dc0"}},{"objectType":5005}]
+		}
+	}
+}

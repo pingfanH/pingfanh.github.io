@@ -1,0 +1,10 @@
+Name,WaveName,Content,HeroLevel,Modifiers,GridX,GridY,BoardElementName,BoardElementX,BoardElementY,RandomSeed
+string,string,string,int,string,int,int,string,int,int,int
+QA_A1,,SpearGoblinB1,,,2,3,,,,
+,,SpearGoblinB1,,,1,3,,,,
+,,SpearGoblinB1,,,,3,,,,
+QA_P1,,KnightB1,,,2,3,,,,
+,,KnightB1,,,1,3,,,,
+,,KnightB1,,,,3,,,,
+QA_01_A_Wave1,QA_P1,,,,,,,,,
+QA_01_P_Wave1,QA_A1,,,,,,,,,

@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/bd_vampire_slash | 21fb952f-28f5-4728-a84e-27893cb141ee",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Root",
+			"Offset":{"z":1},
+			"ComponentScale":1
+		},
+		{"Type":"screen_shake","ShakeTime":0.1,"ShakeMaxIntensity":0.010000001}
+	]
+}

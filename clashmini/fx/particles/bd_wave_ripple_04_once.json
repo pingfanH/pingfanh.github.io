@@ -1,0 +1,27 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1000,
+		"emitterDelay":0.5,
+		"lifetime":0.2,
+		"lifetimeJitter":0.1,
+		"mass":1,
+		"spawnPointOffset":{"z":0.033333335},
+		"components":[{"__class":"SpawnRate","duration":1,"spawnRate":[200,0]},{"__class":"SpawnLocation","spawnShape":1,"spawnMinSize":0.5,"spawnMaxSize":1.6666667}]
+	},
+	"render":{
+		"globalScale":0.016666668,
+		"scale":[0.06770834,0.9895834,0.5260417,1.0104167,0.5,1],
+		"scaleJitter":0.2,
+		"color":[[1,1,1],[0,1,1]],
+		"alpha":[0,0.5911459,0.041666687,1.0026042,0,0.2],
+		"angleJitter":100,
+		"alphaFadeout":0.2,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2,
+		"billboardAlign":2
+	},
+	"movieclip":["sc/effects/bd_ripple_big_02 | 49e9c85e-4dcf-4540-b724-f2be53e2ecf7"]
+}

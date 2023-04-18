@@ -1,0 +1,15 @@
+{
+	"States":[
+		{"Type":"AnimClip","Name":"Spawn","Animation":{"lastKnownPath":"sc3d/prop_currency_animation","uuid":"ec79f249-4fbc-406f-af3f-48233189ae21"},"StartFrame":1,"EndFrame":15},
+		{"Type":"AnimClip","Name":"Idle","Loop":true,"Animation":{"lastKnownPath":"sc3d/prop_currency_animation","uuid":"ec79f249-4fbc-406f-af3f-48233189ae21"},"StartFrame":30,"EndFrame":78},
+		{
+			"Type":"AnimClip",
+			"Name":"Open",
+			"Animation":{"lastKnownPath":"sc3d/prop_currency_animation","uuid":"ec79f249-4fbc-406f-af3f-48233189ae21"},
+			"BaseSpeed":1.5,
+			"StartFrame":78,
+			"EndFrame":88,
+			"Events":[{"Event":"Marker","Frame":78,"Name":"chest_open"},{"Event":"Marker","Frame":87,"Name":"chest_open_finished"}]
+		}
+	]
+}

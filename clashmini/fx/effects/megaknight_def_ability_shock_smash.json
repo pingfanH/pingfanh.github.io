@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_megaknight_def_ability_stun_smash_front | 21fb952f-3c02-47dc-9c63-cea71d74ccec","Offset":{},"ComponentScale":1.2},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_megaknight_def_ability_stun_smash_back | 21fb952f-aec2-46ce-8e1a-562a238d3c63","Offset":{},"ComponentScale":1.2}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":30,
+		"lifetime":0.2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[{"__class":"SpawnRate","infinite":true,"duration":0.1,"spawnRate":30},{"__class":"SpawnCone","direction":[0,-1,0],"velocity":0.016666668}]
+	},
+	"render":{
+		"globalScale":0.016666668,
+		"scale":[1,0],
+		"color":[1,1,1],
+		"alpha":1,
+		"angle":90,
+		"orientToDirection":true,
+		"trailDuration":0.6,
+		"trailWidth":100,
+		"trailHeadOrTails":true,
+		"trailImage":"image/trail_blue_purple.png",
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/bd_point_blur_01_pink | 49e9c85e-425d-4dd4-9f36-cf4b9587f54e"]
+}

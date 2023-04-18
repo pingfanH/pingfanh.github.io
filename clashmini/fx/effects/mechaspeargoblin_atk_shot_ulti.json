@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{"Type":"sound","Sound":"c_p_magicarcher_atk_charge"},
+		{
+			"Type":"swf",
+			"Layer":6,
+			"SWFClip":"sc/effects/mechaSpeargoblin_launch_ulti | 49e9c85e-733c-48ec-86a9-ca610eee2601",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"y":-0.6666667,"z":0.16666667},
+			"ComponentScale":1.6,
+			"StartTime":0.05
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"States":[
+		{
+			"Type":"AnimClip",
+			"Name":"Idle",
+			"Loop":true,
+			"Animation":{"lastKnownPath":"sc3d/be_energy_idle","uuid":"ec79f249-c215-41e2-a24c-31dbae2bebfa"},
+			"Events":[{"Event":"Marker","Frame":1,"Name":"ambient_effect"},{"Event":"Effect","Frame":1,"Effect":{"lastKnownPath":"fx/effects/energy_pad_ambient","uuid":"9047f5ea-a0ef-4e60-a041-3828a2badf25"}}]
+		},
+		{
+			"Type":"AnimClip",
+			"Name":"Trigger",
+			"Loop":true,
+			"Animation":{"lastKnownPath":"sc3d/be_energy_idle","uuid":"ec79f249-c215-41e2-a24c-31dbae2bebfa"},
+			"Events":[{"Event":"Marker","Frame":1,"Name":"activate_effect"},{"Event":"Effect","Frame":1,"Effect":{"lastKnownPath":"fx/effects/energy_pad_stepon","uuid":"9047f5ea-0bfc-46cb-8be3-6ed4f26e42b6"}}]
+		},
+		{
+			"Type":"AnimClip",
+			"Name":"Stepon",
+			"Loop":true,
+			"Animation":{"lastKnownPath":"sc3d/be_energy_idle","uuid":"ec79f249-c215-41e2-a24c-31dbae2bebfa"},
+			"Events":[{"Event":"Marker","Frame":1,"Name":"activate_effect"},{"Event":"Effect","Frame":1,"Effect":{"lastKnownPath":"fx/effects/energy_pad_stepon","uuid":"9047f5ea-0bfc-46cb-8be3-6ed4f26e42b6"}}]
+		}
+	]
+}

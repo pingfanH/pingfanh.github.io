@@ -1,0 +1,10 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_lvlup_once | 21fb952f-51f7-4b11-918d-b21175818884","Offset":{"z":0.033333335},"ComponentScale":50,"ForcedLength":1},
+		{"Type":"sound","Sound":"ui_card_upgrade_fx","ForcedLength":1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_hero_meta_lvlup_loop | 21fb952f-f360-4d73-b330-8312de8b8632","Offset":{"z":0.33333334},"ComponentScale":50},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_hero_meta_lvlup_loop_02 | 21fb952f-6aa6-42aa-aa8b-abafd5da2622","Offset":{"z":0.33333334},"ComponentScale":50.01},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_hero_meta_lvlup_once | 21fb952f-3cec-4f3c-bc8a-54f4e995ed14","Offset":{},"ComponentScale":50},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_blink_01 | 21fb952f-3476-4314-94a9-7f3e240bf859","Offset":{},"ComponentScale":100}
+	]
+}

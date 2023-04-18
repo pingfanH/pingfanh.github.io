@@ -1,0 +1,64 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":4,
+			"SWFClip":"sc/ui_splash/astral_star_01_brightness_loop_01 | 49e9c85e-4c15-4ab8-8a12-8c41e1afc469",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"FollowBone":"Constellation_01",
+			"Offset":{},
+			"ComponentScale":0.08,
+			"Loop":true
+		},
+		{
+			"Type":"swf",
+			"Layer":4,
+			"SWFClip":"sc/ui_splash/astral_star_01_brightness_loop_02 | 49e9c85e-9717-40b4-adde-e6e290e1a642",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"FollowBone":"Constellation_02",
+			"Offset":{},
+			"ComponentScale":0.08,
+			"Loop":true
+		},
+		{
+			"Type":"swf",
+			"Layer":4,
+			"SWFClip":"sc/ui_splash/astral_star_01_brightness_loop_03 | 49e9c85e-4079-4631-8607-473a9b1801c8",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"FollowBone":"Constellation_03",
+			"Offset":{},
+			"ComponentScale":0.08,
+			"Loop":true
+		},
+		{
+			"Type":"swf",
+			"Layer":4,
+			"SWFClip":"sc/ui_splash/astral_star_01_brightness_loop_04 | 49e9c85e-db14-4275-9251-0b5d7ef2c0c2",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"FollowBone":"Constellation_04",
+			"Offset":{},
+			"ComponentScale":0.08,
+			"Loop":true
+		},
+		{
+			"Type":"swf",
+			"Layer":4,
+			"SWFClip":"sc/ui_splash/astral_star_01_brightness_loop_05 | 49e9c85e-2d10-426b-8fb5-df30d83c74d7",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"FollowBone":"Constellation_05",
+			"Offset":{},
+			"ComponentScale":0.08,
+			"Loop":true
+		}
+	]
+}

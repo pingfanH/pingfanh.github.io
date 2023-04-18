@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_cloud_01 | 21fb952f-3905-4579-b9cb-d983687d8169","FollowPosition":true,"FollowScale":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_potter_firepunch_02 | 21fb952f-fd9a-439d-9d69-bf3159c547a3","FollowPosition":true,"FollowScale":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1}
+	]
+}

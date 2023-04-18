@@ -1,0 +1,26 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_spdup_fire | 21fb952f-e57b-4e45-85e4-fe4b6504ef15","FollowPosition":true,"Offset":{},"ComponentScale":1,"ForcedLength":1,"Loop":true},
+		{"Type":"sound","Sound":"c_p_boss_lava_skill_frenzy","ForcedLength":1,"Loop":true},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":1,"g":0.19607843,"b":1,"a":1},
+			"FresnelStrength":10,
+			"FresnelIOR":1.3,
+			"FresnelFadeOutTime":1.2,
+			"StartTime":0.1,
+			"ForcedLength":0.1,
+			"Loop":true
+		},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":1,"g":0.19607843,"b":1,"a":1},
+			"FresnelStrength":10,
+			"FresnelIOR":1.3,
+			"FresnelFadeInTime":0.5,
+			"ForcedLength":0.8,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_spdup_once_04 | 21fb952f-d16c-4631-b163-d7772730b7af","Offset":{},"ComponentScale":2,"StartTime":0.1}
+	]
+}

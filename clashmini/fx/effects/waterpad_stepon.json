@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_water_spout_once_04_small | 21fb952f-a07d-4e80-8053-a92ecfed2f4b","FollowPosition":true,"FollowBone":"fx","Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_wave_ripple_02_once | 21fb952f-e579-42c5-85f0-97017927a156","FollowPosition":true,"FollowBone":"fx","Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_water_spout_once_05_small | 21fb952f-379b-4077-b730-38c886071a12","FollowPosition":true,"FollowBone":"fx","Offset":{},"ComponentScale":1,"Loop":true}
+	]
+}

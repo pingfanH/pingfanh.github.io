@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","BlendMode":1,"Layer":4,"ParticleEmitter":"fx/particles/bd_undying_trigger | 21fb952f-2354-4363-a300-971640d49409","FollowPosition":true,"FollowBone":"fx","Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"ui_bat_underhealing_fx","KillSoundOnEnd":true},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":4,"ParticleEmitter":"fx/particles/bd_undying_trigger | 21fb952f-2354-4363-a300-971640d49409","FollowPosition":true,"FollowBone":"fx1","Offset":{},"ComponentScale":1}
+	]
+}

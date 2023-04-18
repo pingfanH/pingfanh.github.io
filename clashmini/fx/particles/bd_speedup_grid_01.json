@@ -1,0 +1,24 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"emitterDelay":0.01,
+		"lifetime":1,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[{"__class":"SpawnRate","duration":0.1,"spawnRate":60},{"__class":"Ground"}]
+	},
+	"render":{
+		"globalScale":0.0058333334,
+		"scale":[0,0.9817709,0,1.0104167,0,1],
+		"color":[0.27083334,-0.010416657,0.1015625,0.98697925,[1,1,1],[1,0,1]],
+		"alpha":[0.5364584,0.013020873,0.7421875,1.0026042,1,0],
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2,
+		"billboardAlign":2
+	},
+	"movieclip":["sc/effects/bd_split_grid_06 | 49e9c85e-ae38-41fa-b436-6691110eee0c"]
+}

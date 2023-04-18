@@ -1,0 +1,12 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/wizard_party_em_particle03 | 21fb952f-12a6-4992-9265-6ad59c8276e8","FollowPosition":true,"FollowBone":"Head2","Offset":{},"ComponentScale":1.5,"Loop":true},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":1,"g":0.23529412,"b":1,"a":1},
+			"FresnelStrength":3,
+			"FresnelIOR":1.1999999,
+			"FresnelFadeOutTime":1
+		}
+	]
+}

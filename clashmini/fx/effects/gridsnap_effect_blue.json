@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_grid_blue_01 | 21fb952f-cd1e-418d-8d15-19976aa8d2ea","Offset":{},"ComponentScale":1}]
+}

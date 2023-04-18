@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/knight_def_atk_hit | 21fb952f-9b12-495b-9b8e-865e8ba87bc3",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Spine1",
+			"Offset":{},
+			"ComponentScale":0.5
+		},
+		{"Type":"sound","Sound":"bat_hit_slash"}
+	]
+}

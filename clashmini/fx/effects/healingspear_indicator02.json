@@ -1,0 +1,14 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":4,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/healingspear_alcolyte_new_indicator | 49e9c85e-10bd-4644-9261-1330edd6d759",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"z":0.033333335},
+			"ComponentScale":1
+		}
+	]
+}

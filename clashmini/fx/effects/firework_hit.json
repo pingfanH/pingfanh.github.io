@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_firework_hit_01 | 21fb952f-33f3-4973-b380-ea82ea613672","FollowPosition":true,"FollowAngle":true,"FollowBone":"Hip","Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"sfx_mini_skin_sparkle_atk_hit"}
+	]
+}

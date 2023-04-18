@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_fireball_trail03_big | 21fb952f-1e0a-413e-be4e-1c06dd506af0","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":0.7,"Loop":true},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_cannonball_trail_special_smoke | 21fb952f-d9d0-4999-9936-ccbe18906fd7","FollowPosition":true,"Offset":{},"ComponentScale":1}
+	]
+}

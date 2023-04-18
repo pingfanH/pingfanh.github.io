@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"swf","Layer":5,"SWFClip":"sc/effects/fx_blink_common_05_blue | 49e9c85e-c855-4f27-b5ab-a4d9cdf0ade3","FollowPosition":true,"FollowBone":"Weapon2_R","Offset":{},"ComponentScale":1,"AllyOnly":true},
+		{"Type":"swf","Layer":5,"SWFClip":"sc/effects/fx_blink_common_05_red | 49e9c85e-009a-4b11-aefd-12a7f95e8b36","FollowPosition":true,"FollowBone":"Weapon2_R","Offset":{},"ComponentScale":1,"EnemyOnly":true}
+	]
+}

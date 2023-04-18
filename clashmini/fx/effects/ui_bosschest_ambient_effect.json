@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":4,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/fx_light_ground_red | 49e9c85e-7177-4ca4-85ba-ee5fe122590d",
+			"Offset":{"z":0.033333335},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{"Type":"sound","Sound":"ui_chest_fall_impact","Loop":true},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":4,"ParticleEmitter":"fx/particles/bd_ember_loop_01 | 21fb952f-d86b-4a38-b895-dd105b00fcd1","Offset":{"z":0.33333334},"ComponentScale":5,"Loop":true}
+	]
+}

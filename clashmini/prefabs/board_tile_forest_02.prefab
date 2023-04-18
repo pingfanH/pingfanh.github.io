@@ -1,0 +1,35 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"children":[
+				{
+					"name":"board_grid_01",
+					"pos":{"x":0.5,"y":0.5},
+					"rot":{},
+					"scl":{"x":1,"y":1,"z":1},
+					"components":[
+						{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/board_grid_01","uuid":"ec79f249-92f7-4992-92fe-f81a83f76697"}},
+						{
+							"objectType":5003,
+							"m_targettedMaterials":[":reserved:AllMaterial"],
+							"m_diffuseColor":{"x":0.011764707,"y":0.37647063,"z":0.35686275},
+							"m_ambientColor":{"x":1,"y":1,"z":1},
+							"m_fresnelColor":{"x":1,"y":1,"z":1},
+							"m_specularColor":{"x":1,"y":1,"z":1},
+							"m_rimColor":{},
+							"m_specularBoardColor":{"x":0.07058824,"y":0.07058824,"z":0.07058824},
+							"m_teamColor":{"x":1,"y":1,"z":1},
+							"m_emissionColor":{"x":1,"y":1,"z":1}
+						}
+					]
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/em_barbarian_barkarian_bark | 21fb952f-4d8e-458d-8d16-c9cb45c59b6a",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Head2",
+			"Offset":{},
+			"ComponentScale":1,
+			"StartTime":0.1
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_coldgas | 21fb952f-8f01-404f-8fab-98f565c02803","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_ice_small | 21fb952f-b30f-47d3-932a-ee68883c5f97","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_star_4_trail | 21fb952f-e4c5-4064-a484-ef59406b1c7f","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_bloom_01_blue | 21fb952f-3088-4cd0-90ff-7deaf48a7fd7","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"sfx_icewizard_atk_spec"}
+	]
+}

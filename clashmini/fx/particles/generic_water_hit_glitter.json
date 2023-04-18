@@ -1,0 +1,33 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":4,
+		"emitterDelay":0.05,
+		"lifetime":0.5,
+		"lifetimeJitter":0.1,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","duration":1,"spawnRate":60},
+			{"__class":"Ground"},
+			{"__class":"SpawnPlanar","spawnMinSize":-0.5,"spawnMaxSize":0.33333334,"minSpeedXY":-1.3333334,"maxSpeedXY":2.5,"minSpeedZ":-1.3333334,"maxSpeedZ":2.5,"randomAngle":true},
+			{"__class":"Deceleration","deceleration":[4.166667,4.166667,4.166667]},
+			{"__class":"SpawnLocation","spawnShape":2,"spawnMinSize":0.16666667,"spawnMaxSize":0.5},
+			{"__class":"SpawnVelocityComponent","velocity":[[-0.8333334,-0.8333334,-0.8333334],[1.6666667,1.6666667,1.6666667]],"velocityJitter":[0.33333334,0.33333334,0.33333334]}
+		]
+	},
+	"render":{
+		"globalScale":0.0058333334,
+		"scale":[1.5,0],
+		"scaleJitter":0.2,
+		"color":[1,1,1],
+		"alpha":1,
+		"angleJitter":360,
+		"rotationSpeed":180,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/generic_water_glitter | 49e9c85e-250a-4359-a752-4bd1b73fe3e9"]
+}

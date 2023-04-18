@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":4,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/electrowizard_def_atk_beam_01 | 49e9c85e-2056-4096-9256-36fbf715bf5a",
+			"FlashWidth":190,
+			"FollowBone":"Hand_L",
+			"Offset":{"z":0.16666667},
+			"ComponentScale":1
+		},
+		{"Type":"sound","Sound":"c_p_electrowizard_atk_shot"}
+	]
+}

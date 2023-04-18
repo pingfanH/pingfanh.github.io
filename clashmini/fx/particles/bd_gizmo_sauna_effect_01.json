@@ -1,0 +1,19 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{"maxParticleCount":50,"lifetime":0.3,"mass":1,"spawnPointOffset":{},"components":[{"__class":"SpawnRate","duration":0.1,"spawnRate":50}]},
+	"render":{
+		"globalScale":0.01,
+		"scale":[0,2.4270835,0.3932292,0.7916667,0.2,1],
+		"scaleJitter":0.2,
+		"color":[1,1,1],
+		"alpha":[0,0.9348959,0.15885419,0.8932292,0,1],
+		"angleJitter":360,
+		"loopMovieClip":true,
+		"alphaFadeout":0.5,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/bd_flare_pink_02 | 49e9c85e-ad47-43b8-b18a-bcf9b15a5551"]
+}

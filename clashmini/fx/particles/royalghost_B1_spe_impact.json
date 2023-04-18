@@ -1,0 +1,25 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":0.99,
+		"mass":1,
+		"spawnPointOffset":{"z":1.3333334},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]}
+		]
+	},
+	"render":{
+		"globalScale":0.012500001,
+		"scale":1,
+		"color":[0.015625,0.47395837,0.11197919,0.9791667,[0.3,1,0.5],[0.3,0.5,1]],
+		"alpha":1,
+		"angleJitter":90,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/Diver_normal_impact02 | 49e9c85e-d627-4e6b-9c3c-6ac5126d801f"]
+}

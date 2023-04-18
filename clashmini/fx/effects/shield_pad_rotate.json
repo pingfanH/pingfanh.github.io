@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_healingcastle_stepon_02 | 21fb952f-6348-4523-a31d-b0231973250c","FollowPosition":true,"FollowBone":"Head1","Offset":{},"ComponentScale":1,"Loop":true}]
+}

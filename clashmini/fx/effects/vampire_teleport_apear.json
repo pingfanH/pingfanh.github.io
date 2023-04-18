@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_vampire_teleport_bats_01 | 21fb952f-451c-4e05-85af-c9c4f4d385fa","Offset":{},"ComponentScale":1}]
+}

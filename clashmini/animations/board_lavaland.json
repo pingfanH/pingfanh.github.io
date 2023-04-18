@@ -1,0 +1,4 @@
+{
+	"States":[{"Type":"AnimClip","Name":"loop","Loop":true,"Animation":{"lastKnownPath":"sc3d/board_bossraid_lava_rig","uuid":"ec79f249-6165-48e1-a152-151ee9b7f6dc"}}],
+	"DefaultState":"loop"
+}

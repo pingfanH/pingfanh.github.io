@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_generic_atkHit_blunt_02 | 21fb952f-70a2-4290-90a8-09598da77dd4","FollowPosition":true,"FollowBone":"spine1","Offset":{},"ComponentScale":0.6},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_sparks_01 | 21fb952f-0c05-46ac-ac2e-b4dbc01eb7f6","FollowPosition":true,"FollowBone":"spine1","Offset":{},"ComponentScale":0.5,"ForcedLength":0.030000001},
+		{"Type":"sub_effect","SubEffect":"fx/effects/filter_hit_common | 9047f5ea-57fd-4357-9761-e72112621cdc","Offset":{},"ComponentScale":1,"ForcedLength":0.2}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":60,
+		"lifetime":0.95,
+		"lifetimeJitter":0.1,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","infinite":true,"spawnRate":15,"spawnRateJitter":4.5},
+			{"__class":"SpawnLocation","spawnShape":1,"spawnMaxSize":8},
+			{"__class":"SpawnVelocityComponent","velocity":[0,0,0.5],"velocityJitter":[0,0,0.20000002]},
+			{"__class":"CurlNoise","frequency":1.5,"strength":3}
+		]
+	},
+	"render":{
+		"globalScale":0.015,
+		"scale":[0,1.0755209,0,0.93229175,0,1],
+		"scaleJitter":0.5,
+		"color":[1,1,1],
+		"alpha":[0.24739584,0.32552087,0.5729167,0.7838542,0.3,0],
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/ui/ui_ani_pink | 49e9c85e-dd6d-427f-918e-c8b9deb8c215","sc/ui/ui_ani_orange | 49e9c85e-3136-4463-a671-44e5be5e4918","sc/ui/ui_ani_purple | 49e9c85e-f36c-49d5-a428-df8246d587bf","sc/ui/ui_ani_blue | 49e9c85e-6d1d-4e3e-bbaf-da86d13ef47d","sc/ui/ui_ani_green | 49e9c85e-2dbe-4f81-b8ce-c59d7ae5a393"]
+}

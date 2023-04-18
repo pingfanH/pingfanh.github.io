@@ -1,0 +1,9 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"Offset":{"z":0.16666667},"ComponentScale":1.5},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/pekka_def_ulti_hit_slash | 21fb952f-2239-4502-822f-638a420704da","Offset":{"z":0.5},"ComponentScale":0.75},
+		{"Type":"particle_emitter","Layer":4,"GroundBasis":true,"ParticleEmitter":"fx/particles/pekka_def_atk_hit_fragment | 21fb952f-1595-4435-b5e7-98d26ac2a2d4","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/pekka_atk_hit_twinkle_1 | 21fb952f-576e-4d57-97ec-b6182b1554d3","Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"sfx_mini_pekka_atk_hit_c"}
+	]
+}

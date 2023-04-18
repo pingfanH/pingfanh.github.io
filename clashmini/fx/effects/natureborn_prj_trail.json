@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_side_leaves | 21fb952f-7d48-451d-9d32-7f9c50960208","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_prj_02 | 21fb952f-651f-4f85-8554-82b9b3c681ed","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/p_natureborn_prj_01 | 21fb952f-8e3d-4602-a4f9-2e736eb22de1","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"Loop":true}
+	]
+}

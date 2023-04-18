@@ -1,0 +1,23 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":6,"ParticleEmitter":"fx/particles/bd_bandit_dashhit | 21fb952f-8bf5-450b-8bd4-f7e185711213","Offset":{"z":0.3},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":6,"ParticleEmitter":"fx/particles/bd_bandit_dashhit_spark | 21fb952f-e182-4101-81d6-a0b3894645b1","Offset":{},"ComponentScale":1,"StartTime":0.06},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":0.9843137,"g":0.4509804,"b":0.1254902},
+			"FresnelStrength":40,
+			"FresnelIOR":1.2,
+			"FresnelFadeOutTime":0.3,
+			"ForcedLength":0.35
+		},
+		{
+			"Type":"color_filter",
+			"Additive":{"r":1,"g":0.4862745,"b":0.05490196,"a":0.039215688},
+			"Multiplicative":{"r":1,"g":1,"b":1},
+			"FadeOutTime":0.3,
+			"ForcedLength":0.08
+		},
+		{"Type":"sound"},
+		{"Type":"sound","Sound":"sfx_mini_bandit_atk_hit"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":5,
+			"SWFClip":"sc/effects/fx_light_ambient_rainbow_add | 49e9c85e-924c-461b-b27c-5edbbc0f667a",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Spine1",
+			"Offset":{},
+			"ComponentScale":3,
+			"Loop":true
+		}
+	]
+}

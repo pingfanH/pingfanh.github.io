@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"swf","Layer":3,"Offset":{},"ComponentScale":1},{"Type":"sound","Sound":"c_p_royalghost_move","KillSoundOnEnd":true}]
+}

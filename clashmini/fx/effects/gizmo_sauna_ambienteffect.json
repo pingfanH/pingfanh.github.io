@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_gizmo_sauna_ambient_effect_01 | 21fb952f-67be-4947-87d5-a84d815012eb","Offset":{"z":0.33333334},"ComponentScale":2,"Loop":true},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_gizmo_sauna_ambient_effect_02 | 21fb952f-fabf-49fa-bad6-a84d815112eb","Offset":{},"ComponentScale":2,"Loop":true},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_gizmo_sauna_ambient_effect_03 | 21fb952f-8dc1-49ad-add8-a84d815212eb","Offset":{},"ComponentScale":2,"Loop":true}
+	]
+}

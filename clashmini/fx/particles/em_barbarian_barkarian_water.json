@@ -1,0 +1,33 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":10,
+		"lifetime":0.27,
+		"lifetimeJitter":0.07,
+		"mass":1,
+		"spawnPointOffset":{"y":-0.16,"z":0.15},
+		"gravity":[0,0,-2],
+		"components":[
+			{"__class":"SpawnLocation"},
+			{"__class":"SpawnCone","direction":[0,6,0],"directionJitterAngle":60,"velocity":1.5},
+			{"__class":"Deceleration","deceleration":[2.5,2.5,2.5]},
+			{"__class":"Drag","dragCoeffecient":166.66667},
+			{"__class":"SpawnBurst","bursts":[{"c":3},{"t":0.3,"c":3}]}
+		]
+	},
+	"render":{
+		"globalScale":0.001,
+		"scale":[0.8645834,-0.018229157,0.9244792,0.3932292,0.55,0.15],
+		"scaleJitter":0.2,
+		"color":[1,1,1],
+		"alpha":0.7,
+		"rotationSpeed":5,
+		"rotationSpeedJitter":20,
+		"orientToDirection":true,
+		"tailLength":0.07,
+		"tailLengthJitter":0.02,
+		"loopMovieClip":true,
+		"alphaFadeout":0.1
+	},
+	"movieclip":["sc/effects/barbarian_barkarian_water | 49e9c85e-cf6b-461d-b5ab-f0c8a1cfad2f"]
+}

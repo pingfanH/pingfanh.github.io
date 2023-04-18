@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":4,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/electrowizard_def_ulti_beam | 49e9c85e-46be-4918-b6f6-a6d3aeaf3fac",
+			"FlashWidth":240,
+			"FollowBone":"Hand_L",
+			"Offset":{"z":0.6666667},
+			"ComponentScale":1
+		},
+		{"Type":"sound","Sound":"c_p_electrowizard_skill_shot"},
+		{"Type":"screen_shake","ShakeTime":0.2,"ShakeMaxIntensity":0.010000001}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_lava02 | 21fb952f-ac33-410c-8c0e-32a25ebf29c8","FollowPosition":true,"FollowBone":"fx_lava01","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_lava02 | 21fb952f-ac33-410c-8c0e-32a25ebf29c8","FollowPosition":true,"FollowBone":"fx_lava02","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_smoke03 | 21fb952f-0c5a-40ac-acc5-86003ed7cd4d","FollowPosition":true,"FollowBone":"fx_smoke01","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_smoke03 | 21fb952f-0c5a-40ac-acc5-86003ed7cd4d","FollowPosition":true,"FollowBone":"fx_smoke02","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_fire_ash_01 | 21fb952f-43a9-4423-a30b-f3aeba078a3a","FollowPosition":true,"FollowBone":"fx_smoke01","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_fire_ash_01 | 21fb952f-43a9-4423-a30b-f3aeba078a3a","FollowPosition":true,"FollowBone":"fx_smoke02","Offset":{},"ComponentScale":1}
+	]
+}

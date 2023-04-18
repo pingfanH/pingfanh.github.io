@@ -1,0 +1,8 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/wizard_party_em_particle01 | 21fb952f-eca2-492c-ac62-6ad59c8076e8","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"swf","Layer":3,"SWFClip":"sc/effects/wizard_party_ballmirror01 | 49e9c85e-c5e1-4e87-af1e-a34c9af081e1","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1.1999999,"Loop":true},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_fireball_trail03 | 21fb952f-6f15-40af-af60-30e60b14abef","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":0.39999998,"Loop":true},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_smoke_trail01 | 21fb952f-8595-4845-858d-91d62bc75ca4","FollowPosition":true,"Offset":{},"ComponentScale":1}
+	]
+}

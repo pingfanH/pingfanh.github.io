@@ -1,0 +1,42 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":3,
+		"lifetime":1.5,
+		"lifetimeJitter":0.5,
+		"mass":1,
+		"spawnPointOffset":{},
+		"gravity":[[0,0,0],[0,0,0]],
+		"components":[
+			{"__class":"SpawnRate","duration":0.1,"spawnRate":100},
+			{
+				"__class":"SpawnPlanar",
+				"spawnMinSize":[0.47395834,0.052083343,0.3932292,0.9401042,0.008333334,0.033333335],
+				"spawnMaxSize":[0.43489584,0.013020843,0.4166667,0.9869792,0.016666668,0.06666667],
+				"maxAngle":360,
+				"minSpeedXY":1.1666667,
+				"maxSpeedXY":2,
+				"minSpeedZ":-0.6666667,
+				"maxSpeedZ":1.6666667,
+				"randomAngle":true
+			},
+			{"__class":"Drag","dragCoeffecient":5000},
+			{"__class":"CurlNoise","frequency":1,"strength":6.666667}
+		]
+	},
+	"render":{
+		"globalScale":0.016666668,
+		"scale":[0.867,0,1,0.25,0.45,0],
+		"scaleJitter":0.15,
+		"color":[1,1,1],
+		"alpha":1,
+		"angleJitter":30,
+		"rotationSpeedJitter":[0.32552087,-0.0026041567,0.4088542,0.9947917,30,60],
+		"loopMovieClip":true,
+		"alphaFadeout":0.2,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/particle_butterfly_2 | 49e9c85e-636d-4c65-a2fb-b81dd64b8bc6","sc/effects/particle_butterfly_2_red | 49e9c85e-e153-4727-87dd-efc1586b69ba"]
+}

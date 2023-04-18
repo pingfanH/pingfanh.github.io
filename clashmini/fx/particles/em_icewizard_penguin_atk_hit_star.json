@@ -1,0 +1,29 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":5,
+		"lifetime":0.6,
+		"lifetimeJitter":0.2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"gravity":[0,0,-10],
+		"components":[
+			{"__class":"SpawnRate","duration":0.1,"spawnRate":60},
+			{"__class":"SpawnPlanar","spawnMaxSize":0.16666667,"maxAngle":360,"minSpeedXY":4,"maxSpeedXY":8,"minSpeedZ":4,"maxSpeedZ":8,"randomAngle":true},
+			{"__class":"Deceleration","deceleration":[7.5,7.5,7.5]}
+		]
+	},
+	"render":{
+		"globalScale":0.02,
+		"scale":[0.16145834,0.5208334,0.6744792,0.9244792,2.5,0.6],
+		"scaleJitter":0.4,
+		"color":[0.5989584,0.013020843,0.9635417,0.6119792,[1,1,1],[0,0.7,1]],
+		"alpha":0.9,
+		"angleJitter":360,
+		"rotationSpeed":[150,0],
+		"rotationSpeedJitter":-150,
+		"alphaFadeout":0.3,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/particle_star_navy | 49e9c85e-c11d-4a95-845a-288f73f5cb7b","sc/effects/particle_star_purple | 49e9c85e-3396-4214-9365-79a1e4026f8d","sc/effects/particle_star_blue | 49e9c85e-c7ef-467c-a8cc-2b17da2051b9"]
+}

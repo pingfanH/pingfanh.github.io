@@ -1,0 +1,29 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":8,
+		"lifetime":0.4,
+		"lifetimeJitter":0.2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","duration":0.1,"spawnRate":300},
+			{"__class":"Drag","dragCoeffecient":[0.9505209,0.052083343,1,0.2916667,0,10000]},
+			{"__class":"SpawnPlanar","spawnMinSize":3,"spawnMaxSize":4,"minAngle":-200,"maxAngle":-160,"maxSpeedXY":40}
+		]
+	},
+	"render":{
+		"globalScale":0.02,
+		"scale":[0.4765625,-1.4557291,0.5807292,0.16666675,3,0],
+		"scaleJitter":[0.4,0],
+		"color":[[1,1,0.8],[1,0.5,0]],
+		"alpha":1,
+		"rotationSpeed":120,
+		"rotationSpeedJitter":[0.6875,0.044270873,0.9921875,0.3697917,360,0],
+		"loopMovieClip":true,
+		"alphaFadeout":0.2,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/gen_twinkle_01 | 49e9c85e-1921-47e7-9ec0-9c7fa46357fa","sc/effects/bd_point_blur_02 | 49e9c85e-3db7-4455-a28b-b9b3f5d092cb"]
+}

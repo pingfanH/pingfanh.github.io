@@ -1,0 +1,23 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/bd_witch_summon_01 | 21fb952f-3fa9-43df-9f81-237cd264cb58",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":0.19999999,
+			"AllyOnly":true
+		},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":3,"ParticleEmitter":"fx/particles/seacreature_summon_vfx01 | 21fb952f-fd5d-467d-bd15-28c888629262","Offset":{},"ComponentScale":0.29999998},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/seacreature_summon_vfx02 | 21fb952f-4459-4664-a410-28c8885f9262","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"GroundBasis":true,"ParticleEmitter":"fx/particles/seacreature_summon_vfx04 | 21fb952f-1e56-46fe-be0c-28c8885d9262","FollowPosition":true,"Offset":{},"ComponentScale":0.28,"AllyOnly":true},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/seacreature_summon_vfx03 | 21fb952f-d75a-4617-9712-28c888609262","Offset":{},"ComponentScale":0.59999996},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/seacreature_summon_vfx05 | 21fb952f-b157-46b1-b10e-28c8885e9262","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/seacreature_summon_vfx06 | 21fb952f-f852-4698-9809-28c8885b9262","Offset":{},"ComponentScale":1.4499999},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/seacreature_summon_vfx07 | 21fb952f-8b54-464b-8b0b-28c8885c9262","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/seacreature_summon_waveripple | 21fb952f-b15b-4c91-91db-f48b4ad91e02","Offset":{},"ComponentScale":0.39999998}
+	]
+}

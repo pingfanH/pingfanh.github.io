@@ -1,0 +1,29 @@
+{
+	"States":[
+		{
+			"Type":"AnimClip",
+			"Name":"Spawn",
+			"Animation":{"lastKnownPath":"sc3d/prop_box_open_common","uuid":"ec79f249-13a6-4e13-93fb-12074c7717b9"},
+			"BaseSpeed":1.2,
+			"TransOutTime":0.15,
+			"StartFrame":10,
+			"EndFrame":60
+		},
+		{"Type":"AnimClip","Name":"Idle","Loop":true,"Animation":{"lastKnownPath":"sc3d/prop_box_open_common","uuid":"ec79f249-13a6-4e13-93fb-12074c7717b9"},"StartFrame":60,"EndFrame":140},
+		{
+			"Type":"AnimClip",
+			"Name":"Open",
+			"Animation":{"lastKnownPath":"sc3d/prop_box_open_common","uuid":"ec79f249-13a6-4e13-93fb-12074c7717b9"},
+			"TransInTime":0.1,
+			"StartFrame":180,
+			"EndFrame":203,
+			"Events":[
+				{"Event":"Marker","Frame":196,"Name":"chest_open"},
+				{"Event":"Marker","Frame":203,"Name":"chest_open_finished"},
+				{"Event":"Effect","Frame":185,"Effect":{"lastKnownPath":"fx/effects/chest_open_star_02","uuid":"9047f5ea-c7f0-42c7-8742-5f97b73d3fb9"}},
+				{"Event":"Effect","Frame":185,"Effect":{"lastKnownPath":"fx/effects/chest_open_beam_short_02","uuid":"9047f5ea-0dd9-4f0d-8d4b-9296be759c0c"}},
+				{"Event":"Effect","Frame":185,"Effect":{"lastKnownPath":"fx/effects/ui_chest_open","uuid":"9047f5ea-5acf-4a9a-9a9a-420ee2097ed6"}}
+			]
+		}
+	]
+}

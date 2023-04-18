@@ -1,0 +1,8 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_icenova_01 | 21fb952f-f52d-4235-b542-290c2eccdf10","Offset":{"z":0.33333334},"ComponentScale":1,"StartTime":0.1},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_icenova_grid_01 | 21fb952f-d464-4474-b414-ba1ad7433ba0","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_ice_explode_01 | 21fb952f-9d56-42fd-bd46-a26292b81deb","Offset":{"z":0.33333334},"ComponentScale":1,"StartTime":0.1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_ice_explode_02 | 21fb952f-e451-42e4-a441-a26292b51deb","Offset":{"z":0.33333334},"ComponentScale":1}
+	]
+}

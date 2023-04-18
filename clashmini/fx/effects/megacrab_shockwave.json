@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","BlendMode":1,"Layer":4,"ParticleEmitter":"fx/particles/bd_water_spout_once_03 | 21fb952f-992e-4999-9951-32da3d0a0586","Offset":{},"ComponentScale":1},
+		{"Type":"screen_shake","ShakeTime":0.5,"ShakeMaxIntensity":0.040000003}
+	]
+}

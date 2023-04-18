@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/skin_wreckabyte_skill_01 | 21fb952f-0f2b-46cf-8f6c-0b0bbee5e4e1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/skin_wreckabyte_skill_02 | 21fb952f-a22c-4682-826e-0b0bbee6e4e1","Offset":{},"ComponentScale":1.5}
+	]
+}

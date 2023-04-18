@@ -1,0 +1,30 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":200,
+		"lifetime":1,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnLocation","spawnShape":2,"spawnMinSize":0.15,"spawnMaxSize":0.15},
+			{"__class":"SpawnRate","infinite":true,"spawnRate":10},
+			{"__class":"Spring","stiffness":0.5,"damping":100}
+		]
+	},
+	"render":{
+		"globalScale":0.012,
+		"scale":[1,0.5],
+		"scaleJitter":0.05,
+		"color":[0.33333334,0.33333334,0.6666667,0.6666667,[0,0,0.5],[0.2,0.5,1]],
+		"alpha":[0,1],
+		"angleJitter":100,
+		"rotationSpeed":-5,
+		"rotationSpeedJitter":10,
+		"alphaFadeout":0.5,
+		"trailDuration":1,
+		"trailWidth":5,
+		"trailImage":"image/trail_bluepurple01.png#premultiply",
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/bd_point_blur_02 | 49e9c85e-3db7-4455-a28b-b9b3f5d092cb"]
+}

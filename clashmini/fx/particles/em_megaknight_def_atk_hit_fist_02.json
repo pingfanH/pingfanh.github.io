@@ -1,0 +1,23 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":4,
+		"lifetime":0.4,
+		"lifetimeJitter":0.1,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[{"__class":"SpawnRate","duration":0.3,"spawnRate":10},{"__class":"Ground"},{"__class":"SpawnLocation"}]
+	},
+	"render":{
+		"globalScale":0.016666668,
+		"scale":[0.09375,0.47395837,0.4296875,0.8072917,0.2,0.6],
+		"scaleJitter":0.2,
+		"color":[[0.5,0.5,0.5],[1,1,1]],
+		"alpha":1,
+		"angleJitter":180,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/sc_megaknight_def_atk_hit_fist_02 | 49e9c85e-5dc7-4e28-bffe-0e4ec34f964c"]
+}

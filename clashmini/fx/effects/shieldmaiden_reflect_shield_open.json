@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/shieldmaiden_spawn_feather | 21fb952f-5005-49d0-90d1-e09aacc8f725",
+			"FollowPosition":true,
+			"Offset":{"z":0.5},
+			"ComponentScale":1,
+			"StartTime":0.15
+		},
+		{"Type":"swf","Layer":6,"SWFClip":"sc/effects/shieldmaiden_shield_spawn | 49e9c85e-e84a-48b6-ae91-eb8fc4aa2c7f","FollowPosition":true,"Offset":{},"ComponentScale":3}
+	]
+}

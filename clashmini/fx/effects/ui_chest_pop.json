@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_chest_open_pop_01 | 21fb952f-f480-4a94-94de-e9021258a849","FollowBone":"chest","Offset":{"z":0.1},"ComponentScale":2},
+		{"Type":"sound","Sound":"ui_openchest_box_appear"}
+	]
+}

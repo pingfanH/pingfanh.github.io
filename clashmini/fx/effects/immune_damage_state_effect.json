@@ -1,0 +1,51 @@
+{
+	"Components":[
+		{"Type":"sound","Sound":"sfx_hero_champion_shield_up","StartTime":0.2,"Loop":true},
+		{
+			"Type":"swf",
+			"Layer":5,
+			"SWFClip":"sc/effects/knight_shield_spawn | 49e9c85e-67fc-49f1-87b6-13e5f8f46804",
+			"FollowPosition":true,
+			"FollowScale":true,
+			"FollowBone":"Spine1",
+			"Offset":{},
+			"ComponentScale":2,
+			"ForcedLength":0.6,
+			"Loop":true
+		},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":0.39215687,"g":0.39215687,"b":0.39215687,"a":1},
+			"FresnelStrength":10,
+			"FresnelIOR":1.5,
+			"FresnelFadeInTime":0.05,
+			"FresnelFadeOutTime":0.2,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/immune_damage_state_01 | 21fb952f-4d5e-45ed-ad6d-05bc08ffe01d","FollowPosition":true,"FollowScale":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/immune_damage_state_02 | 21fb952f-e0e1-4c40-80f5-89bdfff7b90b","FollowPosition":true,"FollowScale":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"swf","Layer":5,"SWFClip":"sc/effects/fx_blink_common_05_blue | 49e9c85e-c855-4f27-b5ab-a4d9cdf0ade3","FollowPosition":true,"FollowScale":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{
+			"Type":"swf",
+			"Layer":5,
+			"SWFClip":"sc/effects/fx_light_ambient_rainbow_add | 49e9c85e-924c-461b-b27c-5edbbc0f667a",
+			"FollowPosition":true,
+			"FollowScale":true,
+			"FollowBone":"Spine1",
+			"Offset":{"z":0.16666667},
+			"ComponentScale":2,
+			"Loop":true
+		},
+		{
+			"Type":"swf",
+			"Layer":5,
+			"SWFClip":"sc/effects/knight_shield_idle | 49e9c85e-c303-4c9a-80a6-d70cf6839448",
+			"FollowPosition":true,
+			"FollowScale":true,
+			"FollowBone":"Spine1",
+			"Offset":{},
+			"ComponentScale":2,
+			"Loop":true
+		}
+	]
+}

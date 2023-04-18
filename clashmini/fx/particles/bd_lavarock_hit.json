@@ -1,0 +1,31 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":100,
+		"lifetime":0.6,
+		"lifetimeJitter":0.1,
+		"mass":1,
+		"spawnPointOffset":{"z":0.5},
+		"gravity":[0,0,-30],
+		"components":[
+			{"__class":"SpawnRate","duration":0.05,"spawnRate":100},
+			{"__class":"SpawnLocation"},
+			{"__class":"SpawnCone","direction":[0,0,10],"directionJitterAngle":35,"velocity":6.666667,"velocityJitter":1.6666667},
+			{"__class":"Ground","bounciness":0.5,"friction":0.2}
+		]
+	},
+	"render":{
+		"globalScale":0.006666667,
+		"scale":[0.9375,0.020833343,1,0.057291687,2,0],
+		"scaleJitter":0.5,
+		"color":[[1,1,1],[1,0.6,0]],
+		"alpha":1,
+		"rotationSpeed":[0.059895843,0.47395834,0.3385417,0.91666675,1000,0],
+		"rotationSpeedJitter":10,
+		"alphaFadeout":0.2,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/Rock1Particle | 49e9c85e-1795-451b-ac02-a15061e2ccda","sc/effects/Rock2Particle_b | 49e9c85e-da75-49d9-87a0-c863280f9446","sc/effects/Rock3Particle_b | 49e9c85e-dc43-45be-9d16-5080559a832c"]
+}

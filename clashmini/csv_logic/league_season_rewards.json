@@ -1,0 +1,740 @@
+{
+  "data": [
+    {
+      "name": "default",
+      "SeasonResetBonusByRank": "s1",
+      "Leagues": [
+        {
+          "League": "Tutorial",
+          "SeasonResetChestIds": [],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Tutorial_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Tutorial_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Bronze3",
+          "SeasonResetChestIds": [
+            "reset_CC_10",
+            "quest_gems_10"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Bronze_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Bronze_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Bronze2",
+          "SeasonResetChestIds": [
+            "reset_CC_30",
+            "quest_gems_10"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Bronze_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Bronze_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Bronze1",
+          "SeasonResetChestIds": [
+            "reset_CC_60",
+            "quest_gems_10"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Bronze_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Bronze_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Silver3",
+          "SeasonResetChestIds": [
+            "reset_CC_100",
+            "reset_gem_30"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Silver_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Silver_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Silver2",
+          "SeasonResetChestIds": [
+            "reset_CC_120",
+            "reset_gem_30"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Silver_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Silver_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Silver1",
+          "SeasonResetChestIds": [
+            "reset_CC_140",
+            "reset_gem_30"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Silver_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Silver_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Gold3",
+          "SeasonResetChestIds": [
+            "reset_CC_200",
+            "reset_gem_30",
+            "quest_gems_10",
+            "quest_gems_10"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Gold_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Gold_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Gold2",
+          "SeasonResetChestIds": [
+            "reset_CC_220",
+            "reset_gem_30",
+            "quest_gems_10",
+            "quest_gems_10"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Gold_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Gold_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Gold1",
+          "SeasonResetChestIds": [
+            "reset_CC_240",
+            "reset_gem_30",
+            "quest_gems_10",
+            "quest_gems_10"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Gold_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Gold_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Diamond3",
+          "SeasonResetChestIds": [
+            "reset_CC_270",
+            "reset_gem_80"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Diamond_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Diamond_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Diamond2",
+          "SeasonResetChestIds": [
+            "reset_CC_300",
+            "reset_gem_80"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Diamond_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Diamond_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Diamond1",
+          "SeasonResetChestIds": [
+            "reset_CC_350",
+            "reset_gem_80"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Diamond_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Diamond_Tournament_D1"
+            }
+          }
+        },
+        {
+          "League": "Master",
+          "SeasonResetChestIds": [
+            "reset_CC_400",
+            "reset_gem_120"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Master_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Master_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Grandmaster",
+          "SeasonResetChestIds": [
+            "reset_CC_500",
+            "reset_gem_160"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Grandmaster_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Grandmaster_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Legendary",
+          "SeasonResetChestIds": [
+            "reset_CC_500",
+            "reset_CC_100",
+            "reset_gem_200"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Legendary_Solo_ChestBased"
+            },
+            "TournamentMode": {
+              "Rewards": "Legendary_Tournament_ChestBased"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "s4",
+      "SeasonResetBonusByRank": "s1",
+      "Leagues": [
+        {
+          "League": "Tutorial",
+          "SeasonResetChestIds": [],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Tutorial_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Tutorial_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Bronze3",
+          "SeasonResetChestIds": [
+            "reset_CC_10",
+            "quest_gems_10"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Bronze_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Bronze_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Bronze2",
+          "SeasonResetChestIds": [
+            "reset_CC_10",
+            "quest_gems_10"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Bronze_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Bronze_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Bronze1",
+          "SeasonResetChestIds": [
+            "reset_CC_10",
+            "quest_gems_10"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Bronze_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Bronze_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Silver3",
+          "SeasonResetChestIds": [
+            "reset_CC_60",
+            "quest_gems_10"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Silver_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Silver_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Silver2",
+          "SeasonResetChestIds": [
+            "reset_CC_60",
+            "quest_gems_10"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Silver_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Silver_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Silver1",
+          "SeasonResetChestIds": [
+            "reset_CC_60",
+            "quest_gems_10"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Silver_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Silver_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Gold3",
+          "SeasonResetChestIds": [
+            "reset_CC_240",
+            "quest_gems_10"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Gold_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Gold_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Gold2",
+          "SeasonResetChestIds": [
+            "reset_CC_240",
+            "quest_gems_10"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Gold_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Gold_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Gold1",
+          "SeasonResetChestIds": [
+            "reset_CC_240",
+            "quest_gems_10"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Gold_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Gold_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Diamond3",
+          "SeasonResetChestIds": [
+            "reset_CC_270",
+            "quest_gems_10"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Diamond_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Diamond_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Diamond2",
+          "SeasonResetChestIds": [
+            "reset_CC_270",
+            "quest_gems_10"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Diamond_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Diamond_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Diamond1",
+          "SeasonResetChestIds": [
+            "reset_CC_270",
+            "quest_gems_10"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Diamond_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Diamond_Tournament_D1"
+            }
+          }
+        },
+        {
+          "League": "Master",
+          "SeasonResetChestIds": [
+            "reset_CC_300",
+            "quest_gems_10"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Master_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Master_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Grandmaster",
+          "SeasonResetChestIds": [
+            "reset_CC_350",
+            "quest_gems_10"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Grandmaster_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Grandmaster_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Legendary",
+          "SeasonResetChestIds": [
+            "reset_CC_400",
+            "quest_gems_10"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Legendary_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Legendary_Tournament"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "s6",
+      "SeasonResetBonusByRank": "s1",
+      "Leagues": [
+        {
+          "League": "Tutorial",
+          "SeasonResetChestIds": [],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Tutorial_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Tutorial_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Bronze3",
+          "SeasonResetChestIds": [
+            "reset_CC_10",
+            "quest_gold_500"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Bronze_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Bronze_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Bronze2",
+          "SeasonResetChestIds": [
+            "reset_CC_10",
+            "quest_gold_500"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Bronze_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Bronze_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Bronze1",
+          "SeasonResetChestIds": [
+            "reset_CC_10",
+            "quest_gold_500"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Bronze_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Bronze_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Silver3",
+          "SeasonResetChestIds": [
+            "reset_CC_50",
+            "seasonRewards_Gold_1000"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Silver_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Silver_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Silver2",
+          "SeasonResetChestIds": [
+            "reset_CC_50",
+            "seasonRewards_Gold_1000"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Silver_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Silver_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Silver1",
+          "SeasonResetChestIds": [
+            "reset_CC_50",
+            "seasonRewards_Gold_1000"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Silver_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Silver_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Gold3",
+          "SeasonResetChestIds": [
+            "reset_CC_100",
+            "reset_gold_1500"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Gold_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Gold_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Gold2",
+          "SeasonResetChestIds": [
+            "reset_CC_100",
+            "reset_gold_1500"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Gold_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Gold_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Gold1",
+          "SeasonResetChestIds": [
+            "reset_CC_100",
+            "reset_gold_1500"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Gold_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Gold_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Diamond3",
+          "SeasonResetChestIds": [
+            "CC_150",
+            "reset_gold_2000"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Diamond_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Diamond_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Diamond2",
+          "SeasonResetChestIds": [
+            "CC_150",
+            "reset_gold_2000"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Diamond_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Diamond_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Diamond1",
+          "SeasonResetChestIds": [
+            "CC_150",
+            "reset_gold_2000"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Diamond_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Diamond_Tournament_D1"
+            }
+          }
+        },
+        {
+          "League": "Master",
+          "SeasonResetChestIds": [
+            "reset_CC_200",
+            "reset_gold_2500"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Master_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Master_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Grandmaster",
+          "SeasonResetChestIds": [
+            "CC_250",
+            "reset_gold_3000"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Grandmaster_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Grandmaster_Tournament"
+            }
+          }
+        },
+        {
+          "League": "Legendary",
+          "SeasonResetChestIds": [
+            "reset_CC_300",
+            "reset_gold_5000"
+          ],
+          "GameModeConfigs": {
+            "SoloMode": {
+              "Rewards": "Legendary_Solo"
+            },
+            "TournamentMode": {
+              "Rewards": "Legendary_Tournament"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/mechaelectrowizard_buff_basegrid | 21fb952f-96bc-4a56-967d-4e546db4a1df","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/mechaelectrowizard_buff_grid | 21fb952f-77e9-4777-b735-4dcba6fc9d20","Offset":{},"ComponentScale":1}
+	]
+}

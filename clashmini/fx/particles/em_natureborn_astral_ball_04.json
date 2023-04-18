@@ -1,0 +1,27 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":200,
+		"lifetime":0.2,
+		"mass":1,
+		"spawnPointOffset":{"z":-0.01},
+		"components":[{"__class":"SpawnLocation"},{"__class":"SpawnRate","infinite":true,"spawnRate":50}]
+	},
+	"render":{
+		"globalScale":0.01,
+		"scale":[0.8,0.6],
+		"scaleJitter":0.05,
+		"color":[0.33333334,0.33333334,0.6666667,0.6666667,[0.1,0,1],[0,1,1]],
+		"alpha":[0.013020843,0.9583334,0.3541667,0.9166667,0,0.4],
+		"angleJitter":100,
+		"rotationSpeed":-5,
+		"rotationSpeedJitter":10,
+		"alphaFadeout":0.5,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":10,
+		"trailImage":"image/trail_blue.png#premultiply",
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/particle_ring_blurry | 49e9c85e-a88f-4d8d-b822-7640cd06f1cb"]
+}

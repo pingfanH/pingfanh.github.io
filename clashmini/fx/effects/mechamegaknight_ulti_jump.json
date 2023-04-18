@@ -1,0 +1,28 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":4,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/mechaMegaknight_jump | 49e9c85e-28da-4e81-a7a8-6cf9d2e830d5",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"z":0.033333335},
+			"AbsoluteOffset":true,
+			"OffsetYaw":180,
+			"ComponentScale":0.4
+		},
+		{
+			"Type":"swf",
+			"Layer":4,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/mechaMegaKnight_jump_anticipation | 49e9c85e-bf3c-49fe-9fb5-abe2df8fa1ea",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"z":0.033333335},
+			"AbsoluteOffset":true,
+			"OffsetYaw":180,
+			"ComponentScale":1
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_vampire_clown_atk_hit | 21fb952f-67f7-4947-8708-4f522ace3955","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":2},
+		{
+			"Type":"particle_emitter",
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/em_vampire_clown_skill_twinkle_01 | 21fb952f-a12c-4481-817e-204670351d42",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Spine1",
+			"Offset":{},
+			"ComponentScale":0.2,
+			"ForcedLength":0.05
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/em_sparks_01 | 21fb952f-0c05-46ac-ac2e-b4dbc01eb7f6",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Spine1",
+			"Offset":{},
+			"ComponentScale":0.4,
+			"ForcedLength":0.030000001
+		},
+		{"Type":"sub_effect","SubEffect":"fx/effects/hit_colorfilter | 9047f5ea-5826-4a18-98ac-c87403c73561","Offset":{},"ComponentScale":1,"ForcedLength":0.3},
+		{
+			"Type":"fresnel",
+			"AlphaFadeOutTime":0.1,
+			"FresnelColor":{"g":0.9372549,"b":0.19607843,"a":1},
+			"FresnelStrength":6,
+			"FresnelIOR":1.1999999,
+			"FresnelFadeOutTime":0.120000005,
+			"ForcedLength":0.3
+		}
+	]
+}

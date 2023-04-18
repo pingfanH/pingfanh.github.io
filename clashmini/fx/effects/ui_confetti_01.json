@@ -1,0 +1,40 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_confetti_anim_01 | 21fb952f-5e7a-4c7e-be21-cdc0c644d06d","FollowPosition":true,"FollowAngle":true,"FollowScale":true,"Offset":{},"ComponentScale":10},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_confetti_anim_03 | 21fb952f-3877-4c18-981e-cdc0c642d06d","FollowPosition":true,"FollowAngle":true,"FollowScale":true,"Offset":{},"ComponentScale":10},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_ui_spotlight_01 | 21fb952f-11c7-4511-91da-19e574e18390",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"Offset":{},
+			"ComponentScale":10
+		},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_colorglare_2d_loop | 21fb952f-50cd-4b90-9098-cd39fc299669",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"Offset":{},
+			"ComponentScale":50,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_ui_glow_01 | 21fb952f-c89b-4308-887f-9383ba1b3b27",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"Offset":{},
+			"ComponentScale":10
+		}
+	]
+}

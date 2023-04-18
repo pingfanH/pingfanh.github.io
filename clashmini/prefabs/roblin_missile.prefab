@@ -1,0 +1,36 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"children":[
+				{
+					"name":"pjt_roblin_missile",
+					"pos":{},
+					"rot":{},
+					"scl":{"x":1,"y":1,"z":1},
+					"components":[{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/pjt_roblin_missile","uuid":"ec79f249-ed51-440d-8df6-d6c0d0b8e074"}}],
+					"children":[
+						{
+							"name":"effect",
+							"pos":{"y":0.20764177},
+							"rot":{},
+							"scl":{"x":1,"y":1,"z":1},
+							"components":[{"objectType":5004,"m_effect":{"lastKnownPath":"fx/effects/mechaspeargoblin_atk_projectile","uuid":"9047f5ea-c0cd-4220-a0bb-29a5981c2faf"}}]
+						}
+					]
+				},
+				{
+					"name":"light",
+					"pos":{},
+					"rot":{"x":-73.99,"y":31,"z":332.46},
+					"scl":{"x":1,"y":1,"z":1}
+				}
+			]
+		}
+	}
+}

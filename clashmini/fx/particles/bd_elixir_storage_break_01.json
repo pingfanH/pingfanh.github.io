@@ -1,0 +1,21 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":100,
+		"lifetime":0.75,
+		"mass":1,
+		"spawnPointOffset":{"z":0.33333334},
+		"gravity":[0,0,-16.666668],
+		"components":[{"__class":"SpawnRate","duration":0.1,"spawnRate":50},{"__class":"SpawnCone","direction":[0,0,1],"directionJitterAngle":20,"velocity":5.8333335}]
+	},
+	"render":{
+		"globalScale":0.025000002,
+		"scale":[0.036458373,-1.9947915,0.4713542,-1.6536458,0.1,0.08],
+		"color":[1,0.7,1],
+		"alpha":1,
+		"loopMovieClip":true,
+		"trailDuration":0.2,
+		"trailWidth":30
+	},
+	"movieclip":["sc/effects/bd_elixir_01 | 49e9c85e-019a-4290-84d1-0992d597d316"]
+}

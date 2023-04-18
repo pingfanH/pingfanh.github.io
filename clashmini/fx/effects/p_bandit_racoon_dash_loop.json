@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/bd_bandit_racoon_speedline | 21fb952f-02c9-4ee2-a28d-a4b60ce5c77b",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"z":0.1},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_bandit_racoon_leaf | 21fb952f-6d0f-4c0d-8de4-1683cbcaa660","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"Loop":true}
+	]
+}

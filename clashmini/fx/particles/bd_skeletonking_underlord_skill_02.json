@@ -1,0 +1,26 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":50,
+		"lifetime":0.6,
+		"lifetimeJitter":0.2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","duration":0.1,"spawnRate":200},
+			{"__class":"Drag","dragCoeffecient":166.66667},
+			{"__class":"SpawnLocation","spawnShape":1,"spawnMinSize":0.8333334,"spawnMaxSize":0.8333334}
+		]
+	},
+	"render":{
+		"globalScale":0.0033333334,
+		"scale":[0.13802087,0.8098959,0.4140625,0.8932292,0.7,1],
+		"scaleJitter":0.2,
+		"color":[1,1,1],
+		"alpha":[1,0],
+		"trailDuration":0.2,
+		"trailWidth":5,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/fx_spotlight_03_green | 49e9c85e-c38a-4cab-bf25-1873d45362e8"]
+}

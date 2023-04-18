@@ -1,0 +1,103 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_wave_splash_02_L | 21fb952f-9b4c-44db-9ba0-3bf3ce90aaa4",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"fx",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_wave_splash_02_R | 21fb952f-4530-4445-8582-3bf3ce7eaaa4",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"fx",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_wave_splash_02 | 21fb952f-684d-4a68-a891-bb791bde9535",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"fx",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_wave_flare_01_L | 21fb952f-43ed-4de3-a3f6-30f647da5c1e",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"fx",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_wave_flare_01_R | 21fb952f-1dea-4d7d-bdf3-30f647d85c1e",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"fx",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_wave_splash_06 | 21fb952f-b453-4a34-b498-bb791be29535",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"wave_02",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_wave_splash_01 | 21fb952f-2152-4a81-8196-bb791be19535",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Root",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_wave_splash_04 | 21fb952f-da56-4a9a-9a9b-bb791be49535",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Root",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_wave_splash_shadow_02 | 21fb952f-b184-44b1-b14a-dc44727853d4","FollowPosition":true,"FollowBone":"Root","Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_wave_ripple_01 | 21fb952f-aedd-46ce-8e1c-7a0247fc2ca2","FollowPosition":true,"FollowBone":"Root","Offset":{},"ComponentScale":1,"Loop":true},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"g":1,"b":1,"a":1},
+			"FresnelStrength":10,
+			"FresnelIOR":1.17,
+			"FresnelFadeInTime":0.05,
+			"FresnelFadeOutTime":1,
+			"Loop":true
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{"Type":"fresnel","FresnelColor":{"r":1,"g":0.39215687,"a":1},"FresnelStrength":15,"FresnelIOR":1.8,"FresnelFadeInTime":0.5},
+		{
+			"Type":"swf",
+			"Layer":3,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/sc_megaknight_def_jump_smoke_gr | 49e9c85e-456a-4a0b-95ff-bb848326d098",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"OffsetYaw":180,
+			"ComponentScale":0.2
+		}
+	]
+}

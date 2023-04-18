@@ -1,0 +1,12 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_explosion_spark_01 | 21fb952f-7deb-413d-bdc1-42d97d6d247b","FollowPosition":true,"Offset":{},"ComponentScale":1,"StartTime":2.0500002},
+		{"Type":"sound","Sound":"bat_skill_explode","StartTime":2.0500002},
+		{"Type":"screen_shake","ShakeTime":0.6,"ShakeMaxIntensity":0.030000001,"StartTime":2.0500002},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_explosion01 | 21fb952f-704c-4450-907a-7de708112741","FollowPosition":true,"Offset":{},"ComponentScale":1,"StartTime":2},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_ribbon_pink_01 | 21fb952f-4598-4cc5-8570-165bde2d1da8","FollowPosition":true,"Offset":{},"ComponentScale":1,"StartTime":2.0500002},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_ribbon_yellow_01 | 21fb952f-116b-42d1-916c-7153da42863b","FollowPosition":true,"Offset":{},"ComponentScale":1,"StartTime":2.0500002},
+		{"Type":"swf","Layer":3,"GroundBasis":true,"SWFClip":"sc/effects/bd_explosion_ground | 49e9c85e-ae06-42d5-8856-099ba714bf42","FollowPosition":true,"Offset":{},"ComponentScale":1,"StartTime":2.0500002},
+		{"Type":"swf","Layer":5,"SWFClip":"sc/effects/bd_explosion | 49e9c85e-6183-441a-8883-b49b172a9241","FollowPosition":true,"Offset":{},"ComponentScale":1,"StartTime":2}
+	]
+}

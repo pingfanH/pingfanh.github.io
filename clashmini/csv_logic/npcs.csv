@@ -1,0 +1,8 @@
+Name,Tag,GameMode,CardRerollName,Location,ChestSourceID,Trophies,ExpLevel,CanReplay,TID,ExpReward,Seed,FullDeckNotNeeded,SupportHero,SupportHeroLevel,StartTaunt,TrainingMatchAllowed,BoardWavePrefix,OpponentPreviewWavePrefix,BotConfigIndex,TutorialInitChapter,DisplayName
+String,int,String,String,String,int,int,int,boolean,String,int,int,boolean,String,int,String,boolean,String,String,int,int,String
+FirstMatchNPC,1,FirstMatch,,WindyPlains,-1,0,1,TRUE,,0,2,TRUE,Hero-BarbarianKing,1,,,TU_M1,TU_M1,0,1,Jeff
+SecondMatchNPC,2,SecondMatch,SecondMatchReroll,WindyPlains,,0,1,TRUE,,0,2,TRUE,Hero-BarbarianKing,1,,,TU_M2,TU_M2,0,,Andy
+ThirdMatchNPC,3,ThirdMatch,,WindyPlains,-1,0,1,TRUE,,0,2,TRUE,,,,,,,0,,Jason
+OfflineMatchNPC,52,Autochess_2_Player,,WindyPlains,-1,0,1,TRUE,,0,2,TRUE,,,,,,,9999,,Jeff
+TrainingNPC,11,Autochess_2_Player,,WindyPlains,-1,0,1,TRUE,,0,2,TRUE,,,,,TR_M1,TR_M1,0,,Coach
+PveRaidBoss,12,Pve_Boss_Raid,,LavaLand,-1,0,1,TRUE,,0,2,TRUE,Boss-LavaGolem,,,,,,1000,,TID_BOSS_LAVAGOLEM

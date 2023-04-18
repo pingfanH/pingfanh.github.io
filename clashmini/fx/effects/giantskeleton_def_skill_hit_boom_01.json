@@ -1,0 +1,10 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_giantskeleton_def_atk_hit_boom_01 | 21fb952f-ad4d-472d-ad26-0519b3a080a7","Offset":{"y":0.16666667},"ComponentScale":1},
+		{"Type":"sound","Sound":"bat_skill_explode"},
+		{"Type":"screen_shake","ShakeTime":0.6,"ShakeMaxIntensity":0.030000001},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/em_giantskeleton_def_atk_hit_boom_01_gr | 21fb952f-23a4-45a3-a30d-c24bb46873bb","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_sparks_01 | 21fb952f-0c05-46ac-ac2e-b4dbc01eb7f6","Offset":{},"ComponentScale":1.3},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_giantskel_boom_stone_once | 21fb952f-cee9-48ce-8e25-9ff797989b77","Offset":{},"ComponentScale":0.7}
+	]
+}

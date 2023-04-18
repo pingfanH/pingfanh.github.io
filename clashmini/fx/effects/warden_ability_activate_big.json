@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"swf","BlendMode":1,"Layer":3,"GroundBasis":true,"SWFClip":"sc/effects/bd_warden_shield_activate | 49e9c85e-c6c5-4b29-9ec5-942ae63653ac","Offset":{},"ComponentScale":1.5},
+		{"Type":"sound","Sound":"c_p_grandwarden_skill"},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":4,"ParticleEmitter":"fx/particles/bd_warden_ability_activate | 21fb952f-cc25-4cac-ac15-2962957beb9e","Offset":{},"ComponentScale":1,"StartTime":0.70000005}
+	]
+}

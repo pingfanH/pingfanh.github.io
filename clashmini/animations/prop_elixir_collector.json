@@ -1,0 +1,18 @@
+{
+	"States":[
+		{"Type":"AnimClip","Name":"start","Animation":{"lastKnownPath":"sc3d/ele_elixir_collector_in","uuid":"ec79f249-d7cc-4077-b759-1e84e24c4c03"}},
+		{"Type":"AnimClip","Name":"cover_open","Animation":{"lastKnownPath":"sc3d/ele_elixir_collector_cap_open","uuid":"ec79f249-f17b-43d1-91ad-2ad3d1f31d54"},"TransInTime":0.29999998,"TransOutTime":0.29999998},
+		{"Type":"AnimClip","Name":"cover_close","Animation":{"lastKnownPath":"sc3d/ele_elixir_collector_cap_close","uuid":"ec79f249-e539-4be5-a533-ef744f6f4b60"},"TransInTime":0.19999999,"TransOutTime":0.19999999},
+		{"Type":"AnimClip","Name":"sell","Animation":{"lastKnownPath":"sc3d/ele_elixir_collector_sell","uuid":"ec79f249-1412-4554-946a-81361a331cf5"}},
+		{"Type":"AnimClip","Name":"buy","Animation":{"lastKnownPath":"sc3d/ele_elixir_collector_buy","uuid":"ec79f249-6e4c-480e-8eee-5e5562f3092d"}},
+		{
+			"Type":"AnimClip",
+			"Name":"cover_opened",
+			"Loop":true,
+			"Animation":{"lastKnownPath":"sc3d/ele_elixir_collector_cap_open","uuid":"ec79f249-f17b-43d1-91ad-2ad3d1f31d54"},
+			"TransInTime":0.3,
+			"TransOutTime":0.3,
+			"StartFrame":13
+		}
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":20,
+		"lifetime":0.3,
+		"lifetimeJitter":0.2,
+		"mass":1,
+		"spawnPointOffset":{"z":0.33333334},
+		"gravity":[0,0,-3.3333335],
+		"components":[
+			{"__class":"SpawnRate","duration":0.5,"spawnRate":20},
+			{"__class":"Ground","bounciness":0.4,"friction":0.5},
+			{"__class":"Deceleration","deceleration":[1.1666667,1.1666667,1.1666667]},
+			{"__class":"SpawnCone","direction":[0,0,1],"directionJitterAngle":180,"velocity":3.3333335,"velocityJitter":0.8333334},
+			{"__class":"SpawnLocation","spawnShape":1,"spawnMaxSize":0.050000004}
+		]
+	},
+	"render":{
+		"globalScale":0.0033333334,
+		"scale":[0.45052087,0.15364584,0.7838542,0.4947917,2,0.5],
+		"scaleJitter":0.2,
+		"color":[1,1,1],
+		"alpha":1,
+		"tailLength":[0.09114584,0.8567709,0.17447919,1.0104167,0.05,0],
+		"loopMovieClip":true,
+		"alphaFadeout":0.1,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/bd_healingcastle_stepon_d | 49e9c85e-ca95-4499-9d47-c60764ccbc58"]
+}

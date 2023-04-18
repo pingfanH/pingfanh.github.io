@@ -1,0 +1,24 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":4,
+			"SWFClip":"sc/effects/mechaMegaKnight_takeoff | 49e9c85e-c98b-49ac-aaf4-f1bd9f06787f",
+			"FollowPosition":true,
+			"FollowBone":"Foot_R",
+			"Offset":{"z":-0.5},
+			"ComponentScale":2,
+			"Loop":true
+		},
+		{
+			"Type":"swf",
+			"Layer":4,
+			"SWFClip":"sc/effects/mechaMegaKnight_takeoff | 49e9c85e-c98b-49ac-aaf4-f1bd9f06787f",
+			"FollowPosition":true,
+			"FollowBone":"Foot_L",
+			"Offset":{"z":-0.5},
+			"ComponentScale":2,
+			"Loop":true
+		}
+	]
+}

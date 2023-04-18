@@ -1,0 +1,19 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_bandit_racoon_shadowdash | 21fb952f-b142-4471-b1dc-132f28b76d80","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_bandit_racoon_hide | 21fb952f-d5a0-47d5-9510-a62beaa73922","Offset":{},"ComponentScale":1},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":0.12156863,"g":1,"a":1},
+			"FresnelStrength":60,
+			"FresnelIOR":1.12,
+			"FresnelFadeOutTime":0.4,
+			"StartTime":0.05,
+			"ForcedLength":0.55
+		},
+		{"Type":"color_filter","Additive":{"r":0.23137255,"g":1,"a":0.78431374},"Multiplicative":{},"FadeOutTime":0.25,"ForcedLength":0.5},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_bandit_racoon_glow | 21fb952f-e4cc-4904-848a-22ce13d9ab2a","FollowPosition":true,"Offset":{},"ComponentScale":1,"StartTime":0.48,"Loop":true},
+		{"Type":"particle_emitter","Layer":5,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_bandit_racoon_glow | 21fb952f-e4cc-4904-848a-22ce13d9ab2a","FollowPosition":true,"Offset":{},"ComponentScale":1,"StartTime":0.48},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_bandit_racoon_lingering | 21fb952f-babf-40ba-ba28-6434cd90c234","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"StartTime":0.43}
+	]
+}

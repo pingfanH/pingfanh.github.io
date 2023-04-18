@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":6,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/vampire_clown_slash | 49e9c85e-d8d9-4301-b6cb-3e006f9d26cf",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Root",
+			"Offset":{"z":1},
+			"ComponentScale":0.7
+		},
+		{"Type":"screen_shake","ShakeTime":0.1,"ShakeMaxIntensity":0.010000001}
+	]
+}

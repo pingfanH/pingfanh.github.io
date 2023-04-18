@@ -1,0 +1,27 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":6,
+		"lifetime":0.4,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","duration":0.1,"spawnRate":50},
+			{"__class":"SpawnLocation"},
+			{"__class":"SpawnCone","direction":[1,0,0],"directionJitterAngle":60,"velocity":3.8333335},
+			{"__class":"Deceleration","deceleration":[[0,0,0],[8.333334,8.333334,8.333334]]}
+		]
+	},
+	"render":{
+		"globalScale":0.02,
+		"scale":1,
+		"color":[[1,1,1],[0,1,1]],
+		"alpha":1,
+		"orientToDirection":true,
+		"alphaFadeout":0.2,
+		"trailDuration":0.1,
+		"trailWidth":1,
+		"trailHeadOrTails":true
+	},
+	"movieclip":["sc/effects/bd_point_blur_01_blue_slim | 49e9c85e-3e8b-4686-b69a-fe491ddbb989"]
+}

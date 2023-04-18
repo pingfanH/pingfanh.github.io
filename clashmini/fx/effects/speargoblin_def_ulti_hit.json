@@ -1,0 +1,12 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/speargoblin_def_ulti_hit | 21fb952f-ba7c-47fa-ba07-7df4feff46fe","Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"bat_hit_arrow"},
+		{
+			"Type":"color_filter",
+			"Additive":{"r":1,"g":0.39215687,"a":1},
+			"Multiplicative":{"r":1,"g":1,"b":1,"a":1},
+			"ForcedLength":0.1
+		}
+	]
+}

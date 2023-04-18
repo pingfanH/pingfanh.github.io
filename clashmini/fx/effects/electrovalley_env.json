@@ -1,0 +1,8 @@
+{
+	"Components":[
+		{"Type":"sub_effect","SubEffect":"fx/effects/electrovalley_env_tesla01 | 9047f5ea-53ba-4a33-b3dc-26254bd64b7d","Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"sub_effect","SubEffect":"fx/effects/electrovalley_env_tesla02 | 9047f5ea-e6bb-4ae6-a6dd-26254bd74b7d","Offset":{},"ComponentScale":1},
+		{"Type":"sub_effect","SubEffect":"fx/effects/electrovalley_env_lan01 | 9047f5ea-9781-49f7-b77e-519612f6cba5","Offset":{},"ComponentScale":1},
+		{"Type":"sub_effect","SubEffect":"fx/effects/electrovalley_env_tesla03 | 9047f5ea-79bd-4a99-99df-26254bd84b7d","Offset":{},"ComponentScale":1}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/royalchampion_special_vfx01 | 21fb952f-5b55-4cbb-bb5e-71816f474a7f","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/royalchampion_special_vfx02 | 21fb952f-ee56-4c6e-ae60-71816f484a7f","Offset":{},"ComponentScale":1},
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":3,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/shield_special_head | 49e9c85e-f332-4091-b803-c8558234a3f6",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":0.29999998,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/royalchampion_special_vfx03 | 21fb952f-8158-4c21-a162-71816f494a7f","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{
+			"Type":"swf",
+			"Layer":5,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/shield_special_rotate | 49e9c85e-83aa-4dd4-add8-6667b87af0f2",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"z":0.0033333334},
+			"ComponentScale":0.25,
+			"Loop":true
+		},
+		{
+			"Type":"swf",
+			"Layer":3,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/shelly_special_proj_tex01 | 49e9c85e-0d98-4e12-a37b-0e0eb9b3468a",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":0.5,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/royalchampion_special_vfx04 | 21fb952f-145a-4cd4-9463-71816f4a4a7f","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/royalchampion_special_vfx05 | 21fb952f-a75b-4c87-8765-71816f4b4a7f","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/royalchampion_special_vfx06 | 21fb952f-3a5d-4c3a-ba67-71816f4c4a7f","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"Loop":true}
+	]
+}

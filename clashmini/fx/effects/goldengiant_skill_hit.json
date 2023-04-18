@@ -1,0 +1,19 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_goldengiant_headbutt_01 | 21fb952f-32af-4032-b25e-23d46071c837","FollowPosition":true,"FollowBone":"Head2","Offset":{"z":0.33333334},"ComponentScale":1},
+		{"Type":"sound","Sound":"bat_skill_helmet","KillSoundOnEnd":true},
+		{"Type":"screen_shake","ShakeTime":0.2,"ShakeMaxIntensity":0.020000001},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_goldengiant_headbutt_02 | 21fb952f-9fad-407f-bf5c-23d46070c837","FollowPosition":true,"FollowBone":"Head2","Offset":{"z":0.33333334},"ComponentScale":1},
+		{
+			"Type":"particle_emitter",
+			"Layer":3,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/bd_knockout_hit_effect_star | 21fb952f-075c-4347-876c-be55adb2c1a8",
+			"FollowPosition":true,
+			"FollowBone":"Head2",
+			"Offset":{"z":0.33333334},
+			"ComponentScale":1.1999999,
+			"Loop":true
+		}
+	]
+}

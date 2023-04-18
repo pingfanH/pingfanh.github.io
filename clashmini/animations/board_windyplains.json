@@ -1,0 +1,4 @@
+{
+	"States":[{"Type":"AnimClip","Name":"loop","Loop":true,"Animation":{"lastKnownPath":"sc3d/board_windyplains_loop","uuid":"ec79f249-464d-42c6-8679-19f47a28118d"}}],
+	"DefaultState":"loop"
+}

@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/board_unity_drop_emitter | 21fb952f-2e08-426e-aef3-a419b2e71a8e","Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"c_p_boss_lava_move_fall"},
+		{"Type":"screen_shake","ShakeTime":0.2,"ShakeMaxIntensity":0.010000001}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_B1_pushhit_off04 | 21fb952f-3814-4898-98b1-e091e6f8fb1c","FollowPosition":true,"Offset":{},"AbsoluteOffset":true,"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_B1_pushhit_off02 | 21fb952f-cf3c-4024-907b-a6923bc06da4","FollowPosition":true,"Offset":{},"AbsoluteOffset":true,"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_B1_pushhit_off03 | 21fb952f-3d1f-487d-bdbd-e091e6fffb1c","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_B1_pushhit_off01 | 21fb952f-aa1d-48ca-8abb-e091e6fefb1c","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_B1_pushhit_off05 | 21fb952f-cb15-484b-8bb3-e091e6f9fb1c","FollowPosition":true,"Offset":{},"ComponentScale":1}
+	]
+}

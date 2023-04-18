@@ -1,0 +1,15 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{"maxParticleCount":1,"lifetime":2,"mass":1,"spawnPointOffset":{},"followEmitter":true,"components":[{"__class":"SpawnRate","infinite":true,"spawnRate":60}]},
+	"render":{
+		"globalScale":0.5,
+		"scale":1,
+		"color":[1,1,1],
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":0.5,
+		"trailWidth":5,
+		"trailReference":"image/graph_node/trail_energy_01/texture0 | c06da060-ee2b-4449-b824-4b576886399e"
+	},
+	"movieclip":["sc/effects/bd_glow_dot_blue | 49e9c85e-ceff-43ef-a622-d4c289a5c5a5"]
+}

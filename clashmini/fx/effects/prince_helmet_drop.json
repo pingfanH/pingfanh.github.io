@@ -1,0 +1,17 @@
+{
+	"Components":[
+		{"Type":"model","ModelMesh":"sc3d/fx_prince_helmet_drop | ec79f249-4d5f-496d-ad96-ee6919c129d3","ModelFresnelColor":{"a":1},"Offset":{},"ComponentScale":1},
+		{"Type":"submesh_visibility","HideSubmeshName":"helmet"},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_knockup_smoke_blue | 21fb952f-942e-4ad4-9469-12c8faa291bc","FollowPosition":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1,"StartTime":0.3},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_knockout_hit_effect | 21fb952f-565d-4af6-b643-23ad69205b9a","FollowBone":"Spine1","Offset":{},"ComponentScale":1,"AllyOnly":true},
+		{"Type":"screen_shake","ShakeTime":0.2,"ShakeMaxIntensity":0.05,"AllyOnly":true},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_knockout_hit_effect_red | 21fb952f-9ac6-4a3a-ba7d-bba05181fa42","FollowBone":"Spine1","Offset":{},"ComponentScale":1,"EnemyOnly":true},
+		{"Type":"screen_shake","ShakeTime":0.2,"ShakeMaxIntensity":0.05,"EnemyOnly":true},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_knockout_hit_effect_cloud | 21fb952f-b0e3-4b10-908a-2344ecd79038","Offset":{},"ComponentScale":1,"StartTime":0.3},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_knockout_hit_effect_star | 21fb952f-075c-4347-876c-be55adb2c1a8","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"Offset":{},"ComponentScale":1,"EnemyOnly":true},
+		{"Type":"sound","Sound":"bat_common_death_3p","EnemyOnly":true},
+		{"Type":"particle_emitter","Layer":3,"Offset":{},"ComponentScale":1,"AllyOnly":true},
+		{"Type":"sound","Sound":"bat_common_death_1p","AllyOnly":true}
+	]
+}

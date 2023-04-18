@@ -1,0 +1,30 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1000,
+		"lifetime":4,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","infinite":true,"duration":1,"spawnRate":100},
+			{"__class":"Ground"},
+			{"__class":"SpawnPlanar","spawnMinSize":0.16666667,"spawnMaxSize":-0.16666667},
+			{"__class":"SpawnVelocityComponent"}
+		]
+	},
+	"render":{
+		"globalScale":0.033333335,
+		"scale":[2.5,3],
+		"scaleJitter":0.5,
+		"color":[[0,1,1],[0,0.5,1]],
+		"alpha":[0.2,0],
+		"angleJitter":100,
+		"alphaFadeout":1.5,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":3,
+		"billboardAlign":2
+	},
+	"movieclip":["sc/effects/bd_fishtown_wave_smoke_01 | 49e9c85e-f625-4540-ae23-38225a9a2b44"]
+}

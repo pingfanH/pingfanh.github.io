@@ -1,0 +1,39 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":20,
+		"lifetime":[0.33333334,0.33333334,0.6666667,0.6666667,0.6,0.6],
+		"lifetimeJitter":[0.33333334,0.33333334,0.6666667,0.6666667,0.4,0.4],
+		"mass":1,
+		"spawnPointOffset":{},
+		"gravity":[0.33333334,0.33333334,0.6666667,0.6666667,[0,0,0],[0,0,0]],
+		"components":[
+			{
+				"__class":"SpawnRate",
+				"duration":0.05,
+				"spawnRate":[0.33333334,0.33333334,0.6666667,0.6666667,100,100],
+				"spawnRateJitter":[0.33333334,0.33333334,0.6666667,0.6666667,0,0]
+			},
+			{"__class":"SpawnCone","direction":[0,0,1],"directionJitterAngle":180,"velocity":50},
+			{"__class":"Drag","dragCoeffecient":10000}
+		]
+	},
+	"render":{
+		"globalScale":0.006666667,
+		"scale":[0.5052084,-0.6744791,0.9947917,0.51822925,1,0],
+		"scaleJitter":[0.6145834,0.044270843,0.9401042,0.4947917,0.5,0],
+		"color":[0.33333334,0.33333334,0.6666667,0.6666667,[1,1,1],[1,1,1]],
+		"alpha":[0.33333334,0.33333334,0.6666667,0.6666667,1,1],
+		"angle":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"angleJitter":[0.33333334,0.33333334,0.6666667,0.6666667,360,360],
+		"rotationSpeed":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"rotationSpeedJitter":[0.48177084,0.013020843,0.9088542,0.5416667,100,0],
+		"tailLength":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"tailLengthJitter":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":[0.33333334,0.33333334,0.6666667,0.6666667,1,1]
+	},
+	"movieclip":["sc/effects/star4_glare_blue | 49e9c85e-1909-4a8e-9b89-ee638f47317d","sc/effects/star4_glare_orange | 49e9c85e-9ba4-4755-bf9c-e28875bbed35","sc/effects/star4_glare_pink | 49e9c85e-0792-4c87-bb6d-6d506bdecd7a","sc/effects/star4_glare_yellow | 49e9c85e-5285-4c22-9cb6-f13e5db00434"]
+}

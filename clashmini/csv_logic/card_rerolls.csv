@@ -1,0 +1,3 @@
+Name,RerollName,FirsDeckChoiceIndex,Card1,Card2,Card3,Card4
+string,string,int,string,string,string,string
+FirstMatch,Reroll1,0,SpearGoblinB1,,,

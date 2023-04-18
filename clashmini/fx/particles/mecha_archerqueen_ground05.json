@@ -1,0 +1,35 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":20,
+		"emitterDelay":0.05,
+		"lifetime":1,
+		"lifetimeJitter":0.2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"gravity":[0,0,0.33333334],
+		"components":[
+			{"__class":"SpawnRate","duration":0.2,"spawnRate":3},
+			{"__class":"SpawnLocation","spawnShape":1,"spawnMaxSize":0.5},
+			{"__class":"SpawnVelocityComponent","velocity":[[0,0,2.5],[0,0,0.8333334]]},
+			{"__class":"Deceleration","deceleration":[0,0,3.3333335]}
+		]
+	},
+	"render":{
+		"globalScale":0.002,
+		"scale":1,
+		"scaleJitter":0.5,
+		"color":[0.5833334,0.044270843,1,0.22135419,[1,1,1],[1,0,1]],
+		"alpha":[0.3,0],
+		"rotationSpeed":[0.046875,0.5911459,0.9921875,0.6510417,280,0],
+		"rotationSpeedJitter":200,
+		"orientToDirection":true,
+		"loopMovieClip":true,
+		"alphaFadeout":0.1,
+		"trailDuration":0.15,
+		"trailWidth":[50,0],
+		"trailImage":"image/tex_trail_heroarcher_01.png#premultiply",
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/mecha_groundparti01 | 49e9c85e-4904-4dad-9ce0-c35195bec4b2","sc/effects/mecha_groundparti02 | 49e9c85e-0b22-43f4-9dd4-920fd9ce4510","sc/effects/mecha_groundparti03 | 49e9c85e-ed8c-469d-9006-0e6a8976968f"]
+}

@@ -1,0 +1,50 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":3,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/bd_point_blur_01_golden | 49e9c85e-d45b-41df-9570-f052a763b445",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_healingspear_01 | 21fb952f-0b8f-44ab-ab21-1ec56cc6bb92",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true,
+			"AllyOnly":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_healingspear_01_red | 21fb952f-5b45-487b-bb94-cc57a4f2ec81",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true,
+			"EnemyOnly":true
+		},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":4,"ParticleEmitter":"fx/particles/bd_healingspear_trail01_twinkle | 21fb952f-2816-4408-88b6-1713117b57b1","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{
+			"Type":"particle_emitter",
+			"Layer":3,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/bd_healingspear_trail01_golden | 21fb952f-7d94-479d-9d2b-1b5ccc01b7fe",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		}
+	]
+}

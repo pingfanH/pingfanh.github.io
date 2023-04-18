@@ -1,0 +1,41 @@
+{
+	"Components":[
+		{"Type":"swf","Layer":3,"SWFClip":"sc/effects/witch_projectile_01 | 49e9c85e-8757-423f-b6e7-7ea17e11719c","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"sound","Sound":"c_p_witch_atk_shot","Loop":true},
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":3,
+			"SWFClip":"sc/effects/bd_point_blur_02_cyan | 49e9c85e-ec6e-47f8-8151-f0594ae2aa0b",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":2,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/bd_witch_projecile_trail01 | 21fb952f-e92b-48e9-a945-3521182fe4db",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true,
+			"AllyOnly":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/bd_witch_projecile_trail02 | 21fb952f-3027-48d0-9040-3521182ce4db",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true,
+			"AllyOnly":true
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"sound","Sound":"c_p_magicarcher_atk_charge"},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/mechaarcher_atk_charge | 21fb952f-aa90-4fea-aa97-cf238f23ea95","FollowPosition":true,"Offset":{"y":-0.6666667},"ComponentScale":1}
+	]
+}

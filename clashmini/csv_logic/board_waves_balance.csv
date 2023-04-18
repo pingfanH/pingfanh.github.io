@@ -1,0 +1,2 @@
+Name,WaveName,Content,HeroLevel,Modifiers,GridX,GridY,BoardElementName,BoardElementX,BoardElementY,RandomSeed
+string,string,string,int,string,int,int,string,int,int,int

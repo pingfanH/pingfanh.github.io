@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"swf","Layer":5,"SWFClip":"sc/effects/prince_dash002 | 49e9c85e-92ec-4d62-b16e-ae111199fd1a","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1.4,"Loop":true},
+		{"Type":"swf","Layer":5,"SWFClip":"sc/effects/prince_booster02 | 49e9c85e-2d96-450c-b0f2-04fb671a9eaa","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1.4},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/prince_spe_dashsmoke | 21fb952f-bb01-4bbb-bb47-ee824405b247","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1,"Loop":true}
+	]
+}

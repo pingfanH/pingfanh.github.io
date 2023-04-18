@@ -1,0 +1,14 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/bd_twinkle_loop | 21fb952f-5f9e-4d1f-9f37-891365c611a0","Offset":{"y":3.3333333,"z":3.3333333},"ComponentScale":3,"Loop":true},
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":4,
+			"SWFClip":"sc/effects/fx_spotlight_08 | 49e9c85e-e3b9-4ae5-ba26-549f5175c94a",
+			"Offset":{"y":3.3333333,"z":0.33333334},
+			"ComponentScale":0.75,
+			"Loop":true
+		}
+	]
+}

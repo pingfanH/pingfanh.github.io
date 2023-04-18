@@ -1,0 +1,25 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":4,
+		"lifetime":1,
+		"mass":1,
+		"spawnPointOffset":{},
+		"followEmitter":true,
+		"components":[{"__class":"SpawnLocation"},{"__class":"SpawnRate","infinite":true,"spawnRate":2},{"__class":"SpawnVelocityComponent","velocity":[0,10,0]}]
+	},
+	"render":{
+		"globalScale":0.005,
+		"scale":1,
+		"color":[1,1,1],
+		"angle":-90,
+		"orientToDirection":true,
+		"tailLength":0.3,
+		"alphaFadeout":0.2,
+		"trailEnabled":true,
+		"trailDuration":0.5,
+		"trailWidth":60,
+		"trailImage":"image/trail_music_score.png#premultiply"
+	},
+	"movieclip":["sc/effects/music_note00 | 49e9c85e-c4c4-4de4-a978-32a97654f898"]
+}

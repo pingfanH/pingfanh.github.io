@@ -1,0 +1,33 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":20,
+		"lifetime":1,
+		"lifetimeJitter":1,
+		"mass":1,
+		"spawnPointOffset":{"z":0.6666667},
+		"gravity":[0,0,-25],
+		"components":[
+			{"__class":"SpawnRate","duration":0.1,"spawnRate":150},
+			{"__class":"Deceleration","deceleration":[20,20,20]},
+			{"__class":"SpawnPlanar","spawnMaxSize":0.5,"maxAngle":360,"minSpeedXY":3.3333335,"maxSpeedXY":11.666667,"minSpeedZ":11.666667,"maxSpeedZ":25,"randomAngle":true}
+		]
+	},
+	"render":{
+		"globalScale":0.005,
+		"scale":[0.9505209,0.020833343,1,0.5182292,3,0],
+		"scaleJitter":1,
+		"color":[0.33333334,0.33333334,0.6666667,0.6666667,[1,1,1],[1,1,1]],
+		"alpha":[0.33333334,0.33333334,0.6666667,0.6666667,1,1],
+		"angle":30,
+		"angleJitter":-30,
+		"rotationSpeed":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"rotationSpeedJitter":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"tailLength":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"tailLengthJitter":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"loopMovieClip":true,
+		"trailDuration":1,
+		"trailWidth":[0.33333334,0.33333334,0.6666667,0.6666667,1,1]
+	},
+	"movieclip":["sc/effects/bd_confetti_S_01_yellow | 49e9c85e-b738-460b-ba20-68bf52927b3f","sc/effects/bd_confetti_S_01_red | 49e9c85e-7a3d-4515-9137-dc77e2ba973d","sc/effects/bd_confetti_S_01_green | 49e9c85e-7394-4865-bf39-2ad16ac73a91"]
+}

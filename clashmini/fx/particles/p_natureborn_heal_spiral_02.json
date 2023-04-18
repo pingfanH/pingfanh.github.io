@@ -1,0 +1,25 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":2,
+		"emitterDelay":0.05,
+		"lifetime":0.8,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[{"__class":"SpawnRate","duration":0.5,"spawnRate":5},{"__class":"SpawnPlanar"}]
+	},
+	"render":{
+		"globalScale":0.012,
+		"scale":[0.25520834,0.5052084,0.4557292,0.9010417,0.2,1.2],
+		"scaleJitter":0.3,
+		"color":[1,1,1],
+		"alpha":[0.6145834,0.013020843,0.018229187,0.9791667,0.5,0],
+		"angleJitter":360,
+		"rotationSpeed":[0.8958334,0.052083343,0.4791667,0.9401042,0,120],
+		"rotationSpeedJitter":10,
+		"alphaFadeout":0.5,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/soundwave_01 | 49e9c85e-a1f9-43c4-a81e-261f0158cba8"]
+}

@@ -1,0 +1,13 @@
+{
+	"Components":[
+		{
+			"Type":"color_filter",
+			"Additive":{"r":1,"g":0.39215687,"a":1},
+			"Multiplicative":{"r":1,"g":1,"b":1,"a":1},
+			"FadeOutTime":0.1,
+			"ForcedLength":0.1
+		},
+		{"Type":"sound","Sound":"bat_hit_ghostslash","ForcedLength":0.1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_hit_03 | 21fb952f-af71-4faf-aff2-a79cea067359","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":0.6}
+	]
+}

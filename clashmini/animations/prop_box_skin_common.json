@@ -1,0 +1,35 @@
+{
+	"States":[
+		{"Type":"AnimClip","Name":"Out","Animation":{"lastKnownPath":"sc3d/prop_box_open_common","uuid":"ec79f249-13a6-4e13-93fb-12074c7717b9"}},
+		{"Type":"AnimClip","Name":"Idle","Loop":true,"Animation":{"lastKnownPath":"sc3d/prop_box_open_common","uuid":"ec79f249-13a6-4e13-93fb-12074c7717b9"}},
+		{
+			"Type":"AnimClip",
+			"Name":"Open",
+			"Animation":{"lastKnownPath":"sc3d/prop_box_open_common","uuid":"ec79f249-13a6-4e13-93fb-12074c7717b9"},
+			"Events":[
+				{"Event":"Marker","Frame":1,"Name":"chest_open"},
+				{"Event":"Marker","Frame":14,"Name":"chest_open_finished"},
+				{"Event":"Effect","Frame":1,"Effect":{"lastKnownPath":"fx/effects/ui_minibox_open","uuid":"9047f5ea-6570-4de5-a5cf-3c7aa7cfa38f"}},
+				{"Event":"Effect","Frame":1,"Effect":{"lastKnownPath":"fx/effects/ui_chest_open","uuid":"9047f5ea-5acf-4a9a-9a9a-420ee2097ed6"}}
+			]
+		},
+		{
+			"Type":"AnimClip",
+			"Name":"OpenNew",
+			"Animation":{"lastKnownPath":"sc3d/prop_box_open_rare","uuid":"ec79f249-26a8-41a6-a6e8-fc278ad8d27c"},
+			"Events":[
+				{"Event":"Marker","Frame":48,"Name":"chest_open"},
+				{"Event":"Marker","Frame":60,"Name":"chest_open_finished"},
+				{"Event":"Effect","Frame":1,"Effect":{"lastKnownPath":"fx/effects/ui_box_open_anticipation_effect","uuid":"9047f5ea-0ea7-40ee-ae00-bcfdf5ea7d4b"}},
+				{"Event":"Effect","Frame":48,"Effect":{"lastKnownPath":"fx/effects/ui_minibox_rare_open","uuid":"9047f5ea-fac8-40ba-baaa-ed0df2916b94"}}
+			]
+		},
+		{
+			"Type":"AnimClip",
+			"Name":"InChestIdle",
+			"Animation":{"lastKnownPath":"sc3d/prop_box_inbox","uuid":"ec79f249-7f80-427f-bfc0-f0e275ca1963"},
+			"Events":[{"Event":"Effect","Effect":{"lastKnownPath":"fx/effects/ui_minibox_idle","uuid":"9047f5ea-4f16-4f2f-af0f-47ad777497bb"}}]
+		},
+		{"Type":"AnimClip","Name":"Spawn","Animation":{"lastKnownPath":"sc3d/prop_box_open_common","uuid":"ec79f249-13a6-4e13-93fb-12074c7717b9"},"TransOutTime":0.2}
+	]
+}

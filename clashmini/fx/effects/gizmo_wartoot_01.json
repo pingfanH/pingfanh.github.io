@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/gizmo_wartoot_01 | 21fb952f-31aa-4251-9107-f719a330d432","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/gizmo_wartoot_02 | 21fb952f-78a5-4238-b802-f719a32dd432","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/gizmo_wartoot_03 | 21fb952f-0ba7-42eb-ab03-f719a32ed432","Offset":{},"ComponentScale":1,"StartTime":0.15}
+	]
+}

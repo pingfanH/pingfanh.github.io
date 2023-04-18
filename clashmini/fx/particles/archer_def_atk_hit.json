@@ -1,0 +1,25 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":0.25,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnBurst","bursts":[{"t":0.001,"c":1}]},
+			{"__class":"SpawnPlanar"}
+		]
+	},
+	"render":{
+		"globalScale":0.016666668,
+		"scale":0.55,
+		"scaleJitter":0.1,
+		"color":[1,1,1],
+		"alpha":1,
+		"angleJitter":360,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/archer_def_atk_hit | 49e9c85e-a362-4643-aa86-73cd1d21708a"]
+}

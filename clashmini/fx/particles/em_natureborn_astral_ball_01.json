@@ -1,0 +1,29 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":200,
+		"lifetime":2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnLocation","spawnShape":2,"spawnMinSize":0.12,"spawnMaxSize":0.12},
+			{"__class":"SpawnRate","infinite":true,"spawnRate":10},
+			{"__class":"Spring","stiffness":0.5,"damping":100},
+			{"__class":"TangentVelocity","velocity":0.001}
+		]
+	},
+	"render":{
+		"globalScale":0.01,
+		"scale":[0,-4.7760415,0.28125,0.5026042,0.006,0],
+		"scaleJitter":0.2,
+		"color":[0.33333334,0.33333334,0.6666667,0.6666667,[0.2,0.5,1],[1,0,1]],
+		"alpha":1,
+		"rotationSpeed":100,
+		"alphaFadeout":0.2,
+		"trailDuration":1,
+		"trailWidth":5,
+		"trailImage":"image/trail_bluepurple01.png#premultiply",
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/mini_spark_blue_twinkle | 49e9c85e-d082-4026-a543-2d6914740e71","sc/effects/mini_spark_white_twinkle | 49e9c85e-3c0f-4c63-9461-d916be68dad3"]
+}

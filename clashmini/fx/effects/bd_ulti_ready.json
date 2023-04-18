@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_ulti_ready | 21fb952f-8295-4142-8214-487608f14d3a","Offset":{},"ComponentScale":10}]
+}

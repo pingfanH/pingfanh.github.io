@@ -1,0 +1,41 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":6,
+		"lifetime":0.4,
+		"lifetimeJitter":0.2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"components":[
+			{"__class":"SpawnRate","duration":0.3,"spawnRate":80},
+			{"__class":"Ground"},
+			{
+				"__class":"SpawnPlanar",
+				"spawnMinSize":0.25,
+				"spawnMaxSize":0.33333334,
+				"minAngle":200,
+				"maxAngle":420,
+				"minSpeedXY":0.8333334,
+				"maxSpeedXY":0.8333334,
+				"minSpeedZ":1.6666667,
+				"maxSpeedZ":2.5
+			},
+			{"__class":"Deceleration","deceleration":[5,5,5]}
+		]
+	},
+	"render":{
+		"globalScale":0.016666668,
+		"scale":[0.20052084,0.5989584,0.5338542,0.7916667,0.1,0.25],
+		"scaleJitter":0.05,
+		"color":[[1,1,1],[1,1,1]],
+		"alpha":0.4,
+		"angleJitter":360,
+		"rotationSpeed":20,
+		"rotationSpeedJitter":-20,
+		"alphaFadeout":0.2,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/sc_vampire_smoke_01 | 49e9c85e-5b17-459c-a843-ef809170a860","sc/effects/sc_vampire_smoke_02 | 49e9c85e-85f1-49a9-bc78-9a2212a44e03"]
+}

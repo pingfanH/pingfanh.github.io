@@ -1,0 +1,48 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":4,
+			"SWFClip":"sc/effects/upgradeindicator_beam_test | 49e9c85e-4d93-4677-839b-5922efbab771",
+			"FlashWidth":200,
+			"FollowPosition":true,
+			"FollowBone":"Spine2",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":3,
+			"ParticleEmitter":"fx/particles/levelup_upgrade_attachment | 21fb952f-e575-46e5-a5ff-eb2b1bf2ccf0",
+			"FollowPosition":true,
+			"FollowBone":"Spine2",
+			"Offset":{"z":0.26666668},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":3,
+			"ParticleEmitter":"fx/particles/levelup_upgrade_indicator01 | 21fb952f-7ed3-411e-9ef8-0b4113a591e0",
+			"FollowPosition":true,
+			"FollowBone":"Spine2",
+			"Offset":{"z":0.26666668},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":4,
+			"SWFClip":"sc/effects/upgradeindicator_beam_particles02 | 49e9c85e-7174-4d1d-8ae0-137ff32f7af3",
+			"FlashWidth":200,
+			"FollowPosition":true,
+			"FollowBone":"Spine2",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		}
+	]
+}

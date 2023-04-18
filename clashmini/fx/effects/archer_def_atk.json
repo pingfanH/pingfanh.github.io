@@ -1,0 +1,14 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":5,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/archer_def_atk | 49e9c85e-ecb6-4977-a6c9-72b53ae4894b",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"z":0.33333334},
+			"ComponentScale":0.5
+		}
+	]
+}

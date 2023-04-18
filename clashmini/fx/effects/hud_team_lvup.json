@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/brock_002_atk_fireworks | 21fb952f-c19e-4001-810e-8f7672fdfec5","FollowPosition":true,"Offset":{},"ComponentScale":5}]
+}

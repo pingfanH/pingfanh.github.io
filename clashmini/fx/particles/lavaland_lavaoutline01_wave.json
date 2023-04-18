@@ -1,0 +1,14 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":3,
+		"emitterDelay":1,
+		"lifetime":3,
+		"mass":0.1,
+		"spawnPointOffset":{},
+		"emitterLoop":true,
+		"components":[{"__class":"SpawnRate","infinite":true,"duration":0.001,"spawnRate":2.5}]
+	},
+	"render":{"globalScale":0.016666668,"scale":1,"color":[1,1,1],"alpha":1,"alphaFadeout":0.1},
+	"movieclip":["sc/effects/lava_waveline01 | 49e9c85e-1ab8-4c0a-b6ad-3ef0cbeef3cc","sc/effects/lava_waveline02 | 49e9c85e-1a9b-4cc8-bb7d-6727ff401618","sc/effects/lava_waveline03 | 49e9c85e-ebae-4f1b-8b30-aab5aa8dc3de","sc/effects/lava_waveline04 | 49e9c85e-952a-4a7d-88d2-7d2acc3b96d6","sc/effects/lava_waveline05 | 49e9c85e-71e5-4bab-99ff-b69d2a187b32","sc/effects/lava_waveline06 | 49e9c85e-adb4-4a84-8b70-5be538e08ba2","sc/effects/lava_waveline07 | 49e9c85e-3c1b-40ea-901a-d4c0f3d82833","sc/effects/lava_waveline08 | 49e9c85e-344c-4959-a4b9-7ea2ed48b692","sc/effects/lava_waveline09 | 49e9c85e-611b-4a38-97b2-e2836fe3dbef"]
+}

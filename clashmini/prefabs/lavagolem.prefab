@@ -1,0 +1,30 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[
+				{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/chr_lavagolem_rig","uuid":"ec79f249-7082-44d0-902f-4e588dd7f745"},"m_animation":{"lastKnownPath":"animations/characters/chr_lavagolem","uuid":"defe63bc-db46-407b-bb47-c49050716f1c"}},
+				{
+					"objectType":5003,
+					"m_targettedMaterials":["GLSLShader1"],
+					"m_diffuseColor":{"x":1,"y":1,"z":1},
+					"m_ambientColor":{"x":1,"y":1,"z":1},
+					"m_fresnelColor":{"x":1,"y":1,"z":1},
+					"m_specularColor":{"y":0.31764707,"z":0.5294118},
+					"m_rimColor":{"x":0.13725491,"y":0.13725491,"z":0.13725491},
+					"m_specularBoardColor":{"x":0.18823531,"y":0.18823531,"z":0.18823531},
+					"m_teamColor":{"x":1,"y":0.95294124,"z":0.95294124},
+					"m_emissionColor":{"x":1,"y":1,"z":1},
+					"m_lightFlowTexPath":"sc3d/tile_lava",
+					"m_lightFlowMaskTexPath":"sc3d/chr_lavagolem_flow",
+					"m_emissionTexPath":"sc3d/chr_lavagolem_em"
+				}
+			]
+		}
+	}
+}

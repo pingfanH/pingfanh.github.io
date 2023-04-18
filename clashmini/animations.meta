@@ -1,0 +1,7 @@
+{
+	"data":{
+		"childKeys":["projectile","board_electrovalley","board_fishtown","board_lavaland","board_vampirecastle","board_windyplains","boardelem_energy","boardelem_jumppad","boardelem_mirror","boardelem_shield",
+			"boardelem_undying","characters","items","prop_bigchest_common","prop_bigchest_star_lv1","prop_bigchest_star_lv2","prop_bigchest_star_lv3","prop_box_coin_common","prop_box_common","prop_box_hero",
+			"prop_box_skin_common","prop_chest_raid_boss","prop_elixir_bar","prop_elixir_collector","prop_gacha_funbox","prop_player_panel","prop_reroll_button","prop_sell_indicator","props"]
+	}
+}

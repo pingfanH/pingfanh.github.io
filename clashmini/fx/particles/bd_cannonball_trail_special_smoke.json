@@ -1,0 +1,30 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":200,
+		"lifetime":0.3,
+		"lifetimeJitter":0.2,
+		"mass":1,
+		"spawnPointOffset":{},
+		"gravity":[0.33333334,0.33333334,0.6666667,0.6666667,[0,0,0],[0,0,0]],
+		"components":[{"__class":"SpawnRate","infinite":true,"durationJitter":0.4,"spawnRate":50},{"__class":"SpawnLocation","spawnShape":1}]
+	},
+	"render":{
+		"globalScale":0.02,
+		"scale":[0.23958334,-0.47135416,0.5963542,0.6666667,1,0.2],
+		"scaleJitter":0.2,
+		"color":[0.33333334,0.33333334,0.6666667,0.6666667,[1,0.5,0],[1,0,0]],
+		"alpha":[0.33333334,0.33333334,0.6666667,0.6666667,1,1],
+		"angle":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"angleJitter":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"rotationSpeed":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"rotationSpeedJitter":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"tailLength":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"tailLengthJitter":[0.33333334,0.33333334,0.6666667,0.6666667,0,0],
+		"alphaFadeout":0.2,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":[0.33333334,0.33333334,0.6666667,0.6666667,1,1]
+	},
+	"movieclip":["sc/effects/mechaSpeargoblin_projectile_cloud | 49e9c85e-f610-42ba-a2e5-3759c1344ae2","sc/effects/mechaSpeargoblin_projectile_cloud2 | 49e9c85e-bba8-4d0d-b8f1-89b743543c7b"]
+}

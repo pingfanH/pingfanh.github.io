@@ -1,0 +1,646 @@
+{
+    "data":[
+        {
+            "name": "Boss-LavaGolem",
+            "boss": "Boss-LavaGolem",
+            "displayName":"TID_BOSS_LAVAGOLEM",
+            "location": "LavaLand",
+            "autochessEconomy": "Pve_Boss_Raid",
+            "isHidden":true,
+            "playerCooldownSecs": 43200,
+            "difficultyMap":[
+                {
+                    "difficultyIndex": 0,
+                    "difficultyName": "TID_RAIDBOSS_DIFFICULTY_BEGINNER",
+                    "maxProgressPoints": 1000,
+                    "minRaidPartySize": 1,
+                    "maxRaidPartySize": 10,
+                    "pointsPerRaidWin": 7,
+                    "raidBattlePoints": [15,12,10,5,3,1],
+                    "miniKOPerLoss": 1,
+                    "timeoutSecs" : 172800,
+                    "rewardRequiredProgress":[150,80,50,10],
+                    "completionRewardChestIds":[[127000324,127000337,127000329,127000330,127000330,127000332], [127000324,127000329,127000330,127000330,127000332], [127000325,127000330,127000330,127000333], [127000326,127000330,127000335]],
+                    "maxModifiersCount" : 2,
+					"modifierPool":["BossLavaGolem_LavaBurn","BossLavaGolem_LavaStrike","BossLavaGolem_LavaSoldier","BossLavaGolem_LavaBody","BossLavaGolem_LavaSmash","BossLavaGolem_LavaFrenzy","BossLavaGolem_LavaJustice"],
+                    "progressMap":[
+                        {
+                            "progressPCT":0,
+                            "bossUpgradeLevel":1,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestIDs":[],
+                            "bossAIConfig": "LavaGolemAI_Beginner_0"
+                        },
+                        {
+                            "progressPCT":10,
+                            "bossUpgradeLevel":2,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestIDs":[],
+                            "bossAIConfig": "LavaGolemAI_Beginner_0"
+                        },
+                        {
+                            "progressPCT":20,
+                            "bossUpgradeLevel":3,
+                            "unlockedModifierIndexes":[0],
+                            "progressRewardChestIDs":[[127000338],[127000338],[127000338],[127000338]],
+                            "bossAIConfig": "LavaGolemAI_Beginner_1"
+                        },
+                        {
+                            "progressPCT":40,
+                            "bossUpgradeLevel":5,
+                            "unlockedModifierIndexes":[0],
+                            "progressRewardChestIDs":[[127000337],[127000337],[127000337],[127000337]],
+                            "bossAIConfig": "LavaGolemAI_Beginner_2"
+                        },
+                        {
+                            "progressPCT":60,
+                            "bossUpgradeLevel":7,
+                            "unlockedModifierIndexes":[0,1],
+                            "progressRewardChestIDs":[[127000337,127000338],[127000337,127000338],[127000337,127000338],[127000337,127000338]],
+                            "bossAIConfig": "LavaGolemAI_Beginner_3"
+                        },
+                        {
+                            "progressPCT":75,
+                            "bossUpgradeLevel":9,
+                            "unlockedModifierIndexes":[0,1],
+                            "progressRewardChestIDs":[[127000325,127000335],[127000325,127000335],[127000325,127000335],[127000325,127000335]],
+                            "bossAIConfig": "LavaGolemAI_Beginner_4"
+                        },
+                        {
+                            "progressPCT":90,
+                            "bossUpgradeLevel":10,
+                            "unlockedModifierIndexes":[0,1],
+                            "progressRewardChestIDs":[[127000336,127000333],[127000336,127000333],[127000336,127000333],[127000336,127000333]],
+                            "bossAIConfig": "LavaGolemAI_Beginner_5"
+                        }
+                    ]
+                },
+                {
+                    "difficultyIndex": 1,
+                    "difficultyName": "TID_RAIDBOSS_DIFFICULTY_VETERAN",
+                    "maxProgressPoints": 1500,
+                    "minRaidPartySize": 1,
+                    "maxRaidPartySize": 5,
+                    "pointsPerRaidWin": 7,
+                    "raidBattlePoints": [20,15,10,1,1,1],
+                    "miniKOPerLoss": 1,
+                    "timeoutSecs" : 259200,
+                    "completionRewardChestIds":[],
+                    "maxModifiersCount" : 2,
+                    "progressMap":[
+                        {
+                            "progressPCT":0,
+                            "bossUpgradeLevel":7,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestIDs":[],
+                            "bossAIConfig": "lavaGolemAI_Veteran"
+                        },
+                        {
+                            "progressPCT":30,
+                            "bossUpgradeLevel":10,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestIDs":[],
+                            "bossAIConfig": "lavaGolemAI_Veteran"
+                        },
+                        {
+                            "progressPCT":70,
+                            "bossUpgradeLevel":13,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestIDs":[],
+                            "bossAIConfig": "lavaGolemAI_Veteran"
+                        },
+                        {
+                            "progressPCT":90,
+                            "bossUpgradeLevel":16,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestIDs":[],
+                            "bossAIConfig": "lavaGolemAI_Veteran"
+                        }
+                    ]
+                },
+                {
+                    "difficultyIndex": 2,
+                    "difficultyName": "TID_RAIDBOSS_DIFFICULTY_MASTER",
+                    "maxProgressPoints": 2000,
+                    "minRaidPartySize": 1,
+                    "maxRaidPartySize": 5,
+                    "pointsPerRaidWin": 7,
+                    "raidBattlePoints": [20,15,10,1,1,1],
+                    "miniKOPerLoss": 1,
+                    "timeoutSecs" : 259200,
+                    "completionRewardChestIds":[],
+                    "maxModifiersCount" : 2,
+                    "progressMap":[
+                        {
+                            "progressPCT":0,
+                            "bossUpgradeLevel":9,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestIDs":[],
+                            "bossAIConfig": "lavaGolemAI_Master"
+                        },
+                        {
+                            "progressPCT":30,
+                            "bossUpgradeLevel":12,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestIDs":[],
+                            "bossAIConfig": "lavaGolemAI_Master"
+                        },
+                        {
+                            "progressPCT":50,
+                            "bossUpgradeLevel":17,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestIDs":[],
+                            "bossAIConfig": "lavaGolemAI_Master"
+                        },
+                        {
+                            "progressPCT":80,
+                            "bossUpgradeLevel":20,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestIDs":[],
+                            "bossAIConfig": "lavaGolemAI_Master"
+                        }
+                    ]
+                },
+                {
+                    "difficultyIndex": 3,
+                    "difficultyName": "TID_RAIDBOSS_DIFFICULTY_NIGHTMARE",
+                    "maxProgressPoints": 2500,
+                    "minRaidPartySize": 3,
+                    "maxRaidPartySize": 5,
+                    "pointsPerRaidWin": 10,
+                    "raidBattlePoints": [20,15,10,1,1,1],
+                    "miniKOPerLoss": 1,
+                    "timeoutSecs" : 259200,
+                    "completionRewardChestIds":[],
+                    "maxModifiersCount" : 2,
+                    "progressMap":[
+                        {
+                            "progressPCT":0,
+                            "bossUpgradeLevel":12,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestIDs":[],
+                            "bossAIConfig": "lavaGolemAI_Nightmare"
+                        },
+                        {
+                            "progressPCT":20,
+                            "bossUpgradeLevel":15,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestIDs":[],
+                            "bossAIConfig": "lavaGolemAI_Nightmare"
+                        },
+                        {
+                            "progressPCT":50,
+                            "bossUpgradeLevel":20,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestIDs":[],
+                            "bossAIConfig": "lavaGolemAI_Nightmare"
+                        },
+                        {
+                            "progressPCT":70,
+                            "bossUpgradeLevel":25,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestIDs":[],
+                            "bossAIConfig": "lavaGolemAI_Nightmare"
+                        }
+                    ]
+                }
+            ]
+        },
+		{
+            "name": "Boss-LavaGolem_S3",
+            "boss": "Boss-LavaGolem",
+            "displayName":"TID_BOSS_LAVAGOLEM",
+            "location": "LavaLand",
+            "autochessEconomy": "Pve_Boss_Raid",
+            "playerCooldownSecs": 43200,
+            "isHidden":true,
+            "difficultyMap":[
+                {
+                    "difficultyIndex": 0,
+                    "difficultyName": "TID_RAIDBOSS_DIFFICULTY_BEGINNER",
+                    "maxProgressPoints": 200,
+                    "minRaidPartySize": 1,
+                    "maxRaidPartySize": 5,
+                    "pointsPerRaidWin": 7,
+                    "raidBattlePoints": [15,12,10,5,3,1],
+                    "miniKOPerLoss": 1,
+                    "timeoutSecs" : 86400,
+                    "rewardRequiredProgress":[20],
+                    "completionRewardChestSources":["RaidBoss_LavaGolem_Hard_Success"],
+					"clanExpGained" : 3,
+					"unlockReqClanLevel" : 0,
+                    "maxModifiersCount" : 2,
+					"modifierPool":["BossLavaGolem_LavaBurn","BossLavaGolem_LavaStrike","BossLavaGolem_LavaSoldier","BossLavaGolem_LavaBody","BossLavaGolem_LavaSmash","BossLavaGolem_LavaFrenzy","BossLavaGolem_LavaJustice"],
+                    "progressMap":[
+                        {
+                            "progressPCT":0,
+                            "bossUpgradeLevel":1,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestSources":[],
+                            "bossAIConfig": "LavaGolemAI_Beginner_0"
+                        },
+                        {
+                            "progressPCT":10,
+                            "bossUpgradeLevel":2,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Failure_10"],
+                            "bossAIConfig": "LavaGolemAI_Beginner_0"
+                        },
+                        {
+                            "progressPCT":20,
+                            "bossUpgradeLevel":3,
+                            "unlockedModifierIndexes":[0],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Failure_20"],
+                            "bossAIConfig": "LavaGolemAI_Beginner_1"
+                        },
+                        {
+                            "progressPCT":40,
+                            "bossUpgradeLevel":5,
+                            "unlockedModifierIndexes":[0],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Failure_40"],
+                            "bossAIConfig": "LavaGolemAI_Beginner_2"
+                        },
+                        {
+                            "progressPCT":60,
+                            "bossUpgradeLevel":7,
+                            "unlockedModifierIndexes":[0,1],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Failure_60"],
+                            "bossAIConfig": "LavaGolemAI_Beginner_3"
+                        },
+                        {
+                            "progressPCT":75,
+                            "bossUpgradeLevel":9,
+                            "unlockedModifierIndexes":[0,1],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Failure_75"],
+                            "bossAIConfig": "LavaGolemAI_Beginner_4"
+                        },
+                        {
+                            "progressPCT":90,
+                            "bossUpgradeLevel":10,
+                            "unlockedModifierIndexes":[0,1],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Failure_90"],
+                            "bossAIConfig": "LavaGolemAI_Beginner_5"
+                        }
+                    ]
+                },
+                {
+                    "difficultyIndex": 1,
+                    "difficultyName": "TID_RAIDBOSS_DIFFICULTY_VETERAN",
+                    "maxProgressPoints": 250,
+                    "minRaidPartySize": 1,
+                    "maxRaidPartySize": 5,
+                    "pointsPerRaidWin": 7,
+                    "raidBattlePoints": [15,12,10,5,3,1],
+                    "miniKOPerLoss": 1,
+                    "timeoutSecs" : 86400,
+                    "rewardRequiredProgress":[20],
+                    "completionRewardChestSources":["RaidBoss_LavaGolem_Medium_Success"],
+					"clanExpGained" : 5,
+					"unlockReqClanLevel" : 2,
+                    "maxModifiersCount" : 2,
+					"modifierPool":["BossLavaGolem_LavaBurn","BossLavaGolem_LavaStrike","BossLavaGolem_LavaSoldier","BossLavaGolem_LavaBody","BossLavaGolem_LavaSmash","BossLavaGolem_LavaFrenzy","BossLavaGolem_LavaJustice"],
+                    "progressMap":[
+                        {
+                            "progressPCT":0,
+                            "bossUpgradeLevel":4,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestSources":[],
+                            "bossAIConfig": "LavaGolemAI_Medium_0"
+                        },
+                        {
+                            "progressPCT":10,
+                            "bossUpgradeLevel":5,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Medium_Failure_10"],
+                            "bossAIConfig": "LavaGolemAI_Medium_0"
+                        },
+                        {
+                            "progressPCT":20,
+                            "bossUpgradeLevel":6,
+                            "unlockedModifierIndexes":[0],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Medium_Failure_20"],
+                            "bossAIConfig": "LavaGolemAI_Medium_1"
+                        },
+                        {
+                            "progressPCT":40,
+                            "bossUpgradeLevel":7,
+                            "unlockedModifierIndexes":[0],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Medium_Failure_40"],
+                            "bossAIConfig": "LavaGolemAI_Medium_2"
+                        },
+                        {
+                            "progressPCT":60,
+                            "bossUpgradeLevel":8,
+                            "unlockedModifierIndexes":[0,1],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Medium_Failure_60"],
+                            "bossAIConfig": "LavaGolemAI_Medium_3"
+                        },
+                        {
+                            "progressPCT":75,
+                            "bossUpgradeLevel":9,
+                            "unlockedModifierIndexes":[0,1],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Medium_Failure_75"],
+                            "bossAIConfig": "LavaGolemAI_Medium_4"
+                        },
+                        {
+                            "progressPCT":90,
+                            "bossUpgradeLevel":9,
+                            "unlockedModifierIndexes":[0,1],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Medium_Failure_90"],
+                            "bossAIConfig": "LavaGolemAI_Medium_5"
+                        }
+                    ]
+                },
+                {
+                    "difficultyIndex": 2,
+                    "difficultyName": "TID_RAIDBOSS_DIFFICULTY_NIGHTMARE",
+                    "maxProgressPoints": 300,
+                    "minRaidPartySize": 1,
+                    "maxRaidPartySize": 5,
+                    "pointsPerRaidWin": 7,
+                    "raidBattlePoints": [15,12,10,5,3,1],
+                    "miniKOPerLoss": 1,
+                    "timeoutSecs" : 86400,
+                    "rewardRequiredProgress":[20],
+                    "completionRewardChestSources":["RaidBoss_LavaGolem_Hard_Success"],
+                    "possibleGoldRewards" : [100, 250],
+                    "possibleFragmentRewards" : [1, 5],
+                    "possibleGemRewards": [1, 5],
+					"clanExpGained" : 7,
+					"unlockReqClanLevel" : 3,
+                    "maxModifiersCount" : 2,
+					"modifierPool":["BossLavaGolem_LavaJustice","BossLavaGolem_LavaStrike","BossLavaGolem_LavaSoldier","BossLavaGolem_LavaBody"],
+                    "progressMap":[
+                        {
+                            "progressPCT":0,
+                            "bossUpgradeLevel":8,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestSources":[],
+                            "bossAIConfig": "LavaGolemAI_Hard_0"
+                        },
+                        {
+                            "progressPCT":10,
+                            "bossUpgradeLevel":10,
+                            "unlockedModifierIndexes":[0],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Failure_10"],
+                            "bossAIConfig": "LavaGolemAI_Hard_0"
+                        },
+                        {
+                            "progressPCT":20,
+                            "bossUpgradeLevel":11,
+                            "unlockedModifierIndexes":[0],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Failure_20"],
+                            "bossAIConfig": "LavaGolemAI_Hard_1"
+                        },
+                        {
+                            "progressPCT":40,
+                            "bossUpgradeLevel":12,
+                            "unlockedModifierIndexes":[0],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Failure_40"],
+                            "bossAIConfig": "LavaGolemAI_Hard_2"
+                        },
+                        {
+                            "progressPCT":60,
+                            "bossUpgradeLevel":13,
+                            "unlockedModifierIndexes":[0,1],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Failure_60"],
+                            "bossAIConfig": "LavaGolemAI_Hard_3"
+                        },
+                        {
+                            "progressPCT":75,
+                            "bossUpgradeLevel":14,
+                            "unlockedModifierIndexes":[0,1],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Failure_75"],
+                            "bossAIConfig": "LavaGolemAI_Hard_4"
+                        },
+                        {
+                            "progressPCT":90,
+                            "bossUpgradeLevel":15,
+                            "unlockedModifierIndexes":[0,1],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Failure_90"],
+                            "bossAIConfig": "LavaGolemAI_Hard_5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Boss-LavaGolem_S4",
+            "boss": "Boss-LavaGolem",
+            "displayName":"TID_BOSS_LAVAGOLEM",
+            "location": "LavaLand",
+            "autochessEconomy": "Pve_Boss_Raid",
+            "playerCooldownSecs": 43200,
+            "isHidden":false,
+            "difficultyMap":[
+                {
+                    "difficultyIndex": 0,
+                    "difficultyName": "TID_RAIDBOSS_DIFFICULTY_BEGINNER",
+                    "maxProgressPoints": 100,
+                    "minRaidPartySize": 1,
+                    "maxRaidPartySize": 5,
+                    "pointsPerRaidWin": 7,
+                    "raidBattlePoints": [15,12,10,5,3,1],
+                    "miniKOPerLoss": 1,
+                    "timeoutSecs" : 86400,
+                    "rewardRequiredProgress":[10],
+                    "completionRewardChestSources":["RaidBoss_LavaGolem_Easy_Success"],
+					"clanExpGained" : 3,
+					"unlockReqClanLevel" : 0,
+                    "maxModifiersCount" : 1,
+					"modifierPool":["BossLavaGolem_LavaBurn","BossLavaGolem_LavaStrike","BossLavaGolem_LavaSoldier","BossLavaGolem_LavaBody","BossLavaGolem_LavaSmash","BossLavaGolem_LavaFrenzy","BossLavaGolem_LavaJustice"],
+                    "progressMap":[
+                        {
+                            "progressPCT":0,
+                            "bossUpgradeLevel":1,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestSources":[],
+                            "bossAIConfig": "LavaGolemAI_Beginner_0"
+                        },
+                        {
+                            "progressPCT":10,
+                            "bossUpgradeLevel":2,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Easy_Failure_10"],
+                            "bossAIConfig": "LavaGolemAI_Beginner_0"
+                        },
+                        {
+                            "progressPCT":20,
+                            "bossUpgradeLevel":3,
+                            "unlockedModifierIndexes":[0],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Easy_Failure_20"],
+                            "bossAIConfig": "LavaGolemAI_Beginner_1"
+                        },
+                        {
+                            "progressPCT":40,
+                            "bossUpgradeLevel":4,
+                            "unlockedModifierIndexes":[0],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Easy_Failure_40"],
+                            "bossAIConfig": "LavaGolemAI_Beginner_2"
+                        },
+                        {
+                            "progressPCT":60,
+                            "bossUpgradeLevel":4,
+                            "unlockedModifierIndexes":[0],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Easy_Failure_60"],
+                            "bossAIConfig": "LavaGolemAI_Beginner_3"
+                        },
+                        {
+                            "progressPCT":75,
+                            "bossUpgradeLevel":5,
+                            "unlockedModifierIndexes":[0],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Easy_Failure_75"],
+                            "bossAIConfig": "LavaGolemAI_Beginner_4"
+                        },
+                        {
+                            "progressPCT":90,
+                            "bossUpgradeLevel":5,
+                            "unlockedModifierIndexes":[0],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Easy_Failure_90"],
+                            "bossAIConfig": "LavaGolemAI_Beginner_5"
+                        }
+                    ]
+                },
+                {
+                    "difficultyIndex": 1,
+                    "difficultyName": "TID_RAIDBOSS_DIFFICULTY_VETERAN",
+                    "maxProgressPoints": 100,
+                    "minRaidPartySize": 1,
+                    "maxRaidPartySize": 5,
+                    "pointsPerRaidWin": 7,
+                    "raidBattlePoints": [15,12,10,5,3,1],
+                    "miniKOPerLoss": 1,
+                    "timeoutSecs" : 86400,
+                    "rewardRequiredProgress":[10],
+                    "completionRewardChestSources":["RaidBoss_LavaGolem_Medium_Success"],
+					"clanExpGained" : 5,
+					"unlockReqClanLevel" : 2,
+                    "maxModifiersCount" : 2,
+					"modifierPool":["BossLavaGolem_LavaBurn","BossLavaGolem_LavaStrike","BossLavaGolem_LavaSoldier","BossLavaGolem_LavaBody","BossLavaGolem_LavaSmash","BossLavaGolem_LavaFrenzy","BossLavaGolem_LavaJustice"],
+                    "progressMap":[
+                        {
+                            "progressPCT":0,
+                            "bossUpgradeLevel":4,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestSources":[],
+                            "bossAIConfig": "LavaGolemAI_Medium_0"
+                        },
+                        {
+                            "progressPCT":10,
+                            "bossUpgradeLevel":5,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Medium_Failure_10"],
+                            "bossAIConfig": "LavaGolemAI_Medium_0"
+                        },
+                        {
+                            "progressPCT":20,
+                            "bossUpgradeLevel":6,
+                            "unlockedModifierIndexes":[0],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Medium_Failure_20"],
+                            "bossAIConfig": "LavaGolemAI_Medium_1"
+                        },
+                        {
+                            "progressPCT":40,
+                            "bossUpgradeLevel":7,
+                            "unlockedModifierIndexes":[0],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Medium_Failure_40"],
+                            "bossAIConfig": "LavaGolemAI_Medium_2"
+                        },
+                        {
+                            "progressPCT":60,
+                            "bossUpgradeLevel":8,
+                            "unlockedModifierIndexes":[0,1],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Medium_Failure_60"],
+                            "bossAIConfig": "LavaGolemAI_Medium_3"
+                        },
+                        {
+                            "progressPCT":75,
+                            "bossUpgradeLevel":9,
+                            "unlockedModifierIndexes":[0,1],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Medium_Failure_75"],
+                            "bossAIConfig": "LavaGolemAI_Medium_4"
+                        },
+                        {
+                            "progressPCT":90,
+                            "bossUpgradeLevel":9,
+                            "unlockedModifierIndexes":[0,1],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Medium_Failure_90"],
+                            "bossAIConfig": "LavaGolemAI_Medium_5"
+                        }
+                    ]
+                },
+                {
+                    "difficultyIndex": 2,
+                    "difficultyName": "TID_RAIDBOSS_DIFFICULTY_NIGHTMARE",
+                    "maxProgressPoints": 100,
+                    "minRaidPartySize": 1,
+                    "maxRaidPartySize": 5,
+                    "pointsPerRaidWin": 7,
+                    "raidBattlePoints": [15,12,10,5,3,1],
+                    "miniKOPerLoss": 1,
+                    "timeoutSecs" : 86400,
+                    "rewardRequiredProgress":[10],
+                    "completionRewardChestSources":["RaidBoss_LavaGolem_Hard_Success"],
+                    "possibleGoldRewards" : [100, 250],
+                    "possibleFragmentRewards" : [1, 5],
+                    "possibleGemRewards": [1, 5],
+					"clanExpGained" : 7,
+					"unlockReqClanLevel" : 3,
+                    "maxModifiersCount" : 2,
+					"modifierPool":["BossLavaGolem_LavaJustice","BossLavaGolem_LavaStrike","BossLavaGolem_LavaSoldier","BossLavaGolem_LavaBody"],
+                    "progressMap":[
+                        {
+                            "progressPCT":0,
+                            "bossUpgradeLevel":8,
+                            "unlockedModifierIndexes":[],
+                            "progressRewardChestSources":[],
+                            "bossAIConfig": "LavaGolemAI_Hard_0"
+                        },
+                        {
+                            "progressPCT":10,
+                            "bossUpgradeLevel":10,
+                            "unlockedModifierIndexes":[0],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Failure_10"],
+                            "bossAIConfig": "LavaGolemAI_Hard_0"
+                        },
+                        {
+                            "progressPCT":20,
+                            "bossUpgradeLevel":11,
+                            "unlockedModifierIndexes":[0],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Failure_20"],
+                            "bossAIConfig": "LavaGolemAI_Hard_1"
+                        },
+                        {
+                            "progressPCT":40,
+                            "bossUpgradeLevel":12,
+                            "unlockedModifierIndexes":[0],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Failure_40"],
+                            "bossAIConfig": "LavaGolemAI_Hard_2"
+                        },
+                        {
+                            "progressPCT":60,
+                            "bossUpgradeLevel":13,
+                            "unlockedModifierIndexes":[0,1],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Failure_60"],
+                            "bossAIConfig": "LavaGolemAI_Hard_3"
+                        },
+                        {
+                            "progressPCT":75,
+                            "bossUpgradeLevel":14,
+                            "unlockedModifierIndexes":[0,1],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Failure_75"],
+                            "bossAIConfig": "LavaGolemAI_Hard_4"
+                        },
+                        {
+                            "progressPCT":90,
+                            "bossUpgradeLevel":15,
+                            "unlockedModifierIndexes":[0,1],
+                            "progressRewardChestSources":["RaidBoss_LavaGolem_Failure_90"],
+                            "bossAIConfig": "LavaGolemAI_Hard_5"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

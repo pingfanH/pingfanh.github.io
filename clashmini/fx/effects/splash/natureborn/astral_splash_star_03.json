@@ -1,0 +1,15 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":4,
+			"SWFClip":"sc/ui_splash/astral_star_03_loop | 49e9c85e-a475-4a8f-afcd-f6215ab31c96",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowScale":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		}
+	]
+}

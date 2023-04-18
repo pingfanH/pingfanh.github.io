@@ -1,0 +1,38 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":5,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/Stargazer_fixed_head_ani | 49e9c85e-9d5e-4a7f-beee-d45d17d65645",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"z":5},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/p_natureborn_B1_trail01 | 21fb952f-68ae-4ac8-88fa-a4bf7719276e",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"z":5},
+			"ComponentScale":1
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":5,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/p_natureborn_B1_trail05 | 21fb952f-b7ac-4617-979d-8d6923725f95",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"z":5},
+			"ComponentScale":1
+		},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/p_natureborn_B1_trail03 | 21fb952f-b6d2-42f6-b642-edfb66494241","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_B1_trail04 | 21fb952f-f646-4776-b6e9-4abbf230b5ca","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"GroundBasis":true,"ParticleEmitter":"fx/particles/p_natureborn_B1_trail01_2 | 21fb952f-aa0f-470a-8a77-e89f5fa74093","FollowPosition":true,"FollowAngle":true,"Offset":{"z":10}}
+	]
+}

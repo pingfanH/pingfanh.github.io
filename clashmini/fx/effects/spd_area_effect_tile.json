@@ -1,0 +1,19 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":3,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/bd_speedup_grid_01 | 21fb952f-170b-4137-b718-78b623387d15",
+			"FollowPosition":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_speedup_grid_02_blue | 21fb952f-bbfd-47bb-bb62-e0f3bc724795","FollowPosition":true,"Offset":{},"ComponentScale":1,"AllyOnly":true},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_speedup_grid_02_red | 21fb952f-663f-48e6-a69f-ebc76458d897","Offset":{},"ComponentScale":1,"EnemyOnly":true},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_spdup_once_01 | 21fb952f-8a71-464a-8a68-d7772733b7af","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_spdup_once_03 | 21fb952f-646e-46e4-a464-d7772731b7af","Offset":{},"ComponentScale":1}
+	]
+}

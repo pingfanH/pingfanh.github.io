@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_glow_dot_loop_01 | 21fb952f-862f-4026-a615-278e2220ed89","FollowPosition":true,"FollowBone":"fx","Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_prince_fabulous_ambient | 21fb952f-30d1-4a30-b023-5be4090316a7","FollowPosition":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":0.79999995,"Loop":true}
+	]
+}

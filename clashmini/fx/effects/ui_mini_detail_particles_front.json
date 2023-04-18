@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/ui_mini_particle01 | 21fb952f-0855-4528-a853-e0fecfc2d4fb","Offset":{},"ComponentScale":75},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/ui_mini_particle02 | 21fb952f-c159-4541-8158-e0fecfc5d4fb","Offset":{},"ComponentScale":75}
+	]
+}

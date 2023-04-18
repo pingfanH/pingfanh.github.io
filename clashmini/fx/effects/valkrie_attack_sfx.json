@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bladeweapon_hit_emt | 21fb952f-4e99-410e-8e80-693d38feede8","Offset":{},"ComponentScale":0.5}
+	]
+}

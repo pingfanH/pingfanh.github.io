@@ -1,0 +1,14 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/prop_boss_chest_rig","uuid":"ec79f249-172c-45d7-97b4-de2f07a0270c"},"m_animation":{"lastKnownPath":"animations/prop_chest_raid_boss","uuid":"defe63bc-8f68-4b2f-af50-4dfe000cc74b"},"m_instancing":true},{"objectType":5005}],
+			"children":[{"name":"chestOpenEffectPosition","pos":{"z":-5},"rot":{},"scl":{"x":1,"y":1,"z":1}}]
+		}
+	}
+}

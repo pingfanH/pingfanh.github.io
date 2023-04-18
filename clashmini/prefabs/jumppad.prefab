@@ -1,0 +1,14 @@
+{
+	"data":{
+		"objectType":5000,
+		"root":{
+			"objectType":5001,
+			"name":"root",
+			"pos":{},
+			"rot":{},
+			"scl":{"x":1,"y":1,"z":1},
+			"components":[{"objectType":5002,"m_mesh":{"lastKnownPath":"sc3d/be_jumppad_rig","uuid":"ec79f249-a943-4529-a909-b494f57565b5"},"m_animation":{"lastKnownPath":"animations/boardelem_jumppad","uuid":"defe63bc-747b-4194-9432-4f9b5ca03e93"},"m_instancing":true}],
+			"children":[{"name":"sun","pos":{},"rot":{"x":-90,"z":135},"scl":{"x":1,"y":1,"z":1}}]
+		}
+	}
+}

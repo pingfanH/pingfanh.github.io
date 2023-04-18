@@ -1,0 +1,29 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":1,
+		"lifetime":1,
+		"mass":1,
+		"spawnPointOffset":{},
+		"followEmitter":true,
+		"components":[
+			{"__class":"SpawnRate","duration":0.1,"spawnRate":60},
+			{"__class":"SpawnRate","infinite":true,"duration":0.1,"spawnRate":3},
+			{"__class":"SpawnVelocityComponent","velocity":[0,10,0]}
+		]
+	},
+	"render":{
+		"globalScale":0.012,
+		"scale":[1,-0.35416666,0.984375,0.0026041865,1,0],
+		"color":[0,0.7708334,0.2994792,0.8151042,[1,1,1],[0.3,1,0.6]],
+		"alpha":1,
+		"loopMovieClip":true,
+		"alphaFadeout":0.2,
+		"trailEnabled":true,
+		"trailDuration":0.2,
+		"trailWidth":20,
+		"trailHeadOrTails":true,
+		"trailImage":"image/acy_isolate_trail01.png#premultiply"
+	},
+	"movieclip":["sc/effects/music_note03 | 49e9c85e-1b71-4d06-8332-99d8f56c886c"]
+}

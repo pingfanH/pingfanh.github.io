@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_heroarcher_def_atk_trail_01 | 21fb952f-598a-4699-99bf-6027e89747ca","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_heroarcher_def_atk_trail_02 | 21fb952f-a085-4680-80ba-6027e89447ca","FollowPosition":true,"Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_heroarcher_def_atk_trail_03 | 21fb952f-3387-4633-b3bc-6027e89547ca","FollowPosition":true,"Offset":{},"ComponentScale":1,"AllyOnly":true}
+	]
+}

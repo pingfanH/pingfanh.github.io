@@ -1,0 +1,4 @@
+Name,StartTurn,EndTurn,MinBoardElement,MaxBoardElement,RemainingPlayer,RandomBoardElement,RandomBoardElementPerGame,SamePositionForBoth,AllPlayersRandom,SamePositionForAllRounds
+string,int,int,int,int,int,boolean,boolean,boolean,boolean,boolean
+Arena1Rule1,1,5,1,1,,FALSE,TRUE,TRUE,FALSE,TRUE
+NoElementRule,1,5,0,0,,FALSE,FALSE,FALSE,FALSE,FALSE

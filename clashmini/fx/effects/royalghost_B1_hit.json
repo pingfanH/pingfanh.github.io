@@ -1,0 +1,20 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/royalghost_B1_atkhit01 | 21fb952f-7a0f-4d9a-9a15-3a2981d81664","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1.1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/royalghost_B1_atkimpact01 | 21fb952f-257f-4d05-8592-58db0663d143","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1.4},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/royalghost_B1_atkhitglow | 21fb952f-7c12-4adc-9c3c-c3e2fc1589f7","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/royalghost_B1_hitsmoke01 | 21fb952f-b3bf-43d3-930c-e252d148c23e","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":0.25},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/royalghost_B1_hitfeature | 21fb952f-4336-4483-8322-cbd2cb0d87ef","FollowPosition":true,"FollowAngle":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1.1},
+		{"Type":"sub_effect","SubEffect":"fx/effects/hit_colorfilter | 9047f5ea-5826-4a18-98ac-c87403c73561","Offset":{},"ComponentScale":1,"ForcedLength":0.3},
+		{
+			"Type":"fresnel",
+			"AlphaFadeOutTime":0.1,
+			"FresnelColor":{"g":0.9372549,"b":0.19607843,"a":1},
+			"FresnelStrength":6,
+			"FresnelIOR":1.1999999,
+			"FresnelFadeOutTime":0.120000005,
+			"ForcedLength":0.3
+		},
+		{"Type":"sound","Sound":"bat_hit_pellow"}
+	]
+}

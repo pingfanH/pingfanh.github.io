@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "name": "Tutorial",
+      "TID": "TID_LEAGUE_TUTORIAL",
+      "RankPoints": 0,
+      "Index": 0,
+      "GroupId": -1,
+      "RankPointsResetValue": 0,
+      "RankPointsReset": false
+    },
+    {
+      "name": "Bronze3",
+      "TID": "TID_LEAGUE_BRONZE_3",
+      "RankPoints": 5,
+      "Index": 1,
+      "GroupId": 0,
+      "RankPointsResetValue": 5,
+      "RankPointsReset": false,
+      "IconExportName": "bronze",
+      "IconBorder": "trophy_road_bronze_3"
+    },
+    {
+      "name": "Bronze2",
+      "TID": "TID_LEAGUE_BRONZE_2",
+      "RankPoints": 25,
+      "Index": 2,
+      "GroupId": 0,
+      "RankPointsResetValue": 25,
+      "RankPointsReset": false,
+      "IconExportName": "bronze",
+      "IconBorder": "trophy_road_bronze_2"
+    },
+    {
+      "name": "Bronze1",
+      "TID": "TID_LEAGUE_BRONZE_1",
+      "RankPoints": 50,
+      "Index": 3,
+      "GroupId": 0,
+      "RankPointsResetValue": 50,
+      "RankPointsReset": false,
+      "IconExportName": "bronze",
+      "IconBorder": "trophy_road_bronze_1"
+    },
+    {
+      "name": "Silver3",
+      "TID": "TID_LEAGUE_SILVER_3",
+      "RankPoints": 75,
+      "Index": 4,
+      "GroupId": 1,
+      "RankPointsResetValue": 75,
+      "RankPointsReset": false,
+      "IconExportName": "silver",
+      "IconBorder": "trophy_road_silver_3"
+    },
+    {
+      "name": "Silver2",
+      "TID": "TID_LEAGUE_SILVER_2",
+      "RankPoints": 100,
+      "Index": 5,
+      "GroupId": 1,
+      "RankPointsResetValue": 100,
+      "RankPointsReset": false,
+      "IconExportName": "silver",
+      "IconBorder": "trophy_road_silver_2"
+    },
+    {
+      "name": "Silver1",
+      "TID": "TID_LEAGUE_SILVER_1",
+      "RankPoints": 150,
+      "Index": 6,
+      "GroupId": 1,
+      "RankPointsResetValue": 150,
+      "RankPointsReset": true,
+      "IconExportName": "silver",
+      "IconBorder": "trophy_road_silver_1"
+    },
+    {
+      "name": "Gold3",
+      "TID": "TID_LEAGUE_GOLD_3",
+      "RankPoints": 200,
+      "Index": 7,
+      "GroupId": 2,
+      "RankPointsResetValue": 200,
+      "RankPointsReset": false,
+      "IconExportName": "gold",
+      "IconBorder": "trophy_road_gold_3"
+    },
+    {
+      "name": "Gold2",
+      "TID": "TID_LEAGUE_GOLD_2",
+      "RankPoints": 300,
+      "Index": 8,
+      "GroupId": 2,
+      "RankPointsResetValue": 300,
+      "RankPointsReset": false,
+      "IconExportName": "gold",
+      "IconBorder": "trophy_road_gold_2"
+    },
+    {
+      "name": "Gold1",
+      "TID": "TID_LEAGUE_GOLD_1",
+      "RankPoints": 400,
+      "Index": 9,
+      "GroupId": 2,
+      "RankPointsResetValue": 400,
+      "RankPointsReset": false,
+      "IconExportName": "gold",
+      "IconBorder": "trophy_road_gold_1"
+    },
+    {
+      "name": "Diamond3",
+      "TID": "TID_LEAGUE_DIAMOND_3",
+      "RankPoints": 550,
+      "Index": 10,
+      "GroupId": 3,
+      "RankPointsResetValue": 550,
+      "RankPointsReset": false,
+      "IconExportName": "diamond",
+      "IconBorder": "trophy_road_diamond_3"
+    },
+    {
+      "name": "Diamond2",
+      "TID": "TID_LEAGUE_DIAMOND_2",
+      "RankPoints": 650,
+      "Index": 11,
+      "GroupId": 3,
+      "RankPointsResetValue": 600,
+      "RankPointsReset": false,
+      "IconExportName": "diamond",
+      "IconBorder": "trophy_road_diamond_2"
+    },
+    {
+      "name": "Diamond1",
+      "TID": "TID_LEAGUE_DIAMOND_1",
+      "RankPoints": 750,
+      "Index": 12,
+      "GroupId": 3,
+      "RankPointsResetValue": 650,
+      "RankPointsReset": false,
+      "IconExportName": "diamond",
+      "IconBorder": "trophy_road_diamond_1"
+    },
+    {
+      "name": "Master",
+      "TID": "TID_LEAGUE_MASTER",
+      "RankPoints": 900,
+      "Index": 13,
+      "GroupId": 4,
+      "RankPointsResetValue": 750,
+      "RankPointsReset": true,
+      "IconExportName": "master",
+      "IconBorder": "trophy_road_master"
+    },
+    {
+      "name": "Grandmaster",
+      "TID": "TID_LEAGUE_GRAND_MASTER",
+      "RankPoints": 1000,
+      "Index": 14,
+      "GroupId": 5,
+      "RankPointsResetValue": 900,
+      "RankPointsReset": true,
+      "IconExportName": "grandmaster",
+      "IconBorder": "trophy_road_grandmaster"
+    },
+    {
+      "name": "Legendary",
+      "TID": "TID_LEAGUE_LEGENDARY",
+      "RankPoints": 1200,
+      "Index": 15,
+      "GroupId": 6,
+      "RankPointsResetValue": 1000,
+      "RankPointsReset": true,
+      "IconExportName": "legendary",
+      "IconBorder": "trophy_road_legendary"
+    }
+  ]
+}

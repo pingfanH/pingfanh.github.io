@@ -1,0 +1,9 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"GroundBasis":true,"ParticleEmitter":"fx/particles/mecha_archerqueen_ground01 | 21fb952f-25b3-4c85-85cb-a92a5663cf4a","Offset":{},"ComponentScale":0.9},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/mecha_archerqueen_ground02 | 21fb952f-a10f-4e61-a1df-55ecf46ee095","Offset":{},"ComponentScale":1.3},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/mecha_archerqueen_ground03 | 21fb952f-ffaf-4c1f-9fc8-a92a5661cf4a","Offset":{},"ComponentScale":1.3},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/mecha_archerqueen_ground04 | 21fb952f-0e0e-4eae-aedd-55ecf46de095","Offset":{},"ComponentScale":1.3},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/mecha_archerqueen_ground05 | 21fb952f-d9ac-4cb9-b9c4-a92a565fcf4a","Offset":{},"ComponentScale":1}
+	]
+}

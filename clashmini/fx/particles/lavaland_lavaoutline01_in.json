@@ -1,0 +1,14 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":3,
+		"emitterDelay":1,
+		"lifetime":3,
+		"mass":0.1,
+		"spawnPointOffset":{},
+		"emitterLoop":true,
+		"components":[{"__class":"SpawnRate","infinite":true,"duration":0.001,"spawnRate":0.5}]
+	},
+	"render":{"globalScale":0.016666668,"scale":1,"color":[1,1,1],"alpha":0.7,"angle":180,"alphaFadeout":0.1},
+	"movieclip":["sc/effects/lava_inline01 | 49e9c85e-c610-4348-9f60-6ed9a877c88a","sc/effects/lava_inline02 | 49e9c85e-a75d-4972-bcbc-7a6275e69807","sc/effects/lava_inline03 | 49e9c85e-9c1a-4749-8ec5-b87429383540"]
+}

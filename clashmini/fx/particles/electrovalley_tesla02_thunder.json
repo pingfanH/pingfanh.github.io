@@ -1,0 +1,25 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":6,
+		"emitterDelay":5.55,
+		"lifetime":0.8,
+		"mass":1,
+		"spawnPointOffset":{},
+		"followEmitter":true,
+		"emitterLoop":true,
+		"components":[{"__class":"SpawnRate","duration":3.25,"spawnRate":6},{"__class":"Ground"}]
+	},
+	"render":{
+		"globalScale":0.006666667,
+		"scale":1.2,
+		"color":[0.41145837,0.07552084,0.6666667,0.6666667,[1,1,1],[0,1,1]],
+		"alpha":[1,-0.09635413,0,1.0651042,1,1],
+		"angleJitter":360,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/electro02_2 | 49e9c85e-f0d8-40eb-878f-33d5b8eebf30","sc/effects/electro03_3 | 49e9c85e-ab9b-4702-8091-f2e7f5d115d7","sc/effects/electro04 | 49e9c85e-e52e-4694-aeef-9f3069babdfd"]
+}

@@ -1,0 +1,14 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_spotlight_07 | 21fb952f-60e6-4320-a02e-ea0afdbe65c5","FollowPosition":true,"FollowAngle":true,"FollowBone":"cube_center","Offset":{},"ComponentScale":2},
+		{"Type":"sound","Sound":"ui_openbox_swing","KillSoundOnEnd":true},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"g":0.78431374,"b":1,"a":1},
+			"FresnelStrength":20,
+			"FresnelIOR":1.1999999,
+			"FresnelFadeInTime":2,
+			"FresnelFadeOutTime":0.5
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_vampire_def_ability_buff_noheal_bat | 21fb952f-ffe9-4cbf-bf0c-82aaa4a77274","FollowPosition":true,"FollowBone":"Head1","Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_vampire_def_ability_buff_noheal_smoke | 21fb952f-0596-40e5-a5d2-b2f1050ff541","FollowPosition":true,"FollowBone":"Head1","Offset":{},"ComponentScale":1,"Loop":true}
+	]
+}

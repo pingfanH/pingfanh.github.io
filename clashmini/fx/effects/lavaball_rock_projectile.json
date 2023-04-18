@@ -1,0 +1,27 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_fire05 | 21fb952f-271b-4967-a70d-f55133c741b4",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"root",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"ParticleEmitter":"fx/particles/bd_smoke_trail02 | 21fb952f-cc90-482c-ac88-91d62bc45ca4",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"root",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{"Type":"swf","Layer":3,"SWFClip":"sc/effects/bd_fire_dot_03 | 49e9c85e-8442-4bd4-ad03-737ae7e4a7cd","FollowPosition":true,"Offset":{},"ComponentScale":2.5,"Loop":true}
+	]
+}

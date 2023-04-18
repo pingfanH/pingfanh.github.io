@@ -1,0 +1,27 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":100,
+		"lifetime":0.8,
+		"lifetimeJitter":0.5,
+		"mass":1,
+		"spawnPointOffset":{},
+		"followEmitter":true,
+		"components":[{"__class":"SpawnRate","infinite":true,"duration":1,"spawnRate":20},{"__class":"Ground"}]
+	},
+	"render":{
+		"globalScale":0.0033333334,
+		"scale":[0.23177084,0.5833334,0.484375,0.98697925,0,2],
+		"scaleJitter":0.2,
+		"color":[1,0.5,0],
+		"alpha":[0.8333334,0.044270873,0.8697917,0.7057292,0,1],
+		"angleJitter":10,
+		"rotationSpeedJitter":50,
+		"alphaFadeout":0.2,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/bd_radial_blur_02 | 49e9c85e-55e3-43b8-9fac-d3485c4bcd59"]
+}

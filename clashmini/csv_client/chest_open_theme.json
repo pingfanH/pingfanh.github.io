@@ -1,0 +1,49 @@
+{
+	"data": [
+		{
+			"name": "std",
+			"chestPrefab": "prefabs/chest_opening_bigchest",
+	  "chestOpenEffectNode": "chestOpenEffectPosition",
+      "chestOpenEffect": "fx/effects/ui_minibox_rare_open"
+		},
+		{
+			"name": "prestige_lv1",
+			"chestPrefab": "prefabs/chest_opening_starchest_lv1",
+	  "chestOpenEffectNode": "chestOpenEffectPosition",
+      "chestOpenEffect": "fx/effects/ui_minibox_rare_open"
+		},
+		{
+			"name": "prestige_lv2",
+			"chestPrefab": "prefabs/chest_opening_starchest_lv2",
+	  "chestOpenEffectNode": "chestOpenEffectPosition",
+      "chestOpenEffect": "fx/effects/ui_minibox_rare_open"
+		},
+		{
+			"name": "prestige_lv3",
+			"chestPrefab": "prefabs/chest_opening_starchest_lv3",
+	  "chestOpenEffectNode": "chestOpenEffectPosition",
+      "chestOpenEffect": "fx/effects/ui_minibox_rare_open"
+		},
+		{
+			"name": "raid_boss",
+			"chestPrefab": "prefabs/chest_opening_raidchest",
+      "chestMode": "AlwaysShow",			
+	  "chestOpenEffectNode": "chestOpenEffectPosition",
+      "chestOpenEffect": "fx/effects/ui_minibox_rare_open"
+		},
+		{
+			"name": "gacha_toybox",
+			"chestPrefab": "prefabs/chest_opening_gacha_toybox",
+      "chestMode": "AlwaysShow",
+	  "chestOpenEffectNode": "chestOpenEffectPosition",
+      "chestOpenEffect": "fx/effects/ui_minibox_rare_open"
+		},
+		{
+			"name": "gacha_funbox",
+			"chestPrefab": "prefabs/chest_opening_gacha_funbox",
+      "chestMode": "AlwaysShow",
+	  "chestOpenEffectNode": "chestOpenEffectPosition",
+      "chestOpenEffect": "fx/effects/ui_minibox_rare_open"
+		}
+	]
+}

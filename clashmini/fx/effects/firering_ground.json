@@ -1,0 +1,14 @@
+{
+	"Components":[
+		{"Type":"sub_effect","SubEffect":"fx/effects/fireground | 9047f5ea-cad1-444a-8aa7-b4d6f7d76c4c","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"bat_hit_fire"},
+		{"Type":"sub_effect","SubEffect":"fx/effects/fireground_delay | 9047f5ea-0e5d-496e-aec9-e294b4cd3706","FollowPosition":true,"Offset":{"x":0.8333333},"ComponentScale":1},
+		{"Type":"sub_effect","SubEffect":"fx/effects/fireground_delay | 9047f5ea-0e5d-496e-aec9-e294b4cd3706","FollowPosition":true,"Offset":{"y":0.8333333},"ComponentScale":1},
+		{"Type":"sub_effect","SubEffect":"fx/effects/fireground_delay | 9047f5ea-0e5d-496e-aec9-e294b4cd3706","FollowPosition":true,"Offset":{"x":-0.8333333},"ComponentScale":1},
+		{"Type":"sub_effect","SubEffect":"fx/effects/fireground_delay | 9047f5ea-0e5d-496e-aec9-e294b4cd3706","FollowPosition":true,"Offset":{"y":-0.8333333},"ComponentScale":1},
+		{"Type":"sub_effect","SubEffect":"fx/effects/fireground_delay2 | 9047f5ea-74c5-4d54-9427-5cfdd8e59b73","FollowPosition":true,"Offset":{"x":0.8333333},"ComponentScale":1},
+		{"Type":"sub_effect","SubEffect":"fx/effects/fireground_delay2 | 9047f5ea-74c5-4d54-9427-5cfdd8e59b73","FollowPosition":true,"Offset":{"y":0.8333333},"ComponentScale":1},
+		{"Type":"sub_effect","SubEffect":"fx/effects/fireground_delay2 | 9047f5ea-74c5-4d54-9427-5cfdd8e59b73","FollowPosition":true,"Offset":{"x":-0.8333333},"ComponentScale":1},
+		{"Type":"sub_effect","SubEffect":"fx/effects/fireground_delay2 | 9047f5ea-74c5-4d54-9427-5cfdd8e59b73","FollowPosition":true,"Offset":{"y":-0.8333333},"ComponentScale":1}
+	]
+}

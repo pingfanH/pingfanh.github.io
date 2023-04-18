@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"swf","BlendMode":1,"Layer":3,"GroundBasis":true,"SWFClip":"sc/effects/tile_indicator_movement_01 | 49e9c85e-84c0-45ea-a1f4-5a665f7389a0","Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"swf","BlendMode":1,"Layer":3,"GroundBasis":true,"SWFClip":"sc/effects/tile_indicator_01 | 49e9c85e-b641-498f-baf5-921f194331c0","Offset":{},"ComponentScale":1,"Loop":true}
+	]
+}

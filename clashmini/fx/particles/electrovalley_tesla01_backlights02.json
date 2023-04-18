@@ -1,0 +1,23 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":5,
+		"lifetime":1.99,
+		"mass":1,
+		"spawnPointOffset":{},
+		"followEmitter":true,
+		"components":[{"__class":"SpawnRate","infinite":true,"duration":2,"spawnRate":0.5}]
+	},
+	"render":{
+		"globalScale":0.0033333334,
+		"scale":1,
+		"color":[1,0.75,0.3],
+		"alpha":1,
+		"loopMovieClip":true,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1,
+		"blendMode":2
+	},
+	"movieclip":["sc/effects/tesla01_glow02 | 49e9c85e-99b8-4d65-a3df-831c4e92a2a7"]
+}

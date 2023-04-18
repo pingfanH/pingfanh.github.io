@@ -1,0 +1,8 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_icewizard_def_atk_hit_iceball_01 | 21fb952f-a4bc-4844-841e-ef8803d8d946","FollowPosition":true,"Offset":{},"ComponentScale":0.7},
+		{"Type":"sound","Sound":"sfx_icewizard_atk_hit"},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_icewizard_def_atk_hit_breaks | 21fb952f-5467-4054-9448-9632c8af4d7a","FollowPosition":true,"Offset":{},"ComponentScale":0.3},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/em_icewizard_def_atk_hit_smoke_01 | 21fb952f-b517-40f5-b5e4-ed19fb6b3569","FollowPosition":true,"Offset":{"z":0.6666667},"ComponentScale":0.2}
+	]
+}

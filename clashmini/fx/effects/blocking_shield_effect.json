@@ -1,0 +1,24 @@
+{
+	"Components":[
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":0.78431374,"g":0.78431374,"b":1,"a":1},
+			"FresnelStrength":20,
+			"FresnelIOR":0.9,
+			"FresnelFadeInTime":0.05,
+			"FresnelFadeOutTime":0.2,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/blocking_state_01 | 21fb952f-7534-4355-952d-a7db844879e6","FollowPosition":true,"FollowScale":true,"FollowBone":"Spine1","Offset":{},"ComponentScale":1},
+		{
+			"Type":"swf",
+			"Layer":5,
+			"SWFClip":"sc/effects/fx_blink_common_05_blue | 49e9c85e-c855-4f27-b5ab-a4d9cdf0ade3",
+			"FollowPosition":true,
+			"FollowScale":true,
+			"FollowBone":"Spine1",
+			"Offset":{"z":0.33333334},
+			"ComponentScale":1
+		}
+	]
+}

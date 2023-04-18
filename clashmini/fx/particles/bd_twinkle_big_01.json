@@ -1,0 +1,27 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":8,
+		"lifetime":0.6,
+		"lifetimeJitter":0.5,
+		"mass":1,
+		"spawnPointOffset":{"y":0.083333336},
+		"components":[
+			{"__class":"SpawnRate","duration":0.1,"spawnRate":300},
+			{"__class":"Deceleration","deceleration":[[8.333334,0.8333334,8.333334],[16.666668,16.666668,16.666668]]},
+			{"__class":"SpawnCone","direction":[0,0,1],"directionJitterAngle":270,"velocity":7.5}
+		]
+	},
+	"render":{
+		"globalScale":0.016666668,
+		"scale":[0.109375,0.6302084,0.6744792,0.56510425,1,0],
+		"scaleJitter":[0.5,0],
+		"color":[1,1,1],
+		"alpha":1,
+		"rotationSpeed":10,
+		"rotationSpeedJitter":[0.6875,0.044270873,0.9921875,0.3697917,360,0],
+		"loopMovieClip":true,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/star4_glare_blue | 49e9c85e-1909-4a8e-9b89-ee638f47317d","sc/effects/star4_glare_yellow | 49e9c85e-5285-4c22-9cb6-f13e5db00434"]
+}

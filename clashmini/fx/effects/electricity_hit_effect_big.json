@@ -1,0 +1,17 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_electricity_s2 | 21fb952f-a781-49a7-a753-275b5e00a37f","FollowBone":"Hip","Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"bat_skill_zap"},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_electricity_spark02 | 21fb952f-a913-4589-896a-b3e3ce0cb530","FollowBone":"Hip","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_electricity_light | 21fb952f-caac-4e6a-aabf-2919a949581f","FollowBone":"Hip","Offset":{},"ComponentScale":1},
+		{"Type":"swf","BlendMode":1,"Layer":5,"SWFClip":"sc/effects/bd_electricity_hand | 49e9c85e-90f4-4cbf-ae06-a26100374856","FollowBone":"Hip","Offset":{},"ComponentScale":1},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"g":0.39215687,"b":1,"a":1},
+			"FresnelStrength":30,
+			"FresnelIOR":1.1999999,
+			"FresnelFadeOutTime":1,
+			"ForcedLength":1
+		}
+	]
+}

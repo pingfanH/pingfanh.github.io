@@ -1,0 +1,18 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_generic_atkHit_slash_01 | 21fb952f-0736-47e7-a7b8-fb5c69afb32d","FollowPosition":true,"FollowBone":"Hip","Offset":{"z":0.16666667},"ComponentScale":1.05},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_sparks_slash_01 | 21fb952f-4a72-4eaa-aa80-feb5c83a4173","FollowPosition":true,"FollowBone":"Hip","Offset":{"z":0.16666667},"ComponentScale":0.3},
+		{"Type":"sub_effect","SubEffect":"fx/effects/hit_colorfilter | 9047f5ea-5826-4a18-98ac-c87403c73561","Offset":{},"ComponentScale":1,"ForcedLength":0.15},
+		{
+			"Type":"fresnel",
+			"AlphaFadeOutTime":0.1,
+			"AlphaFadeDir":true,
+			"FresnelColor":{"g":0.9019608,"b":0.19607843,"a":1},
+			"FresnelStrength":6,
+			"FresnelIOR":1.1999999,
+			"FresnelFadeOutTime":0.1,
+			"ForcedLength":0.3
+		},
+		{"Type":"sound","Sound":"sfx_mini_miner_atk_hit"}
+	]
+}

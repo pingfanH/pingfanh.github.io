@@ -1,0 +1,19 @@
+{
+	"Components":[
+		{
+			"Type":"model",
+			"ModelMesh":"sc3d/fx_skeletonking_skin_underlord_revive | ec79f249-dac9-493a-ba9f-c53db4d01eee",
+			"ModelFresnelColor":{"g":0.78431374,"b":1,"a":1},
+			"ModelFresnelStrength":20,
+			"ModelFresnelIOR":1.1999999,
+			"ModelFresnelFadeInTime":3.0000002,
+			"FollowPosition":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"ForcedLength":2.5
+		},
+		{"Type":"submesh_visibility","HideSubmeshName":"geo_main","ForcedLength":2.5},
+		{"Type":"model","ModelFresnelColor":{"a":1},"Offset":{},"ComponentScale":1},
+		{"Type":"submesh_visibility","HideSubmeshName":"geo_body"}
+	]
+}

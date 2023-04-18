@@ -1,0 +1,20 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_wizard_wabbit_atk_trail_fireball_smoke_01 | 21fb952f-3cc5-4afc-bc2e-a031e165194d","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":0.49,"StartTime":0.1},
+		{
+			"Type":"swf",
+			"Layer":5,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/wizard_wabbit_atk_trail_fireball_01 | 49e9c85e-c067-4c24-b2ec-2339e817bf98",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":0.35,
+			"StartTime":0.07,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_wizard_wabbit_atk_trail_fireball_sparks_01 | 21fb952f-9bee-429b-9b15-0f215fbff989","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":0.49,"StartTime":0.1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_wizard_wabbit_atk_trail_star | 21fb952f-6526-4e25-a5f6-ff96e8b8d05c","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":0.49,"StartTime":0.1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/em_wizard_wabbit_atk_trail_particle | 21fb952f-06c2-4386-86c5-adcbedfac360","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":0.49,"StartTime":0.1}
+	]
+}

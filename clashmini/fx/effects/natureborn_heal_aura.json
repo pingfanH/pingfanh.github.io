@@ -1,0 +1,17 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":3,"ParticleEmitter":"fx/particles/p_natureborn_heal_aura | 21fb952f-4245-41c2-8201-dbad9cd308c9","FollowPosition":true,"FollowAngle":true,"FollowBone":"Weapon3","Offset":{},"ComponentScale":1},
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/p_natureborn_heal_spiral_01 | 21fb952f-4c47-410c-8cbc-3d9121f7747f",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Weapon3",
+			"Offset":{},
+			"ComponentScale":1
+		},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_heal_dots | 21fb952f-dd9f-4f5d-9d8f-fc48c6dbefc5","FollowPosition":true,"FollowAngle":true,"FollowBone":"Weapon3","Offset":{},"ComponentScale":1}
+	]
+}

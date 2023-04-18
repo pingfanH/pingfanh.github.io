@@ -1,0 +1,15 @@
+{
+	"States":[
+		{
+			"Type":"AnimClip",
+			"Name":"ChestOpen",
+			"Animation":{"lastKnownPath":"sc3d/prop_gachabox_open","uuid":"ec79f249-993a-4f19-997c-c5a71d0e7255"},
+			"Events":[
+				{"Event":"Marker","Frame":80,"Name":"event_open"},
+				{"Event":"Marker","Frame":89,"Name":"chest_open_finished"},
+				{"Event":"Effect","Frame":70,"Effect":{"lastKnownPath":"fx/effects/chest_open_flash_01","uuid":"9047f5ea-0c03-40cc-8cc1-2b6d43f01389"}}
+			]
+		}
+	],
+	"DefaultState":"ChestOpen"
+}

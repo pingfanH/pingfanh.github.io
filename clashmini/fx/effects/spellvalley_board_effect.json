@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_spirit_purple_01 | 21fb952f-26fa-4186-865a-124058d2a8b5","FollowPosition":true,"FollowBone":"fx_lava01","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_spirit_purple_01 | 21fb952f-26fa-4186-865a-124058d2a8b5","FollowPosition":true,"FollowBone":"fx_lava02","Offset":{},"ComponentScale":1}
+	]
+}

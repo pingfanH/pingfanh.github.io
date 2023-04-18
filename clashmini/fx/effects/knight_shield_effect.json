@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"swf","Layer":5,"SWFClip":"sc/effects/bd_kite_shield01 | 49e9c85e-afce-4382-9528-3df25e11a9cc","FollowPosition":true,"Offset":{},"ComponentScale":1},{"Type":"sound","Sound":"bat_buff_defense"}]
+}

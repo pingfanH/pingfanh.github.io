@@ -1,0 +1,34 @@
+{
+	"Components":[
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":1,"g":0.78431374,"b":1,"a":1},
+			"FresnelStrength":3,
+			"FresnelIOR":1.8,
+			"FresnelFadeOutTime":0.1,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/mecha_archerqueen_invi01 | 21fb952f-640d-4444-8497-f6df08aad715","FollowPosition":true,"FollowAngle":true,"Offset":{"z":0.5},"ComponentScale":1},
+		{
+			"Type":"particle_emitter",
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/mecha_archerqueen_invi02 | 21fb952f-1d12-445d-9d9c-f6df08add715",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"x":0.1,"z":0.5},
+			"ComponentScale":1
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/mecha_archerqueen_invi03 | 21fb952f-8a10-44aa-aa9a-f6df08acd715",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"x":0.1,"z":0.5},
+			"ComponentScale":1.2
+		},
+		{"Type":"color_filter","Additive":{"a":1},"Multiplicative":{"r":0.39215687,"g":0.78431374,"a":1},"Loop":true},
+		{"Type":"alpha","Alpha":0.5,"FadeInTime":0.1,"FadeOutTime":0.1,"Loop":true},
+		{"Type":"sound","Sound":"sfx_mini_skin_queentron_invin"}
+	]
+}

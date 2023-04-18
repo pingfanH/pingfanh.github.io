@@ -1,0 +1,66 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":3,
+			"SWFClip":"sc/effects/bd_point_blur_01_golden | 49e9c85e-d45b-41df-9570-f052a763b445",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":3,
+			"StartTime":0.1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":3,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/healingranger_b1_special_proj01 | 21fb952f-f5ce-41f5-b53c-42ba430e3c2d",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{
+			"Type":"swf",
+			"Layer":5,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/acolyte_Special_head01_large | 49e9c85e-66a8-4cf1-a3fa-2e53ea2aaf92",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1.2,
+			"Loop":true
+		},
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":5,
+			"SWFClip":"sc/effects/acolyte_Special_head01_add | 49e9c85e-9bc7-4b67-bd1b-727a48979c48",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1.2,
+			"Loop":true
+		},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/healingranger_b1_special_big_proj04 | 21fb952f-6150-4681-81c5-4f1708087f16","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1.5},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/healingranger_b1_special_big_proj05 | 21fb952f-ce4e-46ce-8ec3-4f1708077f16","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":4,"ParticleEmitter":"fx/particles/healingranger_b1_special_proj04 | 21fb952f-16c7-4176-b634-42ba43093c2d","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1.4},
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/healingranger_b1_special_big_proj01 | 21fb952f-1a55-469a-9aca-4f17080b7f16","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":0.01},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/healingranger_b1_special_big_proj03 | 21fb952f-f451-4634-b4c7-4f1708097f16","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1},
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":5,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/acolyte_Special_head01_large02 | 49e9c85e-3e9d-4482-9a66-2f14eacfe498",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{},
+			"ComponentScale":1.2,
+			"Loop":true
+		}
+	]
+}

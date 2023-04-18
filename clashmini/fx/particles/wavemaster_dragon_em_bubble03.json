@@ -1,0 +1,29 @@
+{
+	"emitterDataVersion":6,
+	"emitter":{
+		"maxParticleCount":50,
+		"lifetime":0.5,
+		"mass":1,
+		"spawnPointOffset":{"z":0.16666667},
+		"gravity":[0,0,-11.666667],
+		"components":[
+			{"__class":"SpawnRate","infinite":true,"duration":0.1,"spawnRate":35},
+			{"__class":"SpawnVelocityComponent","velocity":[0,0,6.666667],"velocityJitter":[5,5,0.16666667]},
+			{"__class":"SpawnCone","direction":[10,10,1],"directionJitterAngle":240,"velocity":1.6666667,"velocityJitter":0.16666667},
+			{"__class":"Deceleration","deceleration":[1.6666667,1.6666667,1.6666667]},
+			{"__class":"SpawnLocation","spawnShape":2,"spawnMinSize":0.16666667,"spawnMaxSize":0.33333334}
+		]
+	},
+	"render":{
+		"globalScale":0.002,
+		"scale":[0.9895834,0.013020843,0.9791667,0.8619792,1,0.1],
+		"scaleJitter":0.2,
+		"color":[[1,1,1],[0.5,1,1]],
+		"alpha":1,
+		"angleJitter":360,
+		"trailEnabled":true,
+		"trailDuration":1,
+		"trailWidth":1
+	},
+	"movieclip":["sc/effects/wavemaster_dragon_bubble03 | 49e9c85e-17d2-485c-a83d-7b864af37ea7","sc/effects/wavemaster_dragon_bubble01 | 49e9c85e-4573-4b57-8f3b-16c238208bbf","sc/effects/wavemaster_dragon_bubble02 | 49e9c85e-7be4-4949-8378-07f1aef94af9"]
+}

@@ -1,0 +1,14 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_fire_hit03 | 21fb952f-57ca-4a17-97bc-dbebcc75c828","FollowPosition":true,"Offset":{"z":-0.033333335},"ComponentScale":1},
+		{"Type":"sound","Sound":"bat_skill_firegun"},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_hit_01 | 21fb952f-d574-4f15-95f6-a79cea087359","FollowPosition":true,"Offset":{"z":-0.033333335},"ComponentScale":1.5},
+		{
+			"Type":"color_filter",
+			"Additive":{"r":1,"g":0.39215687,"a":1},
+			"Multiplicative":{"r":1,"g":1,"b":1,"a":1},
+			"FadeOutTime":0.1,
+			"ForcedLength":0.1
+		}
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","BlendMode":2,"Layer":5,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_fireshadow_01 | 21fb952f-3e1a-4fbe-bed0-a023b4f1cf06","FollowPosition":true,"Offset":{},"ComponentScale":1.5999999},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_magicarrow_hit01_big | 21fb952f-4c0a-4cac-ac73-51ba9c867334","FollowPosition":true,"Offset":{},"ComponentScale":1},
+		{"Type":"sound","Sound":"sfx_mini_magicarcher_atk_hit"}
+	]
+}

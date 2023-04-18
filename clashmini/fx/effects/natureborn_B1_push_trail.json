@@ -1,0 +1,38 @@
+{
+	"Components":[
+		{
+			"Type":"swf",
+			"Layer":5,
+			"GroundBasis":true,
+			"SWFClip":"sc/effects/Pushback_head_ani | 49e9c85e-a7ea-4a17-86cf-65c85f4311ae",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"z":5},
+			"ComponentScale":1.15,
+			"StartTime":0.1,
+			"Loop":true
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":4,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/p_natureborn_B1_pushtrail01 | 21fb952f-70e2-4b30-b024-4cf66276f5bf",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"z":5},
+			"ComponentScale":1.15
+		},
+		{
+			"Type":"particle_emitter",
+			"Layer":5,
+			"GroundBasis":true,
+			"ParticleEmitter":"fx/particles/p_natureborn_B1_pushtrail02 | 21fb952f-29e7-4b49-8929-4cf66279f5bf",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"Offset":{"z":5},
+			"ComponentScale":1.15
+		},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/p_natureborn_B1_pushtrail03 | 21fb952f-96e5-4b96-9627-4cf66278f5bf","FollowPosition":true,"FollowAngle":true,"Offset":{},"ComponentScale":1.15},
+		{"Type":"sound","Sound":"sfx_hero_skin_astral_skill_healing_cast"}
+	]
+}

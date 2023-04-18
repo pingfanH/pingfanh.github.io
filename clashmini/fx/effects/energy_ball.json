@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_energy_ball_02 | 21fb952f-13ea-4973-b331-9a2ac8ff4359","FollowPosition":true,"FollowBone":"fx","Offset":{},"ComponentScale":1}]
+}

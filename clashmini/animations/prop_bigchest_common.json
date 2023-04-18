@@ -1,0 +1,15 @@
+{
+	"States":[
+		{
+			"Type":"AnimClip",
+			"Name":"ChestOpen",
+			"Animation":{"lastKnownPath":"sc3d/prop_bigchest_common_open","uuid":"ec79f249-0f6f-470f-8fd1-fb6b44f8f58e"},
+			"Events":[
+				{"Event":"Marker","Frame":37,"Name":"event_open"},
+				{"Event":"Effect","Frame":1,"Effect":{"lastKnownPath":"fx/effects/ui_chest_swing","uuid":"9047f5ea-ecd5-4ccc-8cde-1e5d8afc56b8"}},
+				{"Event":"Effect","Frame":22,"Effect":{"lastKnownPath":"fx/effects/chest_open_flash_01","uuid":"9047f5ea-0c03-40cc-8cc1-2b6d43f01389"}}
+			]
+		}
+	],
+	"DefaultState":"ChestOpen"
+}

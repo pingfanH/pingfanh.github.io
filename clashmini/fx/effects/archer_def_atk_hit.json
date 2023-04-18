@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{
+			"Type":"particle_emitter",
+			"BlendMode":1,
+			"Layer":5,
+			"ParticleEmitter":"fx/particles/archer_def_atk_hit | 21fb952f-2593-43c5-8547-9845b4a7af2f",
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Spine1",
+			"Offset":{},
+			"ComponentScale":0.79999995
+		},
+		{"Type":"sound","Sound":"bat_hit_arrow"}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","BlendMode":1,"Layer":4,"ParticleEmitter":"fx/particles/bd_undying_active | 21fb952f-cfc2-408f-8f6b-c27d60883a80","FollowBone":"bones","Offset":{},"ComponentScale":1,"Loop":true},
+		{"Type":"sound","Sound":"ui_bat_prop_underhealing_loop","KillSoundOnEnd":true,"Loop":true}
+	]
+}

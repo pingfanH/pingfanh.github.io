@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_undying_idle | 21fb952f-335b-4333-b3c3-6f744ae3f51e","Offset":{"z":0.06666667},"ComponentScale":1,"Loop":true},
+		{"Type":"sound","Sound":"ui_bat_prop_underhealing","Loop":true}
+	]
+}

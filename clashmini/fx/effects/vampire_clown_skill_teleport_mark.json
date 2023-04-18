@@ -1,0 +1,17 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_vampireclowntess_spotlight_01 | 21fb952f-f560-48b5-b582-8c4a70ae67dd","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_vampireclowntess_spotlight_02 | 21fb952f-3c5c-489c-9c7d-8c4a70ab67dd","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_vampirefear_mark | 21fb952f-7488-4bf4-b493-5e12512b9e6f","FollowPosition":true,"Offset":{"z":0.33333334},"ComponentScale":1},
+		{
+			"Type":"swf",
+			"BlendMode":1,
+			"Layer":5,
+			"SWFClip":"sc/effects/fx_spotlight_06_anim | 49e9c85e-0111-4400-a7ba-1d772dcb94ca",
+			"Offset":{"z":-1.6666666},
+			"AbsoluteOffset":true,
+			"ComponentScale":8,
+			"StartTime":0.6
+		}
+	]
+}

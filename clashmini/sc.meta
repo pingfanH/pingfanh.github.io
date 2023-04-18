@@ -1,0 +1,30 @@
+{
+	"data": {
+		"childKeys": [
+			"brawl_effects",
+			"brawl_effects_brawler",
+			"cloud",
+			"debug",
+			"effects",
+			"emotes_barbking",
+			"emotes_king_01",
+			"loading",
+			"season_road_01",
+			"season_road_02",
+			"supercell_id",
+			"tutorial",
+			"ui",
+			"ui_ability_icons",
+			"ui_battle_end",
+			"ui_cards",
+			"ui_chest",
+			"ui_chest_3d",
+			"ui_clan",
+			"ui_hero_banners",
+			"ui_icons",
+			"ui_season_reset",
+			"ui_spectate_hud",
+			"ui_tags"
+		]
+	}
+}

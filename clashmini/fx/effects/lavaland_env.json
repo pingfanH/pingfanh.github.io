@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"sub_effect","SubEffect":"fx/effects/lavaland_bubble01 | 9047f5ea-5e4d-425e-9e1c-f25e1a539cd0","FollowPosition":true,"FollowAngle":true,"FollowBone":"fx","Offset":{},"ComponentScale":1},
+		{"Type":"sub_effect","SubEffect":"fx/effects/lavaland_fireball | 9047f5ea-4a27-480a-8a0f-7e991e3f0202","FollowPosition":true,"FollowAngle":true,"FollowBone":"fx","Offset":{},"ComponentScale":1}
+	]
+}

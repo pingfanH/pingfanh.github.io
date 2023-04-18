@@ -1,0 +1,26 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_prj_hit_base | 21fb952f-97a2-4d77-b777-c73b479148f7","Offset":{},"ComponentScale":1.1},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/healingranger_b1_normal_impact | 21fb952f-8184-4ae1-a1b2-fbc95042901b","Offset":{},"ComponentScale":1,"MoveTime":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_prj_hit_spread | 21fb952f-e171-45e1-a1c2-c2d9e32e5fa6","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_prj_hit_notes | 21fb952f-0a9a-432a-aa60-7c7d63e7fa6a","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_prj_hit_leaves | 21fb952f-0958-4d29-a963-e1c64ac60659","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/p_natureborn_prj_hit_stars | 21fb952f-66ce-4e86-86a4-cd099f0fc818","Offset":{},"ComponentScale":1},
+		{
+			"Type":"color_filter",
+			"Additive":{"g":0.84705883,"b":0.59607846,"a":0.2},
+			"Multiplicative":{"g":1,"b":0.73333335,"a":0.24313726},
+			"FadeOutTime":0.05,
+			"ForcedLength":0.1
+		},
+		{
+			"Type":"fresnel",
+			"FresnelColor":{"r":0.105882354,"g":1,"b":0.8117647,"a":1},
+			"FresnelStrength":20,
+			"FresnelIOR":1.3,
+			"FresnelFadeOutTime":0.3,
+			"ForcedLength":0.3
+		},
+		{"Type":"sound","Sound":"sfx_hero_nature_atk_hit"}
+	]
+}

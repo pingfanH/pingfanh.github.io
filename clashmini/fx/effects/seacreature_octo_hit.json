@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/seacreature_octopus_hit | 21fb952f-2506-4a45-85a5-c963e5867570","FollowAngle":true,"FollowBone":"fx","Offset":{},"ComponentScale":1.3}]
+}

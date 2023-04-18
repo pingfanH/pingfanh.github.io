@@ -1,0 +1,6 @@
+Name,FileName,ExportName,IsHero,MinimumHitpointValue,XOffset,YOffset,ClipFrame
+String,String,String,boolean,int,int,int,int
+Shorter,sc/ui.sc,unit_health_bar,FALSE,0,10,,1
+Longer,sc/ui.sc,unit_health_bar,FALSE,10,5,,0
+Shorter_Hero,sc/ui.sc,hero_health_bar,TRUE,0,5,,1
+Longer_Hero,sc/ui.sc,hero_health_bar,TRUE,10,5,,0

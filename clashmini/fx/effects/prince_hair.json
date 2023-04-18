@@ -1,0 +1,16 @@
+{
+	"Components":[
+		{
+			"Type":"model",
+			"ModelMesh":"sc3d/fx_prince_hair | ec79f249-fcb7-499c-9c0a-e783522beff5",
+			"ModelFresnelColor":{"a":1},
+			"FollowPosition":true,
+			"FollowAngle":true,
+			"FollowBone":"Head2",
+			"Offset":{},
+			"ComponentScale":1,
+			"Loop":true
+		},
+		{"Type":"submesh_visibility","HideSubmeshName":"helmet","Loop":true}
+	]
+}

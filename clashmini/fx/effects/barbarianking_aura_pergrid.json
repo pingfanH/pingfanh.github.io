@@ -1,0 +1,6 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":3,"GroundBasis":true,"ParticleEmitter":"fx/particles/bd_dmgdup_grid_01 | 21fb952f-6cdf-4fac-ac2a-1c7f33148e1c","Offset":{},"ComponentScale":1},
+		{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_dmgup_once_03 | 21fb952f-8deb-4b8d-8d08-6f4e7902ac5d","Offset":{},"ComponentScale":1,"StartTime":0.05}
+	]
+}

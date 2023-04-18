@@ -1,0 +1,3 @@
+{
+	"Components":[{"Type":"particle_emitter","ParticleEmitter":"fx/particles/em_tail_reward_circle | 21fb952f-f684-4e16-9695-78c76f69bcf2","Offset":{},"ComponentScale":1},{"Type":"particle_emitter","Layer":4,"ParticleEmitter":"fx/particles/bd_twinkle_loop_reward_tail | 21fb952f-ddd6-455d-9d7f-45cf452a342e","Offset":{},"ComponentScale":60}]
+}

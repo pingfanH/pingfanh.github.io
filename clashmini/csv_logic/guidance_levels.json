@@ -1,0 +1,19 @@
+{
+	"data":[
+		{
+			"name":"BuildingTutorial",
+			"opponentName":"JEFF",
+			"gameMode":"BuildingTutorial",
+			"location":"WindyPlains",
+			"boardWavePrefix":"BuildingTutorial",
+			"previewWavePrefix":"BuildingTutorial_Preview",
+			"hero":"Hero-SkeletonKing",
+			"heroLevel":15,
+			"oppHero":"Hero-BarbarianKing",
+			"guidance":["BuildingTutorial_Start"],
+			"fixedPickList":["BuildingTutorial_Unit_R1","BuildingTutorial_Unit_R2","BuildingTutorial_Unit_R3"],
+			"fixedBuildingPickList":["BuildingTutorial_Building"],
+			"fixedRerollList":["BuildingTutorial_Unit_Reroll_1","BuildingTutorial_Unit_Reroll_2","BuildingTutorial_Unit_Reroll_3"]
+		}
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"Components":[
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_confetti_anim_02 | 21fb952f-cb78-4ccb-8b1f-cdc0c643d06d","Offset":{},"ComponentScale":10},
+		{"Type":"particle_emitter","Layer":5,"ParticleEmitter":"fx/particles/bd_confetti_anim_03 | 21fb952f-3877-4c18-981e-cdc0c642d06d","Offset":{},"ComponentScale":10},
+		{"Type":"particle_emitter","BlendMode":1,"Layer":5,"ParticleEmitter":"fx/particles/bd_twinkle_2d_loop | 21fb952f-56a7-4b96-966b-c11262851242","Offset":{},"ComponentScale":10,"Loop":true}
+	]
+}
